@@ -1,0 +1,1273 @@
+\_sh v3.0  231  MDF 4.0
+\_DateStampHasFourDigitYear
+
+\lx a
+\ps pr
+\ge there
+\ge that.place
+\dt 19/Nov/2009
+
+\lx ada
+\ps nc
+\ge year
+\dt 15/Jan/2010
+
+\lx adakun
+\ps n
+\ge December
+\dt 15/Jan/2010
+
+\lx ada|zaj
+\ps n
+\ge January
+\dt 15/Jan/2010
+
+\lx ag
+\ps vi
+\ge go
+\ge leave
+\dt 08/Jan/2010
+
+\lx -ano
+\ps nsf
+\ge th
+\dt 05/Jan/2010
+
+\lx apa
+\ps n
+\ge star
+\dt 17/Nov/2009
+
+\lx apasiza
+\ps n
+\ge Saturday
+\dt 13/Jan/2010
+
+\lx a|siza
+\ps n
+\ge Tuesday
+\dt 13/Jan/2010
+
+\lx at
+\ps pr
+\ge then
+\ge that.time
+\dt 19/Nov/2009
+
+\lx at
+\ps n
+\ge fire
+\dt 25/Nov/2009
+
+\lx atmune
+\ps n
+\ge August
+\dt 15/Jan/2010
+
+\lx ba
+\ps pr
+\ge you.SG
+\dt 19/Nov/2009
+
+\lx badi
+\ps n
+\ge dog
+\dt 28/Dec/2009
+
+\lx bazlo
+\ps n
+\ge town
+\ge city
+\dt 02/Dec/2009
+
+\lx bel
+\ps n
+\ge art
+\ge craft
+\nt Used as a suffix to indicate arts and
+crafts.
+\dt 02/Sep/2011
+
+\lx bontu
+\ps n
+\ge slow
+\ge slowness
+\dt 22/Jan/2010
+
+\lx -d-
+\a -ud-
+\a -zd-
+\u s+ -d-
+\u z+ -d-
+\u |s+ -d-
+\u |z+ -d-
+\a -d-
+\u t+ -d-
+\a -ft-
+\u f+ -d-
+\a -kt-
+\u k+ -d-
+\a -pt-
+\u p+ -d-
+\ps case
+\ge ACC.SG
+\dt 15/Nov/2009
+
+\lx daj
+\ps nc
+\ge hour
+\dt 11/Jan/2010
+
+\lx dati
+\ps n
+\ge way
+\ge manner
+\ge thing
+\ge concept
+\nt It is used for abstract things, as
+opposed to fv:ipi.
+\dt 02/Sep/2011
+
+\lx di-
+\a di|na-
+\u di- +na
+\a di|ne-
+\u di- +ne
+\a di|ni-
+\u di- +ni
+\a di|no-
+\u di- +no
+\a di|nu-
+\u di- +nu
+\a di|la-
+\u di- +la
+\a di|le-
+\u di- +le
+\a di|li-
+\u di- +li
+\a di|lo-
+\u di- +lo
+\a di|lu-
+\u di- +lu
+\a dja-
+\u di- +a
+\a dje-
+\u di- +e
+\a djo-
+\u di- +o
+\a dju-
+\u di- +u
+\a di-
+\u di- +i
+\ps pref
+\ge TEMP
+\dt 17/Nov/2009
+
+\lx difoja
+\ps num
+\ge middle.rank
+\dt 04/Jan/2010
+
+\lx di|la
+\ps n
+\ge mother
+\dt 25/Nov/2009
+
+\lx dod
+\ps nc
+\ge evening
+\ge night
+\dt 07/Jan/2010
+
+\lx e
+\ps pr
+\ge here
+\ge this.place
+\dt 19/Nov/2009
+
+\lx -e-
+\a -eju-
+\u -e- +u
+\a -ej-
+\u -e- +i
+\ps art
+\ge DEF
+\dt 17/Nov/2009
+
+\lx eg
+\ps num
+\ge two
+\dt 30/Dec/2009
+
+\lx ej
+\ps vt
+\ge make
+\ge build
+\dt 23/Aug/2010
+
+\lx elej
+\ps vi
+\ge sleep
+\ps n
+\ge sleep
+\dt 25/Nov/2009
+
+\lx e|lon
+\ps n
+\ge woman
+\dt 18/Dec/2009
+
+\lx eme
+\ps n
+\ge sun
+\dt 13/Jan/2010
+
+\lx emelog
+\ps n
+\ge summer
+\dt 15/Jan/2010
+
+\lx emelogzaj
+\ps n
+\ge June
+\dt 15/Jan/2010
+
+\lx ememune
+\ps n
+\ge July
+\dt 15/Jan/2010
+
+\lx emesiza
+\ps n
+\ge Sunday
+\dt 13/Jan/2010
+
+\lx e|nek
+\ps num
+\ge nine
+\dt 30/Dec/2009
+
+\lx et
+\ps pr
+\ge now
+\ge this.time
+\dt 19/Nov/2009
+
+\lx ezet
+\ps vt
+\ge hear
+\ge listen
+\dt 26/Aug/2011
+
+\lx -f-
+\a -uf-
+\a -sf-
+\u s+ -f-
+\u z+ -f-
+\u |s+ -f-
+\u |z+ -f-
+\a -f-
+\u v+ -f-
+\a -pf-
+\u b+ -f-
+\a -tf-
+\u d+ -f-
+\a -kf-
+\u g+ -f-
+\ps case
+\ge GEN.PL
+\dt 17/Nov/2009
+
+\lx fokez
+\ps nc
+\ge person
+\dt 07/Jan/2010
+
+\lx fuli
+\ps n
+\ge gold
+\dt 25/Nov/2009
+
+\lx funa
+\ps nc
+\ge second
+\dt 11/Jan/2010
+
+\lx ga
+\ps pr
+\ge I
+\dt 15/Nov/2009
+
+\lx ge
+\ps vaux
+\ge have
+\dt 15/Nov/2009
+
+\lx geni
+\ps num
+\ge ten
+\dt 30/Dec/2009
+
+\lx ge|sem
+\ps n
+\ge father
+\dt 25/Nov/2009
+
+\lx go
+\ps n
+\ge job
+\ge employment
+\nt Used as a suffix to indicate specific
+jobs.
+\dt 02/Sep/2011
+
+\lx go-
+\ps pref
+\ge ORIG
+\dt 09/Dec/2009
+
+\lx gom
+\ps nc
+\ge day
+\nt Literally, means "the period of light
+between sunrise and sunset".
+\dt 07/Jan/2010
+
+\lx i-
+\a |l-
+\u i- +l
+\u i- +|l
+\a |n-
+\u i- +n
+\u i- +|n
+\a j-
+\u i- +j
+\a ja-
+\u i- +a
+\a je-
+\u i- +e
+\a jo-
+\u i- +o
+\a ju-
+\u i- +u
+\ps vinfl
+\ge INF
+\dt 17/Nov/2009
+
+\lx i-
+\ps tns
+\ge PRS
+\dt 15/Nov/2009
+
+\lx -i
+\a -|l
+\u l+ -i
+\u |l+ -i
+\a -|n
+\u n+ -i
+\u |n+ -i
+\a -j
+\u j+ -i
+\a -aj
+\u a+ -i
+\a -ej
+\u e+ -i
+\a -oj
+\u o+ -i
+\a uj
+\u u+ -i
+\ps vinfl
+\ge INF
+\dt 15/Nov/2009
+
+\lx -i
+\a -|l
+\u l+ -i
+\u |l+ -i
+\a -|n
+\u n+ -i
+\u |n+ -i
+\a -j
+\u j+ -i
+\a -aj
+\u a+ -i
+\a -ej
+\u e+ -i
+\a -oj
+\u o+ -i
+\a uj
+\u u+ -i
+\ps case
+\ge GEN
+\dt 17/Nov/2009
+
+\lx ibo
+\ps n
+\ge air
+\dt 26/Aug/2011
+
+\lx ibomune
+\ps n
+\ge April
+\dt 15/Jan/2010
+
+\lx ibosiza
+\ps n
+\ge Thursday
+\dt 13/Jan/2010
+
+\lx ima
+\ps num
+\ge three
+\dt 30/Dec/2009
+
+\lx ipi
+\ps n
+\ge tool
+\ge machine
+\ge thing
+\ge object
+\nt It is used for concrete things, as
+opposed to fv:dati.
+\dt 02/Sep/2011
+
+\lx japu
+\ps num
+\ge hundred
+\dt 30/Dec/2009
+
+\lx ja|zin
+\ps vt
+\ge give
+\ge take
+\ge receive
+\ge get
+\ge transfer
+\ng This verb only indicates that a transfer
+takes place. Context and the various
+participants present in the clause make
+it clear whether it can be translated as
+"give", " receive", "take" or simply
+"transfer".
+\ns This verb implies that the transfer
+happens towards the speaker, i.e. from
+the listener to the speaker, or from a
+third-party to the listener or the
+speaker. It is used for transfers
+between third-parties when the
+speaker feels that the transfer is
+somehow advantageous for them.
+\dt 18/Dec/2009
+
+\lx jem
+\ps n
+\ge river
+\ge brook
+\dt 16/Nov/2009
+
+\lx jos
+\ps nc
+\ge part
+\ge piece
+\dt 07/Jan/2010
+
+\lx ka|se
+\ps n
+\ge man
+\dt 26/Aug/2011
+
+\lx kel
+\ps n
+\ge moon
+\dt 13/Jan/2010
+
+\lx kele
+\ps n
+\ge winter
+\dt 15/Jan/2010
+
+\lx kelemune
+\ps n
+\ge February
+\dt 15/Jan/2010
+
+\lx kelsiza
+\ps n
+\ge Monday
+\dt 13/Jan/2010
+
+\lx kit
+\ps nc
+\ge large.animal
+\nt Basically refers to any animal larger
+than a human being. Typically, the
+speaker uses their own size as base.
+\dt 07/Jan/2010
+
+\lx ko-
+\a ko-
+\u ko- +o
+\a ku-
+\u ko- +u
+\a koj-
+\u ko- +i
+\ps pref
+\ge INS
+\dt 15/Nov/2009
+
+\lx ku|lu
+\ps n
+\ge language
+\nt Used as a suffix to indicate specific
+languages.
+\dt 02/Sep/2011
+
+\lx kun
+\ps n
+\ge end
+\ge ending
+\ps part
+\ge to.end
+\nt Used to indicate the sense of counting
+in ordinal numbers.
+\dt 15/Jan/2010
+
+\lx kuna
+\ps num
+\ge last
+\dt 04/Jan/2010
+
+\lx lam
+\ps pr
+\ge that
+\dt 19/Nov/2009
+
+\lx le-
+\ps npf
+\ge less
+\ge fewer
+\dt 18/Jan/2010
+
+\lx leksod
+\ps n
+\ge dark
+\ge darkness
+\dt 20/Jan/2010
+
+\lx len
+\ps pr
+\ge this
+\dt 19/Nov/2009
+
+\lx len-
+\ps npf
+\ge not.very
+\ge little
+\ge a.little
+\ge few
+\ge a.few
+\ge too.little
+\ge too.few
+\ge not.enough
+\dt 18/Jan/2010
+
+\lx lezu
+\ps vt
+\ge sing
+\ge chant
+\dt 02/Sep/2011
+
+\lx linan
+\ps n
+\ge bird
+\dt 26/Aug/2011
+
+\lx log
+\ps n
+\ge season
+\dt 15/Jan/2010
+
+\lx los
+\ps pr
+\ge that.over.there
+\dt 19/Nov/2009
+
+\lx lugen
+\ps nc
+\ge word
+\dt 07/Jan/2010
+
+\lx |la
+\ps n
+\ge peace
+\dt 25/Nov/2009
+
+\lx |la-
+\ps pref
+\ge BEN
+\dt 09/Dec/2009
+
+\lx |le-
+\ps corr
+\ge any
+\ge -ever
+\dt 09/Dec/2009
+
+\lx me-
+\ps corr
+\ge no
+\dt 19/Nov/2009
+
+\lx medaj
+\ps np
+\ge midnight
+\dt 11/Jan/2010
+
+\lx melag
+\ps n
+\ge interior
+\ge inside
+\dt 16/Nov/2009
+
+\lx mik
+\ps pr
+\ge who
+\dt 19/Nov/2009
+
+\lx mjan
+\ps n
+\ge cat
+\dt 28/Dec/2009
+
+\lx mo-
+\ps pref
+\ge SPAT
+\dt 09/Dec/2009
+
+\lx monu
+\ps vt
+\ge turn
+\dt 01/Feb/2010
+
+\lx mosu
+\ps n
+\ge paw
+\dt 25/Nov/2009
+
+\lx mun
+\ps pr
+\ge which
+\dt 19/Nov/2009
+
+\lx mune
+\ps nc
+\ge month
+\dt 13/Jan/2010
+
+\lx mut
+\ps pr
+\ge what
+\dt 19/Nov/2009
+
+\lx -n
+\a -un
+\a -|n
+\u j+ -n
+\u |n+ -n
+\ps case
+\ge ACC
+\dt 17/Nov/2009
+
+\lx naj
+\ps n
+\ge feather
+\dt 26/Aug/2011
+
+\lx ne-
+\ps npf
+\ge as
+\ge as.much
+\ge as.many
+\dt 18/Jan/2010
+
+\lx neg
+\ps vt
+\ge do
+\ge act
+\ge operate
+\ge accomplish
+\dt 29/Dec/2009
+
+\lx nege
+\ps num
+\ge seven
+\dt 30/Dec/2009
+
+\lx negesizdan
+\ps n
+\ge week
+\dt 13/Jan/2010
+
+\lx -no
+\ps nsf
+\ge SUPERL
+\dt 18/Jan/2010
+
+\lx -non
+\ps nsf
+\ge "artist"
+\dt 16/Nov/2009
+
+\lx nu-
+\ps corr
+\ge every
+\ge each
+\dt 19/Nov/2009
+
+\lx nudel
+\ps vt
+\ge respect
+\dt 26/Aug/2011
+
+\lx |nuba
+\ps n
+\ge character
+\ge letter
+\dt 25/Nov/2009
+
+\lx o
+\ps pr
+\ge yonder
+\ge that.place.over.there
+\dt 19/Nov/2009
+
+\lx odun
+\ps n
+\ge youth
+\ge newness
+\dt 30/Dec/2009
+
+\lx ola
+\ps vt
+\ge glorify
+\dt 17/Nov/2009
+
+\lx o|nig
+\ps n
+\ge autumn
+\dt 15/Jan/2010
+
+\lx o|nigzaj
+\ps n
+\ge September
+\dt 15/Jan/2010
+
+\lx ople
+\ps vt
+\ge give
+\ge take
+\ge receive
+\ge get
+\ge transfer
+\ng This verb only indicates that a transfer
+takes place. Context and the various
+participants present in the clause make
+it clear whether it can be translated as
+"give", " receive", "take" or simply
+"transfer".
+\ns This verb implies that the transfer
+happens away from the speaker, i.e.
+from the speaker to the listener, or
+from the speaker or the listener to a
+third-party. It is used for transfers
+between third-parties when the
+speaker feels that the transfer is
+somehow detrimental, or at least
+neutral, for them.
+\dt 18/Dec/2009
+
+\lx oskana|not
+\ps n
+\ge ceremony
+\dt 25/Nov/2009
+
+\lx ot
+\ps pr
+\ge at.that.time
+\ge that.time.then
+\dt 19/Nov/2009
+
+\lx pa|na
+\ps n
+\ge birth
+\dt 07/Jan/2010
+
+\lx pav
+\ps nc
+\ge digit
+\dt 07/Jan/2010
+
+\lx pe-
+\ps npf
+\ge more
+\dt 18/Jan/2010
+
+\lx pele
+\ps nc
+\ge minute
+\dt 11/Jan/2010
+
+\lx pe|la
+\ps vt
+\ge see
+\ge watch
+\ge look.at
+\dt 26/Aug/2011
+
+\lx pen-
+\ps npf
+\ge very
+\ge very.much
+\ge much
+\ge many
+\ge a.lot
+\ge a.lot.of
+\ge too
+\ge too.much
+\ge too.many
+\dt 18/Jan/2010
+
+\lx penla
+\ps vt
+\ge wait.for
+\ge await
+\ge expect
+\dt 30/Aug/2011
+
+\lx pleg
+\ps n
+\ge small
+\ge smallness
+\dt 19/Jan/2010
+
+\lx plis
+\ps vi
+\ge reign
+\dt 26/Aug/2011
+
+\lx plisif
+\ps n
+\ge lord
+\ge lady
+\dt 26/Aug/2011
+
+\lx Polis
+\ps np
+\ge police
+\dt 28/May/2010
+
+\lx polt
+\lc pol(t)
+\ps vt
+\ge open
+\dt 03/Feb/2010
+
+\lx poltuz
+\ps n
+\ge door
+\ng This is actually the participle of fv:ipolti
+"to close". It's included as a separate
+entry because of its meaning.
+\dt 03/Feb/2010
+
+\lx -s
+\ps vsf
+\ge REL
+\dt 16/Nov/2009
+
+\lx -s-
+\a -us-
+\a -|s-
+\u t+ -s-
+\u |s+ -s-
+\a -|z-
+\u d+ -s-
+\u |z+ -s-
+\a -z-
+\u z+ -s-
+\a -bz-
+\u b+ -s-
+\a -gz-
+\u g+ -s-
+\a -vz-
+\u v+ -s-
+\ps case
+\ge NOM.PL
+\dt 17/Nov/2009
+
+\lx se
+\ps vt
+\ge say
+\ge talk
+\dt 29/Dec/2009
+
+\lx se-
+\ps corr
+\ge I.don't.know
+\dt 19/Nov/2009
+
+\lx sejf
+\lc sej(f)
+\ps n
+\ge blur
+\ge blurred
+\dt 26/Aug/2011
+
+\lx sen
+\ps num
+\ge thousand
+\dt 30/Dec/2009
+
+\lx senod
+\ps n
+\ge earth
+\dt 13/Jan/2010
+
+\lx senodmune
+\ps n
+\ge October
+\dt 15/Jan/2010
+
+\lx seno|ziza
+\ps n
+\ge Friday
+\dt 13/Jan/2010
+
+\lx sezgo
+\ps n
+\ge speed
+\dt 18/Dec/2009
+
+\lx -sif
+\ps nsf
+\ge -er
+\dt 17/Nov/2009
+
+\lx sigoj
+\ps n
+\ge name
+\dt 25/Nov/2009
+
+\lx -sin
+\ps nsf
+\ge "little"
+\dt 17/Nov/2009
+
+\lx siza
+\ps nc
+\ge day
+\nt Basically refers to a calendar day,
+rather than a random period of 24
+hours.
+\dt 13/Jan/2010
+
+\lx sponda
+\ps nc
+\ge small.animal
+\nt Basically refers to any animal smaller
+than a human being. Typically, the
+speaker uses their own size as base.
+\dt 07/Jan/2010
+
+\lx stul
+\ps vt
+\ge summon
+\ge call
+\ge bring
+\dt 28/May/2010
+
+\lx su
+\ps num
+\ge one
+\dt 30/Dec/2009
+
+\lx subo
+\ps n
+\ge shop
+\ge store
+\ge restaurant
+\nt Used as a suffix to indicate specific
+types of shops or restaurants.
+\dt 02/Sep/2011
+
+\lx |sim
+\ps num
+\ge six
+\dt 30/Dec/2009
+
+\lx |suko
+\ps n
+\ge brother
+\dt 25/Nov/2009
+
+\lx ta-
+\ps corr
+\ge some
+\dt 19/Nov/2009
+
+\lx te-
+\ps pref
+\ge FIN
+\dt 09/Dec/2009
+
+\lx tel
+\ps n
+\ge other
+\ge each.other
+\ng In the sense of "each other", it is
+always used with the definite article.
+\dt 19/Nov/2009
+
+\lx telba
+\ps pr
+\ge you.PL
+\dt 19/Nov/2009
+
+\lx telga
+\ps pr
+\ge we
+\dt 19/Nov/2009
+
+\lx tina
+\ps n
+\ge room
+\nt Used as a suffix to indicate specific
+types of rooms.
+\dt 02/Sep/2011
+
+\lx to
+\ps vaux
+\ge be
+\dt 15/Nov/2009
+
+\lx tol
+\ps num
+\ge four
+\dt 30/Dec/2009
+
+\lx tul
+\ps nc
+\ge part
+\ge piece
+\ge fraction
+\ng It is used to form fractional numbers.
+\dt 07/Jan/2010
+
+\lx uba|s
+\ps vi
+\ge come
+\ge arrive
+\dt 08/Jan/2010
+
+\lx ufan
+\ps n
+\ge great
+\ge greatness
+\dt 16/Nov/2009
+
+\lx ukol
+\ps n
+\ge old.age
+\dt 30/Dec/2009
+
+\lx umpi
+\ps n
+\ge house
+\dt 26/Aug/2011
+
+\lx uzab
+\ps num
+\ge eight
+\dt 30/Dec/2009
+
+\lx -v-
+\a -uv-
+\a -zv-
+\u s+ -v-
+\u z+ -v-
+\u |s+ -v-
+\u |z+ -v-
+\a -v-
+\u f+ -v-
+\a -gv-
+\u k+ -v-
+\a -bv-
+\u p+ -v-
+\a -dv-
+\u t+ -v-
+\ps case
+\ge GEN.SG
+\dt 16/Nov/2009
+
+\lx veld
+\lc vel(d)
+\ps num
+\ge five
+\dt 26/Aug/2011
+
+\lx vike
+\ps pr
+\ge self
+\ng Reflexive pronoun used in all persons
+and referring to the subject of the
+current clause. It agrees with the
+subject in number.
+\dt 26/Aug/2011
+
+\lx vone
+\ps n
+\ge cold.water
+\dt 02/Dec/2009
+
+\lx vonemune
+\ps n
+\ge November
+\dt 15/Jan/2010
+
+\lx vonesiza
+\ps n
+\ge Wednesday
+\dt 13/Jan/2010
+
+\lx -vu|z
+\ps nsf
+\ge "employee"
+\dt 02/Sep/2011
+
+\lx -z
+\a -uz
+\a -|s
+\u t+ -z
+\u |s+ -z
+\a -|z
+\u d+ -z
+\u |z+ -z
+\a -s
+\u s+ -z
+\a -fs
+\u f+ -z
+\a -ks
+\u k+ -z
+\a -ps
+\u p+ -z
+\ps vinfl
+\ge PTCP
+\dt 17/Nov/2009
+
+\lx zanej
+\ps n
+\ge finger.ring
+\dt 25/Nov/2009
+
+\lx zelo
+\ps n
+\ge zero
+\oe This term is used only in formal
+mathematical or scientific contexts to
+refer to the mathematical zero.
+\dt 05/Jan/2010
+
+\lx zgebo
+\ps vt
+\ge work.on
+\ge suffer.from
+\dt 02/Sep/2011
+
+\lx zi|sun
+\ps nc
+\ge degree
+\ge point
+\dt 07/Jan/2010
+
+\lx zoba|saj
+\ps n
+\ge March
+\dt 15/Jan/2010
+
+\lx zobat
+\ps n
+\ge spring
+\dt 15/Jan/2010
+
+\lx zobatmune
+\ps n
+\ge May
+\dt 15/Jan/2010
+
+\lx zu|leb
+\ps vi
+\ge clear.up
+\ge become.clean
+\dt 19/Jan/2010
+
+\lx zunla
+\ps n
+\ge place
+\ge location
+\ge space
+\ps vi
+\ge be.at
+\ge stay
+\ge live.at
+\dt 26/Aug/2011
+
+\lx -|z-
+\a -u|z-
+\a -|z-
+\u s+ -|z-
+\u z+ -|z-
+\u |s+ -|z-
+\u d+ -|z-
+\a -|s-
+\u t+ -|z-
+\a -bz-
+\u b+ -|z-
+\a -fs-
+\u f+ -|z-
+\a -gz-
+\u g+ -|z-
+\a -ks-
+\u k+ -|z-
+\a -ps-
+\u p+ -|z-
+\a -vz-
+\u v+ -|z-
+\ps case
+\ge ACC.PL
+\dt 17/Nov/2009
+
+\lx |zaj
+\ps n
+\ge beginning
+\ge start
+\ps part
+\ge to.start
+\nt Used to indicate the sense of counting
+in ordinal numbers.
+\dt 15/Jan/2010
+
+\lx |zaja
+\ps num
+\ge first
+\dt 04/Jan/2010
+
+\lx |zika
+\ps n
+\ge mountain
+\ge mount
+\dt 25/Nov/2009
+
+\lx |zu-
+\ps pref
+\ge CAUS
+\dt 09/Dec/2009

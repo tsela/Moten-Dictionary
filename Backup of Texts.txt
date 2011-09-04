@@ -1,0 +1,70 @@
+\_sh v3.0  621  Text
+
+\id Grammatical Examples
+\ref Grammar.001
+\tx Ka|se     umpej       izunluda|n                         ito.
+\mb ka|se -e-   umpi  -e-   i-     zunla -d-      -i     -n    i-   to
+\ge man   -DEF- house -DEF- INF-   place -ACC.SG- -INF   -ACC  PRS- be
+\ps n     -art- n     -art- vinfl- n     -case-   -vinfl -case tns- vaux
+
+\ft The man is staying home.
+\ref Grammar.002
+\tx Ka|se umpedin                    ipelda|n                             ito.
+\mb ka|se umpi  -e-   -d-      -n    i-     pe|la   -d-      -i     -n    i-   to
+\ge man   house -DEF- -ACC.SG- -ACC  INF-   look.at -ACC.SG- -INF   -ACC  PRS- be
+\ps n     n     -art- -case-   -case vinfl- vt      -case-   -vinfl -case tns- vaux
+
+\ft The man is looking at the house.
+
+\id Simple Examples
+\ref Simple.001
+\tx Koga     linedan                    ipe|laj             ito.
+\mb ko-   ga linan -e-   -d-      -n    i-     pe|la -i     i-   to
+\ge INS-  I  bird  -DEF- -ACC.SG- -ACC  INF-   see   -INF   PRS- be
+\ps pref- pr n     -art- -case-   -case vinfl- vt    -vinfl tns- vaux
+
+\ft I see the bird.
+\ref Simple.002
+\tx Koga     ipe|laj             itos           linean.
+\mb ko-   ga i-     pe|la -i     i-   to   -s   linan -e-
+\ge INS-  I  INF-   see   -INF   PRS- be   -REL bird  -DEF-
+\ps pref- pr vinfl- vt    -vinfl tns- vaux -sf  n     -art-
+
+\ft The bird that I see.
+\ref Simple.003
+\tx Koga     linedan                    ipe|laj             itos           ga isej              ito.
+\mb ko-   ga linan -e-   -d-      -n    i-     pe|la -i     i-   to   -s   ga i-     se  -i     i-   to
+\ge INS-  I  bird  -DEF- -ACC.SG- -ACC  INF-   see   -INF   PRS- be   -REL I  INF-   say -INF   PRS- be
+\ps pref- pr n     -art- -case-   -case vinfl- vt    -vinfl tns- vaux -sf  pr vinfl- vt  -vinfl tns- vaux
+
+\ft I say that I see the bird.
+
+\id The Starling's Song
+\ref Starling.001
+\tx Linsin          kufan           lezu,
+\mb linan -sin      ko-   ufan      lezu
+\ge bird  -"little" INS-  greatness sing
+\ps n     -nsf      pref- n         vi
+
+\ft When the little bird sings greatly,
+\ref Starling.002
+\tx Jemnon          sejfibevoj                         melag  neda|n                       izu|lebi               ge,
+\mb jem   -non      sejf    - ibo -e-   -v-      -i    melag  naj     -e-   -d-      -n    i-     zu|leb   -i     ge
+\ge river -"artist" blurred - air -DEF- -GEN.SG- -GEN  inside feather -DEF- -ACC.SG- -ACC  INF-   clear.up -INF   have
+\ps n     -nsf      n       - n   -art- -case-   -case n      n       -art- -case-   -case vinfl- vi       -vinfl vaux
+
+\ft When the heron clears its feathers in the mist,
+\ref Starling.003
+\tx Lezulinan    Dodapa         dijolaj,
+\mb lezu - linan dod     - apa  di-   i-     ola     -i
+\ge sing - bird  evening - star TEMP- INF-   glorify -INF
+\ps vt   - n     n       - n    pref- vinfl- vt      -vinfl
+
+\ft When the songbird glorifies the Even Star,
+\ref Starling.004
+\tx Lezedun                   plisesif                  ezve|si                 ige.
+\mb lezu -e-   -d-      -n    plis  -sif -e-   -s-      ezet -z     -e-   -i    i-   ge
+\ge song -DEF- -ACC.SG- -ACC  reign -er  -DEF- -NOM.PL- hear -PTCP  -DEF- -GEN  PRS- have
+\ps n    -art- -case-   -case vi    -nsf -art- -case-   vt   -vinfl -art- -case tns- vaux
+
+\ft Maybe the gods can hear their song.

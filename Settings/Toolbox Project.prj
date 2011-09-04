@@ -1,0 +1,151 @@
+\+ShProjectSettings 
+\ver 5.0
+\ProgramVersion 1.5.5 Jan 2009
+\ProjectPath C:\Apps\Files\Conlanging\Moten\Moten Toolbox\Settings\Toolbox Project.prj
+\LockProject 0
+\AutomaticKeyboardSwitching
+\+CorpusSet 
+\WordLstCorpus Text
+\WordLstLimitCount
+\WordLstMaxCount 10
+\ConcordanceCorpus Text
+\ConcordanceSearch sæmpl̩
+\ConcordanceSearchType 3
+\ConcordanceLimitCount
+\ConcordanceMaxCount 1000
+\ConcordanceOutput Concordance.db
+\+Corpus Free translation
+\FilesList C:\Apps\Files\Conlanging\Moten\Moten Toolbox\Texts.txt
+\lng English
+\WordMarkers \ft
+\BookMarker \ref
+\WordIndex C:\Apps\Files\Conlanging\Moten\Moten Toolbox\Freetran.wi
+\WordListOutput wordlistft.db
+\-Corpus
+\+Corpus Text
+\FilesList C:\Apps\Files\Conlanging\Moten\Moten Toolbox\Texts.txt
+\lng Moten
+\WordMarkers \tx
+\BookMarker \ref
+\WordIndex C:\Apps\Files\Conlanging\Moten\Moten Toolbox\Text.wi
+\WordListOutput wordlist.db
+\-Corpus
+\-CorpusSet
+\LangCtrlHeight 24
+\DontValidateOnEdit
+\AutomaticInterlinearUpdate
+\+fntMarkers 
+\Name MS Sans Serif
+\Size 10
+\-fntMarkers
+\+rundosMarkers 
+\-rundosMarkers
+\placementMain max -1 -1 -1 -1 0 0 1036 780
+\+dblst 
+
+\+db C:\Apps\Files\Conlanging\Moten\Moten Toolbox\Dictionary.txt
+\+wndlst 
+\+wnd 
+\placement normal 480 437 0 0 507 0 1019 640
+\z 0
+\ViewMarkers
+\ViewMarkerHierarchy
+\ViewFieldNames
+\widthMarkerArea 213
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr lx
+\width 157
+\-brf
+\+brf 
+\mkr ps
+\width 40
+\-brf
+\+brf 
+\mkr ge
+\width 275
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey lx
+\srtPriKey Moten
+\mkrSecKey hm
+\-ind
+\+rec 
+\fldPriKey bontu
+\fldSecKey
+\-rec
+\+keySearch 
+\fldPri bontu
+\match_char p
+\-keySearch
+\+keyInsert 
+\fldPri zgebo
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
+\-wnd
+\+wnd 
+\placement normal 0 0 0 0 0 1 508 640
+\z 1
+\ViewMarkers
+\ViewFieldNames
+\widthMarkerArea 124
+\Browse
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr lx
+\width 141
+\-brf
+\+brf 
+\mkr ps
+\width 131
+\-brf
+\+brf 
+\mkr ge
+\width 179
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey lx
+\srtPriKey Moten
+\mkrSecKey ge
+\fil Content Words
+\-ind
+\+rec 
+\fldPriKey bontu
+\fldSecKey slow
+\-rec
+\+keySearch 
+\fldPri Ka|se
+\match_char p
+\-keySearch
+\+keyInsert 
+\fldPri sample
+\MatchWhole
+\match_char p
+\-keyInsert
+\-wnd
+\-wndlst
+\-db
+
+\-dblst
+\+Find 
+\match_char p
+\+ftxlst 
+\-ftxlst
+\-Find
+\AmbigBoxLeft 0
+\AmbigBoxTop 20
+\-ShProjectSettings

@@ -1,0 +1,113 @@
+﻿\+LanguageEncoding Moten
+\ver 5.0
+\desc Moten language
+\case A a
+B b
+D d
+E e
+F f
+G g
+I i
+J j
+K k
+L l
+|L |l
+M m
+N n
+|N |n
+O o
+P p
+S s
+|S |s
+T t
+U u
+V v
+Z z
+|Z |z
+\Punctuation . , ? : ; ! < > { } [ ] ( ) " ' `
+\+srtset 
+
+\+srt Moten
+\desc Alphabetical order
+\primary A a
+B b
+D d
+E e
+F f
+G g
+I i
+J j
+K k
+L l
+|L |l
+M m
+N n
+|N |n
+O o
+P p
+S s
+|S |s
+T t
+U u 
+V v
+Z z
+|Z |z
+\ignore -
+\SecAfterBase
+\-srt
+
+\srtDefault Moten
+\-srtset
+\+varset 
+
+\+var !
+\chars . , ? : ; ! < > { } [ ] ( ) " ' `
+\-var
+
+\+var @
+\chars A a B b D d E e F f G g I i J j K k L l |L |l M m
+N n |N |n O o P p S s |S |s T t U u V v Z z |Z |z
+\-var
+
+\+var D
+\chars 0 1 2 3 4 5 6 7 8 9
+\-var
+
+\+var L
+\chars a b d e f g i j k l |l m n |n o p s |s t u v z |z
+\-var
+
+\+var U
+\chars A B D E F G I J K L |L M N |N O P S |S T U V Z |Z
+\-var
+
+\+var cons
+\chars B b D d F f G g J j K k L l |L |l M m
+N n |N |n P p S s |S |s T t V v Z z |Z |z
+\-var
+
+\+var nasal
+\chars M m N n |N |n
+\-var
+
+\+var vowel
+\chars A a E e I i O o U u
+\-var
+
+\-varset
+\+fnt 
+\Name Arial Unicode MS
+\Size 14
+\charset 00
+\rgbColor 0,0,0
+\-fnt
+\kbdWin32 US
+\kbdKeyman IPA93 1.0 (FF)
+\+KeyDefs 
+
+
+
+\-KeyDefs
+\UnicodeLang
+
+\-LanguageEncoding
