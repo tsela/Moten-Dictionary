@@ -87,7 +87,7 @@
 \dbtyp MDF 4.0
 \+drflst 
 \+drf 
-\File C:\Apps\Files\Conlanging\Moten\Moten Toolbox\Dictionary.txt
+\File C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Dictionary.txt
 \-drf
 \-drflst
 \+mrflst 
@@ -101,7 +101,7 @@
 \dbtyp MDF 4.0
 \+drflst 
 \+drf 
-\File C:\Apps\Files\Conlanging\Moten\Moten Toolbox\Dictionary.txt
+\File C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Dictionary.txt
 \-drf
 \-drflst
 \+mrflst 
@@ -159,7 +159,7 @@
 \dbtyp MDF 4.0
 \+drflst 
 \+drf 
-\File C:\Apps\Files\Conlanging\Moten\Moten Toolbox\Dictionary.txt
+\File C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Dictionary.txt
 \-drf
 \-drflst
 \+mrflst 
@@ -181,7 +181,7 @@
 \dbtyp MDF 4.0
 \+drflst 
 \+drf 
-\File C:\Apps\Files\Conlanging\Moten\Moten Toolbox\Dictionary.txt
+\File C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Dictionary.txt
 \-drf
 \-drflst
 \+mrflst 
@@ -207,7 +207,7 @@
 \-mkrsubsetIncluded
 \+drflst 
 \+drf 
-\File C:\Apps\Files\Conlanging\Moten\Moten Toolbox\Dictionary.txt
+\File C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Dictionary.txt
 \mkr lx
 \-drf
 \-drflst

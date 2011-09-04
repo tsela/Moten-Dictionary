@@ -1,7 +1,7 @@
 \+ShProjectSettings 
 \ver 5.0
 \ProgramVersion 1.5.5 Jan 2009
-\ProjectPath C:\Apps\Files\Conlanging\Moten\Moten Toolbox\Settings\Toolbox Project.prj
+\ProjectPath C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Settings\Toolbox Project.prj
 \LockProject 0
 \AutomaticKeyboardSwitching
 \+CorpusSet 
@@ -15,19 +15,19 @@
 \ConcordanceMaxCount 1000
 \ConcordanceOutput Concordance.db
 \+Corpus Free translation
-\FilesList C:\Apps\Files\Conlanging\Moten\Moten Toolbox\Texts.txt
+\FilesList C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Texts.txt
 \lng English
 \WordMarkers \ft
 \BookMarker \ref
-\WordIndex C:\Apps\Files\Conlanging\Moten\Moten Toolbox\Freetran.wi
+\WordIndex C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Freetran.wi
 \WordListOutput wordlistft.db
 \-Corpus
 \+Corpus Text
-\FilesList C:\Apps\Files\Conlanging\Moten\Moten Toolbox\Texts.txt
+\FilesList C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Texts.txt
 \lng Moten
 \WordMarkers \tx
 \BookMarker \ref
-\WordIndex C:\Apps\Files\Conlanging\Moten\Moten Toolbox\Text.wi
+\WordIndex C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Text.wi
 \WordListOutput wordlist.db
 \-Corpus
 \-CorpusSet
@@ -43,7 +43,8 @@
 \placementMain max -1 -1 -1 -1 0 0 1036 780
 \+dblst 
 
-\+db C:\Apps\Files\Conlanging\Moten\Moten Toolbox\Dictionary.txt
+\+db C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Dictionary.txt
+\ReadOnly
 \+wndlst 
 \+wnd 
 \placement normal 480 437 0 0 507 0 1019 640
@@ -76,11 +77,11 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey bontu
+\fldPriKey zgebo
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri bontu
+\fldPri zgebo
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -124,8 +125,8 @@
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey bontu
-\fldSecKey slow
+\fldPriKey zgebo
+\fldSecKey work.on
 \-rec
 \+keySearch 
 \fldPri Ka|se
