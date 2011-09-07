@@ -1,6 +1,6 @@
 \+ShProjectSettings 
 \ver 5.0
-\ProgramVersion 1.5.5 Jan 2009
+\ProgramVersion 1.5.9 Apr 2011
 \ProjectPath C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Settings\Toolbox Project.prj
 \LockProject 0
 \AutomaticKeyboardSwitching
@@ -44,7 +44,6 @@
 \+dblst 
 
 \+db C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Dictionary.txt
-\ReadOnly
 \+wndlst 
 \+wnd 
 \placement normal 480 437 0 0 507 0 1019 640
@@ -77,15 +76,15 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey zgebo
+\fldPriKey vajag
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri zgebo
+\fldPri vajag
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri zgebo
+\fldPri vajag
 \MatchWhole
 \match_char p
 \-keyInsert
@@ -125,8 +124,8 @@
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey zgebo
-\fldSecKey work.on
+\fldPriKey vajag
+\fldSecKey learn
 \-rec
 \+keySearch 
 \fldPri Ka|se

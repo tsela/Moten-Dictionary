@@ -205,6 +205,14 @@ opposed to fv:ipi.
 \ge build
 \dt 23/Aug/2010
 
+\lx eksa
+\ps vt
+\ge touch
+\ge hit
+\ge meet.by.chance
+\ge encounter
+\dt 08/Sep/2011
+
 \lx elej
 \ps vi
 \ge sleep
@@ -302,6 +310,12 @@ opposed to fv:ipi.
 \ps vaux
 \ge have
 \dt 15/Nov/2009
+
+\lx gebez
+\ps vt
+\ge speak
+\ge talk
+\dt 07/Sep/2011
 
 \lx geni
 \ps num
@@ -868,9 +882,9 @@ neutral, for them.
 
 \lx polt
 \lc pol(t)
-\ps vt
+\ps vi
 \ge open
-\dt 03/Feb/2010
+\dt 06/Sep/2011
 
 \lx poltuz
 \ps n
@@ -908,8 +922,8 @@ entry because of its meaning.
 \lx se
 \ps vt
 \ge say
-\ge talk
-\dt 29/Dec/2009
+\ge tell
+\dt 07/Sep/2011
 
 \lx se-
 \ps corr
@@ -1176,6 +1190,12 @@ subject in number.
 mathematical or scientific contexts to
 refer to the mathematical zero.
 \dt 05/Jan/2010
+
+\lx zgebo
+\ps vt
+\ge work.on
+\ge suffer.from
+\dt 02/Sep/2011
 
 \lx zi|sun
 \ps nc
