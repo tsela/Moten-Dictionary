@@ -596,7 +596,7 @@
 \nam Part of speech
 \desc Classifies the part of speech. This must reflect the part of speech of the vernacular lexeme (not the national or English gloss). Consistent labeling is important; use the Range Set feature. Sense numbers are beneath \ps in this hierarchy; don't mark different \ps fields with sense numbers.
 \lng English
-\rngset art case corr n nsf pr pref tns vaux vi vinfl vsf vt 
+\rngset art case corr interj n nsf pr pref tns vaux vi vinfl vsf vt 
 \+fnt 
 \Name Times New Roman
 \Size 11

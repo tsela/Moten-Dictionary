@@ -113,6 +113,14 @@ crafts.
 \ge ACC.SG
 \dt 15/Nov/2009
 
+\lx daa
+\ps interj
+\ge come.on
+\ge hey
+\nt This is an interjection used to indicate
+encouragement or exasperation.
+\dt 15/Sep/2011
+
 \lx daj
 \ps nc
 \ge hour
@@ -312,10 +320,13 @@ opposed to fv:ipi.
 \dt 15/Nov/2009
 
 \lx gebez
-\ps vt
+\ps vi
 \ge speak
 \ge talk
-\dt 07/Sep/2011
+\nt This verb can never be used
+transitively, unlike its English
+equivalent.
+\dt 12/Sep/2011
 
 \lx geni
 \ps num

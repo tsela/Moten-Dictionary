@@ -312,10 +312,13 @@ opposed to fv:ipi.
 \dt 15/Nov/2009
 
 \lx gebez
-\ps vt
+\ps vi
 \ge speak
 \ge talk
-\dt 07/Sep/2011
+\nt This verb can never be used
+transitively, unlike its English
+equivalent.
+\dt 12/Sep/2011
 
 \lx geni
 \ps num
@@ -1122,6 +1125,12 @@ types of rooms.
 \ps case
 \ge GEN.SG
 \dt 16/Nov/2009
+
+\lx vajag
+\ps vt
+\ge learn
+\ge study
+\dt 08/Sep/2011
 
 \lx veld
 \lc vel(d)

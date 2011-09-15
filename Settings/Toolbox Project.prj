@@ -76,15 +76,15 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey vajag
+\fldPriKey zu|leb
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri vajag
+\fldPri zu|leb
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri vajag
+\fldPri daa
 \MatchWhole
 \match_char p
 \-keyInsert
@@ -124,8 +124,8 @@
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey vajag
-\fldSecKey learn
+\fldPriKey zu|leb
+\fldSecKey clear.up
 \-rec
 \+keySearch 
 \fldPri Ka|se
