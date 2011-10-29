@@ -28,6 +28,12 @@
 \ge leave
 \dt 08/Jan/2010
 
+\lx amo
+\ps n
+\ge different-sex.sibling
+\nt A male's sister or female's brother.
+\dt 29/Sep/2011
+
 \lx -ano
 \ps nsf
 \ge th
@@ -181,6 +187,16 @@ opposed to fv:ipi.
 \ge mother
 \dt 25/Nov/2009
 
+\lx di|lamo
+\ps n
+\ge maternal.uncle
+\dt 10/Oct/2011
+
+\lx di|luko
+\ps n
+\ge maternal.aunt
+\dt 10/Oct/2011
+
 \lx dod
 \ps nc
 \ge evening
@@ -333,10 +349,20 @@ equivalent.
 \ge ten
 \dt 30/Dec/2009
 
+\lx ge|samo
+\ps n
+\ge paternal.aunt
+\dt 10/Oct/2011
+
 \lx ge|sem
 \ps n
 \ge father
 \dt 25/Nov/2009
+
+\lx ge|suko
+\ps n
+\ge paternal.uncle
+\dt 10/Oct/2011
 
 \lx go
 \ps n
@@ -1032,8 +1058,9 @@ types of shops or restaurants.
 
 \lx |suko
 \ps n
-\ge brother
-\dt 25/Nov/2009
+\ge same-sex.sibling
+\nt A male's brother or female's sister.
+\dt 29/Sep/2011
 
 \lx ta-
 \ps corr
