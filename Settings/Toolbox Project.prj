@@ -76,21 +76,21 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey ge|samo
+\fldPriKey zda
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri ge|samo
+\fldPri zda
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri di|lamo
+\fldPri zda
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 3
-\CaretLineScroll 3
-\CaretChar 8
+\CaretLine 8
+\CaretLineScroll 8
+\CaretChar 9
 \-wnd
 \+wnd 
 \placement normal 0 0 0 0 0 1 508 640
@@ -120,12 +120,12 @@
 \+ind 
 \mkrPriKey lx
 \srtPriKey Moten
-\mkrSecKey ge
+\mkrSecKey ps
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey ge|samo
-\fldSecKey paternal.aunt
+\fldPriKey zda
+\fldSecKey n
 \-rec
 \+keySearch 
 \fldPri Ka|se

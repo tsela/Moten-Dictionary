@@ -638,6 +638,16 @@ in ordinal numbers.
 \ge season
 \dt 15/Jan/2010
 
+\lx lomin
+\ps n
+\ge maternal.grandparent
+\nt Moten does not distinguish between
+granfathers and grandmothers, but it
+does distinguish whether the
+grandparent is on the father's or the
+mother's side.
+\dt 07/Nov/2011
+
 \lx los
 \ps pr
 \ge that.over.there
@@ -1226,6 +1236,16 @@ subject in number.
 \ps n
 \ge finger.ring
 \dt 25/Nov/2009
+
+\lx zda
+\ps n
+\ge paternal.grandparent
+\nt Moten does not distinguish between
+granfathers and grandmothers, but it
+does distinguish whether the
+grandparent is on the father's or the
+mother's side.
+\dt 07/Nov/2011
 
 \lx zelo
 \ps n

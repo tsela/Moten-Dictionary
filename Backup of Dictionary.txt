@@ -187,6 +187,11 @@ opposed to fv:ipi.
 \ge mother
 \dt 25/Nov/2009
 
+\lx di|lamo
+\ps n
+\ge maternal.uncle
+\dt 10/Oct/2011
+
 \lx di|luko
 \ps n
 \ge maternal.aunt
@@ -632,6 +637,16 @@ in ordinal numbers.
 \ps n
 \ge season
 \dt 15/Jan/2010
+
+\lx lomin
+\ps n
+\ge maternal.grandparent
+\nt Moten does not distinguish between
+granfathers and grandmothers, but it
+does distinguish whether the
+grandparent is on the father's or the
+mother's side.
+\dt 07/Nov/2011
 
 \lx los
 \ps pr
