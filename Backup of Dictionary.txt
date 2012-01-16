@@ -31,8 +31,10 @@
 \lx amo
 \ps n
 \ge different-sex.sibling
+\ge different-sex.first.cousin
 \nt A male's sister or female's brother.
-\dt 29/Sep/2011
+Also a first cousin of opposite sex.
+\dt 09/Jan/2012
 
 \lx -ano
 \ps nsf
@@ -98,7 +100,8 @@ crafts.
 \ps n
 \ge slow
 \ge slowness
-\dt 22/Jan/2010
+\ge low.speed
+\dt 10/Jan/2012
 
 \lx -d-
 \a -ud-
@@ -309,6 +312,22 @@ opposed to fv:ipi.
 \ps case
 \ge GEN.PL
 \dt 17/Nov/2009
+
+\lx fi|zon
+\ps vt
+\ge ask
+\ge ask.for
+\ge beg
+\ge beg.for
+\nt This verb can be used both to ask
+questions and to ask for a favour. It
+implies humility and is thus not forceful
+enough to be translated as "to request".
+\ng The question or favour asked for is
+always the object of this verb. The
+person who is being asked is indicated
+with the originative.
+\dt 06/Jan/2012
 
 \lx fokez
 \ps nc
@@ -715,6 +734,15 @@ mother's side.
 \ge paw
 \dt 25/Nov/2009
 
+\lx mu
+\ps part
+\ge not
+\ge non
+\ge other.than
+\ps interj
+\ge no
+\dt 12/Jan/2012
+
 \lx mun
 \ps pr
 \ge which
@@ -850,7 +878,8 @@ neutral, for them.
 \lx oskana|not
 \ps n
 \ge ceremony
-\dt 25/Nov/2009
+\ge celebration
+\dt 16/Dec/2011
 
 \lx ot
 \ps pr
@@ -1006,8 +1035,10 @@ entry because of its meaning.
 
 \lx sezgo
 \ps n
-\ge speed
-\dt 18/Dec/2009
+\ge fast
+\ge quickness
+\ge high.speed
+\dt 10/Jan/2012
 
 \lx -sif
 \ps nsf
@@ -1069,8 +1100,10 @@ types of shops or restaurants.
 \lx |suko
 \ps n
 \ge same-sex.sibling
+\ge same-sex.first.cousin
 \nt A male's brother or female's sister.
-\dt 29/Sep/2011
+Also a first cousin of the same sex.
+\dt 09/Jan/2012
 
 \lx ta-
 \ps corr
@@ -1106,6 +1139,12 @@ always used with the definite article.
 \nt Used as a suffix to indicate specific
 types of rooms.
 \dt 02/Sep/2011
+
+\lx tlebe
+\ps n
+\ge mediocre
+\ge mediocrity
+\dt 11/Jan/2012
 
 \lx to
 \ps vaux
@@ -1146,6 +1185,12 @@ types of rooms.
 \ps n
 \ge house
 \dt 26/Aug/2011
+
+\lx us
+\ps part
+\ge not
+\ge it.is.false.that
+\dt 11/Jan/2012
 
 \lx uzab
 \ps num
@@ -1236,6 +1281,16 @@ subject in number.
 \ps n
 \ge finger.ring
 \dt 25/Nov/2009
+
+\lx zda
+\ps n
+\ge paternal.grandparent
+\nt Moten does not distinguish between
+granfathers and grandmothers, but it
+does distinguish whether the
+grandparent is on the father's or the
+mother's side.
+\dt 07/Nov/2011
 
 \lx zelo
 \ps n

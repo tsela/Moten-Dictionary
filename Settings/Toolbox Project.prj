@@ -74,23 +74,24 @@
 \mkrPriKey lx
 \srtPriKey Moten
 \mkrSecKey hm
+\fil Content Words
 \-ind
 \+rec 
-\fldPriKey zda
+\fldPriKey saj
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri zda
+\fldPri saj
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri zda
+\fldPri saj
 \MatchWhole
 \match_char p
 \-keyInsert
 \CaretLine 8
 \CaretLineScroll 8
-\CaretChar 9
+\CaretChar 10
 \-wnd
 \+wnd 
 \placement normal 0 0 0 0 0 1 508 640
@@ -120,12 +121,12 @@
 \+ind 
 \mkrPriKey lx
 \srtPriKey Moten
-\mkrSecKey ps
+\mkrSecKey ge
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey zda
-\fldSecKey n
+\fldPriKey saj
+\fldSecKey definitely
 \-rec
 \+keySearch 
 \fldPri Ka|se
