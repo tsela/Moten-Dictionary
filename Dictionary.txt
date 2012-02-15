@@ -28,6 +28,15 @@
 \ge leave
 \dt 08/Jan/2010
 
+\lx aja
+\ph aˈja
+\ps interj
+\ge eh
+\nt This is an interjection used when
+someone is startled by something, to
+indicate surprise.
+\dt 15/Feb/2012
+
 \lx amo
 \ps n
 \ge different-sex.sibling
@@ -123,12 +132,13 @@ crafts.
 \dt 15/Nov/2009
 
 \lx daa
+\ph daː
 \ps interj
 \ge come.on
 \ge hey
 \nt This is an interjection used to indicate
 encouragement or exasperation.
-\dt 15/Sep/2011
+\dt 15/Feb/2012
 
 \lx daj
 \ps nc
@@ -231,6 +241,25 @@ opposed to fv:ipi.
 \ge make
 \ge build
 \dt 23/Aug/2010
+
+\lx ejo
+\ph eˈjo
+\ps interj
+\ge eh
+\ge what
+\ge sorry
+\nt This interjection is used to show
+wonder or disbelief.
+\dt 15/Feb/2012
+
+\lx ekkee
+\ph ekˈkeː
+\ps interj
+\ge ouch
+\ge ow
+\nt This interjection indicates physical or
+metaphorical pain.
+\dt 15/Feb/2012
 
 \lx eksa
 \ps vt
@@ -486,6 +515,15 @@ between sunrise and sunset".
 \ge Thursday
 \dt 13/Jan/2010
 
+\lx ikkee
+\ph ikˈkeː
+\ps interj
+\ge ouch
+\ge ow
+\nt This interjection indicates physical or
+metaphorical pain.
+\dt 15/Feb/2012
+
 \lx ima
 \ps num
 \ge three
@@ -565,6 +603,13 @@ somehow advantageous for them.
 \ps n
 \ge Monday
 \dt 13/Jan/2010
+
+\lx kinkan
+\ps interj
+\ge tick.tock
+\nt This is an onomatopoeia representing
+the sound of a clock ticking.
+\dt 15/Feb/2012
 
 \lx kit
 \ps nc
@@ -703,6 +748,17 @@ mother's side.
 \ge midnight
 \dt 11/Jan/2010
 
+\lx mejee
+\ph meˈjeː
+\ps interj
+\ge ahem
+\ge hey
+\ge yoo-hoo
+\ge psst
+\nt This is an interjection used to catch
+someone's attention.
+\dt 15/Feb/2012
+
 \lx melag
 \ps n
 \ge interior
@@ -741,7 +797,8 @@ mother's side.
 \ge other.than
 \ps interj
 \ge no
-\dt 12/Jan/2012
+\ge no.way
+\dt 31/Jan/2012
 
 \lx mun
 \ps pr
@@ -796,6 +853,13 @@ mother's side.
 \ps n
 \ge week
 \dt 13/Jan/2010
+
+\lx ni|si
+\ps interj
+\ge blah
+\nt This onomatopoeia represents the
+sound of continuous speech.
+\dt 15/Feb/2012
 
 \lx -no
 \ps nsf
@@ -907,6 +971,14 @@ neutral, for them.
 \ge minute
 \dt 11/Jan/2010
 
+\lx pelg
+\ph pelx
+\ps interj
+\ge ugh
+\nt This interjection shows disgust or
+contempt.
+\dt 15/Feb/2012
+
 \lx pe|la
 \ps vt
 \ge see
@@ -1003,7 +1075,8 @@ entry because of its meaning.
 \ge the.very
 \ps interj
 \ge yes
-\dt 12/Jan/2012
+\ge OK
+\dt 31/Jan/2012
 
 \lx se
 \ps vt
@@ -1080,6 +1153,24 @@ hours.
 than a human being. Typically, the
 speaker uses their own size as base.
 \dt 07/Jan/2010
+
+\lx ssii
+\ph sːiː
+\ps interj
+\ge er
+\ge um
+\nt This interjection indicates hesitation,
+and is used as a speech filler.
+\dt 15/Feb/2012
+
+\lx ssp
+\ph sːp
+\ps interj
+\ge hush
+\ge shh
+\nt This interjection is used to ask for
+silence.
+\dt 15/Feb/2012
 
 \lx stul
 \ps vt
@@ -1185,6 +1276,13 @@ types of rooms.
 \ge great
 \ge greatness
 \dt 16/Nov/2009
+
+\lx ufu
+\ps interj
+\ge woof
+\nt This is an onomatopoeia representing
+the sound of a dog barking.
+\dt 15/Feb/2012
 
 \lx ukol
 \ps n
@@ -1353,6 +1451,15 @@ refer to the mathematical zero.
 \ge stay
 \ge live.at
 \dt 26/Aug/2011
+
+\lx zutuun
+\ph zuˈtuːn
+\ps interj
+\ge silence
+\nt This interjection is supposed to be an
+onomatopoeic representation of total
+silence.
+\dt 15/Feb/2012
 
 \lx -|z-
 \a -u|z-

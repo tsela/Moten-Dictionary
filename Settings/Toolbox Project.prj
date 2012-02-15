@@ -47,7 +47,7 @@
 \+wndlst 
 \+wnd 
 \placement normal 480 437 0 0 507 0 1019 640
-\z 1
+\z 0
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -74,28 +74,30 @@
 \mkrPriKey lx
 \srtPriKey Moten
 \mkrSecKey hm
-\fil Content Words
 \-ind
 \+rec 
-\fldPriKey saj
+\fldPriKey ssp
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri saj
+\fldPri ssp
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri saj
+\fldPri zutuun
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 8
-\CaretLineScroll 8
-\CaretChar 10
+\CaretLine 3
+\CaretLineScroll 3
+\CaretChar 4
+\+cck 
+\mkrSingleField 1d
+\-cck
 \-wnd
 \+wnd 
 \placement normal 0 0 0 0 0 1 508 640
-\z 0
+\z 1
 \ViewMarkers
 \ViewFieldNames
 \widthMarkerArea 124
@@ -121,12 +123,12 @@
 \+ind 
 \mkrPriKey lx
 \srtPriKey Moten
-\mkrSecKey ge
+\mkrSecKey ps
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey saj
-\fldSecKey definitely
+\fldPriKey ssp
+\fldSecKey interj
 \-rec
 \+keySearch 
 \fldPri Ka|se
