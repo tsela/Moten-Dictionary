@@ -539,6 +539,11 @@ metaphorical pain.
 opposed to fv:dati.
 \dt 02/Sep/2011
 
+\lx iz
+\ps part
+\ge for
+\dt 16/Feb/2012
+
 \lx japu
 \ps num
 \ge hundred
@@ -583,6 +588,11 @@ somehow advantageous for them.
 \ps n
 \ge man
 \dt 26/Aug/2011
+
+\lx kej
+\ps part
+\ge or
+\dt 16/Feb/2012
 
 \lx kel
 \ps n
@@ -765,6 +775,13 @@ someone's attention.
 \ge inside
 \dt 16/Nov/2009
 
+\lx me|lo
+\ps part
+\ge but
+\ge yet
+\ge but.also
+\dt 16/Feb/2012
+
 \lx mik
 \ps pr
 \ge who
@@ -914,6 +931,13 @@ sound of continuous speech.
 \ps n
 \ge September
 \dt 15/Jan/2010
+
+\lx opa
+\ps part
+\ge and
+\ge also
+\ge and.also
+\dt 16/Feb/2012
 
 \lx ople
 \ps vt
@@ -1293,6 +1317,12 @@ the sound of a dog barking.
 \ps n
 \ge house
 \dt 26/Aug/2011
+
+\lx u|nav
+\ps part
+\ge so
+\ge and.thus
+\dt 16/Feb/2012
 
 \lx us
 \ps part
