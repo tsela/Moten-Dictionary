@@ -37,6 +37,20 @@ someone is startled by something, to
 indicate surprise.
 \dt 15/Feb/2012
 
+\lx a|lek
+\ps vt
+\ge find
+\dt 14/Mar/2012
+
+\lx amla
+\ps n
+\ge newness
+\nt Used to indicate that an item has been
+newly acquired. It does not necessarily
+indicate that the item itself is newly
+built.
+\dt 13/Mar/2012
+
 \lx amo
 \ps n
 \ge different-sex.sibling
@@ -111,6 +125,11 @@ crafts.
 \ge slowness
 \ge low.speed
 \dt 10/Jan/2012
+
+\lx buta
+\ps vi
+\ge sit
+\dt 14/Mar/2012
 
 \lx -d-
 \a -ud-
@@ -215,6 +234,11 @@ opposed to fv:ipi.
 \ge evening
 \ge night
 \dt 07/Jan/2010
+
+\lx Doj|slan
+\ps np
+\ge Germany
+\dt 24/Feb/2012
 
 \lx e
 \ps pr
@@ -342,6 +366,20 @@ metaphorical pain.
 \ge GEN.PL
 \dt 17/Nov/2009
 
+\lx Filansi
+\ps np
+\ge France
+\dt 20/Feb/2012
+
+\lx fin
+\ps n
+\ge summit
+\ge top
+\ge high
+\ge tall
+\ge great.height
+\dt 14/Mar/2012
+
 \lx fi|zon
 \ps vt
 \ge ask
@@ -377,6 +415,13 @@ with the originative.
 \ps pr
 \ge I
 \dt 15/Nov/2009
+
+\lx gana
+\ps vi
+\ge clear.up
+\ge get.solved
+\ge become.intelligible
+\dt 13/Mar/2012
 
 \lx ge
 \ps vaux
@@ -592,7 +637,8 @@ somehow advantageous for them.
 \lx kej
 \ps part
 \ge or
-\dt 16/Feb/2012
+\ge either
+\dt 17/Feb/2012
 
 \lx kel
 \ps n
@@ -628,6 +674,18 @@ the sound of a clock ticking.
 than a human being. Typically, the
 speaker uses their own size as base.
 \dt 07/Jan/2010
+
+\lx knama
+\ps n
+\ge grass
+\ge hay
+\ge straw
+\ge weed
+\nt Unlike the English word, this is a count
+noun referring to a single blade of
+grass, weed, hay or a single straw. To
+refer to a lawn, use the plural
+\dt 14/Mar/2012
 
 \lx ko-
 \a ko-
@@ -748,6 +806,14 @@ mother's side.
 \ge -ever
 \dt 09/Dec/2009
 
+\lx mabo
+\ps n
+\ge ancientness
+\nt Used to indicate that an item has been
+in someone's possession for a long
+time.
+\dt 13/Mar/2012
+
 \lx me-
 \ps corr
 \ge no
@@ -779,8 +845,9 @@ someone's attention.
 \ps part
 \ge but
 \ge yet
+\ge not.only
 \ge but.also
-\dt 16/Feb/2012
+\dt 17/Feb/2012
 
 \lx mik
 \ps pr
@@ -812,10 +879,12 @@ someone's attention.
 \ge not
 \ge non
 \ge other.than
+\ge neither
+\ge nor
 \ps interj
 \ge no
 \ge no.way
-\dt 31/Jan/2012
+\dt 17/Feb/2012
 
 \lx mun
 \ps pr
@@ -831,6 +900,11 @@ someone's attention.
 \ps pr
 \ge what
 \dt 19/Nov/2009
+
+\lx muton
+\ps n
+\ge sheep
+\dt 13/Mar/2012
 
 \lx -n
 \a -un
@@ -915,7 +989,10 @@ sound of continuous speech.
 \ps n
 \ge youth
 \ge newness
-\dt 30/Dec/2009
+\nt Used of people to indicate that they
+are young, and of objects to indicate
+that they are newly built.
+\dt 13/Mar/2012
 
 \lx ola
 \ps vt
@@ -937,7 +1014,9 @@ sound of continuous speech.
 \ge and
 \ge also
 \ge and.also
-\dt 16/Feb/2012
+\ge both
+\ge as.well
+\dt 20/Feb/2012
 
 \lx ople
 \ps vt
@@ -974,6 +1053,17 @@ neutral, for them.
 \ge at.that.time
 \ge that.time.then
 \dt 19/Nov/2009
+
+\lx o|zeme
+\ps vt
+\ge ingest
+\ge eat
+\ge drink
+\nt Moten has a single word for both the
+actions of eating and drinking. It
+basically means "ingesting for purpose
+of sustenance".
+\dt 14/Mar/2012
 
 \lx pa|na
 \ps n
@@ -1029,6 +1119,15 @@ contempt.
 \ge await
 \ge expect
 \dt 30/Aug/2011
+
+\lx piv
+\ps n
+\ge base
+\ge bottom
+\ge low
+\ge short
+\ge small.height
+\dt 14/Mar/2012
 
 \lx pleg
 \ps n
@@ -1129,6 +1228,12 @@ entry because of its meaning.
 \ps n
 \ge earth
 \dt 13/Jan/2010
+
+\lx senodjem
+\ps n
+\ge way
+\ge road
+\dt 13/Mar/2012
 
 \lx senodmune
 \ps n
@@ -1289,6 +1394,12 @@ types of rooms.
 \ng It is used to form fractional numbers.
 \dt 07/Jan/2010
 
+\lx tuna
+\ps n
+\ge big
+\ge big.size
+\dt 14/Mar/2012
+
 \lx uba|s
 \ps vi
 \ge come
@@ -1311,7 +1422,10 @@ the sound of a dog barking.
 \lx ukol
 \ps n
 \ge old.age
-\dt 30/Dec/2009
+\nt Used with people to indicate that they
+are old, and with objects to indicate
+that they were built a long time ago.
+\dt 13/Mar/2012
 
 \lx umpi
 \ps n
@@ -1321,7 +1435,7 @@ the sound of a dog barking.
 \lx u|nav
 \ps part
 \ge so
-\ge thus
+\ge and.thus
 \dt 16/Feb/2012
 
 \lx us
