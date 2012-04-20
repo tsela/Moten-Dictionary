@@ -7,6 +7,14 @@
 \ge that.place
 \dt 19/Nov/2009
 
+\lx abal
+\ps n
+\ge ugliness
+\ge ugly
+\ge inappropriate
+\ge bad
+\dt 20/Apr/2012
+
 \lx ada
 \ps nc
 \ge year
@@ -26,7 +34,12 @@
 \ps vi
 \ge go
 \ge leave
-\dt 08/Jan/2010
+\ge be.worth
+\ng When fv:jagi is used to mean "to be
+worth", the value of the subject can be
+indicated with a complement in the
+instrumental or the originative.
+\dt 19/Apr/2012
 
 \lx aja
 \ph aˈja
@@ -40,7 +53,16 @@ indicate surprise.
 \lx a|lek
 \ps vt
 \ge find
-\dt 14/Mar/2012
+\ge find.out
+\ge discover
+\ge uncover
+\nt This verb is used only for abstract
+finds, i.e. to indicate the discovery of a
+solution to a problem, the answer to a
+question, or the revelation of a
+mystery. For locating a lost object or
+person, use fv:zunla|lek.
+\dt 27/Mar/2012
 
 \lx amla
 \ps n
@@ -159,6 +181,13 @@ crafts.
 encouragement or exasperation.
 \dt 15/Feb/2012
 
+\lx dabolna
+\ps n
+\ge moment
+\ge instant
+\ge time
+\dt 19/Mar/2012
+
 \lx daj
 \ps nc
 \ge hour
@@ -173,6 +202,22 @@ encouragement or exasperation.
 \nt It is used for abstract things, as
 opposed to fv:ipi.
 \dt 02/Sep/2011
+
+\lx davi|z
+\ps vt
+\ge thank
+\ge thank.for
+\ge be.happy.with
+\ge be.content.with
+\nt This verb is used to indicate happiness
+from the subject, but also to give
+thanks.
+\ng The object of this verb is always the
+thing or person the subject is happy
+with or thanking someone for. When
+indicated, the recipient of the thanks is
+in the benefactive.
+\dt 02/Apr/2012
 
 \lx di-
 \a di|na-
@@ -290,8 +335,9 @@ metaphorical pain.
 \ge touch
 \ge hit
 \ge meet.by.chance
+\ge run.into
 \ge encounter
-\dt 08/Sep/2011
+\dt 27/Mar/2012
 
 \lx elej
 \ps vi
@@ -457,6 +503,24 @@ equivalent.
 \ge paternal.uncle
 \dt 10/Oct/2011
 
+\lx gmadev
+\ps vt
+\ge get.sick.because.of
+\ge tire.from
+\ge become.exhausted.from
+\ge wear.off.from
+\ge wear.down.from
+\ge kill.oneself.with
+\ng Unlike its English equivalents, this
+verb's subject undergoes the change of
+state, and its object is the cause of it.
+\ns It is usually only used with a subject in
+the instrumental. With a subject in the
+nominative case, its meaning becomes
+very strong and often refers to suicide,
+whether literally or figuratively.
+\dt 04/Apr/2012
+
 \lx go
 \ps n
 \ge job
@@ -584,6 +648,14 @@ metaphorical pain.
 opposed to fv:dati.
 \dt 02/Sep/2011
 
+\lx isis
+\ps n
+\ge true
+\ge truth
+\ge real
+\ge reality
+\dt 03/Apr/2012
+
 \lx iz
 \ps part
 \ge for
@@ -600,22 +672,25 @@ opposed to fv:dati.
 \ge take
 \ge receive
 \ge get
+\ge put
 \ge transfer
 \ng This verb only indicates that a transfer
 takes place. Context and the various
 participants present in the clause make
 it clear whether it can be translated as
-"give", " receive", "take" or simply
-"transfer".
+"give", " receive", "take", "put" or
+simply "transfer".
 \ns This verb implies that the transfer
 happens towards the speaker, i.e. from
 the listener to the speaker, or from a
 third-party to the listener or the
 speaker. It is used for transfers
-between third-parties when the
-speaker feels that the transfer is
-somehow advantageous for them.
-\dt 18/Dec/2009
+between third-parties, or for transfers
+involving inanimate sources and/or
+destinations, when the speaker feels
+that the transfer is somehow
+advantageous for them.
+\dt 30/Mar/2012
 
 \lx jem
 \ps n
@@ -638,7 +713,8 @@ somehow advantageous for them.
 \ps part
 \ge or
 \ge either
-\dt 17/Feb/2012
+\ge rather
+\dt 16/Mar/2012
 
 \lx kel
 \ps n
@@ -762,6 +838,14 @@ in ordinal numbers.
 \ge chant
 \dt 02/Sep/2011
 
+\lx lin
+\ps vt
+\ge be.aware.of
+\ge know.by.instinct
+\nt This verb is used only when the source
+of knowledge is unknown or innate.
+\dt 20/Mar/2012
+
 \lx linan
 \ps n
 \ge bird
@@ -792,10 +876,19 @@ mother's side.
 \ge word
 \dt 07/Jan/2010
 
+\lx luma
+\ps n
+\ge false
+\ge falsehood
+\ge fictional
+\ge fiction
+\dt 03/Apr/2012
+
 \lx |la
 \ps n
 \ge peace
-\dt 25/Nov/2009
+\ge good.health
+\dt 03/Apr/2012
 
 \lx |la-
 \ps pref
@@ -849,7 +942,9 @@ someone's attention.
 \ge yet
 \ge not.only
 \ge but.also
-\dt 17/Feb/2012
+\ge however
+\ge though
+\dt 16/Mar/2012
 
 \lx mik
 \ps pr
@@ -1001,6 +1096,16 @@ that they are newly built.
 \ge glorify
 \dt 17/Nov/2009
 
+\lx olnes
+\ps vt
+\ge be.an.expert.in
+\ge be.intimately.familiar.with
+\ge know.by.heart
+\nt This verb is used to indicate deep
+knowledge coming from various
+sources.
+\dt 23/Mar/2012
+
 \lx o|nig
 \ps n
 \ge autumn
@@ -1026,23 +1131,26 @@ that they are newly built.
 \ge take
 \ge receive
 \ge get
+\ge put
 \ge transfer
 \ng This verb only indicates that a transfer
 takes place. Context and the various
 participants present in the clause make
 it clear whether it can be translated as
-"give", " receive", "take" or simply
-"transfer".
+"give", " receive", "take", "put" or
+simply "transfer".
 \ns This verb implies that the transfer
 happens away from the speaker, i.e.
 from the speaker to the listener, or
 from the speaker or the listener to a
 third-party. It is used for transfers
-between third-parties when the
-speaker feels that the transfer is
-somehow detrimental, or at least
-neutral, for them.
-\dt 18/Dec/2009
+between third-parties, or for transfers
+involving inanimate sources and/or
+destinations, when the speaker feels
+that the transfer is somehow
+detrimental, or at least neutral, for
+them.
+\dt 30/Mar/2012
 
 \lx oskana|not
 \ps n
@@ -1055,6 +1163,11 @@ neutral, for them.
 \ge at.that.time
 \ge that.time.then
 \dt 19/Nov/2009
+
+\lx oto
+\ps n
+\ge car
+\dt 20/Mar/2012
 
 \lx o|zeme
 \ps vt
@@ -1163,9 +1276,9 @@ contempt.
 \ps n
 \ge door
 \ng This is actually the participle of fv:ipolti
-"to close". It's included as a separate
+"to open". It's included as a separate
 entry because of its meaning.
-\dt 03/Feb/2010
+\dt 23/Mar/2012
 
 \lx -s
 \ps vsf
@@ -1406,7 +1519,8 @@ types of rooms.
 \ps vi
 \ge come
 \ge arrive
-\dt 08/Jan/2010
+\ge be.enough
+\dt 19/Apr/2012
 
 \lx ufan
 \ps n
@@ -1506,6 +1620,14 @@ subject in number.
 \ge Wednesday
 \dt 13/Jan/2010
 
+\lx vo|sa
+\ps n
+\ge beauty
+\ge beautiful
+\ge appropriate
+\ge good
+\dt 20/Apr/2012
+
 \lx -vu|z
 \ps nsf
 \ge "employee"
@@ -1557,8 +1679,13 @@ refer to the mathematical zero.
 \lx zgebo
 \ps vt
 \ge work.on
+\ge tire.from
 \ge suffer.from
-\dt 02/Sep/2011
+\ng This verb has usually the first meaning
+with a subject in the nominative case,
+and the other two meanings with a
+subject in the instrumental.
+\dt 03/Apr/2012
 
 \lx zi|sun
 \ps nc
@@ -1597,6 +1724,17 @@ refer to the mathematical zero.
 \ge stay
 \ge live.at
 \dt 26/Aug/2011
+
+\lx zunla|lek
+\ps vt
+\ge find
+\ge locate
+\nt This verb is used only to indicate that
+one found the location of something or
+someone, possibly after they had been
+lost. For abstract discoveries, use the
+verb fv:a|lek.
+\dt 23/Mar/2012
 
 \lx zutuun
 \ph zuˈtuːn

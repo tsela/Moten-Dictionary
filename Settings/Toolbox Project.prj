@@ -47,7 +47,7 @@
 \+wndlst 
 \+wnd 
 \placement normal 480 437 0 0 507 0 1019 640
-\z 0
+\z 1
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -76,28 +76,28 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey knama
+\fldPriKey abal
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri knama
+\fldPri dabolna
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri knama
+\fldPri abal
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 12
-\CaretLineScroll 12
-\CaretChar 6
+\CaretLine 6
+\CaretLineScroll 6
+\CaretChar 11
 \+cck 
 \mkrSingleField 1d
 \-cck
 \-wnd
 \+wnd 
 \placement normal 0 0 0 0 0 1 508 640
-\z 1
+\z 0
 \ViewMarkers
 \ViewFieldNames
 \widthMarkerArea 124
@@ -127,8 +127,8 @@
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey knama
-\fldSecKey grass
+\fldPriKey dabolna
+\fldSecKey moment
 \-rec
 \+keySearch 
 \fldPri Ka|se

@@ -868,6 +868,12 @@
 \CharStyle
 \-mkr
 
+\+mkr zzzAlphDiv
+\nam Alphabetic Divider
+\lng English
+\mkrOverThis lx
+\-mkr
+
 \+mkr œu 
 \lng English
 \mkrOverThis lx
@@ -921,8 +927,8 @@
 
 \+expMDF Multi-Dictionary Formatter
 \UTF8
-\copyright Copyright © 2002
-\titleEnglishDiglot Selaru — English Dictionary
+\copyright Copyright ï¿½ 2012
+\titleEnglishDiglot Moten ï¿½ English Dictionary
 \titleEnglishTriglot Selaru — English — Indonesian Dictionary
 \titleGlossIndexEE English — Selaru
 \titleGlossIndexEN Indonesian — Selaru
@@ -932,10 +938,12 @@
 \titleGlossIndexNE Bahasa Ingris — Bahasa Selaru
 \titleGlossIndexNN Bahasa Indonesia — Bahasa Selaru
 \titleGlossIndexNR Bahasa Ambon — Bahasa Selaru
+\exportedEnglishDiglot C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Dict_ed.rtf
 \cctEnglishLabels mdf_eng.cct
 \dotEnglish mdf_e.dot
 \cctNationalLabels mdf_inz.cct
 \dotNational mdf_n.dot
+\fil Content Words
 \typRTF MDF Rich Text Format
 \typHTML MDF SF-to-HTML
 \+mkrsubsetExcluded 
@@ -969,8 +977,10 @@
 \-expMDF
 
 \+expRTF Rich Text Format
+\exportedFile \\AMSDC1VFC001\christophe.grandsire$\Cached\My Documents\test.rtf
+\AddAlphDiv
 \+rtfPageSetup 
-\paperSize letter
+\paperSize A4
 \topMargin 1
 \bottomMargin 1
 \leftMargin 1.25
