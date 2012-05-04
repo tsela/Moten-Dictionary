@@ -40,14 +40,14 @@
 \-fntMarkers
 \+rundosMarkers 
 \-rundosMarkers
-\placementMain max -1 -1 -1 -1 0 0 1036 780
+\placementMain max -1 -1 -1 -1 0 0 1036 770
 \+dblst 
 
 \+db C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Dictionary.txt
 \+wndlst 
 \+wnd 
 \placement normal 480 437 0 0 507 0 1019 640
-\z 1
+\z 0
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -76,28 +76,27 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey abal
+\fldPriKey ka|se
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri dabolna
+\fldPri ka|se
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri abal
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 6
-\CaretLineScroll 6
-\CaretChar 11
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 3
 \+cck 
 \mkrSingleField 1d
 \-cck
 \-wnd
 \+wnd 
 \placement normal 0 0 0 0 0 1 508 640
-\z 0
+\z 1
 \ViewMarkers
 \ViewFieldNames
 \widthMarkerArea 124
@@ -127,8 +126,8 @@
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey dabolna
-\fldSecKey moment
+\fldPriKey ka|se
+\fldSecKey man
 \-rec
 \+keySearch 
 \fldPri Ka|se

@@ -141,6 +141,17 @@ Also a first cousin of opposite sex.
 crafts.
 \dt 02/Sep/2011
 
+\lx bnam
+\ps n
+\ge foot
+\ge leg
+\ge paw
+\ns This word is used exclusively to refer
+to the foot or leg of a person, or to the
+leg or paw of a fv:kit, i.e. a large
+animal.
+\dt 26/Apr/2012
+
 \lx bontu
 \ps n
 \ge slow
@@ -346,10 +357,34 @@ metaphorical pain.
 \ge sleep
 \dt 25/Nov/2009
 
+\lx elojma
+\ps vt
+\ge be.thought.of.by
+\ge be.thought.about.by
+\ge be.pondered.by
+\ng This verb corresponds mostly to the
+English verbs "to think" and "to
+ponder", but with opposite argument
+orientation: the subject is the thing
+being thought about, while the object of
+the verb is the one doing the thinking.
+\dt 27/Apr/2012
+
+\lx elojmastul
+\ps vt
+\ge be.remembered.by
+\ng This verb is equivalent to the English
+verb "to remember", but with the
+opposite orientation: the thing
+remembered is the subject, while the
+one remembering is the object.
+\dt 27/Apr/2012
+
 \lx e|lon
 \ps n
 \ge woman
-\dt 18/Dec/2009
+\ge wife
+\dt 03/May/2012
 
 \lx eme
 \ps n
@@ -488,6 +523,11 @@ equivalent.
 \ge ten
 \dt 30/Dec/2009
 
+\lx ge|nadan
+\ps n
+\ge decade
+\dt 01/May/2012
+
 \lx ge|samo
 \ps n
 \ge paternal.aunt
@@ -502,6 +542,11 @@ equivalent.
 \ps n
 \ge paternal.uncle
 \dt 10/Oct/2011
+
+\lx getolsizdan
+\ps n
+\ge fortnight
+\dt 29/Apr/2012
 
 \lx gmadev
 \ps vt
@@ -666,6 +711,11 @@ opposed to fv:dati.
 \ge hundred
 \dt 30/Dec/2009
 
+\lx japujadan
+\ps n
+\ge century
+\dt 01/May/2012
+
 \lx ja|zin
 \ps vt
 \ge give
@@ -704,10 +754,16 @@ advantageous for them.
 \ge piece
 \dt 07/Jan/2010
 
+\lx kafe
+\ps n
+\ge coffee
+\dt 20/Apr/2012
+
 \lx ka|se
 \ps n
 \ge man
-\dt 26/Aug/2011
+\ge husband
+\dt 03/May/2012
 
 \lx kej
 \ps part
@@ -969,7 +1025,11 @@ someone's attention.
 \lx mosu
 \ps n
 \ge paw
-\dt 25/Nov/2009
+\ge leg
+\ns This word is used only to refer to the
+paw or leg of a fv:sponda, i.e. a small
+animal.
+\dt 26/Apr/2012
 
 \lx mu
 \ps part
@@ -1280,6 +1340,18 @@ contempt.
 entry because of its meaning.
 \dt 23/Mar/2012
 
+\lx poma
+\ps n
+\ge neck
+\ge shoulder.girdle
+\nt This word refers both to the neck and
+to the area just below it down to the
+shoulder joints.
+\ns This word is used only to refer to the
+neck of humans or large animals
+(basically those called fv:kit).
+\dt 26/Apr/2012
+
 \lx -s
 \ps vsf
 \ge REL
@@ -1339,6 +1411,11 @@ entry because of its meaning.
 \ge thousand
 \dt 30/Dec/2009
 
+\lx senadan
+\ps n
+\ge millenium
+\dt 29/Apr/2012
+
 \lx senod
 \ps n
 \ge earth
@@ -1390,6 +1467,14 @@ rather than a random period of 24
 hours.
 \dt 13/Jan/2010
 
+\lx slim
+\ps n
+\ge ugliness
+\ge ugly
+\ge inappropriate
+\ge bad
+\dt 29/Apr/2012
+
 \lx sponda
 \ps nc
 \ge small.animal
@@ -1437,6 +1522,11 @@ silence.
 types of shops or restaurants.
 \dt 02/Sep/2011
 
+\lx |se
+\ps n
+\ge tea
+\dt 20/Apr/2012
+
 \lx |sim
 \ps num
 \ge six
@@ -1477,6 +1567,18 @@ always used with the definite article.
 \ps pr
 \ge we
 \dt 19/Nov/2009
+
+\lx teol
+\ps vt
+\ge please
+\ge be.liked.by
+\ng This verb has basically the same
+meaning as the English verb "to like",
+but the subject and object are reversed,
+i.e. the subject of the verb is the thing
+liked, and the object is the one doing
+the liking.
+\dt 26/Apr/2012
 
 \lx tina
 \ps n
@@ -1626,7 +1728,8 @@ subject in number.
 \ge beautiful
 \ge appropriate
 \ge good
-\dt 20/Apr/2012
+\ge nice
+\dt 29/Apr/2012
 
 \lx -vu|z
 \ps nsf
