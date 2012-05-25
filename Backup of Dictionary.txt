@@ -64,6 +64,11 @@ mystery. For locating a lost object or
 person, use fv:zunla|lek.
 \dt 27/Mar/2012
 
+\lx Amelika
+\ps np
+\ge America
+\dt 24/May/2012
+
 \lx amla
 \ps n
 \ge newness
@@ -140,6 +145,11 @@ Also a first cousin of opposite sex.
 \nt Used as a suffix to indicate arts and
 crafts.
 \dt 02/Sep/2011
+
+\lx Belzik
+\ps np
+\ge Belgium
+\dt 24/May/2012
 
 \lx bnam
 \ps n
@@ -265,6 +275,21 @@ in the benefactive.
 \ge TEMP
 \dt 17/Nov/2009
 
+\lx diba
+\ps vt
+\ge be.believed.by
+\ge be.thought.by
+\ge be.found.by
+\ge be.considered.by
+\ng This verb corresponds mostly to the
+English verbs "to think", "to believe",
+"to consider", "to find" (when they are
+used to indicate an opinion) but with
+opposite argument orientation: the
+subject is the opinion, while the object
+of the verb is the one having it.
+\dt 15/May/2012
+
 \lx difoja
 \ps num
 \ge middle.rank
@@ -291,10 +316,11 @@ in the benefactive.
 \ge night
 \dt 07/Jan/2010
 
-\lx Doj|slan
+\lx Doj|slant
+\lc Doj|slan(t)
 \ps np
 \ge Germany
-\dt 24/Feb/2012
+\dt 24/May/2012
 
 \lx e
 \ps pr
@@ -350,6 +376,11 @@ metaphorical pain.
 \ge encounter
 \dt 27/Mar/2012
 
+\lx Elas
+\ps np
+\ge Greece
+\dt 24/May/2012
+
 \lx elej
 \ps vi
 \ge sleep
@@ -383,7 +414,8 @@ one remembering is the object.
 \lx e|lon
 \ps n
 \ge woman
-\dt 18/Dec/2009
+\ge wife
+\dt 03/May/2012
 
 \lx eme
 \ps n
@@ -414,6 +446,11 @@ one remembering is the object.
 \ps num
 \ge nine
 \dt 30/Dec/2009
+
+\lx Espa|na
+\ps np
+\ge Spain
+\dt 24/May/2012
 
 \lx et
 \ps pr
@@ -517,6 +554,13 @@ transitively, unlike its English
 equivalent.
 \dt 12/Sep/2011
 
+\lx gem
+\ps vi
+\ge gather
+\ge assemble
+\ge accumulate
+\dt 24/May/2012
+
 \lx geni
 \ps num
 \ge ten
@@ -550,6 +594,7 @@ equivalent.
 \lx gmadev
 \ps vt
 \ge get.sick.because.of
+\ge suffer.from
 \ge tire.from
 \ge become.exhausted.from
 \ge wear.off.from
@@ -563,7 +608,7 @@ the instrumental. With a subject in the
 nominative case, its meaning becomes
 very strong and often refers to suicide,
 whether literally or figuratively.
-\dt 04/Apr/2012
+\dt 11/May/2012
 
 \lx go
 \ps n
@@ -668,6 +713,14 @@ between sunrise and sunset".
 \ge Thursday
 \dt 13/Jan/2010
 
+\lx ibutaj
+\ps n
+\ge chair
+\ng This is actually simply the infinitive
+fv:ibutaj "to sit". It is included in the
+dictionary because of its meaning.
+\dt 10/May/2012
+
 \lx ikkee
 \ph ikˈkeː
 \ps interj
@@ -691,6 +744,17 @@ metaphorical pain.
 \nt It is used for concrete things, as
 opposed to fv:dati.
 \dt 02/Sep/2011
+
+\lx ipiz
+\ps n
+\ge heaviness
+\ge high.weight
+\ge heavy
+\ge high.strength
+\ge strong
+\nt This word is used to indicate physical
+weight or strength.
+\dt 10/May/2012
 
 \lx isis
 \ps n
@@ -722,6 +786,7 @@ opposed to fv:dati.
 \ge receive
 \ge get
 \ge put
+\ge bring
 \ge transfer
 \ng This verb only indicates that a transfer
 takes place. Context and the various
@@ -739,7 +804,7 @@ involving inanimate sources and/or
 destinations, when the speaker feels
 that the transfer is somehow
 advantageous for them.
-\dt 30/Mar/2012
+\dt 09/May/2012
 
 \lx jem
 \ps n
@@ -911,6 +976,11 @@ of knowledge is unknown or innate.
 \ge season
 \dt 15/Jan/2010
 
+\lx Loma
+\ps np
+\ge Rome
+\dt 24/May/2012
+
 \lx lomin
 \ps n
 \ge maternal.grandparent
@@ -963,6 +1033,11 @@ mother's side.
 in someone's possession for a long
 time.
 \dt 13/Mar/2012
+
+\lx Madjalolsag
+\ps np
+\ge Hungary
+\dt 24/May/2012
 
 \lx me-
 \ps corr
@@ -1076,6 +1151,14 @@ animal.
 \ge feather
 \dt 26/Aug/2011
 
+\lx nanag
+\ps vt
+\ge write
+\ge write.down
+\ge make.a.note.of
+\ge keep.in.mind
+\dt 15/May/2012
+
 \lx ne-
 \ps npf
 \ge as
@@ -1100,6 +1183,11 @@ animal.
 \ps n
 \ge week
 \dt 13/Jan/2010
+
+\lx Nipon
+\ps np
+\ge Japan
+\dt 24/May/2012
 
 \lx ni|si
 \ps interj
@@ -1129,6 +1217,17 @@ sound of continuous speech.
 \ge respect
 \dt 26/Aug/2011
 
+\lx |nalam
+\ps n
+\ge lightness
+\ge low.weight
+\ge light
+\ge weakness
+\ge weak
+\nt This word is used to indicate physical
+lightness or weakness.
+\dt 10/May/2012
+
 \lx |nuba
 \ps n
 \ge character
@@ -1149,6 +1248,27 @@ sound of continuous speech.
 are young, and of objects to indicate
 that they are newly built.
 \dt 13/Mar/2012
+
+\lx okne
+\ps s
+\ge story
+\ge tale
+\dt 15/May/2012
+
+\lx oknese
+\ps vt
+\ge recount
+\ge tell
+\ge relate
+\ge narrate
+\ge talk.about
+\dt 15/May/2012
+
+\lx oknestul
+\ps vt
+\ge read
+\ge peruse
+\dt 15/May/2012
 
 \lx ola
 \ps vt
@@ -1191,6 +1311,7 @@ sources.
 \ge receive
 \ge get
 \ge put
+\ge bring
 \ge transfer
 \ng This verb only indicates that a transfer
 takes place. Context and the various
@@ -1209,7 +1330,7 @@ destinations, when the speaker feels
 that the transfer is somehow
 detrimental, or at least neutral, for
 them.
-\dt 30/Mar/2012
+\dt 09/May/2012
 
 \lx oskana|not
 \ps n
@@ -1272,7 +1393,8 @@ contempt.
 \ge see
 \ge watch
 \ge look.at
-\dt 26/Aug/2011
+\ge meet
+\dt 11/May/2012
 
 \lx pen-
 \ps npf
@@ -1436,6 +1558,13 @@ neck of humans or large animals
 \ge Friday
 \dt 13/Jan/2010
 
+\lx sestul
+\ps vt
+\ge recite
+\ge recount
+\ge read.aloud
+\dt 15/May/2012
+
 \lx sezgo
 \ps n
 \ge fast
@@ -1504,8 +1633,13 @@ silence.
 \ps vt
 \ge summon
 \ge call
-\ge bring
-\dt 28/May/2010
+\ge bring.along
+\ns In the sense of "to bring along", this
+verb is only used when the object
+would make sense as the object of "to
+call" or "to summon". In practice, this
+means the object has to be animate.
+\dt 09/May/2012
 
 \lx su
 \ps num
@@ -1520,6 +1654,18 @@ silence.
 \nt Used as a suffix to indicate specific
 types of shops or restaurants.
 \dt 02/Sep/2011
+
+\lx sugem
+\ps vi
+\ge unite
+\ge merge
+\ge fuse
+\dt 24/May/2012
+
+\lx Sujomi
+\ps np
+\ge Finland
+\dt 24/May/2012
 
 \lx |se
 \ps n
@@ -1591,6 +1737,13 @@ types of rooms.
 \ge mediocre
 \ge mediocrity
 \dt 11/Jan/2012
+
+\lx tmame
+\ps vt
+\ge carry
+\ge hold
+\ge bear
+\dt 10/May/2012
 
 \lx to
 \ps vaux
