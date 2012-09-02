@@ -50,6 +50,15 @@ someone is startled by something, to
 indicate surprise.
 \dt 15/Feb/2012
 
+\lx ak
+\ps vi
+\ge exist
+\ns This verb is used to assert the
+existence of fv:sponda, i.e. small
+animals, as well as inanimate objects or
+concepts.
+\dt 30/Aug/2012
+
 \lx a|lek
 \ps vt
 \ge find
@@ -240,6 +249,22 @@ indicated, the recipient of the thanks is
 in the benefactive.
 \dt 02/Apr/2012
 
+\lx de
+\ps part
+\ge that.is
+\ge that.is.to.say
+\ge in.other.words
+\ge both
+\ge and
+\ng This particle is used to connect phrases
+together, like fv:opa or fv:me|lo, but is
+semantically quite different, as it
+indicates that the coordinated phrases
+have the same referrent. In other
+words, it is equivalent to direct
+apposition in English.
+\dt 07/Aug/2012
+
 \lx di-
 \a di|na-
 \u di- +na
@@ -314,7 +339,9 @@ of the verb is the one having it.
 \ps nc
 \ge evening
 \ge night
-\dt 07/Jan/2010
+\nt Literally, means "the period of
+darkness between sunset and sunrise".
+\dt 30/Aug/2012
 
 \lx Doj|slant
 \lc Doj|slan(t)
@@ -341,6 +368,14 @@ of the verb is the one having it.
 \ps num
 \ge two
 \dt 30/Dec/2009
+
+\lx egetolda|n
+\ps n
+\ge day
+\ge 24-hour.period
+\nt Another near-synonym of fv:gomdod
+and fv:siza.
+\dt 30/Aug/2012
 
 \lx ej
 \ps vt
@@ -593,22 +628,26 @@ equivalent.
 
 \lx gmadev
 \ps vt
-\ge get.sick.because.of
+\ge get.sick.with
 \ge suffer.from
 \ge tire.from
+\ge tire.of
 \ge become.exhausted.from
 \ge wear.off.from
 \ge wear.down.from
+\ge get.sick.of
+\ge get.fed.up.with
 \ge kill.oneself.with
-\ng Unlike its English equivalents, this
-verb's subject undergoes the change of
-state, and its object is the cause of it.
+\ng Unlike its English equivalents, this verb
+is directly transitive: its subject
+undergoes the change of state, and its
+object is the cause of it.
 \ns It is usually only used with a subject in
 the instrumental. With a subject in the
 nominative case, its meaning becomes
 very strong and often refers to suicide,
 whether literally or figuratively.
-\dt 11/May/2012
+\dt 17/Jul/2012
 
 \lx go
 \ps n
@@ -629,6 +668,18 @@ jobs.
 \nt Literally, means "the period of light
 between sunrise and sunset".
 \dt 07/Jan/2010
+
+\lx gomdod
+\ps n
+\ge day
+\nt Literally "day & night", this word is a
+near-synonym to fv:siza. It refers to a
+full 24-hour period, although not one
+that necessarily starts at midnight.
+\ng Although it is a compound of the two
+counters fv:gom and fv:dod, this word
+itself is not a counter.
+\dt 30/Aug/2012
 
 \lx i-
 \a |l-
@@ -871,6 +922,13 @@ than a human being. Typically, the
 speaker uses their own size as base.
 \dt 07/Jan/2010
 
+\lx kjaj
+\ps vi
+\ge cry
+\ge weep
+\ge sob
+\dt 30/May/2012
+
 \lx knama
 \ps n
 \ge grass
@@ -1100,10 +1158,12 @@ someone's attention.
 \ps n
 \ge paw
 \ge leg
-\ns This word is used only to refer to the
-paw or leg of a fv:sponda, i.e. a small
-animal.
-\dt 26/Apr/2012
+\ge foot
+\ns This word is used to refer to the paw
+or leg of a fv:sponda, i.e. a small
+animal, or to the leg or foot of an
+inanimate object (like a table).
+\dt 30/Aug/2012
 
 \lx mu
 \ps part
@@ -1302,7 +1362,8 @@ sources.
 \ge and.also
 \ge both
 \ge as.well
-\dt 20/Feb/2012
+\ge moreover
+\dt 08/Aug/2012
 
 \lx ople
 \ps vt
@@ -1442,6 +1503,12 @@ contempt.
 \ge lady
 \dt 26/Aug/2011
 
+\lx pogla
+\ps n
+\ge name
+\ge title
+\dt 03/Sep/2012
+
 \lx Polis
 \ps np
 \ge police
@@ -1580,7 +1647,11 @@ neck of humans or large animals
 \lx sigoj
 \ps n
 \ge name
-\dt 25/Nov/2009
+\ns Refers only to names of animate
+beings. To talk about names of
+inanimate objects, concepts, or about
+names in general, use fv:pogla.
+\dt 03/Sep/2012
 
 \lx -sin
 \ps nsf
@@ -1590,10 +1661,11 @@ neck of humans or large animals
 \lx siza
 \ps nc
 \ge day
+\ge calendar.day
 \nt Basically refers to a calendar day,
 rather than a random period of 24
 hours.
-\dt 13/Jan/2010
+\dt 30/Aug/2012
 
 \lx slim
 \ps n
@@ -1602,6 +1674,14 @@ hours.
 \ge inappropriate
 \ge bad
 \dt 29/Apr/2012
+
+\lx spe
+\ps vi
+\ge exist
+\ns This verb is used to assert the
+existence of human beings and/or
+fv:kit, i.e. large animals.
+\dt 30/Aug/2012
 
 \lx sponda
 \ps nc
@@ -1628,6 +1708,14 @@ and is used as a speech filler.
 \nt This interjection is used to ask for
 silence.
 \dt 15/Feb/2012
+
+\lx status
+\ps n
+\ge state
+\nt This word only refers to the state as a
+political, sociological and/or
+geographical entity.
+\dt 24/May/2012
 
 \lx stul
 \ps vt
@@ -1849,6 +1937,14 @@ that they were built a long time ago.
 \ps num
 \ge five
 \dt 26/Aug/2011
+
+\lx venla
+\ps n
+\ge crowd
+\ge people
+\ge tribe
+\ge population
+\dt 07/Aug/2012
 
 \lx vike
 \ps pr

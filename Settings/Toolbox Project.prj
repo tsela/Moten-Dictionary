@@ -76,21 +76,21 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey sugem
+\fldPriKey pogla
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri sugem
+\fldPri pogla
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri status
+\fldPri pogla
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 5
-\CaretLineScroll 5
-\CaretChar 7
+\CaretLine 12
+\CaretLineScroll 12
+\CaretChar 313
 \+cck 
 \mkrSingleField 1d
 \-cck
@@ -113,11 +113,11 @@
 \-brf
 \+brf 
 \mkr ps
-\width 131
+\width 132
 \-brf
 \+brf 
 \mkr ge
-\width 179
+\width 178
 \-brf
 \-brflst
 \+ind 
@@ -127,8 +127,8 @@
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey sugem
-\fldSecKey unite
+\fldPriKey pogla
+\fldSecKey name
 \-rec
 \+keySearch 
 \fldPri Ka|se
