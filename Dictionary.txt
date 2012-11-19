@@ -41,6 +41,11 @@ indicated with a complement in the
 instrumental or the originative.
 \dt 19/Apr/2012
 
+\lx agfe|su
+\ps part
+\ge sorry.for.leaving.early
+\dt 13/Nov/2012
+
 \lx aja
 \ph aˈja
 \ps interj
@@ -171,12 +176,34 @@ leg or paw of a fv:kit, i.e. a large
 animal.
 \dt 26/Apr/2012
 
+\lx bnampoma
+\ps n
+\ge ankle
+\ng Literally "foot neck"
+\dt 29/Oct/2012
+
 \lx bontu
 \ps n
 \ge slow
 \ge slowness
 \ge low.speed
 \dt 10/Jan/2012
+
+\lx bunes
+\ps vt
+\ge become.bothered.by
+\ge become.annoyed.by
+\ge become.disturbed.by
+\ge become.irritated.by
+\ng This verb is equivalent to the English
+verbs "to bother", "to annoy", "to
+disturb" and "to irritate", but with a
+different orientation: the subject
+undergoes the irritation, while the
+object is the cause of it. It is essentially
+a synonym of fv:igmadevi, although
+weaker in meaning.
+\dt 13/Nov/2012
 
 \lx buta
 \ps vi
@@ -248,6 +275,12 @@ with or thanking someone for. When
 indicated, the recipient of the thanks is
 in the benefactive.
 \dt 02/Apr/2012
+
+\lx davi|zo
+\ps part
+\ge thank.you
+\ge thanks
+\dt 13/Nov/2012
 
 \lx de
 \ps part
@@ -518,6 +551,11 @@ one remembering is the object.
 \ge GEN.PL
 \dt 17/Nov/2009
 
+\lx fe|su
+\ps part
+\ge sorry.to.bother.you
+\dt 13/Nov/2012
+
 \lx Filansi
 \ps np
 \ge France
@@ -553,6 +591,25 @@ with the originative.
 \ge person
 \dt 07/Jan/2010
 
+\lx foto
+\ps vt
+\ge look.for
+\ge search
+\ge seek
+\ge try
+\ge attempt
+\nt This is the counterpart of fv:a|lek, and
+it is used to indicate the search for the
+solution of a problem, the answer to a
+question, or the revelation of a
+mystery. This verb is also used to
+indicate an attempt to do something,
+especially when used with a
+completive subclause. For trying to
+locate a thing or a person, see
+fv:zunlafoto.
+\dt 12/Sep/2012
+
 \lx fuli
 \ps n
 \ge gold
@@ -573,7 +630,8 @@ with the originative.
 \ge clear.up
 \ge get.solved
 \ge become.intelligible
-\dt 13/Mar/2012
+\ge become.understandable
+\dt 19/Nov/2012
 
 \lx ge
 \ps vaux
@@ -625,6 +683,20 @@ equivalent.
 \ps n
 \ge fortnight
 \dt 29/Apr/2012
+
+\lx gi|no
+\ps vt
+\ge feel
+\ge sense
+\ge be.aware.of
+\ge understand
+\ng With a subject in the instrumental, this
+verb has the sense of "to feel", "to be
+aware of" as an external sensation.
+With a subject in the nominative case,
+its sense is closer to "to understand",
+i.e. " to be aware of the meaning of".
+\dt 19/Nov/2012
 
 \lx gmadev
 \ps vt
@@ -786,6 +858,16 @@ metaphorical pain.
 \ge three
 \dt 30/Dec/2009
 
+\lx ipe|lastu|l
+\ps n
+\ge indicator
+\ge clock.hand
+\ge finger
+\ng This is simply the infinitve fv:ipe|lastu|l
+"to show", but it's listed separately due
+to its specific meanings.
+\dt 29/Oct/2012
+
 \lx ipi
 \ps n
 \ge tool
@@ -863,6 +945,22 @@ advantageous for them.
 \ge brook
 \dt 16/Nov/2009
 
+\lx jespoma
+\ps n
+\ge wrist
+\ng Literally "hand neck".
+\dt 29/Oct/2012
+
+\lx jez
+\ps n
+\ge hand
+\ge arm
+\ns This word is used to refer to the hand
+or arm of a person. It' s usually not
+used with animals, even those with
+opposable thumbs.
+\dt 29/Oct/2012
+
 \lx jos
 \ps nc
 \ge part
@@ -873,6 +971,23 @@ advantageous for them.
 \ps n
 \ge coffee
 \dt 20/Apr/2012
+
+\lx kamoj
+\ps n
+\ge softness
+\ge soft
+\ge lightness
+\ge light
+\ge fragility
+\ge fragile
+\nt This word indicates physical flexibility
+and lack of rigidity. It also can indicate
+a low physical weight, but unlike fv:ipiz
+does not imply physical weakness,
+although it can indicate fragility. It does
+not indicate easiness either (that is
+fv:neg|nalam).
+\dt 14/Nov/2012
 
 \lx ka|se
 \ps n
@@ -1078,6 +1193,33 @@ mother's side.
 \ge BEN
 \dt 09/Dec/2009
 
+\lx |lag
+\ps part
+\ge bye
+\nt Abbreviation of the expression
+fv:ko|lea fv:ag: "go in peace".
+\dt 13/Nov/2012
+
+\lx |lajespoma
+\ps n
+\ge bracelet
+\dt 30/Oct/2012
+
+\lx |lajpe|lastu|l
+\ps n
+\ge finger.ring
+\dt 30/Oct/2012
+
+\lx |lamensin
+\ps n
+\ge earring
+\dt 30/Oct/2012
+
+\lx |lapoma
+\ps n
+\ge necklace
+\dt 30/Oct/2012
+
 \lx |le-
 \ps corr
 \ge any
@@ -1118,6 +1260,12 @@ time.
 someone's attention.
 \dt 15/Feb/2012
 
+\lx mejto
+\ps part
+\ge hello
+\ge hi
+\dt 13/Nov/2012
+
 \lx melag
 \ps n
 \ge interior
@@ -1133,6 +1281,31 @@ someone's attention.
 \ge however
 \ge though
 \dt 16/Mar/2012
+
+\lx mensin
+\ps n
+\ge cup
+\ge outer.ear
+\ge ear
+\nt This is a diminutive of fv:menzola:
+"vase". It is used literally to refer to
+small containers like cups, and
+metaphorically to refer to the outer
+part of the ear.
+\dt 29/Oct/2012
+
+\lx menzola
+\ps n
+\ge jug
+\ge vase
+\dt 29/Oct/2012
+
+\lx met
+\ps vt
+\ge greet
+\ps n
+\ge greetings
+\dt 13/Nov/2012
 
 \lx mik
 \ps pr
@@ -1219,6 +1392,15 @@ inanimate object (like a table).
 \ge keep.in.mind
 \dt 15/May/2012
 
+\lx nanaguz
+\ps n
+\ge book
+\ge writing
+\ng This is actually the participle of
+fv:|nanagi "to write", but it gets a
+separate entry due to its meaning.
+\dt 24/Oct/2012
+
 \lx ne-
 \ps npf
 \ge as
@@ -1243,6 +1425,32 @@ inanimate object (like a table).
 \ps n
 \ge week
 \dt 13/Jan/2010
+
+\lx negipiz
+\ps n
+\ge difficulty
+\ge difficult
+\ge hardness
+\ge hard
+\nt This word indicates that something is
+hard to do, i.e. it requires effort to
+achieve. It does not indicate that
+something is stiff or resistant (that is
+fv:otez).
+\dt 14/Nov/2012
+
+\lx neg|nalam
+\ps n
+\ge easiness
+\ge easy
+\ge softness
+\ge soft
+\nt This word indicates that something is
+easy to achieve, i.e. it requires little
+effort. It does not indicate that
+something is smooth or flexible (that is
+fv:kamoj).
+\dt 14/Nov/2012
 
 \lx Nipon
 \ps np
@@ -1310,10 +1518,10 @@ that they are newly built.
 \dt 13/Mar/2012
 
 \lx okne
-\ps s
+\ps n
 \ge story
 \ge tale
-\dt 15/May/2012
+\dt 13/Nov/2012
 
 \lx oknese
 \ps vt
@@ -1405,6 +1613,24 @@ them.
 \ge that.time.then
 \dt 19/Nov/2009
 
+\lx otez
+\ps n
+\ge hardness
+\ge hard
+\ge stiffness
+\ge stiff
+\ge heaviness
+\ge heavy
+\ge toughness
+\ge tough
+\nt This word indicates general sturdiness,
+hardness or resilience. It also can
+indicate a high physical weight, but
+unlike fv:ipiz does not imply physical
+strength. It does not indicate difficulty
+either (that is fv:negipiz).
+\dt 14/Nov/2012
+
 \lx oto
 \ps n
 \ge car
@@ -1457,6 +1683,12 @@ contempt.
 \ge meet
 \dt 11/May/2012
 
+\lx pe|lastul
+\ps vt
+\ge show
+\ge reveal
+\dt 29/Oct/2012
+
 \lx pen-
 \ps npf
 \ge very
@@ -1476,6 +1708,20 @@ contempt.
 \ge await
 \ge expect
 \dt 30/Aug/2011
+
+\lx pinas
+\ps vt
+\ge feel
+\ge look
+\ge seem.to.have
+\ns Used with a first person subject, this
+verb usually means "to feel", referring
+to an internal impression. Used with
+another person as subject, it usually
+means "to look", referring to the
+impression that person is making on the
+speaker.
+\dt 14/Nov/2012
 
 \lx piv
 \ps n
@@ -1612,6 +1858,24 @@ neck of humans or large animals
 \ps n
 \ge millenium
 \dt 29/Apr/2012
+
+\lx sengi|no
+\ps n
+\ge complexity
+\ge complicated
+\ge deviousness
+\ge devious
+\ge difficulty
+\ge difficult
+\nt This word denotes complexity, i.e. it
+indicates that something is difficult to
+learn, to understand or to master
+(although it needn't necessarily need
+effort to actually accomplish, once
+learn. That is fv:negipiz). Used of
+people, it indicates that they are
+difficult to understand and to handle.
+\dt 19/Nov/2012
 
 \lx senod
 \ps n
@@ -1759,6 +2023,23 @@ types of shops or restaurants.
 \ge fuse
 \dt 24/May/2012
 
+\lx sugi|no
+\ps n
+\ge simplicity
+\ge simple
+\ge straightforwardness
+\ge straightforward
+\ge easiness
+\ge easy
+\nt This word denotes simplicity, i.e. that
+something is easy to learn and/or
+understand. It does not necessarily
+indicates that it is also easy to
+accomplish (that's fv:neg|nalam). Used
+of people, it indicates that a person is
+easy to read and to handle.
+\dt 19/Nov/2012
+
 \lx Sujomi
 \ps np
 \ge Finland
@@ -1845,7 +2126,12 @@ types of rooms.
 \lx to
 \ps vaux
 \ge be
-\dt 15/Nov/2009
+\ng Unlike the verb "to be" in most
+languages that have it (including
+English), the verb fv:atom in Moten is
+transitive, and takes an object in the
+accusative case.
+\dt 14/Nov/2012
 
 \lx tol
 \ps num
@@ -1954,6 +2240,36 @@ that they were built a long time ago.
 \ge tribe
 \ge population
 \dt 07/Aug/2012
+
+\lx vepe|ne
+\ps vi
+\ge apologise
+\ps n
+\ge apology
+\ps part
+\ge sorry
+\ge thank.you
+\ge thanks
+\ns This word is also used instead of
+fv:davi|zo to give thanks for receiving
+something (a service, a present, or just
+a compliment) to acknowledge the
+person's efforts.
+\dt 13/Nov/2012
+
+\lx ve|za
+\ps vt
+\ge feel.like
+\ge look.like
+\ge seem.to.be
+\ns Used with a first person subject, this
+verb usually means "to feel like",
+referring to an internal impression.
+Used with another person as subject, it
+usually means "to look like", referring
+to the impression that person is making
+on the speaker.
+\dt 14/Nov/2012
 
 \lx vike
 \ps pr
@@ -2084,6 +2400,19 @@ subject in the instrumental.
 \ge stay
 \ge live.at
 \dt 26/Aug/2011
+
+\lx zunlafoto
+\ps vt
+\ge look.for
+\ge search
+\ge seek
+\ge try.to.locate
+\nt This verb is the counterpart of
+fv:zunla|lek. It refers to the process of
+trying to locate an object or a person.
+For more abstract searches, see
+fv:foto.
+\dt 12/Sep/2012
 
 \lx zunla|lek
 \ps vt

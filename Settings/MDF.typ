@@ -604,6 +604,7 @@
 \rgbColor 0,0,0
 \-fnt
 \mkrOverThis se
+\mkrFollowingThis ge
 \CharStyle
 \-mkr
 

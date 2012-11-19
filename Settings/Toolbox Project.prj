@@ -76,21 +76,21 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey pogla
+\fldPriKey sengi|no
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri pogla
+\fldPri sengi|no
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri pogla
+\fldPri sengi|no
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 12
-\CaretLineScroll 12
-\CaretChar 313
+\CaretLine 15
+\CaretLineScroll 15
+\CaretChar 296
 \+cck 
 \mkrSingleField 1d
 \-cck
@@ -121,21 +121,21 @@
 \-brf
 \-brflst
 \+ind 
-\mkrPriKey lx
-\srtPriKey Moten
-\mkrSecKey ge
+\mkrPriKey ge
+\srtPriKey English
+\mkrSecKey lx
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey pogla
-\fldSecKey name
+\fldPriKey complexity
+\fldSecKey sengi|no
 \-rec
 \+keySearch 
 \fldPri Ka|se
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri sample
+\fldPri negipiz
 \MatchWhole
 \match_char p
 \-keyInsert
