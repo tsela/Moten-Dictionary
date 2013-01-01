@@ -9,11 +9,12 @@
 
 \lx abal
 \ps n
-\ge ugliness
-\ge ugly
-\ge inappropriate
+\ge dreadfulness
+\ge lousiness
+\ge dreadful
+\ge lousy
 \ge bad
-\dt 20/Apr/2012
+\dt 30/Nov/2012
 
 \lx ada
 \ps nc
@@ -30,6 +31,14 @@
 \ge January
 \dt 15/Jan/2010
 
+\lx Adodun
+\ps np
+\ge New.Year
+\ns Refers to the new year itself. The
+celebration itself is called fv:Imonuj,
+literally "the Turning".
+\dt 27/Dec/2012
+
 \lx ag
 \ps vi
 \ge go
@@ -42,9 +51,9 @@ instrumental or the originative.
 \dt 19/Apr/2012
 
 \lx agfe|su
-\ps part
+\ps interj
 \ge sorry.for.leaving.early
-\dt 13/Nov/2012
+\dt 04/Dec/2012
 
 \lx aja
 \ph aˈja
@@ -86,19 +95,25 @@ person, use fv:zunla|lek.
 \lx amla
 \ps n
 \ge newness
+\ge new
 \nt Used to indicate that an item has been
 newly acquired. It does not necessarily
 indicate that the item itself is newly
-built.
-\dt 13/Mar/2012
+built. I can also be used of people, to
+indicate people newly met, or just
+starting in a specific position.
+\dt 29/Nov/2012
 
 \lx amo
 \ps n
 \ge different-sex.sibling
 \ge different-sex.first.cousin
+\ge different-sex.close.friend
 \nt A male's sister or female's brother.
 Also a first cousin of opposite sex.
-\dt 09/Jan/2012
+Also used metaphorically to refer to a
+very close friend of the opposite sex.
+\dt 03/Dec/2012
 
 \lx -ano
 \ps nsf
@@ -165,6 +180,39 @@ crafts.
 \ge Belgium
 \dt 24/May/2012
 
+\lx be|leg
+\ps n
+\ge form
+\ge shape
+\ge appearance
+\ge figure
+\dt 28/Nov/2012
+
+\lx be|s
+\ps n
+\ge height
+\ge average.height
+\ge average
+\ge medium
+\ge middle
+\dt 29/Nov/2012
+
+\lx bivo
+\ps n
+\ge quantity
+\ge number
+\dt 30/Nov/2012
+
+\lx bivostul
+\ps vt
+\ge count
+\ge measure
+\nt Means "to count" when referring to
+groups of discrete items, and "to
+measure" when referring to continuous
+quantities.
+\dt 03/Dec/2012
+
 \lx bnam
 \ps n
 \ge foot
@@ -175,6 +223,12 @@ to the foot or leg of a person, or to the
 leg or paw of a fv:kit, i.e. a large
 animal.
 \dt 26/Apr/2012
+
+\lx bnameno
+\ps n
+\ge shoe
+\ge boot
+\dt 19/Dec/2012
 
 \lx bnampoma
 \ps n
@@ -277,10 +331,10 @@ in the benefactive.
 \dt 02/Apr/2012
 
 \lx davi|zo
-\ps part
+\ps interj
 \ge thank.you
 \ge thanks
-\dt 13/Nov/2012
+\dt 04/Dec/2012
 
 \lx de
 \ps part
@@ -293,10 +347,10 @@ in the benefactive.
 together, like fv:opa or fv:me|lo, but is
 semantically quite different, as it
 indicates that the coordinated phrases
-have the same referrent. In other
+have the same referent. In other
 words, it is equivalent to direct
 apposition in English.
-\dt 07/Aug/2012
+\dt 28/Nov/2012
 
 \lx di-
 \a di|na-
@@ -353,6 +407,12 @@ of the verb is the one having it.
 \ge middle.rank
 \dt 04/Jan/2010
 
+\lx dikovo|sedan
+\ps exp
+\ge normally
+\ge when.things.go.well
+\dt 07/Dec/2012
+
 \lx di|la
 \ps n
 \ge mother
@@ -361,12 +421,42 @@ of the verb is the one having it.
 \lx di|lamo
 \ps n
 \ge maternal.uncle
-\dt 10/Oct/2011
+\ge uncle
+\dt 18/Dec/2012
 
 \lx di|luko
 \ps n
 \ge maternal.aunt
-\dt 10/Oct/2011
+\ge aunt
+\dt 18/Dec/2012
+
+\lx dloa
+\ps n
+\ge pear
+\dt 20/Dec/2012
+
+\lx dloamas
+\ps n
+\ge fatty.man
+\nt Originally the male diminutive of
+fv:dloa: "pear", used ironically.
+\ns Pejorative.
+\dt 24/Dec/2012
+
+\lx dloasin
+\ps n
+\ge light.bulb
+\nt Originally the generic diminutive of
+fv:dloa: "pear".
+\dt 23/Dec/2012
+
+\lx dloazes
+\ps n
+\ge fatty.woman
+\nt Originally the female diminutive of
+fv:dloa: "pear", used ironically.
+\ns Pejorative.
+\dt 24/Dec/2012
 
 \lx dod
 \ps nc
@@ -479,6 +569,11 @@ remembered is the subject, while the
 one remembering is the object.
 \dt 27/Apr/2012
 
+\lx elojmastulsif
+\ps n
+\ge memory
+\dt 19/Dec/2012
+
 \lx e|lon
 \ps n
 \ge woman
@@ -552,9 +647,9 @@ one remembering is the object.
 \dt 17/Nov/2009
 
 \lx fe|su
-\ps part
+\ps interj
 \ge sorry.to.bother.you
-\dt 13/Nov/2012
+\dt 04/Dec/2012
 
 \lx Filansi
 \ps np
@@ -596,19 +691,22 @@ with the originative.
 \ge look.for
 \ge search
 \ge seek
+\ge research
+\ge study
 \ge try
 \ge attempt
 \nt This is the counterpart of fv:a|lek, and
 it is used to indicate the search for the
 solution of a problem, the answer to a
 question, or the revelation of a
-mystery. This verb is also used to
+mystery. It also indicates researching
+or studying something, for science or
+similar goals. This verb is also used to
 indicate an attempt to do something,
-especially when used with a
-completive subclause. For trying to
-locate a thing or a person, see
-fv:zunlafoto.
-\dt 12/Sep/2012
+especially when used with a completive
+subclause. For trying to locate a thing
+or a person, see fv:zunlafoto.
+\dt 12/Dec/2012
 
 \lx fuli
 \ps n
@@ -667,7 +765,8 @@ equivalent.
 \lx ge|samo
 \ps n
 \ge paternal.aunt
-\dt 10/Oct/2011
+\ge aunt
+\dt 18/Dec/2012
 
 \lx ge|sem
 \ps n
@@ -677,7 +776,8 @@ equivalent.
 \lx ge|suko
 \ps n
 \ge paternal.uncle
-\dt 10/Oct/2011
+\ge uncle
+\dt 18/Dec/2012
 
 \lx getolsizdan
 \ps n
@@ -725,14 +825,23 @@ whether literally or figuratively.
 \ps n
 \ge job
 \ge employment
+\ge profession
 \nt Used as a suffix to indicate specific
 jobs.
-\dt 02/Sep/2011
+\dt 21/Dec/2012
 
 \lx go-
 \ps pref
 \ge ORIG
 \dt 09/Dec/2009
+
+\lx godetun
+\ps exp
+\ge from.now.on
+\nt Formed with fv:et "now" in the
+accusative case, over-inflected in the
+originative.
+\dt 06/Dec/2012
 
 \lx gom
 \ps nc
@@ -857,6 +966,23 @@ metaphorical pain.
 \ps num
 \ge three
 \dt 30/Dec/2009
+
+\lx imikostu|l
+\ps n
+\ge telephone
+\ge phone
+\ng This is simply the infinitve fv:imikostu|l
+"to phone", but it's listed separately due
+to its specific meaning.
+\dt 12/Dec/2012
+
+\lx imsin
+\ps n
+\ge mobile.phone
+\ns This is simply the diminutive of
+fv:imikostu|l, but it is listed separately
+due to its specific meaning.
+\dt 18/Dec/2012
 
 \lx ipe|lastu|l
 \ps n
@@ -1022,6 +1148,19 @@ fv:neg|nalam).
 \ge Monday
 \dt 13/Jan/2010
 
+\lx kfezi
+\ps n
+\ge grandchild
+\ge grandson
+\ge granddaughter
+\ns Although there are no specific words
+for "grandson" and "granddaughter",
+the male and female diminutives
+fv:kfezmas and fv:kfezes are often
+used to refer to one's own
+grandchildren.
+\dt 18/Dec/2012
+
 \lx kinkan
 \ps interj
 \ge tick.tock
@@ -1054,9 +1193,26 @@ speaker uses their own size as base.
 noun referring to a single blade of
 grass, weed, hay or a single straw. To
 refer to a lawn, or another collective
-amount of grass or straw,, use the
+amount of grass or straw, use the
 plural fv:knamsa.
-\dt 14/Mar/2012
+\dt 20/Dec/2012
+
+\lx knamafin
+\ps n
+\ge flower
+\nt Specifically used of woodless plants
+with a single stem, carrying a single
+flower or flower group.
+\dt 20/Dec/2012
+
+\lx ko
+\ps n
+\ge daughter
+\ge niece.on.same.side.of.family
+\nt Moten uses the same term to refer to
+someone's daughters and their siblings'
+daughters.
+\dt 30/Nov/2012
 
 \lx ko-
 \a ko-
@@ -1157,12 +1313,13 @@ of knowledge is unknown or innate.
 \lx lomin
 \ps n
 \ge maternal.grandparent
+\ge grandparent
 \nt Moten does not distinguish between
 granfathers and grandmothers, but it
 does distinguish whether the
 grandparent is on the father's or the
 mother's side.
-\dt 07/Nov/2011
+\dt 18/Dec/2012
 
 \lx los
 \ps pr
@@ -1194,11 +1351,11 @@ mother's side.
 \dt 09/Dec/2009
 
 \lx |lag
-\ps part
+\ps interj
 \ge bye
 \nt Abbreviation of the expression
 fv:ko|lea fv:ag: "go in peace".
-\dt 13/Nov/2012
+\dt 04/Dec/2012
 
 \lx |lajespoma
 \ps n
@@ -1229,20 +1386,41 @@ fv:ko|lea fv:ag: "go in peace".
 \lx mabo
 \ps n
 \ge ancientness
+\ge ancient
+\ge seniority
+\ge senior
+\ge old
 \nt Used to indicate that an item has been
 in someone's possession for a long
-time.
-\dt 13/Mar/2012
+time. It can also be used of people, to
+indicate that they have been known for
+a long time, or that they have been
+holding a position for a long time.
+\dt 29/Nov/2012
 
 \lx Madjalolsag
 \ps np
 \ge Hungary
 \dt 24/May/2012
 
+\lx -mas
+\ps nsf
+\ge "little"
+\ns Like fv:-sin, but used only with male
+animate referents.
+\dt 18/Dec/2012
+
 \lx me-
 \ps corr
 \ge no
 \dt 19/Nov/2009
+
+\lx mea
+\ps n
+\ge nephew.on.other.side.of.family
+\nt This noun refers to the sons of one's
+partner's siblings.
+\dt 30/Nov/2012
 
 \lx medaj
 \ps np
@@ -1261,10 +1439,10 @@ someone's attention.
 \dt 15/Feb/2012
 
 \lx mejto
-\ps part
+\ps interj
 \ge hello
 \ge hi
-\dt 13/Nov/2012
+\dt 04/Dec/2012
 
 \lx melag
 \ps n
@@ -1281,6 +1459,12 @@ someone's attention.
 \ge however
 \ge though
 \dt 16/Mar/2012
+
+\lx meno
+\ps n
+\ge glove
+\ge mitten
+\dt 19/Dec/2012
 
 \lx mensin
 \ps n
@@ -1311,6 +1495,21 @@ part of the ear.
 \ps pr
 \ge who
 \dt 19/Nov/2009
+
+\lx miko
+\ps n
+\ge remoteness
+\ge long.distance
+\ge far
+\ge far-off
+\dt 11/Dec/2012
+
+\lx mikostul
+\ps vt
+\ge phone
+\ge call.on.the.phone
+\nt Often the verb fv:istu|l is used instead.
+\dt 12/Dec/2012
 
 \lx mjan
 \ps n
@@ -1439,6 +1638,13 @@ something is stiff or resistant (that is
 fv:otez).
 \dt 14/Nov/2012
 
+\lx neglugen
+\ps n
+\ge verb
+\nt This is the grammatical term describing
+verbs in Moten.
+\dt 26/Nov/2012
+
 \lx neg|nalam
 \ps n
 \ge easiness
@@ -1469,10 +1675,18 @@ sound of continuous speech.
 \ge SUPERL
 \dt 18/Jan/2010
 
+\lx Noel
+\ps np
+\ge Christmas
+\nt A straight borrowing from French.
+\dt 18/Dec/2012
+
 \lx -non
 \ps nsf
 \ge "artist"
-\dt 16/Nov/2009
+\nt Forms nouns that refer to a person
+exercising a specific artform.
+\dt 30/Nov/2012
 
 \lx nu-
 \ps corr
@@ -1496,6 +1710,13 @@ sound of continuous speech.
 lightness or weakness.
 \dt 10/May/2012
 
+\lx |negdin.kodidon
+\lc |negdin kodidon
+\ps exp
+\ge at.the.same.time
+\ge while.we' re.at.it
+\dt 18/Dec/2012
+
 \lx |nuba
 \ps n
 \ge character
@@ -1511,11 +1732,13 @@ lightness or weakness.
 \lx odun
 \ps n
 \ge youth
+\ge young
 \ge newness
+\ge new
 \nt Used of people to indicate that they
 are young, and of objects to indicate
 that they are newly built.
-\dt 13/Mar/2012
+\dt 29/Nov/2012
 
 \lx okne
 \ps n
@@ -1552,6 +1775,11 @@ that they are newly built.
 knowledge coming from various
 sources.
 \dt 23/Mar/2012
+
+\lx olnesif
+\ps n
+\ge expert
+\dt 06/Dec/2012
 
 \lx o|nig
 \ps n
@@ -1689,6 +1917,14 @@ contempt.
 \ge reveal
 \dt 29/Oct/2012
 
+\lx pe|laz
+\ps n
+\ge acquaintance
+\nt Formally the participle of fv:ipe|laj. It is
+included because of its specific
+meaning.
+\dt 03/Dec/2012
+
 \lx pen-
 \ps npf
 \ge very
@@ -1708,6 +1944,12 @@ contempt.
 \ge await
 \ge expect
 \dt 30/Aug/2011
+
+\lx penlastul
+\ps vt
+\ge invite
+\ge ask.out
+\dt 04/Dec/2012
 
 \lx pinas
 \ps vt
@@ -1748,6 +1990,20 @@ speaker.
 \ge lord
 \ge lady
 \dt 26/Aug/2011
+
+\lx poga
+\ps n
+\ge rank
+\ge level
+\ge position
+\ge number
+\dt 29/Nov/2012
+
+\lx pogastul
+\ps vt
+\ge rank
+\ge list.in.order
+\dt 03/Dec/2012
 
 \lx pogla
 \ps n
@@ -1831,6 +2087,14 @@ neck of humans or large animals
 \ge OK
 \dt 31/Jan/2012
 
+\lx samlugen
+\ps n
+\ge particle
+\nt This refers to the Moten grammatical
+class of particles, i.e. to the class that
+covers both interjections and clitics.
+\dt 26/Nov/2012
+
 \lx se
 \ps vt
 \ge say
@@ -1849,6 +2113,19 @@ neck of humans or large animals
 \ge blurred
 \dt 26/Aug/2011
 
+\lx seliz
+\ps n
+\ge cherry
+\nt Borrowed from French "cerise".
+\dt 30/Nov/2012
+
+\lx selizif
+\ps n
+\ge cherry.tree
+\ng Simply formed by adding the suffix
+fv:-sif to the noun fv:seliz.
+\dt 30/Nov/2012
+
 \lx sen
 \ps num
 \ge thousand
@@ -1858,6 +2135,24 @@ neck of humans or large animals
 \ps n
 \ge millenium
 \dt 29/Apr/2012
+
+\lx sengi|no
+\ps n
+\ge complexity
+\ge complicated
+\ge deviousness
+\ge devious
+\ge difficulty
+\ge difficult
+\nt This word denotes complexity, i.e. it
+indicates that something is difficult to
+learn, to understand or to master
+(although it needn't necessarily need
+effort to actually accomplish, once
+learn. That is fv:negipiz). Used of
+people, it indicates that they are
+difficult to understand and to handle.
+\dt 19/Nov/2012
 
 \lx senod
 \ps n
@@ -1880,6 +2175,12 @@ neck of humans or large animals
 \ge Friday
 \dt 13/Jan/2010
 
+\lx sentalu
+\ps n
+\ge rose
+\ng Literally "thousand-flower".
+\dt 20/Dec/2012
+
 \lx sestul
 \ps vt
 \ge recite
@@ -1897,7 +2198,14 @@ neck of humans or large animals
 \lx -sif
 \ps nsf
 \ge -er
-\dt 17/Nov/2009
+\ge "tree"
+\nt This suffix forms generic agent or
+actor nouns, usually referring to
+persons. It is however also used with
+names of fruit, vegetable and flowers
+to form the name of the plant that
+carries them. 
+\dt 30/Nov/2012
 
 \lx sigoj
 \ps n
@@ -1929,6 +2237,15 @@ hours.
 \ge inappropriate
 \ge bad
 \dt 29/Apr/2012
+
+\lx son
+\ps vt
+\ge precede
+\ge predate
+\ge go.before
+\nt The root fv:son can be used as a prefix
+to mean "previous, last".
+\dt 03/Dec/2012
 
 \lx spe
 \ps vi
@@ -2025,7 +2342,7 @@ easy to read and to handle.
 \lx Sujomi
 \ps np
 \ge Finland
-\dt 24/May/2012
+\dt 18/Dec/2012
 
 \lx |se
 \ps n
@@ -2041,19 +2358,64 @@ easy to read and to handle.
 \ps n
 \ge same-sex.sibling
 \ge same-sex.first.cousin
+\ge same-sex.close.friend
 \nt A male's brother or female's sister.
 Also a first cousin of the same sex.
-\dt 09/Jan/2012
+Also used metaphorically to refer to a
+very close friend of the same sex.
+\dt 03/Dec/2012
 
 \lx ta-
 \ps corr
 \ge some
 \dt 19/Nov/2009
 
+\lx talesk
+\lc tales(k)
+\ps n
+\ge fruit
+\ge vegetable
+\ge vegetal.produce
+\nt Refers to any kind of unprocessed or
+minimally processed vegetal produce
+used for sustenance.
+\dt 07/Dec/2012
+
+\lx talu
+\ps n
+\ge flower
+\ge blossom
+\nt Specifically refers to flowers growing
+on bushes, shrubs and trees.
+\dt 20/Dec/2012
+
 \lx te-
 \ps pref
 \ge FIN
 \dt 09/Dec/2009
+
+\lx teba
+\ps n
+\ge niece.on.other.side.of.family
+\nt This noun refers to the daughters of
+one's partner's siblings.
+\dt 30/Nov/2012
+
+\lx tegoga
+\ps exp
+\ge personally
+\ge for.one's.part
+\nt Used exclusively as a disjunct.
+\dt 07/Dec/2012
+
+\lx tekojses
+\ps exp
+\ge actually
+\ge in.fact
+\nt Formed by inflecting fv:isis "truth" in
+the instrumental definite, and
+over-inflected that in the final.
+\dt 06/Dec/2012
 
 \lx tel
 \ps n
@@ -2085,6 +2447,16 @@ liked, and the object is the one doing
 the liking.
 \dt 26/Apr/2012
 
+\lx teolsif
+\ps n
+\ge friend
+\ge companion
+\ge acquaintance
+\nt A generic word for "friend", which
+does not include very close friends but
+does include acquaintances.
+\dt 03/Dec/2012
+
 \lx tina
 \ps n
 \ge room
@@ -2096,7 +2468,8 @@ types of rooms.
 \ps n
 \ge mediocre
 \ge mediocrity
-\dt 11/Jan/2012
+\ge bad
+\dt 30/Nov/2012
 
 \lx tmame
 \ps vt
@@ -2119,6 +2492,22 @@ accusative case.
 \ps num
 \ge four
 \dt 30/Dec/2009
+
+\lx tolugen
+\ps n
+\ge nominal
+\ge noun
+\nt This is the grammatical term used to
+describe Moten nominals in Moten
+itself.
+\dt 26/Nov/2012
+
+\lx topum
+\ps interj
+\ge thump.thump
+\nt This onomatopoeia represents the
+sound of a heart beating.
+\dt 28/Nov/2012
 
 \lx tul
 \ps nc
@@ -2154,13 +2543,25 @@ accusative case.
 the sound of a dog barking.
 \dt 15/Feb/2012
 
+\lx ujtin
+\ps n
+\ge proximity
+\ge short.distance
+\ge closeness
+\ge close
+\ge nearness
+\ge near
+\ge nearby
+\dt 11/Dec/2012
+
 \lx ukol
 \ps n
 \ge old.age
+\ge old
 \nt Used with people to indicate that they
 are old, and with objects to indicate
 that they were built a long time ago.
-\dt 13/Mar/2012
+\dt 29/Nov/2012
 
 \lx umpi
 \ps n
@@ -2178,6 +2579,14 @@ that they were built a long time ago.
 \ge not
 \ge it.is.false.that
 \dt 11/Jan/2012
+
+\lx u|s
+\ps n
+\ge son
+\ge nephew.on.same.side.of.family
+\nt Moten uses the same term to refer to
+someone's sons and their siblings' sons
+\dt 30/Nov/2012
 
 \lx uzab
 \ps num
@@ -2209,6 +2618,11 @@ that they were built a long time ago.
 \ge study
 \dt 08/Sep/2011
 
+\lx vajagzif
+\ps n
+\ge student
+\dt 06/Dec/2012
+
 \lx veld
 \lc vel(d)
 \ps num
@@ -2228,7 +2642,7 @@ that they were built a long time ago.
 \ge apologise
 \ps n
 \ge apology
-\ps part
+\ps interj
 \ge sorry
 \ge thank.you
 \ge thanks
@@ -2237,7 +2651,7 @@ fv:davi|zo to give thanks for receiving
 something (a service, a present, or just
 a compliment) to acknowledge the
 person's efforts.
-\dt 13/Nov/2012
+\dt 04/Dec/2012
 
 \lx ve|za
 \ps vt
@@ -2289,7 +2703,8 @@ subject in number.
 \lx -vu|z
 \ps nsf
 \ge "employee"
-\dt 02/Sep/2011
+\nt Forms job descriptions.
+\dt 30/Nov/2012
 
 \lx -z
 \a -uz
@@ -2319,12 +2734,21 @@ subject in number.
 \lx zda
 \ps n
 \ge paternal.grandparent
+\ge grandparent
 \nt Moten does not distinguish between
 granfathers and grandmothers, but it
 does distinguish whether the
 grandparent is on the father's or the
 mother's side.
-\dt 07/Nov/2011
+\dt 18/Dec/2012
+
+\lx zek
+\ps vt
+\ge follow
+\ge go.after
+\nt The root fv:zek can be used as a prefix
+to mean "previous, last".
+\dt 03/Dec/2012
 
 \lx zelo
 \ps n
@@ -2333,6 +2757,13 @@ mother's side.
 mathematical or scientific contexts to
 refer to the mathematical zero.
 \dt 05/Jan/2010
+
+\lx -zes
+\ps nsf
+\ge "little"
+\ns Like fv:-sin, but used only with female
+animate referents.
+\dt 18/Dec/2012
 
 \lx zgebo
 \ps vt

@@ -76,21 +76,21 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey sengi|no
+\fldPriKey Imonuj
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri sengi|no
+\fldPri Imonuj
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri sengi|no
+\fldPri Imonuj
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 15
-\CaretLineScroll 15
-\CaretChar 296
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
 \+cck 
 \mkrSingleField 1d
 \-cck
@@ -121,17 +121,16 @@
 \-brf
 \-brflst
 \+ind 
-\mkrPriKey ge
-\srtPriKey English
-\mkrSecKey lx
+\mkrPriKey lx
+\srtPriKey Moten
+\mkrSecKey ge
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey complexity
-\fldSecKey sengi|no
+\fldPriKey Imonuj
+\fldSecKey New.Year
 \-rec
 \+keySearch 
-\fldPri Ka|se
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -145,8 +144,13 @@
 
 \-dblst
 \+Find 
+\Field 1d
 \match_char p
 \+ftxlst 
+\+ftx 
+\text referrent
+\lng Default
+\-ftx
 \-ftxlst
 \-Find
 \AmbigBoxLeft 0
