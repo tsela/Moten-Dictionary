@@ -50,11 +50,6 @@ indicated with a complement in the
 instrumental or the originative.
 \dt 19/Apr/2012
 
-\lx agfe|su
-\ps interj
-\ge sorry.for.leaving.early
-\dt 04/Dec/2012
-
 \lx aja
 \ph aˈja
 \ps interj
@@ -72,6 +67,11 @@ existence of fv:sponda, i.e. small
 animals, as well as inanimate objects or
 concepts.
 \dt 30/Aug/2012
+
+\lx akfe|su
+\ps interj
+\ge sorry.for.leaving.early
+\dt 07/Jan/2013
 
 \lx a|lek
 \ps vt
@@ -130,6 +130,11 @@ very close friend of the opposite sex.
 \ge Saturday
 \dt 13/Jan/2010
 
+\lx a|sin
+\ps n
+\ge flame
+\dt 02/Jan/2013
+
 \lx a|siza
 \ps n
 \ge Tuesday
@@ -160,6 +165,12 @@ very close friend of the opposite sex.
 \ps n
 \ge dog
 \dt 28/Dec/2009
+
+\lx bazin
+\ps n
+\ge small.town
+\ge village
+\dt 02/Jan/2013
 
 \lx bazlo
 \ps n
@@ -195,7 +206,8 @@ crafts.
 \ge average
 \ge medium
 \ge middle
-\dt 29/Nov/2012
+\nt Can be used as a synonym to fv:finpiv.
+\dt 16/Jan/2013
 
 \lx bivo
 \ps n
@@ -297,7 +309,9 @@ encouragement or exasperation.
 \ge moment
 \ge instant
 \ge time
-\dt 19/Mar/2012
+\ps vi
+\ge happen
+\dt 17/Jan/2013
 
 \lx daj
 \ps nc
@@ -351,6 +365,13 @@ have the same referent. In other
 words, it is equivalent to direct
 apposition in English.
 \dt 28/Nov/2012
+
+\lx den
+\ps n
+\ge hot.water
+\nt Refers to scalding hot water, all the
+way up to boiling water.
+\dt 15/Jan/2013
 
 \lx di-
 \a di|na-
@@ -413,6 +434,12 @@ of the verb is the one having it.
 \ge when.things.go.well
 \dt 07/Dec/2012
 
+\lx dilku|lu
+\ps n
+\ge mother.tongue
+\ge native.language
+\dt 07/Jan/2013
+
 \lx di|la
 \ps n
 \ge mother
@@ -429,6 +456,12 @@ of the verb is the one having it.
 \ge maternal.aunt
 \ge aunt
 \dt 18/Dec/2012
+
+\lx dizes
+\ps n
+\ge mum
+\ge mommy
+\dt 02/Jan/2013
 
 \lx dloa
 \ps n
@@ -532,7 +565,15 @@ metaphorical pain.
 \ge meet.by.chance
 \ge run.into
 \ge encounter
-\dt 27/Mar/2012
+\ge feel.by.touch
+\dt 09/Jan/2013
+
+\lx eksin
+\ps vt
+\ge touch.lightly
+\ge brush.past
+\ge feel.somewhat
+\dt 09/Jan/2013
 
 \lx Elas
 \ps np
@@ -610,6 +651,11 @@ one remembering is the object.
 \ge nine
 \dt 30/Dec/2009
 
+\lx esin
+\ps n
+\ge female
+\dt 02/Jan/2013
+
 \lx Espa|na
 \ps np
 \ge Spain
@@ -620,6 +666,13 @@ one remembering is the object.
 \ge now
 \ge this.time
 \dt 19/Nov/2009
+
+\lx ezes
+\ps n
+\ge little.woman
+\ns A disparaging term of address towards
+women.
+\dt 02/Jan/2013
 
 \lx ezet
 \ps vt
@@ -664,6 +717,14 @@ one remembering is the object.
 \ge tall
 \ge great.height
 \dt 14/Mar/2012
+
+\lx finpiv
+\ps n
+\ge height
+\ge altitude
+\nt Names the entire scale of height,
+rather than a specific value of height.
+\dt 16/Jan/2013
 
 \lx fi|zon
 \ps vt
@@ -718,6 +779,28 @@ or a person, see fv:zunlafoto.
 \ge second
 \dt 11/Jan/2010
 
+\lx g
+\ps vi
+\ge live
+\ge be.alive
+\ng One of the few single-consonant roots,
+it forms a regular infinitive fv:igi, and a
+regular participle fv:guz.
+\nt Never used to mean "to live
+somewhere". The verb fv:izunlaj is
+used in that case.
+\ps n
+\ge life
+\ng As a noun, it usually appears as fv:gu,
+unless inflection makes the additional
+vowel unnecessary.
+\ns Refers to the abstract concept of life in
+general. The concept of currently being
+alive is usually rendered as fv:guz or
+fv: igi, depending on whether it is seen
+as static or active.
+\dt 22/Jan/2013
+
 \lx ga
 \ps pr
 \ge I
@@ -742,8 +825,9 @@ or a person, see fv:zunlafoto.
 \ge talk
 \nt This verb can never be used
 transitively, unlike its English
-equivalent.
-\dt 12/Sep/2011
+equivalent. The language spoken is
+always in the instrumental.
+\dt 25/Jan/2013
 
 \lx gem
 \ps vi
@@ -751,6 +835,12 @@ equivalent.
 \ge assemble
 \ge accumulate
 \dt 24/May/2012
+
+\lx gemas
+\ps n
+\ge dad
+\ge daddy
+\dt 02/Jan/2013
 
 \lx geni
 \ps num
@@ -1106,6 +1196,13 @@ opposable thumbs.
 \ge coffee
 \dt 20/Apr/2012
 
+\lx kamas
+\ps n
+\ge little.man
+\ns A disparaging term of address towards
+men.
+\dt 02/Jan/2013
+
 \lx kamoj
 \ps n
 \ge softness
@@ -1122,6 +1219,11 @@ although it can indicate fragility. It does
 not indicate easiness either (that is
 fv:neg|nalam).
 \dt 14/Nov/2012
+
+\lx kasin
+\ps n
+\ge male
+\dt 02/Jan/2013
 
 \lx ka|se
 \ps n
@@ -1189,7 +1291,15 @@ speaker uses their own size as base.
 \ge cry
 \ge weep
 \ge sob
-\dt 30/May/2012
+\ge be.in.mourning
+\ge mourn
+\ng When used with a nominative subject,
+this verb can mean "to mourn". Unlike
+the English verb, it is still intransitive,
+and the English object is usually
+rendered with an adverbial phrase in
+the originative or the causative.
+\dt 09/Jan/2013
 
 \lx knama
 \ps n
@@ -1265,6 +1375,13 @@ in ordinal numbers.
 \ge less
 \ge fewer
 \dt 18/Jan/2010
+
+\lx leksin
+\ps n
+\ge darkish
+\ge darkishness
+\ge twilight
+\dt 02/Jan/2013
 
 \lx leksod
 \ps n
@@ -1391,6 +1508,18 @@ fv:ko|lea fv:ag: "go in peace".
 \ge -ever
 \dt 09/Dec/2009
 
+\lx mabamla
+\ps n
+\ge experience
+\ge ownership.time
+\ns While fv:ukodun refers to the actual
+age of a person or object, this word
+refers to the length of time an object
+has been owned, or the length of time
+a person has been known or held a
+specific position.
+\dt 16/Jan/2013
+
 \lx mabo
 \ps n
 \ge ancientness
@@ -1497,7 +1626,8 @@ part of the ear.
 \ge greet
 \ps n
 \ge greetings
-\dt 13/Nov/2012
+\ge regards
+\dt 21/Jan/2013
 
 \lx mik
 \ps pr
@@ -1518,6 +1648,14 @@ part of the ear.
 \ge call.on.the.phone
 \nt Often the verb fv:istu|l is used instead.
 \dt 12/Dec/2012
+
+\lx mikujtin
+\ps n
+\ge distance
+\nt Refers to the generic concept of
+distance rather than to a specific
+distance.
+\dt 16/Jan/2013
 
 \lx mjan
 \ps n
@@ -1722,14 +1860,14 @@ lightness or weakness.
 \lc |negdin kodidon
 \ps exp
 \ge at.the.same.time
-\ge while.we' re.at.it
-\dt 18/Dec/2012
+\ge while.we're.at.it
+\dt 25/Jan/2013
 
 \lx |nuba
-\ps n
+\ps nc
 \ge character
 \ge letter
-\dt 25/Nov/2009
+\dt 02/Jan/2013
 
 \lx o
 \ps pr
@@ -1768,6 +1906,12 @@ that they are newly built.
 \ge read
 \ge peruse
 \dt 15/May/2012
+
+\lx oksin
+\ps n
+\ge anecdote
+\ge short.story
+\dt 02/Jan/2013
 
 \lx ola
 \ps vt
@@ -2095,6 +2239,11 @@ neck of humans or large animals
 \ge OK
 \dt 31/Jan/2012
 
+\lx sambivo
+\ps n
+\ge prime.number
+\dt 03/Jan/2013
+
 \lx samlugen
 \ps n
 \ge particle
@@ -2102,6 +2251,11 @@ neck of humans or large animals
 class of particles, i.e. to the class that
 covers both interjections and clitics.
 \dt 26/Nov/2012
+
+\lx samsigoj
+\ps n
+\ge given.name
+\dt 03/Jan/2013
 
 \lx se
 \ps vt
@@ -2165,7 +2319,8 @@ difficult to understand and to handle.
 \lx senod
 \ps n
 \ge earth
-\dt 13/Jan/2010
+\ge ground
+\dt 07/Jan/2013
 
 \lx senodjem
 \ps n
@@ -2195,6 +2350,14 @@ difficult to understand and to handle.
 \ge recount
 \ge read.aloud
 \dt 15/May/2012
+
+\lx sezbon
+\ps n
+\ge velocity
+\ge speed
+\nt Refers to the generic concept of
+speed, not to a specific value of speed.
+\dt 16/Jan/2013
 
 \lx sezgo
 \ps n
@@ -2238,13 +2401,36 @@ rather than a random period of 24
 hours.
 \dt 30/Aug/2012
 
+\lx slebe
+\ps n
+\ge trollishness
+\ge trollish
+\ng A portmanteau of fv:slim and fv:tlebe.
+\ns A somewhat familiar word referring to
+a form of behaviour comparable to that
+of Internet trolls.
+\dt 07/Jan/2013
+
 \lx slim
 \ps n
 \ge ugliness
 \ge ugly
 \ge inappropriate
 \ge bad
-\dt 29/Apr/2012
+\ge unfit.for.purpose
+\dt 16/Jan/2013
+
+\lx slimpinas
+\ps vi
+\ge look.ugly
+\ge be.ugly
+\ps n
+\ge ugliness
+\ge ugly
+\ge bad-looking
+\nt Refers strictly to one's physical
+appearance.
+\dt 11/Jan/2013
 
 \lx son
 \ps vt
@@ -2292,10 +2478,12 @@ silence.
 \lx status
 \ps n
 \ge state
+\ge country
+\ge nation
 \nt This word only refers to the state as a
 political, sociological and/or
 geographical entity.
-\dt 24/May/2012
+\dt 07/Jan/2013
 
 \lx stul
 \ps vt
@@ -2465,6 +2653,31 @@ does not include very close friends but
 does include acquaintances.
 \dt 03/Dec/2012
 
+\lx teomas
+\ps n
+\ge dear
+\ge darling
+\ge sweetie
+\ns Used to refer strictly to men.
+\dt 02/Jan/2013
+
+\lx teosin
+\ps n
+\ge dear
+\ge darling
+\ge sweetie
+\ns Can refer to men and women, but also
+to animal or inanimate things.
+\dt 02/Jan/2013
+
+\lx teozes
+\ps n
+\ge dear
+\ge darling
+\ge sweetie
+\ns Used to refer strictly to women.
+\dt 02/Jan/2013
+
 \lx tina
 \ps n
 \ge room
@@ -2531,6 +2744,12 @@ sound of a heart beating.
 \ge big.size
 \dt 14/Mar/2012
 
+\lx tunapleg
+\ps n
+\ge size
+\nt Denotes the generic concept of size.
+\dt 16/Jan/2013
+
 \lx uba|s
 \ps vi
 \ge come
@@ -2543,6 +2762,20 @@ sound of a heart beating.
 \ge great
 \ge greatness
 \dt 16/Nov/2009
+
+\lx uflebe
+\ps n
+\ge quality
+\ge value
+\nt Denotes the generic scales rather than
+specific values.
+\dt 16/Jan/2013
+
+\lx ufsin
+\ps n
+\ge good
+\ge goodness
+\dt 11/Jan/2013
 
 \lx ufu
 \ps interj
@@ -2561,6 +2794,11 @@ the sound of a dog barking.
 \ge near
 \ge nearby
 \dt 11/Dec/2012
+
+\lx ukodun
+\ps n
+\ge age
+\dt 16/Jan/2013
 
 \lx ukol
 \ps n
@@ -2687,7 +2925,8 @@ subject in number.
 \lx vone
 \ps n
 \ge cold.water
-\dt 02/Dec/2009
+\ge water
+\dt 15/Jan/2013
 
 \lx vonemune
 \ps n
@@ -2699,6 +2938,27 @@ subject in number.
 \ge Wednesday
 \dt 13/Jan/2010
 
+\lx voslim
+\ps n
+\ge beauty
+\ge appropriateness
+\ge fitness.for.purpose
+\nt Refers to the actual scales, rather than
+to a specific value on those scales.
+\dt 16/Jan/2013
+
+\lx vospinas
+\ps vi
+\ge look.good
+\ge be.beautiful
+\ps n
+\ge beauty
+\ge beautiful
+\ge good-looking
+\nt Refers strictly to one's physical
+appearance.
+\dt 11/Jan/2013
+
 \lx vo|sa
 \ps n
 \ge beauty
@@ -2706,7 +2966,8 @@ subject in number.
 \ge appropriate
 \ge good
 \ge nice
-\dt 29/Apr/2012
+\ge fit.for.purpose
+\dt 16/Jan/2013
 
 \lx -vu|z
 \ps nsf
@@ -2804,6 +3065,14 @@ subject in the instrumental.
 \ps n
 \ge May
 \dt 15/Jan/2010
+
+\lx zuba
+\ps n
+\ge warm.water
+\nt Refers to water that is warm to the
+touch but not scalding, typically the
+temperature of a bath or shower.
+\dt 15/Jan/2013
 
 \lx zu|leb
 \ps vi

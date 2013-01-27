@@ -76,15 +76,15 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey Imonuj
+\fldPriKey son
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri Imonuj
+\fldPri son
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri Imonuj
+\fldPri sezbon
 \MatchWhole
 \match_char p
 \-keyInsert
@@ -96,7 +96,7 @@
 \-cck
 \-wnd
 \+wnd 
-\placement normal 0 0 0 0 0 1 508 640
+\placement normal 0 0 0 0 0 1 509 643
 \z 1
 \ViewMarkers
 \ViewFieldNames
@@ -117,18 +117,18 @@
 \-brf
 \+brf 
 \mkr ge
-\width 178
+\width 179
 \-brf
 \-brflst
 \+ind 
-\mkrPriKey lx
-\srtPriKey Moten
-\mkrSecKey ge
+\mkrPriKey ge
+\srtPriKey English
+\mkrSecKey lx
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey Imonuj
-\fldSecKey New.Year
+\fldPriKey go.before
+\fldSecKey son
 \-rec
 \+keySearch 
 \match_char p
