@@ -76,21 +76,21 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey son
+\fldPriKey mosezgo
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri son
+\fldPri mosu
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri sezbon
+\fldPri mosezgo
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 0
-\CaretLineScroll 0
-\CaretChar 0
+\CaretLine 2
+\CaretLineScroll 2
+\CaretChar 7
 \+cck 
 \mkrSingleField 1d
 \-cck
@@ -127,8 +127,8 @@
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey go.before
-\fldSecKey son
+\fldPriKey foot
+\fldSecKey mosu
 \-rec
 \+keySearch 
 \match_char p

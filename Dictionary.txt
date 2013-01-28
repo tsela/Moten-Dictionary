@@ -1020,10 +1020,21 @@ itself is not a counter.
 \ge GEN
 \dt 17/Nov/2009
 
+\lx ibipiz
+\ps n
+\ge storm
+\ge stormy.weather
+\nt Despite being a compound of fv:ibo
+"wind" and fv:ipiz "strong", it does not
+simply mean "strong wind" but refers
+to the general weather disturbance.
+\dt 28/Jan/2013
+
 \lx ibo
 \ps n
 \ge air
-\dt 26/Aug/2011
+\ge wind
+\dt 28/Jan/2013
 
 \lx ibomune
 \ps n
@@ -1672,6 +1683,11 @@ distance.
 \ge turn
 \dt 01/Feb/2010
 
+\lx mosezgo
+\ps n
+\ge cheetah
+\dt 28/Jan/2013
+
 \lx mosu
 \ps n
 \ge paw
@@ -2103,6 +2119,11 @@ meaning.
 \ge ask.out
 \dt 04/Dec/2012
 
+\lx penlatina
+\ps n
+\ge waiting.room
+\dt 28/Jan/2013
+
 \lx pinas
 \ps vt
 \ge feel
@@ -2430,7 +2451,8 @@ of Internet trolls.
 \ge bad-looking
 \nt Refers strictly to one's physical
 appearance.
-\dt 11/Jan/2013
+\ns Normally never used for oneself.
+\dt 28/Jan/2013
 
 \lx son
 \ps vt
@@ -2957,7 +2979,8 @@ to a specific value on those scales.
 \ge good-looking
 \nt Refers strictly to one's physical
 appearance.
-\dt 11/Jan/2013
+\ns Normally never used for oneself.
+\dt 28/Jan/2013
 
 \lx vo|sa
 \ps n
