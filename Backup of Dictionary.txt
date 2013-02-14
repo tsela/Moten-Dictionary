@@ -50,6 +50,13 @@ indicated with a complement in the
 instrumental or the originative.
 \dt 19/Apr/2012
 
+\lx aguba|s
+\ps vi
+\ge come.and.go
+\ge move.back.and.forth
+\ge be.nervous
+\dt 13/Feb/2013
+
 \lx aja
 \ph aˈja
 \ps interj
@@ -202,12 +209,14 @@ crafts.
 \lx be|s
 \ps n
 \ge height
+\ge depth
 \ge average.height
+\ge average.depth
 \ge average
 \ge medium
 \ge middle
 \nt Can be used as a synonym to fv:finpiv.
-\dt 16/Jan/2013
+\dt 12/Feb/2013
 
 \lx bivo
 \ps n
@@ -247,6 +256,11 @@ animal.
 \ge ankle
 \ng Literally "foot neck"
 \dt 29/Oct/2012
+
+\lx bo
+\ps n
+\ge sky
+\dt 11/Feb/2013
 
 \lx bontu
 \ps n
@@ -357,6 +371,7 @@ in the benefactive.
 \ge in.other.words
 \ge both
 \ge and
+\ge as.well.as
 \ng This particle is used to connect phrases
 together, like fv:opa or fv:me|lo, but is
 semantically quite different, as it
@@ -364,7 +379,7 @@ indicates that the coordinated phrases
 have the same referent. In other
 words, it is equivalent to direct
 apposition in English.
-\dt 28/Nov/2012
+\dt 12/Feb/2013
 
 \lx den
 \ps n
@@ -467,6 +482,12 @@ of the verb is the one having it.
 \ps n
 \ge pear
 \dt 20/Dec/2012
+
+\lx dloalum
+\ps n
+\ge apple
+\ns Literally "fake pear".
+\dt 30/Jan/2013
 
 \lx dloamas
 \ps n
@@ -626,6 +647,12 @@ one remembering is the object.
 \ge sun
 \dt 13/Jan/2010
 
+\lx emekel
+\ps n
+\ge skies
+\ns A somewhat poetic word for "sky".
+\dt 11/Feb/2013
+
 \lx emelog
 \ps n
 \ge summer
@@ -716,15 +743,19 @@ women.
 \ge high
 \ge tall
 \ge great.height
-\dt 14/Mar/2012
+\ge shallowness
+\ge shallow
+\dt 29/Jan/2013
 
 \lx finpiv
 \ps n
 \ge height
+\ge depth
 \ge altitude
-\nt Names the entire scale of height,
-rather than a specific value of height.
-\dt 16/Jan/2013
+\nt Names the entire scale of height/depth,
+rather than a specific value of
+height/depth.
+\dt 29/Jan/2013
 
 \lx fi|zon
 \ps vt
@@ -1132,6 +1163,19 @@ weight or strength.
 \ge reality
 \dt 03/Apr/2012
 
+\lx ivda
+\ps vi
+\ge happen
+\ge fall
+\ge blow
+\ge rage
+\ng This verb's primary meaning is "to
+happen", but it is restricted in use to
+weather phenomena like rain, snow,
+wind and storms, hence the additional
+glosses.
+\dt 08/Feb/2013
+
 \lx iz
 \ps part
 \ge for
@@ -1241,6 +1285,14 @@ fv:neg|nalam).
 \ge man
 \ge husband
 \dt 03/May/2012
+
+\lx ka|se|lon
+\ps n
+\ge couple
+\ge married.couple
+\ns Refers only to romantically-involved
+couples, but including same-sex ones.
+\dt 11/Feb/2013
 
 \lx kej
 \ps part
@@ -1376,6 +1428,26 @@ in ordinal numbers.
 \ge last
 \dt 04/Jan/2010
 
+\lx kuneg
+\ps vt
+\ge end
+\ge finish
+\nt This verb indicates that the subject is
+reaching the natural conclusion of an
+action.
+\dt 12/Feb/2013
+
+\lx kunstul
+\ps vt
+\ge stop
+\ge cease
+\ge give.up
+\nt Unlike fv:ikunegi, this verb indicates
+that the action has been abandoned
+prematurely, before it reached its
+natural completion.
+\dt 12/Feb/2013
+
 \lx lam
 \ps pr
 \ge that
@@ -1473,7 +1545,9 @@ mother's side.
 \ge falsehood
 \ge fictional
 \ge fiction
-\dt 03/Apr/2012
+\ge fake
+\ge fakeness
+\dt 30/Jan/2013
 
 \lx |la
 \ps n
@@ -1683,6 +1757,11 @@ distance.
 \ge turn
 \dt 01/Feb/2010
 
+\lx mosezgo
+\ps n
+\ge cheetah
+\dt 28/Jan/2013
+
 \lx mosu
 \ps n
 \ge paw
@@ -1885,6 +1964,15 @@ lightness or weakness.
 \ge yonder
 \ge that.place.over.there
 \dt 19/Nov/2009
+
+\lx odamla
+\ps n
+\ge brand.newness
+\ge brand.new
+\nt Refers to the quality of something
+which is both newly made and newly
+acquired.
+\dt 12/Feb/2013
 
 \lx odun
 \ps n
@@ -2108,6 +2196,12 @@ meaning.
 \ge expect
 \dt 30/Aug/2011
 
+\lx penlabuta
+\ps vt
+\ge sit.and.wait.for
+\ge be.patient.with
+\dt 13/Feb/2013
+
 \lx penlastul
 \ps vt
 \ge invite
@@ -2140,7 +2234,9 @@ speaker.
 \ge low
 \ge short
 \ge small.height
-\dt 14/Mar/2012
+\ge great.depth
+\ge deep
+\dt 29/Jan/2013
 
 \lx pleg
 \ps n
@@ -2455,8 +2551,9 @@ appearance.
 \ge predate
 \ge go.before
 \nt The root fv:son can be used as a prefix
-to mean "previous, last".
-\dt 03/Dec/2012
+to mean "previous, last", or as a suffix
+to mean "get ready to".
+\dt 15/Feb/2013
 
 \lx spe
 \ps vi
@@ -2528,6 +2625,11 @@ means the object has to be animate.
 types of shops or restaurants.
 \dt 02/Sep/2011
 
+\lx subumpi
+\ps n
+\ge shophouse
+\dt 12/Feb/2013
+
 \lx sugem
 \ps vi
 \ge unite
@@ -2557,6 +2659,14 @@ easy to read and to handle.
 \ge Finland
 \dt 18/Dec/2012
 
+\lx |saa
+\ph t͡saː
+\ps interj
+\ge heavy.rain
+\nt This onomatopoeia represents the
+sound of a heavy rain fall.
+\dt 08/Feb/2013
+
 \lx |se
 \ps n
 \ge tea
@@ -2566,6 +2676,12 @@ easy to read and to handle.
 \ps num
 \ge six
 \dt 30/Dec/2009
+
+\lx |sukamo
+\ps n
+\ge generation
+\ge family.generation
+\dt 11/Feb/2013
 
 \lx |suko
 \ps n
@@ -2652,13 +2768,20 @@ always used with the definite article.
 \ps vt
 \ge please
 \ge be.liked.by
-\ng This verb has basically the same
+\ng This verb has basically a similar
 meaning as the English verb "to like",
 but the subject and object are reversed,
 i.e. the subject of the verb is the thing
 liked, and the object is the one doing
 the liking.
-\dt 26/Apr/2012
+\ns This verb is used mostly to indicate
+non-romantic attraction to people
+(basically "to like as a friend"). It can
+also be used with an inanimate subject
+(usually an activity), but then it is very
+strong, meaning something like "to be
+fond of (doing something)".
+\dt 12/Feb/2013
 
 \lx teolsif
 \ps n
@@ -2702,12 +2825,27 @@ to animal or inanimate things.
 types of rooms.
 \dt 02/Sep/2011
 
+\lx tlap
+\ps n
+\ge light.rain
+\ge rain
+\nt Refers only to small rain showers, not
+to heavy rain falls.
+\dt 10/Feb/2013
+
 \lx tlebe
 \ps n
 \ge mediocre
 \ge mediocrity
 \ge bad
 \dt 30/Nov/2012
+
+\lx tlitlap
+\ps interj
+\ge pitter.patter
+\nt This onomatopoeia represents the
+sound of a light rain shower.
+\dt 08/Feb/2013
 
 \lx tmame
 \ps vt
@@ -3034,8 +3172,8 @@ mother's side.
 \ge follow
 \ge go.after
 \nt The root fv:zek can be used as a prefix
-to mean "previous, last".
-\dt 03/Dec/2012
+to mean "following, next".
+\dt 12/Feb/2013
 
 \lx zelo
 \ps n
@@ -3044,6 +3182,18 @@ to mean "previous, last".
 mathematical or scientific contexts to
 refer to the mathematical zero.
 \dt 05/Jan/2010
+
+\lx zenk
+\lc zen(k)
+\ps vt
+\ge stop
+\ge wait.with
+\nt This verb means "to stop momentarily",
+i.e. "to stop with the intention of
+starting again later". It can also be
+used to mean "to wait with doing
+something".
+\dt 12/Feb/2013
 
 \lx -zes
 \ps nsf
@@ -3181,6 +3331,25 @@ in ordinal numbers.
 \ps num
 \ge first
 \dt 04/Jan/2010
+
+\lx |zajstul
+\ps vt
+\ge start
+\ge begin
+\nt unlike fv:i|za|negi, this verb shows no
+expectation of carrying on until the end.
+\dt 12/Feb/2013
+
+\lx |za|neg
+\ps vt
+\ge start
+\ge begin
+\nt This verb means "to start with the
+intention of going through until the
+end", i.e. it is used when the subject's
+intention is to stop only when the action
+has reached its natural conclusion.
+\dt 12/Feb/2013
 
 \lx |zika
 \ps n

@@ -46,7 +46,7 @@
 \+db C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Dictionary.txt
 \+wndlst 
 \+wnd 
-\placement normal 480 437 0 0 507 0 1019 640
+\placement normal -1 -1 0 0 638 0 1276 668
 \z 0
 \ViewMarkers
 \ViewMarkerHierarchy
@@ -67,7 +67,7 @@
 \-brf
 \+brf 
 \mkr ge
-\width 275
+\width 401
 \-brf
 \-brflst
 \+ind 
@@ -76,27 +76,27 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey mosezgo
+\fldPriKey zek
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri mosu
+\fldPri zek
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri mosezgo
+\fldPri penlabuta
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 2
-\CaretLineScroll 2
-\CaretChar 7
+\CaretLine 6
+\CaretLineScroll 6
+\CaretChar 117
 \+cck 
 \mkrSingleField 1d
 \-cck
 \-wnd
 \+wnd 
-\placement normal 0 0 0 0 0 1 509 643
+\placement normal -1 -1 0 0 0 0 638 668
 \z 1
 \ViewMarkers
 \ViewFieldNames
@@ -117,18 +117,18 @@
 \-brf
 \+brf 
 \mkr ge
-\width 179
+\width 308
 \-brf
 \-brflst
 \+ind 
-\mkrPriKey ge
-\srtPriKey English
-\mkrSecKey lx
+\mkrPriKey lx
+\srtPriKey Moten
+\mkrSecKey ge
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey foot
-\fldSecKey mosu
+\fldPriKey zek
+\fldSecKey follow
 \-rec
 \+keySearch 
 \match_char p
