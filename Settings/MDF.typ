@@ -291,6 +291,7 @@
 \desc Intended for interlinear morpheme-level glossing. Join multi-word glosses with (_), e.g. wild_boar; use (space semicolon space) for multiple glosses, e.g. hut ; house ; shack. Used for reversing the dictionary if an \re field is not present (or is present but empty); also as an English definition in a formatted dictionary if there is no \de field (or it is present but empty).
 \lng English
 \mkrOverThis sn
+\mkrFollowingThis ge
 \CharStyle
 \-mkr
 
@@ -361,6 +362,7 @@
 \rgbColor 0,0,0
 \-fnt
 \mkrOverThis sn
+\mkrFollowingThis lv
 \CharStyle
 \-mkr
 
@@ -393,6 +395,7 @@
 \desc Used for the vernacular lexeme in a lexical function network. The \lv field "points to" the vernacular lexeme (a morpheme, word, or phrase) that is semantically related to the current headword as mapped or cataloged by the label in the \lf field.
 \lng Moten
 \mkrOverThis lf
+\mkrFollowingThis le
 \CharStyle
 \-mkr
 
@@ -906,8 +909,27 @@
 \-jmpset
 
 \+template 
+\fld \lc
+\fld \hm
+\fld \ph
 \fld \ps
+\fld \sn
 \fld \ge
+\fld \re
+\fld \de
+\fld \oe
+\fld \ue
+\fld \ee
+\fld \xv
+\fld \xe
+\fld \lf
+\fld \lv
+\fld \le
+\fld \cf
+\fld \ce
+\fld \sd
+\fld \lt
+\fld \mr
 \-template
 \mkrRecord lx
 \mkrSecKey hm
@@ -939,7 +961,7 @@
 \titleGlossIndexNE Bahasa Ingris — Bahasa Selaru
 \titleGlossIndexNN Bahasa Indonesia — Bahasa Selaru
 \titleGlossIndexNR Bahasa Ambon — Bahasa Selaru
-\exportedEnglishDiglot C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Dict_ed.rtf
+\exportedEnglishDiglot C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Dict_Moten.rtf
 \cctEnglishLabels mdf_eng.cct
 \dotEnglish mdf_e.dot
 \cctNationalLabels mdf_inz.cct
@@ -998,7 +1020,6 @@
 \-expSF
 
 \expDefault Multi-Dictionary Formatter
-\AutoOpen
 \-expset
 \PreventNumbering
 \DisableNumbering

@@ -2,1197 +2,4722 @@
 \_DateStampHasFourDigitYear
 
 \lx a
+\lc
+\hm
+\ph
 \ps pr
+\sn
 \ge there
-\ge that.place
-\dt 19/Nov/2009
+\re
+\de there, that place
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 21/Feb/2013
 
 \lx abal
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge dreadfulness
 \ge lousiness
 \ge dreadful
 \ge lousy
 \ge bad
-\dt 30/Nov/2012
+\re
+\de dreadfulness, lousiness; also as adj.
+dreadful, lousy, bad
+\oe
+\ue
+\ee Using fv:abal is no more than a
+statement of opinion. A strong
+statement of aversion, but just an
+opinion nonetheless. Since being
+disgusted with something does not
+necessarily mean it is unfit for purpose,
+something being fv:abal does not
+necessarily mean it is also fv:slim
+(although the two often go hand in
+hand). Similarly, fv:abal is different
+from fv:tlebe in that the latter implies
+an objectively bad quality. If you call
+something fv:tlebe, you will be
+expected to be able to justify that
+statement. If you call something fv:abal
+instead, the worst you can expect is
+someone asking you why you have
+such an opinion.
+\xv
+\xe
+\lf Sim
+\lv slim
+\le inappropriateness
+\lf Sim
+\lv tlebe
+\le mediocrity
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 21/Feb/2013
 
 \lx ada
+\lc
+\hm
+\ph
 \ps nc
+\sn
 \ge year
-\dt 15/Jan/2010
+\re
+\de year, calendar year
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 21/Feb/2013
 
 \lx adakun
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge December
-\dt 15/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt year end
+\mr ada-kun
+\dt 21/Feb/2013
 
 \lx ada|zaj
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge January
-\dt 15/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt year start
+\mr ada-|zaj
+\dt 21/Feb/2013
 
 \lx Adodun
+\lc
+\hm
+\ph
 \ps np
-\ge New.Year
-\ns Refers to the new year itself. The
-celebration itself is called fv:Imonuj,
-literally "the Turning".
-\dt 27/Dec/2012
+\sn
+\ge New_Year
+\re
+\de
+\oe
+\ue
+\ee Refers to the new year itself. The
+celebration of going from one year to
+the next is called fv:Imonuj: 'the
+Turning'.
+\xv
+\xe
+\lf Sim
+\lv Imonuj
+\le the Turning
+\cf
+\ce
+\sd
+\lt year young
+\mr ada-odun
+\dt 21/Feb/2013
 
 \lx ag
+\lc
+\hm
+\ph
 \ps vi
+\sn 1
 \ge go
+\re
+\de to go
+\oe Speaker-oriented: fv:jagi always refers
+to motion away from the speaker.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge leave
-\ge be.worth
-\ng When fv:jagi is used to mean "to be
-worth", the value of the subject can be
-indicated with a complement in the
-instrumental or the originative.
-\dt 19/Apr/2012
+\re
+\de to leave
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge be_worth
+\re
+\de to be worth
+\oe
+\ue
+\ee In this sense, the value of the subject
+can be indicated with an adverbial
+phrase in the instrumental or the
+originative.
+\xv
+\xe
+\lf Cpart
+\lv uba|s
+\le to come
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx aguba|s
+\lc
+\hm
+\ph
 \ps vi
-\ge come.and.go
-\ge move.back.and.forth
-\ge be.nervous
-\dt 13/Feb/2013
+\sn 1
+\ge come_and_go
+\ge move_back_and_forth
+\re
+\de to come and go, to move back and
+forth
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge be_nervous
+\re
+\de to be nervous
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt go & come
+\mr ag-uba|s
+\dt 25/Feb/2013
 
 \lx aja
+\lc
+\hm
 \ph aˈja
 \ps interj
+\sn
 \ge eh
-\nt This is an interjection used when
+\ge what
+\re
+\de 'eh', 'what'
+\oe
+\ue
+\ee This is an interjection used when
 someone is startled by something, to
 indicate surprise.
-\dt 15/Feb/2012
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
 
 \lx ak
+\lc
+\hm
+\ph
 \ps vi
+\sn
 \ge exist
-\ns This verb is used to assert the
+\re
+\de to exist
+\oe This verb is used to assert the
 existence of fv:sponda, i.e. small
 animals, as well as inanimate objects or
 concepts.
-\dt 30/Aug/2012
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv spe
+\le to exist
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx akfe|su
+\lc
+\hm
+\ph
 \ps interj
-\ge sorry.for.leaving.early
-\dt 07/Jan/2013
+\sn
+\ge sorry_for_leaving_early
+\re
+\de 'sorry for leaving early', 'I have to go
+now', 'bye'
+\oe
+\ue
+\ee This expression is used when someone
+leaves someone else, especially in
+cases when they were not meant to
+leave yet. However, it is considered
+polite to use it even when people leave
+as planned.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt go sorry
+\mr ag-fe|su
+\dt 21/Feb/2013
 
 \lx a|lek
+\lc
+\hm
+\ph
 \ps vt
+\sn 1
 \ge find
-\ge find.out
+\ge find_out
+\re
+\de to find (sthg), to find (sthg) out
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge discover
 \ge uncover
-\nt This verb is used only for abstract
-finds, i.e. to indicate the discovery of a
-solution to a problem, the answer to a
-question, or the revelation of a
-mystery. For locating a lost object or
-person, use fv:zunla|lek.
-\dt 27/Mar/2012
+\re
+\de to discover (sthg), to uncover (sthg)
+\oe Only used for abstract finds, like
+finding the solution of a problem, the
+answer to a question, or the revelation
+of a mystery. For locating a lost object
+or person, use the verb fv:izunla|leki.
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv zunla|lek
+\le to find, to locate
+\lf Cpart
+\lv foto
+\le to look for, to research
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx Amelika
+\lc
+\hm
+\ph
 \ps np
+\sn
 \ge America
-\dt 24/May/2012
+\re
+\de
+\oe As in English, it can refer to both
+American continent and the country of
+the United States.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 21/Feb/2013
 
 \lx amla
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge newness
 \ge new
-\nt Used to indicate that an item has been
+\re
+\de newness; also as adj. new, just bought
+\oe
+\ue
+\ee Used to indicate that an item has been
 newly acquired. It does not necessarily
 indicate that the item itself is newly
-built. I can also be used of people, to
+built. It can also be used of people, to
 indicate people newly met, or just
 starting in a specific position.
-\dt 29/Nov/2012
+\xv
+\xe
+\lf Ant
+\lv mabo
+\le ancientness
+\lf Sim
+\cf odun
+\ce youth, newness
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx amo
+\lc
+\hm
+\ph
 \ps n
-\ge different-sex.sibling
-\ge different-sex.first.cousin
-\ge different-sex.close.friend
-\nt A male's sister or female's brother.
-Also a first cousin of opposite sex.
-Also used metaphorically to refer to a
-very close friend of the opposite sex.
-\dt 03/Dec/2012
+\sn 1
+\ge different-sex_sibling
+\ge different-sex_first_cousin
+\ge brother
+\ge sister
+\ge cousin
+\re
+\de someone who is ego's sibling or first
+cousin (child of an uncle or aunt of
+ego), of opposite sex from ego
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge different-sex_close_friend
+\ge friend
+\ge close_friend
+\re
+\de a very close friend of the opposite sex
+\oe
+\ue This usage is not unlike the use of 'bro'
+or 'sister' in some American circles,
+except that it is acceptable in all
+registers.
+\ee
+\xv
+\xe
+\lf Cpart
+\lv |suko
+\le same-sex sibling, cousin or friend
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx -ano
+\lc
+\hm
+\ph
 \ps nsf
-\ge th
-\dt 05/Jan/2010
+\sn
+\ge -th
+\re
+\de ordinal number suffix
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx apa
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge star
-\dt 17/Nov/2009
+\re
+\de
+\oe Only used in the sense of the celestial
+body, or its appearance in the sky.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx apasiza
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge Saturday
-\dt 13/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt star day
+\mr apa-siza
+\dt 22/Feb/2013
 
 \lx a|sin
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge flame
-\dt 02/Jan/2013
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv at1
+\le fire
+\cf
+\ce
+\sd
+\lt little fire
+\mr at1-sin
+\dt 25/Feb/2013
 
 \lx a|siza
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge Tuesday
-\dt 13/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt fire day
+\mr at1-siza
+\dt 22/Feb/2013
 
 \lx at
-\ps pr
-\ge then
-\ge that.time
-\dt 19/Nov/2009
-
-\lx at
+\lc
+\hm 1
+\ph
 \ps n
+\sn
 \ge fire
-\dt 25/Nov/2009
+\re
+\de
+\oe
+\ue
+\ee Refers to both the elemental concept
+and an actual burning fire.
+\xv
+\xe
+\lf Spec
+\lv a|sin
+\le flame
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
+
+\lx at
+\lc
+\hm 2
+\ph
+\ps pr
+\sn
+\ge then
+\re
+\de then, that time
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx atmune
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge August
-\dt 15/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt fire month
+\mr at1-mune
+\dt 22/Feb/2013
 
 \lx ba
+\lc
+\hm
+\ph
 \ps pr
+\sn
 \ge you.SG
-\dt 19/Nov/2009
+\re
+\de second person singular pronoun
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx badi
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge dog
-\dt 28/Dec/2009
+\re
+\de dog; a domesticated canine
+\oe Does not specify or imply gender.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
+
+\lx Balat
+\lc
+\hm
+\ph
+\ps np
+\sn
+\ge India
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx bazin
+\lc
+\hm
+\ph
 \ps n
-\ge small.town
+\sn
 \ge village
-\dt 02/Jan/2013
+\ge small_town
+\re
+\de
+\oe
+\ue
+\ee A settlement bigger than a hamlet but
+smaller than a town. Not necessarily
+rural.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt little town
+\mr bazlo-sin
+\dt 22/Feb/2013
 
 \lx bazlo
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge town
 \ge city
-\dt 02/Dec/2009
+\re
+\de
+\oe
+\ue
+\ee A large settlement, generally
+urbanised.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx bel
+\lc
+\hm
+\ph
 \ps n
+\sn
+\ge occupation
 \ge art
 \ge craft
-\nt Used as a suffix to indicate arts and
-crafts.
-\dt 02/Sep/2011
+\re
+\de
+\oe
+\ue
+\ee A category of human activity, often but
+not necessarily artistic in nature. Arts
+and crafts fall under fv:bel, but so do
+scientific endeavours and teaching.
+Also used as a suffix to name those
+activities.
+\xv
+\xe
+\lf Cpart
+\lv go
+\le profession, job
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx Belzik
+\lc
+\hm
+\ph
 \ps np
+\sn
 \ge Belgium
-\dt 24/May/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx be|leg
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge form
 \ge shape
 \ge appearance
 \ge figure
-\dt 28/Nov/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx be|s
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge height
 \ge depth
-\ge average.height
-\ge average.depth
+\re
+\de height, depth; length in the vertical
+direction, whether upwards or
+downwards
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Syn
+\lv finpiv
+\le height, depth, altitude
+\cf
+\ce
+\sd
+\lt
+\sn 2
+\ge average_height
+\ge average_depth
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\sn 3
 \ge average
 \ge medium
 \ge middle
-\nt Can be used as a synonym to fv:finpiv.
-\dt 12/Feb/2013
+\re
+\de
+\oe Used both as a noun or an adjective.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx bivo
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge quantity
+\re
+\de
+\oe Can be both continuous or
+discontinuous.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge number
-\dt 30/Nov/2012
+\ge cardinal_number
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv poga
+\le rank, number, ordinal number
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx bivostul
+\lc
+\hm
+\ph
 \ps vt
+\sn 1
 \ge count
+\re
+\de to count (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge measure
-\nt Means "to count" when referring to
-groups of discrete items, and "to
-measure" when referring to continuous
+\re
+\de to measure (sthg)
+\oe Means 'to count' when referring to
+groups of discrete items, and 'to
+measure' when referring to continuous
 quantities.
-\dt 03/Dec/2012
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv pogastul
+\le to rank
+\cf
+\ce
+\sd
+\lt quantity summon
+\mr bivo-stul
+\dt 28/Feb/2013
 
 \lx bnam
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge foot
 \ge leg
 \ge paw
-\ns This word is used exclusively to refer
-to the foot or leg of a person, or to the
-leg or paw of a fv:kit, i.e. a large
-animal.
-\dt 26/Apr/2012
+\re
+\de
+\oe Used exclusively to refer to the foot or
+leg of a person, or to the leg or paw of
+a fv:kit, i.e. a large animal.
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv mosu
+\le paw, foot, leg
+\lf Cpart
+\lv jez
+\le hand, arm
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx bnameno
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge shoe
 \ge boot
-\dt 19/Dec/2012
+\re
+\de shoe, boot; a protecting covering for
+the foot, that may or may not extend
+above the ankle
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv meno
+\le glove
+\cf
+\ce
+\sd
+\lt foot glove
+\mr bnam-meno
+\dt 22/Feb/2013
 
 \lx bnampoma
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge ankle
-\ng Literally "foot neck"
-\dt 29/Oct/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv jespoma
+\le wrist
+\cf
+\ce
+\sd
+\lt foot neck
+\mr bnam-poma
+\dt 22/Feb/2013
 
 \lx bo
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge sky
-\dt 11/Feb/2013
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv emekel
+\le skies
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx bontu
+\lc
+\hm
+\ph
 \ps n
-\ge slow
+\sn
+\ge low_speed
 \ge slowness
-\ge low.speed
-\dt 10/Jan/2012
+\ge slow
+\re
+\de low speed, slowness; also as adj. slow
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv sezgo
+\le high speed
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx bunes
+\lc
+\hm
+\ph
 \ps vt
-\ge become.bothered.by
-\ge become.annoyed.by
-\ge become.disturbed.by
-\ge become.irritated.by
-\ng This verb is equivalent to the English
-verbs "to bother", "to annoy", "to
-disturb" and "to irritate", but with a
-different orientation: the subject
-undergoes the irritation, while the
-object is the cause of it. It is essentially
-a synonym of fv:igmadevi, although
-weaker in meaning.
-\dt 13/Nov/2012
+\sn
+\ge become_bothered_by
+\ge become_annoyed_by
+\ge become_disturbed_by
+\ge become_irritated_by
+\ge bother
+\ge annoy
+\ge disturb
+\ge irritate
+\re
+\de to become bothered by (sthg or s.o.), to
+become irritated by (sthg or s.o.)
+\oe
+\ue
+\ee This verb is equivalent to English verbs
+like 'to bother', 'to annoy' or 'to irritate',
+but with a different orientation: the
+subject undergoes the irritation, while
+the object is the cause of it.
+\xv
+\xe
+\lf Sim
+\lv gmadev
+\le to suffer from, to get fed up with
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx buta
+\lc
+\hm
+\ph
 \ps vi
+\sn
 \ge sit
-\dt 14/Mar/2012
+\re
+\de to sit
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx -d-
-\a -ud-
-\a -zd-
-\u s+ -d-
-\u z+ -d-
-\u |s+ -d-
-\u |z+ -d-
-\a -d-
-\u t+ -d-
-\a -ft-
-\u f+ -d-
-\a -kt-
-\u k+ -d-
-\a -pt-
-\u p+ -d-
+\lc
+\hm
+\ph
 \ps case
+\sn
 \ge ACC.SG
-\dt 15/Nov/2009
+\re
+\de singular accusative infix
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx daa
+\lc
+\hm
 \ph daː
 \ps interj
-\ge come.on
+\sn
+\ge come_on
 \ge hey
-\nt This is an interjection used to indicate
+\re
+\de 'come on', 'hey'
+\oe
+\ue
+\ee This is an interjection used to indicate
 encouragement or exasperation.
-\dt 15/Feb/2012
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx dabolna
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge moment
 \ge instant
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge time
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
 \ps vi
+\sn
 \ge happen
-\dt 17/Jan/2013
+\re
+\de to happen
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx daj
+\lc
+\hm
+\ph
 \ps nc
+\sn
 \ge hour
-\dt 11/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx dati
+\lc
+\hm
+\ph
 \ps n
-\ge way
-\ge manner
+\sn 1
 \ge thing
 \ge concept
-\nt It is used for abstract things, as
-opposed to fv:ipi.
-\dt 02/Sep/2011
+\re
+\de
+\oe Used for abstract things and concepts,
+as opposed to fv:ipi.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge manner
+\ge way
+\re
+\de manner, way (of doing something)
+\oe
+\ue
+\ee Also used as an affix in this sense, to
+form various concept nouns, usually
+derived from verbs.
+\xv
+\xe
+\lf Cpart
+\lv ipi
+\le thing, object, tool
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx davi|z
+\lc
+\hm
+\ph
 \ps vt
+\sn 1
+\ge be_happy_with
+\ge be_content_with
+\re
+\de to be happy with (sthg or s.o.), to be
+content with (sthg or s.o.)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge thank
-\ge thank.for
-\ge be.happy.with
-\ge be.content.with
-\nt This verb is used to indicate happiness
-from the subject, but also to give
-thanks.
-\ng The object of this verb is always the
-thing or person the subject is happy
-with or thanking someone for. When
-indicated, the recipient of the thanks is
-in the benefactive.
-\dt 02/Apr/2012
+\ge thank_for
+\re
+\de to thank for (sthg or s.o.)
+\oe
+\ue
+\ee The object of this verb is always what
+the subject is happy with, or thanking
+someone for. When indicated, the
+recipient of the thanks is in the
+benefactive.
+\xv
+\xe
+\lf Idiom
+\lv davi|zo
+\le thank you
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx davi|zo
+\lc
+\hm
+\ph
 \ps interj
-\ge thank.you
+\sn
+\ge thank_you
 \ge thanks
-\dt 04/Dec/2012
+\re
+\de 'thank you', 'thanks'
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv davi|z
+\le to be happy with, to thank
+\lf Sim
+\lv vepe|ne
+\le sorry, thank you
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx de
+\lc
+\hm
+\ph
 \ps part
-\ge that.is
-\ge that.is.to.say
-\ge in.other.words
+\sn
+\ge that_is
+\ge that_is_to_say
+\ge in_other_words
 \ge both
 \ge and
-\ge as.well.as
-\ng This particle is used to connect phrases
+\ge as_well_as
+\re
+\de and, as well as, that is to say; usually
+corresponds to a simple apposition
+\oe This particle is used to connect phrases
 together, like fv:opa or fv:me|lo, but is
-semantically quite different, as it
-indicates that the coordinated phrases
-have the same referent. In other
-words, it is equivalent to direct
-apposition in English.
-\dt 12/Feb/2013
+semantically quite different. It indicates
+that the coordinated phrases have the
+same referent. In other words, it is
+equivalent to direct apposition in
+English.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx den
+\lc
+\hm
+\ph
 \ps n
-\ge hot.water
-\nt Refers to scalding hot water, all the
+\sn
+\ge hot_water
+\ge water
+\re
+\de hot water
+\oe Refers to scalding hot water, all the
 way up to boiling water.
-\dt 15/Jan/2013
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv vone
+\le cold water
+\lf Cpart
+\lv zuba
+\le warm water
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx di-
-\a di|na-
-\u di- +na
-\a di|ne-
-\u di- +ne
-\a di|ni-
-\u di- +ni
-\a di|no-
-\u di- +no
-\a di|nu-
-\u di- +nu
-\a di|la-
-\u di- +la
-\a di|le-
-\u di- +le
-\a di|li-
-\u di- +li
-\a di|lo-
-\u di- +lo
-\a di|lu-
-\u di- +lu
-\a dja-
-\u di- +a
-\a dje-
-\u di- +e
-\a djo-
-\u di- +o
-\a dju-
-\u di- +u
-\a di-
-\u di- +i
+\lc
+\hm
+\ph
 \ps pref
+\sn
 \ge TEMP
-\dt 17/Nov/2009
+\re
+\de optional prefix casting the core cases
+into their temporal meanings
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx diba
+\lc
+\hm
+\ph
 \ps vt
-\ge be.believed.by
-\ge be.thought.by
-\ge be.found.by
-\ge be.considered.by
-\ng This verb corresponds mostly to the
-English verbs "to think", "to believe",
-"to consider", "to find" (when they are
-used to indicate an opinion) but with
-opposite argument orientation: the
-subject is the opinion, while the object
-of the verb is the one having it.
-\dt 15/May/2012
+\sn
+\ge be_believed_by
+\ge be_thought_by
+\ge be_found_by
+\ge be_considered_by
+\ge believe
+\ge think
+\ge find
+\ge consider
+\re
+\de to be believed by (s.o.), to be thought
+by (s.o.), to be considered by (s.o.)
+\oe
+\ue
+\ee This verb is used to state an opinion,
+like some uses of verbs like 'to think' or
+'to believe'. However, it does so with a
+different argument orientation: the
+subject of the verb is the opinion, while
+the object is the person having it.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx difoja
+\lc
+\hm
+\ph
 \ps num
-\ge middle.rank
-\dt 04/Jan/2010
+\sn
+\ge middle_rank
+\re
+\de middle rank; an ordinal number
+indicating a position in the middle of an
+ordered list
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx dikovo|sedan
+\lc
+\hm
+\ph
 \ps exp
+\sn
 \ge normally
-\ge when.things.go.well
-\dt 07/Dec/2012
+\ge when_things_go_well
+\re
+\de
+\oe
+\ue
+\ee An idiom used as is, usually as a
+disjunct.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt during with the appropriateness
+\mr di-ko-vo|s<e><d>a-n
+\dt 26/Feb/2013
 
 \lx dilku|lu
+\lc
+\hm
+\ph
 \ps n
-\ge mother.tongue
-\ge native.language
-\dt 07/Jan/2013
+\sn
+\ge mother_tongue
+\ge native_language
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt mother language
+\mr di|la-ku|lu
+\dt 22/Feb/2013
 
 \lx di|la
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge mother
-\dt 25/Nov/2009
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv ge|sem
+\le father
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx di|lamo
+\lc
+\hm
+\ph
 \ps n
-\ge maternal.uncle
+\sn
+\ge maternal_uncle
 \ge uncle
-\dt 18/Dec/2012
+\re
+\de maternal uncle, ego's mother's brother
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv di|luko
+\le maternal aunt
+\lf Cpart
+\lv ge|suko
+\le paternal uncle
+\lf Cpart
+\lv ge|samo
+\le paternal aunt
+\cf
+\ce
+\sd
+\lt mother different-sex sibling
+\mr di|la-amo
+\dt 22/Feb/2013
 
 \lx di|luko
+\lc
+\hm
+\ph
 \ps n
-\ge maternal.aunt
+\sn
+\ge maternal_aunt
 \ge aunt
-\dt 18/Dec/2012
+\re
+\de maternal aunt; ego's mother's sister
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv di|lamo
+\le maternal uncle
+\lf Cpart
+\lv ge|suko
+\le paternal uncle
+\lf Cpart
+\lv ge|samo
+\le paternal aunt
+\cf
+\ce
+\sd
+\lt mother same-sex sibling
+\mr di|la-|suko
+\dt 22/Feb/2013
 
 \lx dizes
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge mum
+\ge mom
 \ge mommy
-\dt 02/Jan/2013
+\re
+\de
+\oe
+\ue Informal and endearing, used mostly by
+children to refer to their own mothers.
+\ee
+\xv
+\xe
+\lf Cpart
+\lv gemas
+\le daddy
+\cf
+\ce
+\sd
+\lt little mother
+\mr di|la-zes
+\dt 22/Feb/2013
 
 \lx dloa
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge pear
-\dt 20/Dec/2012
+\re
+\de
+\oe Refers to the fruit only.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Feb/2013
 
 \lx dloalum
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge apple
-\ns Literally "fake pear".
-\dt 30/Jan/2013
+\re
+\de
+\oe Refers to the fruit only
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt fake pear
+\mr dloa-luma
+\dt 22/Feb/2013
 
 \lx dloamas
+\lc
+\hm
+\ph
 \ps n
-\ge fatty.man
-\nt Originally the male diminutive of
-fv:dloa: "pear", used ironically.
-\ns Pejorative.
-\dt 24/Dec/2012
+\sn
+\ge fatty_man
+\ge fatty
+\re
+\de fatty man
+\oe
+\ue Pejorative word referring to
+overweight men and boys.
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt little male pear
+\mr dloa-mas
+\dt 22/Feb/2013
 
 \lx dloasin
+\lc
+\hm
+\ph
 \ps n
-\ge light.bulb
-\nt Originally the generic diminutive of
-fv:dloa: "pear".
-\dt 23/Dec/2012
+\sn
+\ge light_bulb
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt little pear
+\mr dloa-sin
+\dt 22/Feb/2013
 
 \lx dloazes
+\lc
+\hm
+\ph
 \ps n
-\ge fatty.woman
-\nt Originally the female diminutive of
-fv:dloa: "pear", used ironically.
-\ns Pejorative.
-\dt 24/Dec/2012
+\sn
+\ge fatty_woman
+\ge fatty
+\re
+\de fatty woman
+\oe
+\ue Pejorative word referring to
+overweight women and girls.
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt little female pear
+\mr dloa-zes
+\dt 22/Feb/2013
 
 \lx dod
+\lc
+\hm
+\ph
 \ps nc
-\ge evening
+\sn
 \ge night
-\nt Literally, means "the period of
-darkness between sunset and sunrise".
-\dt 30/Aug/2012
+\ge evening
+\re
+\de night, evening; the period of darkness
+between sunset and sunrise
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv gom
+\le day
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
+
+\lx doj|slanku|lu
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge German_language
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv ku|lu
+\le language
+\cf
+\ce
+\sd
+\lt Germany language
+\mr Doj|slan(t)-ku|lu
+\dt 25/Feb/2013
 
 \lx Doj|slant
 \lc Doj|slan(t)
+\hm
+\ph
 \ps np
+\sn
 \ge Germany
-\dt 24/May/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
 
 \lx e
+\lc
+\hm
+\ph
 \ps pr
+\sn
 \ge here
-\ge this.place
-\dt 19/Nov/2009
+\re
+\de here, this place
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
 
 \lx -e-
-\a -eju-
-\u -e- +u
-\a -ej-
-\u -e- +i
+\lc
+\hm
+\ph
 \ps art
+\sn
 \ge DEF
-\dt 17/Nov/2009
+\re
+\de definiteness infix
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
 
 \lx eg
+\lc
+\hm
+\ph
 \ps num
+\sn
 \ge two
-\dt 30/Dec/2009
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
 
 \lx egetolda|n
+\lc
+\hm
+\ph
 \ps n
+\sn
+\ge 24-hour_period
 \ge day
-\ge 24-hour.period
-\nt Another near-synonym of fv:gomdod
-and fv:siza.
-\dt 30/Aug/2012
+\re
+\de day; continuous 24-hour period that
+may start at any time
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Syn
+\lv gomdod
+\le day, day & night
+\lf Sim
+\lv siza
+\le calendar day
+\cf
+\ce
+\sd
+\lt for twenty-four hours
+\mr eg-geni-tol-d<d>aj-n
+\dt 25/Feb/2013
 
 \lx ej
+\lc
+\hm
+\ph
 \ps vt
+\sn
 \ge make
 \ge build
-\dt 23/Aug/2010
+\re
+\de to make (sthg), to build (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv neg
+\le to do
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx ejo
+\lc
+\hm
 \ph eˈjo
 \ps interj
+\sn
 \ge eh
 \ge what
 \ge sorry
-\nt This interjection is used to show
+\re
+\de 'eh', 'what', 'sorry'
+\oe
+\ue
+\ee This interjection is used to show
 wonder or disbelief.
-\dt 15/Feb/2012
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
+
+\lx Ejuskal
+\lc
+\hm
+\ph
+\ps np
+\sn
+\ge Basque_people
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
+
+\lx ejuskalfokez
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge Basque_person
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv fokez
+\le person
+\cf
+\ce
+\sd
+\lt Basque people person
+\mr Ejuskal-fokez
+\dt 25/Feb/2013
+
+\lx ejuskalku|lu
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge Basque_language
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv ku|lu
+\le language
+\cf
+\ce
+\sd
+\lt Basque people language
+\mr Ejuskal-ku|lu
+\dt 25/Feb/2013
 
 \lx ekkee
+\lc
+\hm
 \ph ekˈkeː
 \ps interj
+\sn
 \ge ouch
-\ge ow
-\nt This interjection indicates physical or
+\re
+\de 'ouch', 'ow'
+\oe
+\ue
+\ee This interjection indicates physical or
 metaphorical pain.
-\dt 15/Feb/2012
+\xv
+\xe
+\lf Syn
+\lv ikkee
+\le ouch
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx eksa
+\lc
+\hm
+\ph
 \ps vt
+\sn 1
 \ge touch
+\ge feel_by_touch
+\re
+\de to touch (sthg or s.o.), to feel by touch
+(sthg or s.o.)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge hit
-\ge meet.by.chance
-\ge run.into
+\re
+\de to hit (sthg or s.o.)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge meet_by_chance
+\ge run_into
 \ge encounter
-\ge feel.by.touch
-\dt 09/Jan/2013
+\re
+\de to run into (s.o.), to meet (s.o.) by
+chance, to encounter (s.o.)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx eksin
+\lc
+\hm
+\ph
 \ps vt
-\ge touch.lightly
-\ge brush.past
-\ge feel.somewhat
-\dt 09/Jan/2013
+\sn
+\ge touch_lightly
+\ge brush_past
+\re
+\de to touch (sthg or s.o.) lightly, to brush
+past (sthg or s.o.), to feel (sthg or s.o.)
+somewhat
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx Elas
+\lc
+\hm
+\ph
 \ps np
+\sn
 \ge Greece
-\dt 24/May/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
+
+\lx elasku|lu
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge Greek_language
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv ku|lu
+\le language
+\cf
+\ce
+\sd
+\lt Greece language
+\mr Elas-ku|lu
+\dt 25/Feb/2013
 
 \lx elej
+\lc
+\hm
+\ph
 \ps vi
+\sn
 \ge sleep
+\re
+\de to sleep
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
 \ps n
+\sn
 \ge sleep
-\dt 25/Nov/2009
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
+
+\lx elejtina
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge bedroom
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt sleep room
+\mr elej-tina
+\dt 25/Feb/2013
 
 \lx elojma
+\lc
+\hm
+\ph
 \ps vt
-\ge be.thought.of.by
-\ge be.thought.about.by
-\ge be.pondered.by
-\ng This verb corresponds mostly to the
-English verbs "to think" and "to
-ponder", but with opposite argument
-orientation: the subject is the thing
-being thought about, while the object of
-the verb is the one doing the thinking.
-\dt 27/Apr/2012
+\sn
+\ge be_thought_of_by
+\ge be_thought_about_by
+\ge be_pondered_by
+\ge think_of
+\ge think_about
+\ge ponder
+\re
+\de to be thought of/about by (s.o.), to be
+pondered by (s.o.)
+\oe
+\ue
+\ee This verb refers to the mental activity
+usually referred to as 'thinking' in
+English. However, it does so with a
+different argument orientation: the
+subject of the verb is the thought, while
+the object is the person having it.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx elojmastul
+\lc
+\hm
+\ph
 \ps vt
-\ge be.remembered.by
-\ng This verb is equivalent to the English
-verb "to remember", but with the
-opposite orientation: the thing
-remembered is the subject, while the
-one remembering is the object.
-\dt 27/Apr/2012
+\sn
+\ge be_remembered_by
+\ge remember
+\re
+\de to be remembered by (s.o.)
+\oe
+\ue
+\ee This verb refers to the mental activity
+of accessing memories. However, it
+does so with a different argument
+orientation: the subject of the verb is
+the memory, while the object is the
+person remembering it.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt be thought of summon
+\mr elojma-stul
+\dt 28/Feb/2013
 
 \lx elojmastulsif
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge memory
-\dt 19/Dec/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt one that is remembered
+\mr elojma-stul-sif
+\dt 25/Feb/2013
 
 \lx e|lon
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge woman
+\ge female
+\re
+\de woman; also as adj. female
+\oe Used of any female person past
+puberty. As an adjective, it is used only
+of humans and fv:kit (i.e. large
+animals).
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge wife
-\dt 03/May/2012
+\ge partner
+\ge female_partner
+\re
+\de wife, female romantic partner
+\oe
+\ue
+\ee It is unknown whether Moten speakers
+have wedding ceremonies or anything
+similar.
+\xv
+\xe
+\lf Cpart
+\lv ka|se
+\le man, male, husband
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
 
 \lx eme
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge sun
-\dt 13/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
 
 \lx emekel
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge skies
-\ns A somewhat poetic word for "sky".
-\dt 11/Feb/2013
+\re
+\de
+\oe
+\ue A somewhat poetic word for 'sky'.
+\ee
+\xv
+\xe
+\lf Sim
+\lv bo
+\le sky
+\cf
+\ce
+\sd
+\lt sun & moon
+\mr eme-kel
+\dt 25/Feb/2013
 
 \lx emelog
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge summer
-\dt 15/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt sun season
+\mr eme-log
+\dt 25/Feb/2013
 
 \lx emelogzaj
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge June
-\dt 15/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt summer start
+\mr eme-log-|zaj
+\dt 25/Feb/2013
 
 \lx ememune
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge July
-\dt 15/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt sun month
+\mr eme-mune
+\dt 25/Feb/2013
 
 \lx emesiza
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge Sunday
-\dt 13/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt sun day
+\mr eme-siza
+\dt 25/Feb/2013
 
 \lx e|nek
+\lc
+\hm
+\ph
 \ps num
+\sn
 \ge nine
-\dt 30/Dec/2009
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
 
 \lx esin
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge female
-\dt 02/Jan/2013
+\re
+\de female; also as adj.
+\oe Usually used only of fv:sponda (i.e.
+small animals).
+\ue
+\ee Used as a noun or adjective to refer to
+a female member of a gendered
+species.
+\xv
+\xe
+\lf Cpart
+\lv kasin
+\le male
+\cf
+\ce
+\sd
+\lt little woman
+\mr e|lon-sin
+\dt 25/Feb/2013
 
 \lx Espa|na
+\lc
+\hm
+\ph
 \ps np
+\sn
 \ge Spain
-\dt 24/May/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
+
+\lx Estalaj
+\lc
+\hm
+\ph
+\ps np
+\sn
+\ge Austria
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
 
 \lx et
+\lc
+\hm
+\ph
 \ps pr
+\sn
 \ge now
-\ge this.time
-\dt 19/Nov/2009
+\re
+\de now, this time
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
 
 \lx ezes
+\lc
+\hm
+\ph
 \ps n
-\ge little.woman
-\ns A disparaging term of address towards
+\sn
+\ge little_woman
+\re
+\de 'little woman'
+\oe
+\ue Disparaging term of address towards
 women.
-\dt 02/Jan/2013
+\ee
+\xv
+\xe
+\lf Cpart
+\lv kamas
+\le little man
+\cf
+\ce
+\sd
+\lt little female woman
+\mr e|lon-zes
+\dt 25/Feb/2013
 
 \lx ezet
+\lc
+\hm
+\ph
 \ps vt
+\sn 1
 \ge hear
-\ge listen
-\dt 26/Aug/2011
+\re
+\de to hear (sthg or s.o.)
+\oe With a subject in the instrumental.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge listen_to
+\re
+\de to listen to (sthg or s.o.)
+\oe With a subject in the nominative case.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx -f-
-\a -uf-
-\a -sf-
-\u s+ -f-
-\u z+ -f-
-\u |s+ -f-
-\u |z+ -f-
-\a -f-
-\u v+ -f-
-\a -pf-
-\u b+ -f-
-\a -tf-
-\u d+ -f-
-\a -kf-
-\u g+ -f-
+\lc
+\hm
+\ph
 \ps case
+\sn
 \ge GEN.PL
-\dt 17/Nov/2009
+\re
+\de plural genitive infix
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
 
 \lx fe|su
+\lc
+\hm
+\ph
 \ps interj
-\ge sorry.to.bother.you
-\dt 04/Dec/2012
+\sn
+\ge sorry
+\ge sorry_to_bother_you
+\re
+\de 'sorry', 'sorry to bother you', 'excuse
+me'
+\oe
+\ue
+\ee This expression is used to ask for
+attention in a neutral to polite manner.
+\xv
+\xe
+\lf Sim
+\lv mejee
+\le psst, hey
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
 
 \lx Filansi
+\lc
+\hm
+\ph
 \ps np
+\sn
 \ge France
-\dt 20/Feb/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
+
+\lx filansifokez
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge French_person
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv fokez
+\le person
+\cf
+\ce
+\sd
+\lt France person
+\mr Filansi-fokez
+\dt 25/Feb/2013
+
+\lx filansiku|lu
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge French_language
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv ku|lu
+\le language
+\cf
+\ce
+\sd
+\lt France language
+\mr Filansi-ku|lu
+\dt 25/Feb/2013
+
+\lx filansisubo
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge French_restaurant
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv subo
+\le shop, restaurant
+\cf
+\ce
+\sd
+\lt France shop
+\mr Filansi-subo
+\dt 25/Feb/2013
 
 \lx fin
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge summit
 \ge top
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge great_height
+\ge tallness
 \ge high
 \ge tall
-\ge great.height
+\re
+\de great height, tallness; also as adj. high,
+tall
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
 \ge shallowness
 \ge shallow
-\dt 29/Jan/2013
+\re
+\de shallowness; also as adj. shallow
+\oe
+\ue
+\ee This can be understood if one always
+takes the bottom of a body of water as
+starting point for measuring height.
+\xv
+\xe
+\lf Ant
+\lv piv
+\le bottom, low height, depth
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
 
 \lx finpiv
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge height
 \ge depth
 \ge altitude
-\nt Names the entire scale of height/depth,
-rather than a specific value of
-height/depth.
-\dt 29/Jan/2013
+\re
+\de height, depth, altitude; length in the
+vertical direction, whether upwards or
+downwards
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Syn
+\lv be|s
+\le height, depth
+\cf
+\ce
+\sd
+\lt top & bottom
+\mr fin-piv
+\dt 25/Feb/2013
 
 \lx fi|zon
+\lc
+\hm
+\ph
 \ps vt
+\sn 1
 \ge ask
-\ge ask.for
+\ge ask_for
+\re
+\de to ask (for) (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge beg
-\ge beg.for
-\nt This verb can be used both to ask
+\ge beg_for
+\re
+\de to beg (for) (sthg)
+\oe
+\ue
+\ee This verb can be used both to ask
 questions and to ask for a favour. It
 implies humility and is thus not forceful
-enough to be translated as "to request".
-\ng The question or favour asked for is
-always the object of this verb. The
-person who is being asked is indicated
-with the originative.
-\dt 06/Jan/2012
+enough to be translated as 'to request'.
+It is also slighty different from its
+English translation in that its object is
+always the question or favour asked
+for. The person asked, when
+expressed, is in the originative.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx fokez
+\lc
+\hm
+\ph
 \ps nc
+\sn
 \ge person
-\dt 07/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee Used as a suffix to form nationality
+nouns.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
 
 \lx foto
+\lc
+\hm
+\ph
 \ps vt
-\ge look.for
+\sn 1
+\ge look_for
 \ge search
 \ge seek
+\re
+\de to look for (sthg), to search (sthg), to
+seek (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge research
 \ge study
+\re
+\de to research (sthg), to study (sthg)
+\oe Only used for abstract searches, like
+looking for the solution of a problem,
+the answer to a question, or the
+revelation of a mystery. For looking for
+a lost object or person, use the verb
+fv:izunlafotoj. This verb also indicates
+researching or studying something, for
+science or similar goals.
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv zunlafoto
+\le to look for, to try and locate
+\lf Cpart
+\lv a|lek
+\le to find, to discover
+\cf
+\ce
+\sd
+\sn 3
 \ge try
 \ge attempt
-\nt This is the counterpart of fv:a|lek, and
-it is used to indicate the search for the
-solution of a problem, the answer to a
-question, or the revelation of a
-mystery. It also indicates researching
-or studying something, for science or
-similar goals. This verb is also used to
-indicate an attempt to do something,
-especially when used with a completive
-subclause. For trying to locate a thing
-or a person, see fv:zunlafoto.
-\dt 12/Dec/2012
+\re
+\de to try (sthg), to attempt (sthg)
+\oe This verb is also used to indicate an
+attempt to do something, especially
+when used with a completive
+subclause.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx fuli
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge gold
-\dt 25/Nov/2009
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
 
 \lx funa
+\lc
+\hm
+\ph
 \ps nc
+\sn
 \ge second
-\dt 11/Jan/2010
+\re
+\de second; a very short amount of time
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
 
 \lx g
+\lc
+\hm
+\ph
 \ps vi
+\sn
 \ge live
-\ge be.alive
-\ng One of the few single-consonant roots,
+\ge be_alive
+\re
+\de to live, to be alive
+\oe
+\ue One of the few single-consonant roots,
 it forms a regular infinitive fv:igi, and a
 regular participle fv:guz.
-\nt Never used to mean "to live
+\ee Never used to mean "to live
 somewhere". The verb fv:izunlaj is
 used in that case.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
 \ps n
+\sn
 \ge life
-\ng As a noun, it usually appears as fv:gu,
+\re
+\de
+\oe
+\ue As a noun, it usually appears as fv:gu,
 unless inflection makes the additional
 vowel unnecessary.
-\ns Refers to the abstract concept of life in
+\ee Refers to the abstract concept of life in
 general. The concept of currently being
 alive is usually rendered as fv:guz or
-fv: igi, depending on whether it is seen
+fv:igi, depending on whether it is seen
 as static or active.
-\dt 22/Jan/2013
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
 
 \lx ga
+\lc
+\hm
+\ph
 \ps pr
+\sn
 \ge I
-\dt 15/Nov/2009
+\re
+\de first person singular pronoun
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
 
 \lx gana
+\lc
+\hm
+\ph
 \ps vi
-\ge clear.up
-\ge get.solved
-\ge become.intelligible
-\ge become.understandable
-\dt 19/Nov/2012
+\sn 1
+\ge clear_up
+\ge get_solved
+\re
+\de to clear up, to get solved
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv zu|leb
+\le to clear up, to become clean
+\cf
+\ce
+\sd
+\sn 2
+\ge become_intelligible
+\ge become_understandable
+\re
+\de to become understandable
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
 
 \lx ge
+\lc
+\hm
+\ph
 \ps vaux
+\sn
 \ge have
-\dt 15/Nov/2009
+\re
+\de to have (sthg or s.o.)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx gebez
+\lc
+\hm
+\ph
 \ps vi
+\sn
 \ge speak
 \ge talk
-\nt This verb can never be used
+\re
+\de to speak, to talk
+\oe This verb can never be used
 transitively, unlike its English
 equivalent. The language spoken is
 always in the instrumental.
-\dt 25/Jan/2013
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
 
 \lx gem
+\lc
+\hm
+\ph
 \ps vi
+\sn 1
 \ge gather
 \ge assemble
+\re
+\de to gather, to assemble
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge accumulate
-\dt 24/May/2012
+\re
+\de to accumulate
+\oe Unlike in English, this verb is strictly
+intransitive.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx gemas
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge dad
 \ge daddy
-\dt 02/Jan/2013
+\re
+\de
+\oe
+\ue Informal and endearing, used mostly by
+children to refer to their own fathers.
+\ee
+\xv
+\xe
+\lf Cpart
+\lv dizes
+\le mommny
+\cf
+\ce
+\sd
+\lt little father
+\mr ge|sem-mas
+\dt 25/Feb/2013
 
 \lx geni
+\lc
+\hm
+\ph
 \ps num
+\sn
 \ge ten
-\dt 30/Dec/2009
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
 
 \lx ge|nadan
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge decade
-\dt 01/May/2012
+\ge 10-year_period
+\re
+\de decade; continuous 10-year period
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt for ten years
+\mr geni-ad<d>a-n
+\dt 25/Feb/2013
 
 \lx ge|samo
+\lc
+\hm
+\ph
 \ps n
-\ge paternal.aunt
+\sn
+\ge paternal_aunt
 \ge aunt
-\dt 18/Dec/2012
+\re
+\de paternal aunt; ego's father's sister
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv ge|suko
+\le paternal uncle
+\lf Cpart
+\lv di|luko
+\le maternal aunt
+\lf Cpart
+\lv di|lamo
+\le maternal uncle
+\cf
+\ce
+\sd
+\lt father different-sex sibling
+\mr ge|sem-amo
+\dt 25/Feb/2013
 
 \lx ge|sem
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge father
-\dt 25/Nov/2009
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv di|la
+\le mother
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 25/Feb/2013
 
 \lx ge|suko
+\lc
+\hm
+\ph
 \ps n
-\ge paternal.uncle
+\sn
+\ge paternal_uncle
 \ge uncle
-\dt 18/Dec/2012
+\re
+\de paternal uncle; ego's father's brother
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv ge|samo
+\le paternal aunt
+\lf Cpart
+\lv di|luko
+\le maternal aunt
+\lf Cpart
+\lv di|lamo
+\le maternal uncle
+\cf
+\ce
+\sd
+\lt father same-sex sibling
+\mr ge|sem-|suko
+\dt 25/Feb/2013
 
 \lx getolsizdan
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge fortnight
-\dt 29/Apr/2012
+\ge 14-day_period
+\re
+\de fortnight; continuous 14-day period
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt for fourteen days
+\mr geni-tol-siz<d>a-n
+\dt 25/Feb/2013
 
 \lx gi|no
+\lc
+\hm
+\ph
 \ps vt
+\sn 1
 \ge feel
 \ge sense
-\ge be.aware.of
+\ge be_aware_of
+\re
+\de to feel (sthg), to sense (sthg); to be
+aware of an external sensation
+\oe With a subject in  the instrumental.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv pinas
+\le to feel, to seem to have (an internal
+sensation)
+\cf
+\ce
+\sd
+\sn 2
 \ge understand
-\ng With a subject in the instrumental, this
-verb has the sense of "to feel", "to be
-aware of" as an external sensation.
-With a subject in the nominative case,
-its sense is closer to "to understand",
-i.e. " to be aware of the meaning of".
-\dt 19/Nov/2012
+\re
+\de to understand (sthg or s.o.); to be
+aware of the meaning of (sthg)
+\oe With a subject in the nominative case.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx gmadev
+\lc
+\hm
+\ph
 \ps vt
-\ge get.sick.with
-\ge suffer.from
-\ge tire.from
-\ge tire.of
-\ge become.exhausted.from
-\ge wear.off.from
-\ge wear.down.from
-\ge get.sick.of
-\ge get.fed.up.with
-\ge kill.oneself.with
-\ng Unlike its English equivalents, this verb
+\sn 1
+\ge suffer_from
+\ge get_sick_with
+\re
+\de to suffer from (sthg), to get sick with
+(sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge tire_from
+\ge become_exhausted_from
+\re
+\de to tire from (sthg), to become
+exhausted from (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv zgebo
+\le to work on, to tire from, to suffer from
+\cf
+\ce
+\sd
+\sn 3
+\ge wear_off_from
+\ge wear_down_from
+\re
+\de to wear off/down from (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 4
+\ge tire_of
+\ge get_sick_of
+\ge get_fed_up_with
+\re
+\de to get fed up with (sthg or s.o.), to tire
+of (sthg or s.o.), to get sick of (sthg or
+s.o.)
+\oe
+\ue
+\ee Unlike its English equivalents, this verb
 is directly transitive: its subject
 undergoes the change of state, and its
 object is the cause of it.
-\ns It is usually only used with a subject in
-the instrumental. With a subject in the
-nominative case, its meaning becomes
-very strong and often refers to suicide,
-whether literally or figuratively.
-\dt 17/Jul/2012
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 5
+\ge kill_oneself_with
+\re
+\de to kill oneself with (sthg)
+\oe With a subject in the nominative case.
+\ue
+\ee This verb is usually used with a subject
+in the instrumental. With a subject in
+the nominative case, its meaning
+becomes very strong and often refers
+to suicide, whether literally or
+figuratively.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx go
+\lc
+\hm
+\ph
 \ps n
+\sn
+\ge occupation
 \ge job
 \ge employment
 \ge profession
-\nt Used as a suffix to indicate specific
-jobs.
-\dt 21/Dec/2012
+\re
+\de
+\oe
+\ue
+\ee A category of human activity, often but
+not necessarily utilitarian in nature.
+Many white-collar and blue-collar
+professions fall under fv:go, and so
+does engineering. Also used as a suffix
+to name those activities.
+\xv
+\xe
+\lf Cpart
+\lv bel
+\le art, craft
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx go-
+\lc
+\hm
+\ph
 \ps pref
+\sn
 \ge ORIG
-\dt 09/Dec/2009
+\re
+\de originative prefix
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx godetun
+\lc
+\hm
+\ph
 \ps exp
-\ge from.now.on
-\nt Formed with fv:et "now" in the
-accusative case, over-inflected in the
-originative.
-\dt 06/Dec/2012
+\sn
+\ge from_now_on
+\re
+\de
+\oe
+\ue
+\ee An idiom used as is.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt from during now
+\mr go-<d>et-n
+\dt 26/Feb/2013
 
 \lx gom
+\lc
+\hm
+\ph
 \ps nc
+\sn
 \ge day
-\nt Literally, means "the period of light
-between sunrise and sunset".
-\dt 07/Jan/2010
+\re
+\de day; the period of light between sunrise
+and sunset
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv dod
+\le night
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx gomdod
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge day
-\nt Literally "day & night", this word is a
-near-synonym to fv:siza. It refers to a
-full 24-hour period, although not one
-that necessarily starts at midnight.
-\ng Although it is a compound of the two
-counters fv:gom and fv:dod, this word
-itself is not a counter.
-\dt 30/Aug/2012
+\ge 24-hour_period
+\re
+\de day; continuous 24-hour period that
+may start at any time
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Syn
+\lv egetolda|n
+\le 24-hour period
+\lf Sim
+\lv siza
+\le calendar day
+\cf
+\ce
+\sd
+\lt day & night
+\mr gom-dod
+\dt 26/Feb/2013
 
 \lx i-
-\a |l-
-\u i- +l
-\u i- +|l
-\a |n-
-\u i- +n
-\u i- +|n
-\a j-
-\u i- +j
-\a ja-
-\u i- +a
-\a je-
-\u i- +e
-\a jo-
-\u i- +o
-\a ju-
-\u i- +u
-\ps vinfl
-\ge INF
-\dt 17/Nov/2009
-
-\lx i-
+\lc
+\hm
+\ph
 \ps tns
+\sn
 \ge PRS
-\dt 15/Nov/2009
+\re
+\de present tense prefix
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx -i
-\a -|l
-\u l+ -i
-\u |l+ -i
-\a -|n
-\u n+ -i
-\u |n+ -i
-\a -j
-\u j+ -i
-\a -aj
-\u a+ -i
-\a -ej
-\u e+ -i
-\a -oj
-\u o+ -i
-\a uj
-\u u+ -i
-\ps vinfl
-\ge INF
-\dt 15/Nov/2009
-
-\lx -i
-\a -|l
-\u l+ -i
-\u |l+ -i
-\a -|n
-\u n+ -i
-\u |n+ -i
-\a -j
-\u j+ -i
-\a -aj
-\u a+ -i
-\a -ej
-\u e+ -i
-\a -oj
-\u o+ -i
-\a uj
-\u u+ -i
+\lc
+\hm
+\ph
 \ps case
+\sn
 \ge GEN
-\dt 17/Nov/2009
+\re
+\de genitive suffix
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx ibipiz
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge storm
-\ge stormy.weather
-\nt Despite being a compound of fv:ibo
-"wind" and fv:ipiz "strong", it does not
-simply mean "strong wind" but refers
-to the general weather disturbance.
-\dt 28/Jan/2013
+\ge stormy_weather
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt wind strong
+\mr ibo-ipiz
+\dt 26/Feb/2013
 
 \lx ibo
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge air
+\re
+\de
+\oe
+\ue
+\ee Refers to both the elemental concept
+and the actual air we breathe.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge wind
-\dt 28/Jan/2013
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx ibomune
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge April
-\dt 15/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt air month
+\mr ibo-mune
+\dt 26/Feb/2013
 
 \lx ibosiza
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge Thursday
-\dt 13/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt air day
+\mr ibo-siza
+\dt 26/Feb/2013
 
 \lx ibutaj
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge chair
-\ng This is actually simply the infinitive
-fv:ibutaj "to sit". It is included in the
-dictionary because of its meaning.
-\dt 10/May/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt to sit
+\mr i-buta-i
+\dt 26/Feb/2013
 
 \lx ikkee
+\lc
+\hm
 \ph ikˈkeː
 \ps interj
+\sn
 \ge ouch
-\ge ow
-\nt This interjection indicates physical or
+\re
+\de 'ouch', 'ow'
+\oe
+\ue
+\ee This interjection indicates physical or
 metaphorical pain.
-\dt 15/Feb/2012
+\xv
+\xe
+\lf Syn
+\lv ekkee
+\le ouch
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx ima
+\lc
+\hm
+\ph
 \ps num
+\sn
 \ge three
-\dt 30/Dec/2009
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx imikostu|l
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge telephone
 \ge phone
-\ng This is simply the infinitve fv:imikostu|l
-"to phone", but it's listed separately due
-to its specific meaning.
-\dt 12/Dec/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt to call by phone
+\mr i-miko-stul-i
+\dt 26/Feb/2013
 
 \lx Imonuj
+\lc
+\hm
+\ph
 \ps np
-\ge New.Year
+\sn
+\ge New_Year
 \ge Turning
-\ns Refers to the New Year celebration
-itself.
-\dt 27/Dec/2012
+\re
+\de
+\oe
+\ue
+\ee Refers to the New Year celebrations.
+The New Year itself is called
+fv:Adodun.
+\xv
+\xe
+\lf Sim
+\lv Adodun
+\le New Year
+\cf
+\ce
+\sd
+\lt to turn
+\mr i-monu-i
+\dt 26/Feb/2013
 
 \lx imsin
+\lc
+\hm
+\ph
 \ps n
-\ge mobile.phone
-\ns This is simply the diminutive of
-fv:imikostu|l, but it is listed separately
-due to its specific meaning.
-\dt 18/Dec/2012
+\sn
+\ge mobile_phone
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt little phone
+\mr i-miko-stul-i-sin
+\dt 26/Feb/2013
 
 \lx ipe|lastu|l
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge indicator
-\ge clock.hand
+\ge clock_hand
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge finger
-\ng This is simply the infinitve fv:ipe|lastu|l
-"to show", but it's listed separately due
-to its specific meanings.
-\dt 29/Oct/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt to show
+\mr i-pe|la-stul-i
+\dt 26/Feb/2013
 
 \lx ipi
+\lc
+\hm
+\ph
 \ps n
-\ge tool
-\ge machine
+\sn 1
 \ge thing
 \ge object
-\nt It is used for concrete things, as
-opposed to fv:dati.
-\dt 02/Sep/2011
+\re
+\de
+\oe Used for concrete things, as opposed
+to fv:dati.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge tool
+\ge machine
+\re
+\de
+\oe
+\ue
+\ee Also used as an affix in this sense, to
+form names of tools, usually derived
+from verbs.
+\xv
+\xe
+\lf Cpart
+\lv dati
+\le thing, concept, manner
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx ipiz
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge heaviness
-\ge high.weight
+\ge high_weight
 \ge heavy
-\ge high.strength
+\re
+\de heaviness, high weight; also as adj.
+heavy
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge high_strength
 \ge strong
-\nt This word is used to indicate physical
-weight or strength.
-\dt 10/May/2012
+\re
+\de high strength; also as adj. strong
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv otez
+\le hardness, heaviness, sturdiness
+\lf Ant
+\lv |nalam
+\le lightness, weakness
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx isis
+\lc
+\hm
+\ph
 \ps n
-\ge true
+\sn 1
 \ge truth
-\ge real
+\ge true
+\re
+\de truth; also as adj. true
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge reality
-\dt 03/Apr/2012
+\ge real
+\re
+\de reality; also as adj. real
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv luma
+\le falsehood, fiction
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
+
+\lx Ita|la
+\lc
+\hm
+\ph
+\ps np
+\sn
+\ge Italy
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
+
+\lx ita|laku|lu
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge Italian_language
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv ku|lu
+\le language
+\cf
+\ce
+\sd
+\lt Italy language
+\mr Ita|la-ku|lu
+\dt 26/Feb/2013
+
+\lx ita|lasubo
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge Italian_restaurant
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv subo
+\le shop, restaurant
+\cf
+\ce
+\sd
+\lt Italy shop
+\mr Ita|la-subo
+\dt 26/Feb/2013
 
 \lx ivda
+\lc
+\hm
+\ph
 \ps vi
+\sn
 \ge happen
 \ge fall
 \ge blow
 \ge rage
-\ng This verb's primary meaning is "to
-happen", but it is restricted in use to
+\re
+\de to happen, to fall, to blow, to rage
+\oe Means 'to happen', but restricted to
 weather phenomena like rain, snow,
 wind and storms, hence the additional
-glosses.
-\dt 08/Feb/2013
+definitions.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx iz
+\lc
+\hm
+\ph
 \ps part
+\sn
 \ge for
-\dt 16/Feb/2012
+\re
+\de for; particle indicating cause
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
+
+\lx i-_-i
+\lc i- -i
+\hm
+\ph
+\ps vinfl
+\sn
+\ge INF
+\re
+\de infinitive circumfix
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx japu
+\lc
+\hm
+\ph
 \ps num
+\sn
 \ge hundred
-\dt 30/Dec/2009
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx japujadan
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge century
-\dt 01/May/2012
+\ge 100-year_period
+\re
+\de century; continuous 100-year period
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt for one hundred years
+\mr japu-ad<d>a-n
+\dt 26/Feb/2013
 
 \lx ja|zin
+\lc
+\hm
+\ph
 \ps vt
+\sn
 \ge give
 \ge take
 \ge receive
@@ -1200,13 +4725,18 @@ glosses.
 \ge put
 \ge bring
 \ge transfer
-\ng This verb only indicates that a transfer
+\re
+\de to transfer (sthg), to give (sthg), to take
+(sthg), to receive (sthg), to bring (sthg),
+to put (sthg)
+\oe This verb only indicates that a transfer
 takes place. Context and the various
 participants present in the clause make
 it clear whether it can be translated as
-"give", " receive", "take", "put" or
-simply "transfer".
-\ns This verb implies that the transfer
+'to give', 'to receive', 'to take', 'to put'
+or simply 'to transfer'.
+\ue
+\ee This verb implies that the transfer
 happens towards the speaker, i.e. from
 the listener to the speaker, or from a
 third-party to the listener or the
@@ -1216,844 +4746,3624 @@ involving inanimate sources and/or
 destinations, when the speaker feels
 that the transfer is somehow
 advantageous for them.
-\dt 09/May/2012
+\xv
+\xe
+\lf Cpart
+\lv ople
+\le to give, to take, to transfer
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx jem
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge river
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge brook
-\dt 16/Nov/2009
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx jespoma
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge wrist
-\ng Literally "hand neck".
-\dt 29/Oct/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv bnampoma
+\le ankle
+\cf
+\ce
+\sd
+\lt hand neck
+\mr jez-poma
+\dt 26/Feb/2013
 
 \lx jez
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge hand
 \ge arm
-\ns This word is used to refer to the hand
+\re
+\de
+\oe This word is used to refer to the hand
 or arm of a person. It' s usually not
 used with animals, even those with
 opposable thumbs.
-\dt 29/Oct/2012
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv bnam
+\le foot, leg
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx jos
+\lc
+\hm
+\ph
 \ps nc
+\sn
 \ge part
 \ge piece
-\dt 07/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Syn
+\lv tul
+\le part, piece, fraction
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx kafe
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge coffee
-\dt 20/Apr/2012
+\re
+\de coffee; a drink made by infusing the
+beans of the coffee plant in hot water
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
+
+\lx kafesubo
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge café
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv subo
+\le shop, restaurant
+\cf
+\ce
+\sd
+\lt coffee shop
+\mr kafe-subo
+\dt 26/Feb/2013
 
 \lx kamas
+\lc
+\hm
+\ph
 \ps n
-\ge little.man
-\ns A disparaging term of address towards
+\sn
+\ge little_man
+\re
+\de 'little man'
+\oe
+\ue Disparaging term of address towards
 men.
-\dt 02/Jan/2013
+\ee
+\xv
+\xe
+\lf Cpart
+\lv ezes
+\le little woman
+\cf
+\ce
+\sd
+\lt little male man
+\mr ka|se-mas
+\dt 26/Feb/2013
 
 \lx kamoj
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge softness
 \ge soft
+\re
+\de softness; also as adj. soft
+\oe
+\ue
+\ee Indicates physical flexibility and lack of
+rigidity.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge lightness
+\ge low_weight
 \ge light
+\re
+\de lightness, low weight; also as adj. light
+\oe
+\ue
+\ee Similar to fv:|nalam, but does not
+indicate weakness.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
 \ge fragility
 \ge fragile
-\nt This word indicates physical flexibility
-and lack of rigidity. It also can indicate
-a low physical weight, but unlike fv:ipiz
-does not imply physical weakness,
-although it can indicate fragility. It does
-not indicate easiness either (that is
-fv:neg|nalam).
-\dt 14/Nov/2012
+\re
+\de fragility; also as adj. fragile
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv |nalam
+\le lightness, weakness
+\lf Ant
+\lv otez
+\le hardness, heaviness, sturdiness
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx kasin
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge male
-\dt 02/Jan/2013
+\re
+\de male; also as adj.
+\oe Usually used only of fv:sponda (i.e.
+small animals).
+\ue
+\ee Used as a noun or adjective to refer to
+a male member of a gendered species.
+\xv
+\xe
+\lf Cpart
+\lv esin
+\le female
+\cf
+\ce
+\sd
+\lt little man
+\mr ka|se-sin
+\dt 26/Feb/2013
 
 \lx ka|se
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge man
+\ge male
+\re
+\de man; also as adj. male
+\oe Used of any male person past puberty.
+As an adjective, it is used only of
+humans and fv:kit (i.e. large animals).
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge husband
-\dt 03/May/2012
+\ge partner
+\ge male_partner
+\re
+\de husband, male romantic partner
+\oe
+\ue
+\ee It is unknown whether Moten speakers
+have wedding ceremonies or anything
+similar.
+\xv
+\xe
+\lf Cpart
+\lv e|lon
+\le woman, female, wife
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx ka|se|lon
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge couple
-\ge married.couple
-\ns Refers only to romantically-involved
-couples, but including same-sex ones.
-\dt 11/Feb/2013
+\ge married_couple
+\ge romantic_couple
+\re
+\de couple; romantically involved couple,
+including same-sex ones.
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt man & woman
+\mr ka|se-e|lon
+\dt 26/Feb/2013
 
 \lx kej
+\lc
+\hm
+\ph
 \ps part
+\sn
 \ge or
 \ge either
 \ge rather
-\dt 16/Mar/2012
+\re
+\de or, either, rather; particle indicating
+alternatives
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx kel
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge moon
-\dt 13/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx kele
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge winter
-\dt 15/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx kelemune
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge February
-\dt 15/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt winter month
+\mr kele-mune
+\dt 26/Feb/2013
 
 \lx kelsiza
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge Monday
-\dt 13/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt moon day
+\mr kel-siza
+\dt 26/Feb/2013
 
 \lx kfezi
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge grandchild
 \ge grandson
 \ge granddaughter
-\ns Although there are no specific words
-for "grandson" and "granddaughter",
-the male and female diminutives
+\re
+\de grandchild
+\oe
+\ue Although there are no specific words
+for 'grandson' and 'granddaughter', the
+male and female diminutives
 fv:kfezmas and fv:kfezes are often
-used to refer to one's own
+used to refer endearingly to one's own
 grandchildren.
-\dt 18/Dec/2012
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx kinkan
+\lc
+\hm
+\ph
 \ps interj
-\ge tick.tock
-\nt This is an onomatopoeia representing
+\sn
+\ge tick_tock
+\re
+\de 'tick tock'
+\oe
+\ue
+\ee This is an onomatopoeia representing
 the sound of a clock ticking.
-\dt 15/Feb/2012
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx kit
+\lc
+\hm
+\ph
 \ps nc
-\ge large.animal
-\nt Basically refers to any animal larger
-than a human being. Typically, the
-speaker uses their own size as base.
-\dt 07/Jan/2010
+\sn
+\ge large_animal
+\ge animal
+\re
+\de large animal; any animal larger than a
+human being
+\oe Typically, the speaker uses their own
+size as base, and generally does so in a
+rather fuzzy way.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv sponda
+\le small animal
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx kjaj
+\lc
+\hm
+\ph
 \ps vi
+\sn 1
 \ge cry
 \ge weep
 \ge sob
-\ge be.in.mourning
+\re
+\de to cry, to weep
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge mourn
-\ng When used with a nominative subject,
-this verb can mean "to mourn". Unlike
-the English verb, it is still intransitive,
-and the English object is usually
+\ge be_in_mourning
+\re
+\de to mourn, to be in mourning
+\oe Unlike the English equivalent, this verb
+is intransitive, and what is mourned,
+when expressed at all, is usually
 rendered with an adverbial phrase in
 the originative or the causative.
-\dt 09/Jan/2013
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx knama
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge grass
 \ge hay
 \ge straw
 \ge weed
-\nt Unlike the English word, this is a count
-noun referring to a single blade of
-grass, weed, hay or a single straw. To
-refer to a lawn, or another collective
+\re
+\de a single blade of grass, hay, straw or
+weed
+\oe
+\ue
+\ee To refer to a lawn, or another collective
 amount of grass or straw, use the
 plural fv:knamsa.
-\dt 20/Dec/2012
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Feb/2013
 
 \lx knamafin
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge flower
-\nt Specifically used of woodless plants
-with a single stem, carrying a single
-flower or flower group.
-\dt 20/Dec/2012
+\re
+\de a woodless plant with a single stem,
+carrying a single flower or flower group
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv talu
+\le flower, blossom
+\cf
+\ce
+\sd
+\lt grass top
+\mr knama-fin
+\dt 04/Mar/2013
 
 \lx ko
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge daughter
-\ge niece.on.same.side.of.family
-\nt Moten uses the same term to refer to
-someone's daughters and their siblings'
+\re
+\de daughter; ego's female child
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge niece_on_same_side_of_family
+\ge niece
+\re
+\de niece on the same side of the family;
+ego's sibling's female child
+\oe Moten uses the same term to refer to
+one's daughters and one's siblings'
 daughters.
-\dt 30/Nov/2012
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv teba
+\le niece on the other side of the family
+\lf Cpart
+\lv u|s
+\le son, nephew on the same side of the
+family
+\lf Cpart
+\lv mea
+\le nephew on the other side of the family
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
 
 \lx ko-
-\a ko-
-\u ko- +o
-\a ku-
-\u ko- +u
-\a koj-
-\u ko- +i
+\lc
+\hm
+\ph
 \ps pref
+\sn
 \ge INS
-\dt 15/Nov/2009
+\re
+\de instrumental prefix
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
+
+\lx Kolsika
+\lc
+\hm
+\ph
+\ps np
+\sn
+\ge Corsica
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
+
+\lx kolsikafokez
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge Corsican_person
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv fokez
+\le person
+\cf
+\ce
+\sd
+\lt Corsica person
+\mr Kolsika-fokez
+\dt 27/Feb/2013
+
+\lx kolsikaku|lu
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge Corsican_language
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv ku|lu
+\le language
+\cf
+\ce
+\sd
+\lt Corsica language
+\mr Kolsika-ku|lu
+\dt 27/Feb/2013
 
 \lx ku|lu
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge language
-\nt Used as a suffix to indicate specific
-languages.
-\dt 02/Sep/2011
+\ge tongue
+\re
+\de language
+\oe Always refers to a single language,
+rather than to the concept of language
+in general.
+\ue
+\ee Also used as a suffix to form language
+names.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
 
 \lx kun
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge end
 \ge ending
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
 \ps part
-\ge to.end
-\nt Used to indicate the sense of counting
-in ordinal numbers.
-\dt 15/Jan/2010
+\sn
+\ge to_end
+\re
+\de part of ordinal numbers, indicating
+counting towards the end of a list
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv |zaj
+\le start, beginning
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
 
 \lx kuna
+\lc
+\hm
+\ph
 \ps num
+\sn
 \ge last
-\dt 04/Jan/2010
+\re
+\de last; an ordinal number indicating the
+last position of an ordered list
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv |zaja
+\le first
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
 
 \lx kuneg
+\lc
+\hm
+\ph
 \ps vt
+\sn
 \ge end
 \ge finish
-\nt This verb indicates that the subject is
-reaching the natural conclusion of an
-action.
-\dt 12/Feb/2013
+\re
+\de to end (sthg), to finish (sthg); to reach
+the natural conclusion of an action
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv kunstul
+\le to give up
+\lf Sim
+\lv zenk
+\le to stop momentarily
+\lf Cpart
+\lv |za|neg
+\le to start with the intention of finishing
+\lf Cpart
+\lv |zajstul
+\le to start
+\cf
+\ce
+\sd
+\lt end do
+\mr kun-neg
+\dt 28/Feb/2013
 
 \lx kunstul
+\lc
+\hm
+\ph
 \ps vt
+\sn
 \ge stop
 \ge cease
-\ge give.up
-\nt Unlike fv:ikunegi, this verb indicates
-that the action has been abandoned
-prematurely, before it reached its
-natural completion.
-\dt 12/Feb/2013
+\ge give_up
+\re
+\de to stop (sthg), to cease (sthg), to give
+(sthg) up; to abandon before reaching
+the natural conclusion of an action
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv kuneg
+\le to end
+\lf Sim
+\lv zenk
+\le to stop momentarily
+\lf Cpart
+\lv |za|neg
+\le to start with the intention of finishing
+\lf Cpart
+\lv |zajstul
+\le to start
+\cf
+\ce
+\sd
+\lt end summon
+\mr kun-stul
+\dt 28/Feb/2013
 
 \lx lam
+\lc
+\hm
+\ph
 \ps pr
+\sn
 \ge that
-\dt 19/Nov/2009
+\re
+\de that; demonstrative pronoun indicating
+proximity to the listener
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv len
+\le this
+\lf Cpart
+\lv los
+\le that over there
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx le-
+\lc
+\hm
+\ph
 \ps npf
+\sn
 \ge less
 \ge fewer
-\dt 18/Jan/2010
+\re
+\de less, fewer; comparative prefix of
+inferiority
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv ne-
+\le as (much/many)
+\lf Cpart
+\lv pe-
+\le more
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx leksin
+\lc
+\hm
+\ph
 \ps n
-\ge darkish
+\sn 1
 \ge darkishness
+\ge darkish
+\re
+\de darkishness; also as adj. darkish
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge twilight
-\dt 02/Jan/2013
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt little darkness
+\mr leksod-sin
+\dt 27/Feb/2013
 
 \lx leksod
+\lc
+\hm
+\ph
 \ps n
-\ge dark
+\sn
 \ge darkness
-\dt 20/Jan/2010
+\ge dark
+\re
+\de darkness; also as adj. dark
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
 
 \lx len
+\lc
+\hm
+\ph
 \ps pr
+\sn
 \ge this
-\dt 19/Nov/2009
+\re
+\de this; demonstrative pronoun indicating
+proximity to the speaker
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv lam
+\le that
+\lf Cpart
+\lv los
+\le that over there
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx len-
+\lc
+\hm
+\ph
 \ps npf
-\ge not.very
+\sn
+\ge not_very
 \ge little
-\ge a.little
+\ge a_little
 \ge few
-\ge a.few
-\ge too.little
-\ge too.few
-\ge not.enough
-\dt 18/Jan/2010
+\ge a_few
+\ge too_little
+\ge too_few
+\ge not_enough
+\re
+\de not very (much), (a) little/few, too
+little/few, not enough;
+intensifier/excessive prefix of
+inferiority
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv pen-
+\le very (much), many, a lot (of), too
+(much/many)
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx lezu
+\lc
+\hm
+\ph
 \ps vt
+\sn 1
 \ge sing
+\re
+\de to sing (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge chant
-\dt 02/Sep/2011
+\re
+\de to chant (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx lin
+\lc
+\hm
+\ph
 \ps vt
-\ge be.aware.of
-\ge know.by.instinct
-\nt This verb is used only when the source
-of knowledge is unknown or innate.
-\dt 20/Mar/2012
+\sn 1
+\ge know_by_instinct
+\ge know
+\re
+\de to know (sthg) by instinct
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge be_aware_of
+\re
+\de to be aware of (sthg)
+\oe This verb is used only when the source
+of knowledge is unknown, forgotten or
+innate.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx linan
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge bird
-\dt 26/Aug/2011
+\re
+\de bird; a feathered warm-bloodied
+animal, usually capable of flight, and
+laying eggs.
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
 
 \lx log
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge season
-\dt 15/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
 
 \lx Loma
+\lc
+\hm
+\ph
 \ps np
+\sn
 \ge Rome
-\dt 24/May/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
 
 \lx lomin
+\lc
+\hm
+\ph
 \ps n
-\ge maternal.grandparent
+\sn
+\ge maternal_grandparent
 \ge grandparent
-\nt Moten does not distinguish between
+\ge maternal_grandfather
+\ge maternal_grandmother
+\ge grandfather
+\ge grandmother
+\re
+\de maternal grandparent; ego's mother's
+father or mother
+\oe
+\ue
+\ee Moten does not distinguish between
 granfathers and grandmothers, but it
 does distinguish whether the
 grandparent is on the father's or the
 mother's side.
-\dt 18/Dec/2012
+\xv
+\xe
+\lf Cpart
+\lv zda
+\le paternal grandparent
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
 
 \lx los
+\lc
+\hm
+\ph
 \ps pr
-\ge that.over.there
-\dt 19/Nov/2009
+\sn
+\ge that_over_there
+\ge yonder
+\ge yon
+\re
+\de that over there; demonstrative pronoun
+indicating remoteness from both the
+speaker and the listener
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv len
+\le this
+\lf Cpart
+\lv lam
+\le that
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx lugen
+\lc
+\hm
+\ph
 \ps nc
+\sn
 \ge word
-\dt 07/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
 
 \lx luma
+\lc
+\hm
+\ph
 \ps n
-\ge false
+\sn 1
 \ge falsehood
-\ge fictional
+\ge false
+\re
+\de falsehood; also as adj. false
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge fiction
-\ge fake
+\ge fictional
+\re
+\de fiction; also as adj. fictional
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
 \ge fakeness
-\dt 30/Jan/2013
+\ge fake
+\re
+\de fakeness; also as adj. fake
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv isis
+\le truth, reality
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
 
 \lx |la
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge peace
-\ge good.health
-\dt 03/Apr/2012
+\ge peaceful
+\re
+\de peace; also as adj. peaceful
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge good_health
+\ge health
+\ge healthy
+\re
+\de good health; also as adj. healthy
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
 
 \lx |la-
+\lc
+\hm
+\ph
 \ps pref
+\sn
 \ge BEN
-\dt 09/Dec/2009
+\re
+\de benefactive prefix
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
 
 \lx |lag
+\lc
+\hm
+\ph
 \ps interj
+\sn
+\ge good bye
 \ge bye
-\nt Abbreviation of the expression
-fv:ko|lea fv:ag: "go in peace".
-\dt 04/Dec/2012
+\re
+\de 'good bye', 'bye'
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt go in peace
+\mr ko-|l<e>a ag
+\dt 27/Feb/2013
 
 \lx |lajespoma
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge bracelet
-\dt 30/Oct/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt to improve a wrist
+\mr |la-jez-poma
+\dt 27/Feb/2013
 
 \lx |lajpe|lastu|l
+\lc
+\hm
+\ph
 \ps n
-\ge finger.ring
-\dt 30/Oct/2012
+\sn
+\ge finger_ring
+\ge ring
+\re
+\de ring; a piece of jewellery used on
+fingers
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Syn
+\lv zanej
+\le ring
+\cf
+\ce
+\sd
+\lt to improve a finger
+\mr |la-i-pe|la-stul-i
+\dt 05/Mar/2013
 
 \lx |lamensin
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge earring
-\dt 30/Oct/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt to improve an ear
+\mr |la-menzola-sin
+\dt 27/Feb/2013
 
 \lx |lapoma
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge necklace
-\dt 30/Oct/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt to improve a neck
+\mr |la-poma
+\dt 27/Feb/2013
 
 \lx |le-
+\lc
+\hm
+\ph
 \ps corr
+\sn
 \ge any
 \ge -ever
-\dt 09/Dec/2009
+\re
+\de prefix added to interrogative pronouns
+to form elective existential indefinite
+pronouns
+\oe
+\ue Colloquially, it can also be added to
+counters.
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx mabamla
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge experience
-\ge ownership.time
-\ns While fv:ukodun refers to the actual
-age of a person or object, this word
-refers to the length of time an object
-has been owned, or the length of time
-a person has been known or held a
-specific position.
-\dt 16/Jan/2013
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge ownership_time
+\re
+\de
+\oe
+\ue
+\ee Refers to the length of time someone
+has held a specific position, or the
+length of time an object has been
+owned.
+\xv
+\xe
+\lf Sim
+\lv ukodun
+\le age
+\cf
+\ce
+\sd
+\lt ancientness & newness
+\mr mabo-amla
+\dt 27/Feb/2013
 
 \lx mabo
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge ancientness
 \ge ancient
+\ge old
+\re
+\de ancientness; also as adj. ancient, old
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge seniority
 \ge senior
-\ge old
-\nt Used to indicate that an item has been
+\re
+\de seniority; also as adj. senior
+\oe
+\ue
+\ee Used to indicate that an item has been
 in someone's possession for a long
 time. It can also be used of people, to
 indicate that they have been known for
 a long time, or that they have been
 holding a position for a long time.
-\dt 29/Nov/2012
+\xv
+\xe
+\lf Ant
+\lv amla
+\le newness
+\lf Sim
+\cf ukol
+\ce old age
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
 
 \lx Madjalolsag
+\lc
+\hm
+\ph
 \ps np
+\sn
 \ge Hungary
-\dt 24/May/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
 
 \lx -mas
+\lc
+\hm
+\ph
 \ps nsf
-\ge "little"
-\ns Like fv:-sin, but used only with male
-animate referents.
-\dt 18/Dec/2012
+\sn
+\ge little_male
+\re
+\de male diminutive suffix
+\oe Used with male animate referents.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv -zes
+\le little female
+\lf Sim
+\lv -sin
+\le little
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx me-
+\lc
+\hm
+\ph
 \ps corr
+\sn
 \ge no
-\dt 19/Nov/2009
+\re
+\de prefix added to interrogative pronouns
+to form negative indefinite pronouns
+\oe
+\ue Colloquially, it can also be added to
+counters.
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx mea
+\lc
+\hm
+\ph
 \ps n
-\ge nephew.on.other.side.of.family
-\nt This noun refers to the sons of one's
-partner's siblings.
-\dt 30/Nov/2012
+\sn
+\ge nephew_on_other_side_of_family
+\ge nephew
+\re
+\de nephew on the other side of the family;
+ego's partner's sibling's male child
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv u|s
+\le son, nephew on the same side of the
+family
+\lf Cpart
+\lv ko
+\le daughter, niece on the same side of the
+family
+\lf Cpart
+\lv teba
+\le niece on the other side of the family
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
 
 \lx medaj
+\lc
+\hm
+\ph
 \ps np
+\sn
 \ge midnight
-\dt 11/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt no hour
+\mr me-daj
+\dt 27/Feb/2013
 
 \lx mejee
+\lc
+\hm
 \ph meˈjeː
 \ps interj
+\sn
 \ge ahem
 \ge hey
 \ge yoo-hoo
 \ge psst
-\nt This is an interjection used to catch
-someone's attention.
-\dt 15/Feb/2012
+\re
+\de 'ahem', 'psst', 'yoo-hoo', 'hey'
+\oe
+\ue
+\ee This interjection is used to ask for
+attention in a familiar manner.
+\xv
+\xe
+\lf Sim
+\lv fe|su
+\le sorry to bother you
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
 
 \lx mejto
+\lc
+\hm
+\ph
 \ps interj
+\sn
 \ge hello
 \ge hi
-\dt 04/Dec/2012
+\re
+\de 'hello', 'hi'
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
 
 \lx melag
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge interior
 \ge inside
-\dt 16/Nov/2009
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
 
 \lx me|lo
+\lc
+\hm
+\ph
 \ps part
+\sn
 \ge but
 \ge yet
-\ge not.only
-\ge but.also
+\ge not_only
+\ge but_also
 \ge however
 \ge though
-\dt 16/Mar/2012
+\re
+\de but (also), not only, yet, however,
+though; particle indicating contradiction
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
 
 \lx meno
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge glove
 \ge mitten
-\dt 19/Dec/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
 
 \lx mensin
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge cup
-\ge outer.ear
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge outer_ear
 \ge ear
-\nt This is a diminutive of fv:menzola:
-"vase". It is used literally to refer to
-small containers like cups, and
-metaphorically to refer to the outer
-part of the ear.
-\dt 29/Oct/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt little jug
+\mr menzola-sin
+\dt 28/Feb/2013
 
 \lx menzola
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge jug
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge vase
-\dt 29/Oct/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Feb/2013
 
 \lx met
+\lc
+\hm
+\ph
 \ps vt
+\sn
 \ge greet
+\re
+\de to greet (s.o.)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
 \ps n
+\sn
 \ge greetings
 \ge regards
-\dt 21/Jan/2013
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Idiom
+\lv mejto
+\le hello, hi
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx mik
+\lc
+\hm
+\ph
 \ps pr
+\sn
 \ge who
-\dt 19/Nov/2009
+\re
+\de who; interrogative pronoun
+\oe Used to ask about humans.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx miko
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge remoteness
-\ge long.distance
+\ge long_distance
+\ge remote
 \ge far
-\ge far-off
-\dt 11/Dec/2012
+\ge far_off
+\re
+\de remoteness, long distance; also as adj.
+remote, far
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv ujtin
+\le proximity, closeness
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx mikostul
+\lc
+\hm
+\ph
 \ps vt
+\sn
 \ge phone
-\ge call.on.the.phone
-\nt Often the verb fv:istu|l is used instead.
-\dt 12/Dec/2012
+\ge call_on_the_phone
+\re
+\de to phone (s.o.), to call (s.o.) on the
+phone
+\oe
+\ue
+\ee Often the verb fv:istu|l is used instead.
+\xv
+\xe
+\lf Sim
+\lv stul
+\le to summon, to call
+\cf
+\ce
+\sd
+\lt far summon
+\mr miko-stul
+\dt 28/Feb/2013
 
 \lx mikujtin
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge distance
-\nt Refers to the generic concept of
+\re
+\de
+\oe Refers to the generic concept of
 distance rather than to a specific
 distance.
-\dt 16/Jan/2013
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt remoteness & proximity
+\mr miko-ujtin
+\dt 28/Feb/2013
 
 \lx mjan
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge cat
-\dt 28/Dec/2009
+\re
+\de cat; a domesticated feline
+\oe Does not specify or imply gender.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx mo-
+\lc
+\hm
+\ph
 \ps pref
+\sn
 \ge SPAT
-\dt 09/Dec/2009
+\re
+\de optional prefix casting the core cases
+into their spatial meanings
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx monu
+\lc
+\hm
+\ph
 \ps vt
+\sn
 \ge turn
-\dt 01/Feb/2010
+\re
+\de to turn (sthg or s.o.)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx mosezgo
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge cheetah
-\dt 28/Jan/2013
+\re
+\de cheetah; a very quick wild feline
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt paw quick
+\mr mosu-sezgo
+\dt 28/Feb/2013
 
 \lx mosu
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge paw
 \ge leg
 \ge foot
-\ns This word is used to refer to the paw
+\re
+\de
+\oe This word is used to refer to the paw
 or leg of a fv:sponda, i.e. a small
 animal, or to the leg or foot of an
 inanimate object (like a table).
-\dt 30/Aug/2012
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv bnam
+\le foot, leg, paw
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
+
+\lx motenku|lu
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge Moten_language
+\ge Moten
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv ku|lu
+\le language
+\cf
+\ce
+\sd
+\lt Moten language
+\mr Moten-ku|lu
+\dt 28/Feb/2013
 
 \lx mu
+\lc
+\hm
+\ph
 \ps part
+\sn
 \ge not
 \ge non
-\ge other.than
+\ge other_than
 \ge neither
 \ge nor
+\re
+\de not, non, other than, neither, nor;
+particle indicating that an alternative is
+correct
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
 \ps interj
+\sn
 \ge no
-\ge no.way
-\dt 17/Feb/2012
+\ge no_way
+\re
+\de 'no', 'no way'
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx mun
+\lc
+\hm
+\ph
 \ps pr
+\sn
 \ge which
-\dt 19/Nov/2009
+\re
+\de which; interrogative pronoun
+\oe Used to ask about a choice.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx mune
+\lc
+\hm
+\ph
 \ps nc
+\sn
 \ge month
-\dt 13/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx mut
+\lc
+\hm
+\ph
 \ps pr
+\sn
 \ge what
-\dt 19/Nov/2009
+\re
+\de what; interrogative pronoun
+\oe Used to ask about things and concept.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx muton
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge sheep
-\dt 13/Mar/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx -n
-\a -un
-\a -|n
-\u j+ -n
-\u |n+ -n
+\lc
+\hm
+\ph
 \ps case
+\sn
 \ge ACC
-\dt 17/Nov/2009
+\re
+\de accusative suffix
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx naj
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge feather
-\dt 26/Aug/2011
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx nanag
+\lc
+\hm
+\ph
 \ps vt
+\sn 1
 \ge write
-\ge write.down
-\ge make.a.note.of
-\ge keep.in.mind
-\dt 15/May/2012
+\ge write_down
+\re
+\de to write (sthg) (down)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge make_a_note_of
+\ge keep_in_mind
+\re
+\de to make a note of (sthg), to keep (sthg)
+in mind
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx nanaguz
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge book
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge writing
-\ng This is actually the participle of
-fv:|nanagi "to write", but it gets a
-separate entry due to its meaning.
-\dt 24/Oct/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt written
+\mr nanag-z
+\dt 28/Feb/2013
+
+\lx nanaguzubo
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge bookstore
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv subo
+\le shop, restaurant
+\cf
+\ce
+\sd
+\lt book shop
+\mr nanag-z-subo
+\dt 28/Feb/2013
 
 \lx ne-
+\lc
+\hm
+\ph
 \ps npf
+\sn
 \ge as
-\ge as.much
-\ge as.many
-\dt 18/Jan/2010
+\ge as_much
+\ge as_many
+\re
+\de as (much/many); comparative prefix of
+equality
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv le-
+\le less, fewer
+\lf Cpart
+\lv pe-
+\le more
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx neg
+\lc
+\hm
+\ph
 \ps vt
+\sn
 \ge do
 \ge act
 \ge operate
 \ge accomplish
-\dt 29/Dec/2009
+\re
+\de to do (sthg), to act on (sthg), to operate
+(sthg), to accomplish (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv ej
+\le to make
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx nege
+\lc
+\hm
+\ph
 \ps num
+\sn
 \ge seven
-\dt 30/Dec/2009
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx negesizdan
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge week
-\dt 13/Jan/2010
+\ge 7-day_period
+\re
+\de week; continuous 7-day period
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt for seven days
+\mr nege-siz<d>a-n
+\dt 28/Feb/2013
 
 \lx negipiz
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge difficulty
-\ge difficult
 \ge hardness
+\ge difficult
 \ge hard
-\nt This word indicates that something is
+\re
+\de difficulty, hardness; also as adj.
+difficult, hard
+\oe This word indicates that something is
 hard to do, i.e. it requires effort to
 achieve. It does not indicate that
 something is stiff or resistant (that is
 fv:otez).
-\dt 14/Nov/2012
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv neg|nalam
+\le easiness, softness
+\lf Sim
+\lv sengi|no
+\le complexity
+\cf
+\ce
+\sd
+\lt do heaviness
+\mr neg-ipiz
+\dt 28/Feb/2013
 
 \lx neglugen
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge verb
-\nt This is the grammatical term describing
+\re
+\de
+\oe
+\ue
+\ee This is the grammatical term describing
 verbs in Moten.
-\dt 26/Nov/2012
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt do word
+\mr neg-lugen
+\dt 28/Feb/2013
 
 \lx neg|nalam
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge easiness
-\ge easy
 \ge softness
+\ge easy
 \ge soft
-\nt This word indicates that something is
+\re
+\de easiness, softness; also as adj. easy,
+soft
+\oe This word indicates that something is
 easy to achieve, i.e. it requires little
 effort. It does not indicate that
 something is smooth or flexible (that is
 fv:kamoj).
-\dt 14/Nov/2012
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv negipiz
+\le difficulty, hardness
+\lf Sim
+\lv sugi|no
+\le simplicity
+\cf
+\ce
+\sd
+\lt do lightness
+\mr neg-|nalam
+\dt 28/Feb/2013
 
 \lx Nipon
+\lc
+\hm
+\ph
 \ps np
+\sn
 \ge Japan
-\dt 24/May/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx ni|si
+\lc
+\hm
+\ph
 \ps interj
+\sn
 \ge blah
-\nt This onomatopoeia represents the
+\re
+\de 'blah'
+\oe
+\ue
+\ee This onomatopoeia represents the
 sound of continuous speech.
-\dt 15/Feb/2012
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx -no
+\lc
+\hm
+\ph
 \ps nsf
+\sn
 \ge SUPERL
-\dt 18/Jan/2010
+\ge most
+\ge -est
+\ge least
+\ge fewest
+\re
+\de superlative suffix
+\oe
+\ue
+\ee Converts comparative forms (with
+prefixes fv:pe- or fv:le-) into equivalent
+superlatives.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx Noel
+\lc
+\hm
+\ph
 \ps np
+\sn
 \ge Christmas
-\nt A straight borrowing from French.
-\dt 18/Dec/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx -non
+\lc
+\hm
+\ph
 \ps nsf
-\ge "artist"
-\nt Forms nouns that refer to a person
-exercising a specific artform.
-\dt 30/Nov/2012
+\sn
+\ge artist
+\ge craftsman
+\ge -er
+\re
+\de actor/agent suffix
+\oe Used with activities falling under fv:bel.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv -vu|z
+\le employee, -er
+\lf Sim
+\lv -sif
+\le -er
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx nu-
+\lc
+\hm
+\ph
 \ps corr
+\sn
 \ge every
 \ge each
-\dt 19/Nov/2009
+\re
+\de prefix added to interrogative pronouns
+to form universal indefinite pronouns
+\oe
+\ue Colloquially, it can also be added to
+counters.
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx nudel
+\lc
+\hm
+\ph
 \ps vt
+\sn
 \ge respect
-\dt 26/Aug/2011
+\re
+\de to respect (s.o. or sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx |nalam
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge lightness
-\ge low.weight
+\ge low_weight
 \ge light
+\re
+\de lightness, low weight; also as adj. light
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge weakness
+\ge low_strength
 \ge weak
-\nt This word is used to indicate physical
-lightness or weakness.
-\dt 10/May/2012
+\re
+\de weakness, low strength; also as adj.
+weak
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv kamoj
+\le softness, lightness, fragility
+\lf Ant
+\lv ipiz
+\le heaviness, high strength
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
-\lx |negdin.kodidon
+\lx |negdin_kodidon
 \lc |negdin kodidon
+\hm
+\ph
 \ps exp
-\ge at.the.same.time
-\ge while.we're.at.it
-\dt 25/Jan/2013
+\sn
+\ge at_the_same_time
+\ge while_we're_at_it
+\re
+\de
+\oe
+\ue
+\ee An idiom, can be used as is or with
+participants, usually as a disjunct.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt with while is doing
+\mr i-neg<d>-i-n ko-di-i-t<d>o-n
+\dt 28/Feb/2013
 
 \lx |nuba
+\lc
+\hm
+\ph
 \ps nc
-\ge character
+\sn
 \ge letter
-\dt 02/Jan/2013
+\ge character
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx o
+\lc
+\hm
+\ph
 \ps pr
+\sn
+\ge over_there
 \ge yonder
-\ge that.place.over.there
-\dt 19/Nov/2009
+\re
+\de over there, that place over there
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx odamla
+\lc
+\hm
+\ph
 \ps n
-\ge brand.newness
-\ge brand.new
-\nt Refers to the quality of something
+\sn
+\ge brand_newness
+\ge brand_new
+\re
+\de brand newness; also as adj. brand new
+\oe
+\ue
+\ee Refers to the quality of something
 which is both newly made and newly
 acquired.
-\dt 12/Feb/2013
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt youth & newness
+\mr odun-amla
+\dt 28/Feb/2013
 
 \lx odun
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge youth
-\ge young
 \ge newness
+\ge young
 \ge new
-\nt Used of people to indicate that they
-are young, and of objects to indicate
-that they are newly built.
-\dt 29/Nov/2012
+\re
+\de youth, newness; also as adj. young,
+new, newly built
+\oe
+\ue
+\ee Used to indicate that an item is newly
+built. It can also be used of people to
+indicate that they are young.
+\xv
+\xe
+\lf Ant
+\lv ukol
+\le old age
+\lf Sim
+\cf amla
+\ce newness
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx okne
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge story
 \ge tale
-\dt 13/Nov/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx oknese
+\lc
+\hm
+\ph
 \ps vt
+\sn 1
 \ge recount
 \ge tell
 \ge relate
 \ge narrate
-\ge talk.about
-\dt 15/May/2012
+\re
+\de to recount (sthg), to narrate (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge talk_about
+\re
+\de to talk about (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt story say
+\mr okne-se
+\dt 28/Feb/2013
 
 \lx oknestul
+\lc
+\hm
+\ph
 \ps vt
+\sn
 \ge read
 \ge peruse
-\dt 15/May/2012
+\re
+\de to read (sthg), to peruse (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt story summon
+\mr okne-stul
+\dt 28/Feb/2013
+
+\lx oknetina
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge reading_room
+\ge study
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv tina
+\le room
+\cf
+\ce
+\sd
+\lt story room
+\mr okne-tina
+\dt 28/Feb/2013
 
 \lx oksin
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge anecdote
-\ge short.story
-\dt 02/Jan/2013
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge short_story
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt little story
+\mr okne-sin
+\dt 28/Feb/2013
 
 \lx ola
+\lc
+\hm
+\ph
 \ps vt
+\sn
 \ge glorify
-\dt 17/Nov/2009
+\re
+\de to glorify (s.o. or sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx olnes
+\lc
+\hm
+\ph
 \ps vt
-\ge be.an.expert.in
-\ge be.intimately.familiar.with
-\ge know.by.heart
-\nt This verb is used to indicate deep
+\sn 1
+\ge be_an_expert_in
+\ge be_intimately_familiar_with
+\re
+\de to be an expert in (sthg), to be
+intimately familiar with (sthg or s.o.)
+\oe This verb is used to indicate deep
 knowledge coming from various
 sources.
-\dt 23/Mar/2012
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge know_by_heart
+\ge know
+\re
+\de to know (sthg) by heart
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx olnesif
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge expert
-\dt 06/Dec/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt one that is an expert
+\mr olnes-sif
+\dt 28/Feb/2013
 
 \lx o|nig
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge autumn
-\dt 15/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx o|nigzaj
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge September
-\dt 15/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt autumn start
+\mr o|nig-|zaj
+\dt 28/Feb/2013
 
 \lx opa
+\lc
+\hm
+\ph
 \ps part
+\sn
 \ge and
 \ge also
-\ge and.also
+\ge and_also
 \ge both
-\ge as.well
+\ge as_well
 \ge moreover
-\dt 08/Aug/2012
+\re
+\de and, also, both, as well (as), moreover;
+particle indicating additional elements
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx ople
+\lc
+\hm
+\ph
 \ps vt
+\sn
 \ge give
 \ge take
 \ge receive
@@ -2061,13 +8371,18 @@ sources.
 \ge put
 \ge bring
 \ge transfer
-\ng This verb only indicates that a transfer
+\re
+\de to transfer (sthg), to give (sthg), to take
+(sthg), to receive (sthg), to bring (sthg),
+to put (sthg)
+\oe This verb only indicates that a transfer
 takes place. Context and the various
 participants present in the clause make
 it clear whether it can be translated as
-"give", " receive", "take", "put" or
-simply "transfer".
-\ns This verb implies that the transfer
+'to give', 'to receive', 'to take', 'to put'
+or simply 'to transfer'.
+\ue
+\ee This verb implies that the transfer
 happens away from the speaker, i.e.
 from the speaker to the listener, or
 from the speaker or the listener to a
@@ -2076,1288 +8391,5185 @@ between third-parties, or for transfers
 involving inanimate sources and/or
 destinations, when the speaker feels
 that the transfer is somehow
-detrimental, or at least neutral, for
+disadvantageous or at best neutral for
 them.
-\dt 09/May/2012
+\xv
+\xe
+\lf Cpart
+\lv ja|zin
+\le to give, to take, to transfer
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx oskana|not
+\lc
+\hm
+\ph
 \ps n
-\ge ceremony
+\sn 1
 \ge celebration
-\dt 16/Dec/2011
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge ceremony
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx ot
+\lc
+\hm
+\ph
 \ps pr
-\ge at.that.time
-\ge that.time.then
-\dt 19/Nov/2009
+\sn
+\ge at_that_time
+\ge formerly
+\ge in_the_future
+\re
+\de once, formerly, in the future, that time
+then
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx otez
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge hardness
 \ge hard
-\ge stiffness
-\ge stiff
+\re
+\de hardness; also as adj. hard
+\oe
+\ue
+\ee Indicates physical rigidity and lack of
+flexibility.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge heaviness
+\ge high_weight
 \ge heavy
+\re
+\de heaviness, high weight; also as adj.
+heavy
+\oe
+\ue
+\ee Similar to fv:ipiz, but does not indicate
+strength.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
 \ge toughness
+\ge sturdiness
 \ge tough
-\nt This word indicates general sturdiness,
-hardness or resilience. It also can
-indicate a high physical weight, but
-unlike fv:ipiz does not imply physical
-strength. It does not indicate difficulty
-either (that is fv:negipiz).
-\dt 14/Nov/2012
+\ge sturdy
+\re
+\de toughness, sturdiness; also as adj.
+tough, sturdy
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv ipiz
+\le heaviness, high strength
+\lf Ant
+\lv kamoj
+\le softness, lightness, fragility
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx oto
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge car
-\dt 20/Mar/2012
+\ge automobile
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
+
+\lx otosubo
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge car_dealership
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv subo
+\le shop, restaurant
+\cf
+\ce
+\sd
+\lt car shop
+\mr oto-subo
+\dt 28/Feb/2013
 
 \lx o|zeme
+\lc
+\hm
+\ph
 \ps vt
+\sn 1
 \ge ingest
+\re
+\de to ingest (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge eat
+\re
+\de to eat (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
 \ge drink
-\nt Moten has a single word for both the
+\re
+\de to drink (sthg)
+\oe
+\ue
+\ee Moten has a single word for both the
 actions of eating and drinking. It
-basically means "ingesting for purpose
-of sustenance".
-\dt 14/Mar/2012
+basically means 'ingesting for purpose
+of sustenance'.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
+
+\lx o|zemetina
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge dining_room
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv tina
+\le room
+\cf
+\ce
+\sd
+\lt ingest room
+\mr o|zeme-tina
+\dt 28/Feb/2013
 
 \lx pa|na
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge birth
-\dt 07/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx pav
+\lc
+\hm
+\ph
 \ps nc
+\sn
 \ge digit
-\dt 07/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx pe-
+\lc
+\hm
+\ph
 \ps npf
+\sn
 \ge more
-\dt 18/Jan/2010
+\ge -er
+\re
+\de more; comparative prefix of superiority
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv ne-
+\le as (much/many)
+\lf Cpart
+\lv le-
+\le less, fewer
+\cf
+\ce
+\sd
+\dt 28/Feb/2013
 
 \lx pele
+\lc
+\hm
+\ph
 \ps nc
+\sn
 \ge minute
-\dt 11/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx pelg
+\lc
+\hm
 \ph pelx
 \ps interj
+\sn
 \ge ugh
-\nt This interjection shows disgust or
+\re
+\de 'ugh'
+\oe
+\ue
+\ee This interjection shows disgust or
 contempt.
-\dt 15/Feb/2012
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx pe|la
+\lc
+\hm
+\ph
 \ps vt
+\sn 1
 \ge see
+\re
+\de to see (sthg or s.o.)
+\oe With a subject in the instrumental.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge watch
-\ge look.at
+\ge look_at
+\re
+\de to watch (sthg or s.o.), to look at (sthg
+or s.o.)
+\oe With a subject in the nominative case.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
 \ge meet
-\dt 11/May/2012
+\re
+\de to meet (s.o.)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx pe|lastul
+\lc
+\hm
+\ph
 \ps vt
+\sn 1
 \ge show
+\re
+\de to show (sthg or s.o.)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge reveal
-\dt 29/Oct/2012
+\re
+\de to reveal (sthg or s.o.)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt see summon
+\mr pe|la-stul
+\dt 28/Feb/2013
 
 \lx pe|laz
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge acquaintance
-\nt Formally the participle of fv:ipe|laj. It is
-included because of its specific
-meaning.
-\dt 03/Dec/2012
+\ge friend
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt seen
+\mr pe|la-z
+\dt 28/Feb/2013
 
 \lx pen-
+\lc
+\hm
+\ph
 \ps npf
+\sn
 \ge very
-\ge very.much
-\ge much
+\ge very_much
 \ge many
-\ge a.lot
-\ge a.lot.of
+\ge a_lot
+\ge a_lot_of
 \ge too
-\ge too.much
-\ge too.many
-\dt 18/Jan/2010
+\ge too_much
+\ge too_many
+\re
+\de very (much), many, a lot (of), too
+(much/many); intensifier/excessive
+prefix of superiority
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv len-
+\le not very (much), (a) little/few, too
+little/few, not enough
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx penla
+\lc
+\hm
+\ph
 \ps vt
-\ge wait.for
+\sn 1
+\ge wait_for
 \ge await
+\re
+\de to wait for (sthg or s.o.)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge expect
-\dt 30/Aug/2011
+\re
+\de to expect (sthg or s.o.)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx penlabuta
+\lc
+\hm
+\ph
 \ps vt
-\ge sit.and.wait.for
-\ge be.patient.with
-\dt 13/Feb/2013
+\sn 1
+\ge sit_and_wait_for
+\re
+\de to sit and wait for (sthg or s.o.)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge be_patient_with
+\re
+\de to be patient with (sthg or s.o.)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt wait & sit
+\mr penla-buta
+\dt 28/Feb/2013
 
 \lx penlastul
+\lc
+\hm
+\ph
 \ps vt
+\sn 1
 \ge invite
-\ge ask.out
-\dt 04/Dec/2012
+\re
+\de to invite (s.o.)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge ask_out
+\re
+\de to ask (s.o.) out
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt wait & summon
+\mr penla-stul
+\dt 28/Feb/2013
 
 \lx penlatina
+\lc
+\hm
+\ph
 \ps n
-\ge waiting.room
-\dt 28/Jan/2013
+\sn
+\ge waiting_room
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv tina
+\le room
+\cf
+\ce
+\sd
+\lt wait room
+\mr penla-tina
+\dt 28/Feb/2013
 
 \lx pinas
+\lc
+\hm
+\ph
 \ps vt
+\sn
 \ge feel
 \ge look
-\ge seem.to.have
-\ns Used with a first person subject, this
-verb usually means "to feel", referring
+\ge seem_to_have
+\re
+\de to feel (sthg), to look (sthg), to seem to
+have (sthg)
+\oe
+\ue
+\ee Used with a first person subject, this
+verb usually means 'to feel', referring
 to an internal impression. Used with
 another person as subject, it usually
-means "to look", referring to the
+means 'to look', referring to the
 impression that person is making on the
 speaker.
-\dt 14/Nov/2012
+\xv
+\xe
+\lf Cpart
+\lv ve|za
+\le to feel like, to look like
+\lf Cpart
+\lv gi|no
+\le to feel (an external sensation), to
+understand
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx piv
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge base
 \ge bottom
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge small_height
+\ge shortness
 \ge low
 \ge short
-\ge small.height
-\ge great.depth
+\re
+\de small height, shortness; also as adj.
+low, short
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge great_depth
 \ge deep
-\dt 29/Jan/2013
+\re
+\de great depth; also as adj. deep
+\oe
+\ue
+\ee This can be understood if one always
+takes the bottom of a body of water as
+starting point for measuring height.
+\xv
+\xe
+\lf Ant
+\lv fin
+\le top, great height, shallowness
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx pleg
+\lc
+\hm
+\ph
 \ps n
-\ge small
+\sn
 \ge smallness
-\dt 19/Jan/2010
+\ge small_size
+\ge small
+\re
+\de smallness, small size; also as adj. small
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv tuna
+\le big size
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx plis
+\lc
+\hm
+\ph
 \ps vi
+\sn
 \ge reign
-\dt 26/Aug/2011
+\ge rule
+\re
+\de to reign, to rule
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx plisif
+\lc
+\hm
+\ph
 \ps n
+\sn
+\ge ruler
 \ge lord
 \ge lady
-\dt 26/Aug/2011
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt one who rules
+\mr plis-sif
+\dt 28/Feb/2013
 
 \lx poga
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge rank
 \ge level
 \ge position
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge number
-\dt 29/Nov/2012
+\ge ordinal_number
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv bivo
+\le quantity, number, cardinal number
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx pogastul
+\lc
+\hm
+\ph
 \ps vt
+\sn
 \ge rank
-\ge list.in.order
-\dt 03/Dec/2012
+\ge list_in_order
+\re
+\de to rank (sthg), to list (sthg) in order
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv bivostul
+\le to count, to measure
+\cf
+\ce
+\sd
+\lt rank summon
+\mr poga-stul
+\dt 28/Feb/2013
 
 \lx pogla
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge name
 \ge title
-\ns This word refers to the names of
+\re
+\de
+\oe This word refers to the names of
 inanimate objects or concepts (like
 buildings, towns, nations or languages),
 the titles of works of art (like books or
 music), or as a generic term when
-someone talks about the "names of
-things". To talk about the names of
+someone talks about the 'names of
+things'. To talk about the names of
 animate beings like people or pets, use
 fv:sigoj instead.
-\dt 03/Sep/2012
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv sigoj
+\le name
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx Polis
+\lc
+\hm
+\ph
 \ps np
+\sn
 \ge police
-\dt 28/May/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx polt
 \lc pol(t)
+\hm
+\ph
 \ps vi
+\sn
 \ge open
-\dt 06/Sep/2011
+\re
+\de to open
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx poltuz
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge door
-\ng This is actually the participle of fv:ipolti
-"to open". It's included as a separate
-entry because of its meaning.
-\dt 23/Mar/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt opened
+\mr polt-z
+\dt 28/Feb/2013
 
 \lx poma
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge neck
-\ge shoulder.girdle
-\nt This word refers both to the neck and
-to the area just below it down to the
-shoulder joints.
-\ns This word is used only to refer to the
+\ge shoulder_girdle
+\re
+\de
+\oe This word is used only to refer to the
 neck of humans or large animals
 (basically those called fv:kit).
-\dt 26/Apr/2012
+\ue
+\ee This word refers both to the neck and
+to the area just below it down to the
+shoulder joints.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx -s
+\lc
+\hm
+\ph
 \ps vsf
+\sn
 \ge REL
-\dt 16/Nov/2009
+\re
+\de dependent verbal suffix, used only on
+present tense verbs
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx -s-
-\a -us-
-\a -|s-
-\u t+ -s-
-\u |s+ -s-
-\a -|z-
-\u d+ -s-
-\u |z+ -s-
-\a -z-
-\u z+ -s-
-\a -bz-
-\u b+ -s-
-\a -gz-
-\u g+ -s-
-\a -vz-
-\u v+ -s-
+\lc
+\hm
+\ph
 \ps case
+\sn
 \ge NOM.PL
-\dt 17/Nov/2009
+\re
+\de nominative plural infix
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx saj
+\lc
+\hm
+\ph
 \ps part
+\sn
 \ge definitely
 \ge really
 \ge just
-\ge the.very
+\ge the_very
+\re
+\de definitely, really, just, the very; particle
+emphasising the validity of an element
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
 \ps interj
+\sn
 \ge yes
-\ge OK
-\dt 31/Jan/2012
+\ge okay
+\re
+\de 'yes', 'okay'
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx sambivo
+\lc
+\hm
+\ph
 \ps n
-\ge prime.number
-\dt 03/Jan/2013
+\sn
+\ge prime_number
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv bivo
+\le quantity, cardinal number
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx samlugen
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge particle
-\nt This refers to the Moten grammatical
-class of particles, i.e. to the class that
-covers both interjections and clitics.
-\dt 26/Nov/2012
+\re
+\de
+\oe
+\ue
+\ee This word refers to the Moten
+grammatical class of particles, i.e. to
+the class that covers both interjections
+and clitics.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx samsigoj
+\lc
+\hm
+\ph
 \ps n
-\ge given.name
-\dt 03/Jan/2013
+\sn
+\ge given_name
+\re
+\de
+\oe
+\ue
+\ee The first part of a traditional Moten
+name.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx se
+\lc
+\hm
+\ph
 \ps vt
+\sn
 \ge say
 \ge tell
-\dt 07/Sep/2011
+\re
+\de to say (sthg), to tell (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx se-
+\lc
+\hm
+\ph
 \ps corr
-\ge I.don't.know
-\dt 19/Nov/2009
+\sn
+\ge I_don't_know
+\re
+\de prefix added to interrogative pronouns
+to form assertive existential indefinite
+pronouns, with the added sense of not
+knowing anything about the referent
+\oe
+\ue Colloquially, it can also be added to
+counters.
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx sejf
 \lc sej(f)
+\hm
+\ph
 \ps n
+\sn
 \ge blur
 \ge blurred
-\dt 26/Aug/2011
+\re
+\de blur; also as adj. blurred
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx seliz
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge cherry
-\nt Borrowed from French "cerise".
-\dt 30/Nov/2012
+\re
+\de cherry; a specific small fruit
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx selizif
+\lc
+\hm
+\ph
 \ps n
-\ge cherry.tree
-\ng Simply formed by adding the suffix
-fv:-sif to the noun fv:seliz.
-\dt 30/Nov/2012
+\sn
+\ge cherry_tree
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt cherry-er
+\mr seliz-sif
+\dt 28/Feb/2013
 
 \lx sen
+\lc
+\hm
+\ph
 \ps num
+\sn
 \ge thousand
-\dt 30/Dec/2009
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx senadan
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge millenium
-\dt 29/Apr/2012
+\ge 1000-year_period
+\re
+\de millenium; continuous 1000-year period
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt for one thousand years
+\mr sen-ad<d>a-n
+\dt 28/Feb/2013
 
 \lx sengi|no
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge complexity
-\ge complicated
 \ge deviousness
-\ge devious
 \ge difficulty
+\ge complicated
+\ge devious
 \ge difficult
-\nt This word denotes complexity, i.e. it
-indicates that something is difficult to
-learn, to understand or to master
-(although it needn't necessarily need
-effort to actually accomplish, once
-learn. That is fv:negipiz). Used of
-people, it indicates that they are
+\re
+\de complexity, deviousness, difficulty; also
+as adj. complicated, devious, difficult
+\oe This word indicates that something is
+difficult to learn, to understand or to
+master (although it needn't necessarily
+need effort to actually accomplish,
+once learned. That is fv:negipiz). Used
+of people, it indicates that they are
 difficult to understand and to handle.
-\dt 19/Nov/2012
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv sugi|no
+\le simplicity
+\lf Sim
+\lv negipiz
+\le difficulty, hardness
+\cf
+\ce
+\sd
+\lt thousand understand
+\mr sen-gi|no
+\dt 28/Feb/2013
 
 \lx senod
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge earth
 \ge ground
-\dt 07/Jan/2013
+\re
+\de
+\oe
+\ue
+\ee Refers to both the elemental concept
+and the ground we walk on.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx senodjem
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge way
 \ge road
-\dt 13/Mar/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt ground river
+\mr senod-jem
+\dt 28/Feb/2013
 
 \lx senodmune
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge October
-\dt 15/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt earth month
+\mr senod-mune
+\dt 28/Feb/2013
 
 \lx seno|ziza
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge Friday
-\dt 13/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt earth day
+\mr senod-siza
+\dt 28/Feb/2013
 
 \lx sentalu
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge rose
-\ng Literally "thousand-flower".
-\dt 20/Dec/2012
+\re
+\de rose; a fragant flower with many petals
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt thousand flower
+\mr sen-talu
+\dt 28/Feb/2013
 
 \lx sestul
+\lc
+\hm
+\ph
 \ps vt
-\ge recite
+\sn 1
 \ge recount
-\ge read.aloud
-\dt 15/May/2012
+\ge recite
+\re
+\de to recount (sthg), to recite (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge read_aloud
+\re
+\de to read (sthg) aloud
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx sezbon
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge velocity
 \ge speed
-\nt Refers to the generic concept of
+\re
+\de
+\oe Refers to the generic concept of
 speed, not to a specific value of speed.
-\dt 16/Jan/2013
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt high speed & low speed
+\mr sezgo-bontu
+\dt 28/Feb/2013
 
 \lx sezgo
+\lc
+\hm
+\ph
 \ps n
-\ge fast
+\sn
+\ge high_speed
 \ge quickness
-\ge high.speed
-\dt 10/Jan/2012
+\ge quick
+\ge fast
+\re
+\de high speed, quickness; also as adj.
+quick, fast
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv bontu
+\le low speed
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx -sif
+\lc
+\hm
+\ph
 \ps nsf
+\sn 1
 \ge -er
-\ge "tree"
-\nt This suffix forms generic agent or
-actor nouns, usually referring to
-persons. It is however also used with
-names of fruit, vegetable and flowers
-to form the name of the plant that
-carries them. 
-\dt 30/Nov/2012
+\re
+\de generic actor/agent suffix
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv -vu|z
+\le employee, -er
+\lf Sim
+\lv -non
+\le artist, -er
+\cf
+\ce
+\sd
+\sn 2
+\ge tree
+\ge shrub
+\ge plant
+\re
+\de suffix used to form names of plants or
+trees according to the fruit, vegetable
+or flower they carry
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx sigoj
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge name
-\ns Refers only to names of animate
-beings. To talk about names of
+\re
+\de
+\oe This word refers only to names of
+animate beings. To talk about names of
 inanimate objects, concepts, or about
 names in general, use fv:pogla.
-\dt 03/Sep/2012
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv pogla
+\le name, title
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx -sin
+\lc
+\hm
+\ph
 \ps nsf
-\ge "little"
-\dt 17/Nov/2009
+\sn
+\ge little
+\re
+\de generic diminutive suffix
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv -mas
+\le little male
+\lf Sim
+\lv -zes
+\le little female
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx siza
+\lc
+\hm
+\ph
 \ps nc
+\sn
 \ge day
-\ge calendar.day
-\nt Basically refers to a calendar day,
-rather than a random period of 24
-hours.
-\dt 30/Aug/2012
+\ge calendar_day
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 28/Feb/2013
 
 \lx slebe
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge trollishness
 \ge trollish
-\ng A portmanteau of fv:slim and fv:tlebe.
-\ns A somewhat familiar word referring to
+\re
+\de trollishness; also as adj. trollish
+\oe
+\ue A somewhat familiar word referring to
 a form of behaviour comparable to that
 of Internet trolls.
-\dt 07/Jan/2013
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt inappropriateness & mediocrity
+\mr slim-tlebe
+\dt 28/Feb/2013
 
 \lx slim
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge ugliness
 \ge ugly
+\re
+\de ugliness; also as adj. ugly
+\oe Refers to metaphorical ugliness, i.e.
+lack of aesthetic sense and value, only.
+Physical ugliness is fv:slimpinas.
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv slimpinas
+\le physical ugliness
+\cf
+\ce
+\sd
+\sn 2
+\ge inappropriateness
 \ge inappropriate
 \ge bad
-\ge unfit.for.purpose
-\dt 16/Jan/2013
+\ge unfit_for_purpose
+\re
+\de inappropriateness; also as adj.
+inappropriate, unfit for purpose, bad
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv vo|sa
+\le beauty, appropriateness
+\lf Sim
+\lv abal
+\le dreadfulness, lousiness
+\lf Sim
+\lv tlebe
+\le mediocrity
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx slimpinas
+\lc
+\hm
+\ph
 \ps vi
-\ge look.ugly
-\ge be.ugly
+\sn
+\ge look_ugly
+\ge be_ugly
+\re
+\de to look ugly, to be ugly
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
 \ps n
+\sn
 \ge ugliness
+\ge physical_ugliness
 \ge ugly
 \ge bad-looking
-\nt Refers strictly to one's physical
-appearance.
-\ns Normally never used for oneself.
-\dt 28/Jan/2013
+\re
+\de (physical) ugliness; also as adj. ugly,
+bad-looking
+\oe Refers strictly to one's physical
+appearance, and normally never used
+for oneself.
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv vospinas
+\le to look good, physical beauty
+\lf Sim
+\lv slim
+\le ugliness, inappropriateness
+\cf
+\ce
+\sd
+\lt ugliness look
+\mr slim-pinas
+\dt 05/Mar/2013
 
 \lx son
+\lc
+\hm
+\ph
 \ps vt
+\sn
 \ge precede
 \ge predate
-\ge go.before
-\nt The root fv:son can be used as a prefix
-to mean "previous, last", or as a suffix
-to mean "get ready to".
-\dt 15/Feb/2013
+\ge go_before
+\re
+\de to precede (sthg), to predate (sthg), to
+go before (sthg)
+\oe
+\ue
+\ee The root fv:son can also be used as a
+prefix to mean 'previous, last', or as a
+suffix to mean 'to get ready to'.
+\xv
+\xe
+\lf Cpart
+\lv zek
+\le to follow, to go after
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx spe
+\lc
+\hm
+\ph
 \ps vi
+\sn
 \ge exist
-\ns This verb is used to assert the
-existence of human beings and/or
+\re
+\de to exist
+\oe This verb is used to assert the
+existence of human beings, as well as
 fv:kit, i.e. large animals.
-\dt 30/Aug/2012
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv ak
+\le to exist
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx sponda
+\lc
+\hm
+\ph
 \ps nc
-\ge small.animal
-\nt Basically refers to any animal smaller
-than a human being. Typically, the
-speaker uses their own size as base.
-\dt 07/Jan/2010
+\sn
+\ge small_animal
+\ge animal
+\re
+\de small animal; any animal smaller than a
+human being
+\oe Typically, the speaker uses their own
+size as base, and generally does so in a
+rather fuzzy way.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv kit
+\le large animal
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx ssii
+\lc
+\hm
 \ph sːiː
 \ps interj
+\sn
 \ge er
 \ge um
-\nt This interjection indicates hesitation,
+\re
+\de 'er', 'um'
+\oe
+\ue
+\ee This interjection indicates hesitation,
 and is used as a speech filler.
-\dt 15/Feb/2012
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx ssp
+\lc
+\hm
 \ph sːp
 \ps interj
+\sn
 \ge hush
 \ge shh
-\nt This interjection is used to ask for
+\re
+\de 'hush', 'shh'
+\oe
+\ue Familiar, but not necessarily impolite.
+\ee This interjection is used to request
 silence.
-\dt 15/Feb/2012
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx status
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge state
 \ge country
 \ge nation
-\nt This word only refers to the state as a
+\re
+\de state, country, nation; state as a
 political, sociological and/or
 geographical entity.
-\dt 07/Jan/2013
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx stul
+\lc
+\hm
+\ph
 \ps vt
+\sn 1
 \ge summon
 \ge call
-\ge bring.along
-\ns In the sense of "to bring along", this
-verb is only used when the object
-would make sense as the object of "to
-call" or "to summon". In practice, this
-means the object has to be animate.
-\dt 09/May/2012
+\re
+\de to summon (s.o.), to call (s.o.)
+\oe
+\ue
+\ee Commonly used in compounds.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge bring_along
+\re
+\de to bring (s.o.) along
+\oe
+\ue
+\ee In this sense, this verb is only used
+when the object would make sense as
+the object of 'to call' or 'to summon'. In
+practice, this means that the object has
+to be animate.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx su
+\lc
+\hm
+\ph
 \ps num
+\sn
 \ge one
-\dt 30/Dec/2009
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx subo
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge shop
 \ge store
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge restaurant
-\nt Used as a suffix to indicate specific
-types of shops or restaurants.
-\dt 02/Sep/2011
+\re
+\de
+\oe
+\ue
+\ee This noun is also used as a suffix to
+form names of specific shops or
+restaurants.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx subumpi
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge shophouse
-\dt 12/Feb/2013
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt shop house
+\mr subo-umpi
+\dt 04/Mar/2013
 
 \lx sugem
+\lc
+\hm
+\ph
 \ps vi
+\sn 1
 \ge unite
+\re
+\de to unite
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge merge
 \ge fuse
-\dt 24/May/2012
+\re
+\de to merge, to fuse
+\oe Unlike in English, this verb is strictly
+intransitive.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt one gather
+\mr su-gem
+\dt 04/Mar/2013
 
 \lx sugi|no
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge simplicity
-\ge simple
 \ge straightforwardness
-\ge straightforward
 \ge easiness
+\ge simple
+\ge straightforward
 \ge easy
-\nt This word denotes simplicity, i.e. that
-something is easy to learn and/or
-understand. It does not necessarily
-indicates that it is also easy to
-accomplish (that's fv:neg|nalam). Used
-of people, it indicates that a person is
-easy to read and to handle.
-\dt 19/Nov/2012
+\re
+\de simplicity, straightforwardness,
+easiness; also as adj. simple,
+straightforward, easy
+\oe This word indicates that something is
+easy to learn, to understand or to
+master (although it needn't necessarily
+be easy to actually accomplish, once
+learned. That is fv:neg|nalam). Used of
+people, it indicates that they are easy to
+read and to handle.
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv sengi|no
+\le complexity
+\lf Sim
+\lv neg|nalam
+\le easiness, softness
+\cf
+\ce
+\sd
+\lt one understand
+\mr su-gi|no
+\dt 04/Mar/2013
 
 \lx Sujomi
+\lc
+\hm
+\ph
 \ps np
+\sn
 \ge Finland
-\dt 18/Dec/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx |saa
+\lc
+\hm
 \ph t͡saː
 \ps interj
-\ge heavy.rain
-\nt This onomatopoeia represents the
+\sn
+\ge heavy_rain
+\re
+\de 'heavy rain'
+\oe
+\ue
+\ee This onomatopoeia represents the
 sound of a heavy rain fall.
-\dt 08/Feb/2013
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx |se
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge tea
-\dt 20/Apr/2012
+\re
+\de tea; a drink made by infusing the dried
+leaves or buds of the tea plant in hot
+water
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
+
+\lx |sesubo
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge tea_house
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv subo
+\le shop, restaurant
+\cf
+\ce
+\sd
+\lt tea shop
+\mr |se-subo
+\dt 04/Mar/2013
 
 \lx |sim
+\lc
+\hm
+\ph
 \ps num
+\sn
 \ge six
-\dt 30/Dec/2009
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx |sukamo
+\lc
+\hm
+\ph
 \ps n
+\sn 1
+\ge family_generation
+\re
+\de a specific generation of a family
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge generation
-\ge family.generation
-\dt 11/Feb/2013
+\re
+\de a slice of population of similar age
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt same-sex & different-sex sibling
+\mr |suko-amo
+\dt 04/Mar/2013
 
 \lx |suko
+\lc
+\hm
+\ph
 \ps n
-\ge same-sex.sibling
-\ge same-sex.first.cousin
-\ge same-sex.close.friend
-\nt A male's brother or female's sister.
-Also a first cousin of the same sex.
-Also used metaphorically to refer to a
-very close friend of the same sex.
-\dt 03/Dec/2012
+\sn 1
+\ge same-sex_sibling
+\ge same-sex_first_cousin
+\ge brother
+\ge sister
+\ge cousin
+\re
+\de someone who is ego's sibling or first
+cousin (child of an uncle or aunt of
+ego), of the same sex as ego
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge same-sex_close_friend
+\ge friend
+\ge close_friend
+\re
+\de a very close friend of the same sex
+\oe
+\ue This usage is not unlike the use of 'bro'
+or 'sister' in some American circles,
+except that it is acceptable in all
+registers.
+\ee
+\xv
+\xe
+\lf Cpart
+\lv amo
+\le different-sex sibling, cousin or friend
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx ta-
+\lc
+\hm
+\ph
 \ps corr
+\sn
 \ge some
-\dt 19/Nov/2009
+\re
+\de prefix added to interrogative pronouns
+to form assertive existential indefinite
+pronouns
+\oe
+\ue Colloquially, it can also be added to
+counters.
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx talesk
 \lc tales(k)
+\hm
+\ph
 \ps n
+\sn
 \ge fruit
 \ge vegetable
-\ge vegetal.produce
-\nt Refers to any kind of unprocessed or
-minimally processed vegetal produce
-used for sustenance.
-\dt 07/Dec/2012
+\ge vegetal_produce
+\re
+\de fruit or vegetable; any kind of
+unprocessed or minimally processed
+vegetal produce used for sustenance
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
+
+\lx talesubo
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge greengrocer's
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv subo
+\le shop, restaurant
+\cf
+\ce
+\sd
+\lt vegetal produce shop
+\mr talesk-subo
+\dt 04/Mar/2013
 
 \lx talu
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge flower
 \ge blossom
-\nt Specifically refers to flowers growing
-on bushes, shrubs and trees.
-\dt 20/Dec/2012
+\re
+\de flower, blossom; specifically a flower
+growing on a bush, shrub or tree
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv knamafin
+\le flower
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx te-
+\lc
+\hm
+\ph
 \ps pref
+\sn
 \ge FIN
-\dt 09/Dec/2009
+\re
+\de final prefix (marks goal)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx teba
+\lc
+\hm
+\ph
 \ps n
-\ge niece.on.other.side.of.family
-\nt This noun refers to the daughters of
-one's partner's siblings.
-\dt 30/Nov/2012
+\sn
+\ge niece_on_other_side_of_family
+\ge niece
+\re
+\de niece on the other side of the family;
+ego's partner's sibling's female child
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv u|s
+\le son, nephew on the same side of the
+family
+\lf Cpart
+\lv ko
+\le daughter, niece on the same side of the
+family
+\lf Cpart
+\lv mea
+\le nephew on the other side of the family
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx tegoga
+\lc
+\hm
+\ph
 \ps exp
+\sn
 \ge personally
-\ge for.one's.part
-\nt Used exclusively as a disjunct.
-\dt 07/Dec/2012
+\ge for_one's_part
+\re
+\de
+\oe
+\ue
+\ee An idiom, used exclusively as a
+disjunct.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt for from me
+\mr te-go-ga
+\dt 04/Mar/2013
 
 \lx tekojses
+\lc
+\hm
+\ph
 \ps exp
+\sn
 \ge actually
-\ge in.fact
-\nt Formed by inflecting fv:isis "truth" in
-the instrumental definite, and
-over-inflected that in the final.
-\dt 06/Dec/2012
+\ge in_fact
+\re
+\de
+\oe
+\ue
+\ee An idiom, usually used as a disjunct
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt for with the truth
+\mr te-ko-is<e>is
+\dt 04/Mar/2013
 
 \lx tel
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge other
-\ge each.other
-\ng In the sense of "each other", it is
-always used with the definite article.
-\dt 19/Nov/2009
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge each_other
+\re
+\de
+\oe In this sense, it is always used with the
+definite article.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx telba
+\lc
+\hm
+\ph
 \ps pr
+\sn
 \ge you.PL
-\dt 19/Nov/2009
+\re
+\de second person plural pronoun
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt other & you.SG
+\mr tel-ba
+\dt 04/Mar/2013
 
 \lx telga
+\lc
+\hm
+\ph
 \ps pr
+\sn
 \ge we
-\dt 19/Nov/2009
+\re
+\de first person plural pronoun
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt other & I
+\mr tel-ga
+\dt 04/Mar/2013
 
 \lx teol
+\lc
+\hm
+\ph
 \ps vt
+\sn
 \ge please
-\ge be.liked.by
-\ng This verb has basically a similar
-meaning as the English verb "to like",
-but the subject and object are reversed,
-i.e. the subject of the verb is the thing
-liked, and the object is the one doing
-the liking.
-\ns This verb is used mostly to indicate
+\ge be_liked_by
+\ge like
+\ge be_fond_of
+\re
+\de to please (s.o.), to be liked by (s.o.)
+\oe This verb is used mostly to indicate
 non-romantic attraction to people
-(basically "to like as a friend"). It can
-also be used with an inanimate subject
-(usually an activity), but then it is very
-strong, meaning something like "to be
-fond of (doing something)".
-\dt 12/Feb/2013
+(basically 'to like as a friend') or
+animals. It can also be used with an
+inanimate subject (an object, concept
+or activity, including a subordinate
+clause), but then it is very strong, with
+connotations of 'to be fond of (doing)
+sthg'.
+\ue
+\ee This verb refers to the mental activity
+usually referred to as 'liking' in English.
+However, it does so with a different
+argument orientation: the subject of the
+verb is the thing or person liked, while
+the object is the person doing the liking.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx teolsif
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge friend
 \ge companion
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge acquaintance
-\nt A generic word for "friend", which
-does not include very close friends but
-does include acquaintances.
-\dt 03/Dec/2012
+\re
+\de
+\oe
+\ue
+\ee A generic word for 'friend', which does
+not include very close friends, but does
+include mere acquaintances.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt pleaser
+\mr teol-sif
+\dt 04/Mar/2013
 
 \lx teomas
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge dear
 \ge darling
 \ge sweetie
-\ns Used to refer strictly to men.
-\dt 02/Jan/2013
+\ge sweet
+\re
+\de dear, darling, sweetie; also as adj. dear,
+sweet
+\oe Used with male referents.
+\ue Informal and endearing.
+\ee
+\xv
+\xe
+\lf Cpart
+\lv teozes
+\le (female) dear, darling
+\lf Sim
+\lv teosin
+\le dear
+\cf
+\ce
+\sd
+\lt little male pleaser
+\mr teol-sif-mas
+\dt 04/Mar/2013
 
 \lx teosin
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge dear
-\ge darling
-\ge sweetie
-\ns Can refer to men and women, but also
-to animal or inanimate things.
-\dt 02/Jan/2013
+\re
+\de
+\oe Used with all referents, male, female
+or otherwise, including animals and
+inanimate things.
+\ue Unlike fv:teomas and fv:teozes, this
+word is neutral and can be used in all
+registers. It also isn't especially
+endearing.
+\ee
+\xv
+\xe
+\lf Sim
+\lv teomas
+\le (male) dear, darling
+\lf Sim
+\lv teozes
+\le (female) dear, darling
+\cf
+\ce
+\sd
+\lt little pleaser
+\mr teol-sif-sin
+\dt 04/Mar/2013
 
 \lx teozes
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge dear
 \ge darling
 \ge sweetie
-\ns Used to refer strictly to women.
-\dt 02/Jan/2013
+\ge sweet
+\re
+\de dear, darling, sweetie; also as adj. dear,
+sweet
+\oe Used with female referents.
+\ue Informal and endearing.
+\ee
+\xv
+\xe
+\lf Cpart
+\lv teomas
+\le (male) dear, darling
+\lf Sim
+\lv teosin
+\le dear
+\cf
+\ce
+\sd
+\lt little female pleaser
+\mr teol-sif-zes
+\dt 04/Mar/2013
 
 \lx tina
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge room
-\nt Used as a suffix to indicate specific
-types of rooms.
-\dt 02/Sep/2011
+\re
+\de
+\oe
+\ue
+\ee This noun is also used as a suffix to
+form names of specific types of rooms.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx tlap
+\lc
+\hm
+\ph
 \ps n
-\ge light.rain
+\sn
+\ge light_rain
+\ge shower
 \ge rain
-\nt Refers only to small rain showers, not
-to heavy rain falls.
-\dt 10/Feb/2013
+\re
+\de light rain, shower; light type of rainfall
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx tlebe
+\lc
+\hm
+\ph
 \ps n
-\ge mediocre
+\sn
 \ge mediocrity
+\ge mediocre
 \ge bad
-\dt 30/Nov/2012
+\re
+\de mediocrity; also as adj. mediocre, bad
+\oe
+\ue
+\ee This noun implies an objectively bad
+quality, unlike fv:abal, which is a pure
+statement of opinion, or fv:slim, which
+indicates that something is unfit for
+purpose.
+\xv
+\xe
+\lf Ant
+\lv ufan
+\le greatness
+\lf Sim
+\lv abal
+\le dreadfulness, lousiness
+\lf Sim
+\lv slim
+\le inappropriateness
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx tlitlap
+\lc
+\hm
+\ph
 \ps interj
-\ge pitter.patter
-\nt This onomatopoeia represents the
+\sn
+\ge pitter_patter
+\re
+\de 'pitter patter'
+\oe
+\ue
+\ee This onomatopoeia represents the
 sound of a light rain shower.
-\dt 08/Feb/2013
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx tmame
+\lc
+\hm
+\ph
 \ps vt
+\sn
 \ge carry
 \ge hold
 \ge bear
-\dt 10/May/2012
+\re
+\de to carry (sthg or s.o.), to hold (sthg or
+s.o.), to bear (sthg or s.o.)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx to
+\lc
+\hm
+\ph
 \ps vaux
+\sn
 \ge be
-\ng Unlike the verb "to be" in most
+\re
+\de to be (sthg or s.o.)
+\oe
+\ue
+\ee Unlike the verb 'to be' in most
 languages that have it (including
 English), the verb fv:atom in Moten is
 transitive, and takes an object in the
 accusative case.
-\dt 14/Nov/2012
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx tol
+\lc
+\hm
+\ph
 \ps num
+\sn
 \ge four
-\dt 30/Dec/2009
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx tolugen
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge nominal
 \ge noun
-\nt This is the grammatical term used to
-describe Moten nominals in Moten
-itself.
-\dt 26/Nov/2012
+\ge adjective
+\ge pronoun
+\re
+\de
+\oe
+\ue
+\ee This is the grammatical term describing
+nominals in Moten.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt be word
+\mr to-lugen
+\dt 04/Mar/2013
 
 \lx topum
+\lc
+\hm
+\ph
 \ps interj
-\ge thump.thump
-\nt This onomatopoeia represents the
+\sn
+\ge thump_thump
+\re
+\de 'thump thump'
+\oe
+\ue
+\ee This onomatopoeia represents the
 sound of a heart beating.
-\dt 28/Nov/2012
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx tul
+\lc
+\hm
+\ph
 \ps nc
+\sn 1
 \ge part
 \ge piece
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Syn
+\lv jos
+\le part, piece
+\cf
+\ce
+\sd
+\sn 2
 \ge fraction
-\ng It is used to form fractional numbers.
-\dt 07/Jan/2010
+\re
+\de
+\oe When used with numbers, forms
+fraction names such as 'half', 'third',
+'quarter', etc.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx tuna
+\lc
+\hm
+\ph
 \ps n
+\sn
+\ge bigness
+\ge big_size
 \ge big
-\ge big.size
-\dt 14/Mar/2012
+\re
+\de bigness, big size; also as adj. big
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv pleg
+\le small size
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx tunapleg
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge size
-\nt Denotes the generic concept of size.
-\dt 16/Jan/2013
+\re
+\de
+\oe Refers to the generic concept of size,
+not to a specific value of size.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt big size & small size
+\mr tuna-pleg
+\dt 04/Mar/2013
 
 \lx uba|s
+\lc
+\hm
+\ph
 \ps vi
+\sn 1
 \ge come
+\re
+\de to come
+\oe Speaker-oriented: fv:juba|si always
+refers to motion towards the speaker.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge arrive
-\ge be.enough
-\dt 19/Apr/2012
+\re
+\de to arrive
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge be_enough
+\re
+\de to be enough
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv ag
+\le to go
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx ufan
+\lc
+\hm
+\ph
 \ps n
-\ge great
+\sn
 \ge greatness
-\dt 16/Nov/2009
+\ge great
+\re
+\de greatness; also as adj. great
+\oe
+\ue
+\ee This noun implies an objectively
+excellent quality. However, it does not
+necessarily indicate fitness for
+purpose. That is fv:vo|sa.
+\xv
+\xe
+\lf Ant
+\lv tlebe
+\le mediocrity
+\lf Sim
+\lv ufsin
+\le good quality
+\lf Sim
+\lv vo|sa
+\le appropriateness
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx uflebe
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge quality
 \ge value
-\nt Denotes the generic scales rather than
-specific values.
-\dt 16/Jan/2013
+\re
+\de
+\oe Refers to the generic concept of
+quality, not to a specific level of quality.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt greatness & mediocrity
+\mr ufan-tlebe
+\dt 04/Mar/2013
 
 \lx ufsin
+\lc
+\hm
+\ph
 \ps n
-\ge good
+\sn
 \ge goodness
-\dt 11/Jan/2013
+\ge good_quality
+\ge good
+\re
+\de goodness, good quality; also as adj.
+good
+\oe
+\ue
+\ee This noun implies an objectively good
+quality. However, it does not
+necessarily indicate fitness for
+purpose. That is fv:vo|sa.
+\xv
+\xe
+\lf Sim
+\lv ufan
+\le greatness
+\lf Sim
+\lv vo|sa
+\le appropriateness
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx ufu
+\lc
+\hm
+\ph
 \ps interj
+\sn
 \ge woof
-\nt This is an onomatopoeia representing
+\re
+\de 'woof'
+\oe
+\ue
+\ee This is an onomatopoeia representing
 the sound of a dog barking.
-\dt 15/Feb/2012
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx ujtin
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge proximity
-\ge short.distance
+\ge short_distance
 \ge closeness
-\ge close
 \ge nearness
+\ge close
 \ge near
 \ge nearby
-\dt 11/Dec/2012
+\re
+\de proximity, short distance, closeness;
+also as adj. close, near, nearby
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv miko
+\le remoteness, long distance
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Mar/2013
 
 \lx ukodun
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge age
-\dt 16/Jan/2013
+\re
+\de
+\oe
+\ue
+\ee Refers to the age of a person, animal
+or object, i.e. the length of their
+existence.
+\xv
+\xe
+\lf Sim
+\lv mabamla
+\le experience
+\cf
+\ce
+\sd
+\lt old age & youth
+\mr ukol-odun
+\dt 05/Mar/2013
 
 \lx ukol
+\lc
+\hm
+\ph
 \ps n
-\ge old.age
+\sn
+\ge old_age
 \ge old
-\nt Used with people to indicate that they
-are old, and with objects to indicate
-that they were built a long time ago.
-\dt 29/Nov/2012
+\re
+\de old age; also as adj. old
+\oe
+\ue
+\ee Used with people and objects, to
+indicate that they have existed for a
+long time.
+\xv
+\xe
+\lf Ant
+\lv odun
+\le youth
+\lf Sim
+\cf mabo
+\ce ancientness
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx umpi
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge house
-\dt 26/Aug/2011
+\ge home
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx u|nav
+\lc
+\hm
+\ph
 \ps part
+\sn
 \ge so
-\ge and.thus
-\dt 16/Feb/2012
+\ge and_thus
+\re
+\de so, and thus; particle indicating
+consequence
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx us
+\lc
+\hm
+\ph
 \ps part
+\sn
 \ge not
-\ge it.is.false.that
-\dt 11/Jan/2012
+\ge it_is_false_that
+\re
+\de not, it is false that; particle indicating
+that the truth value of the sentence is
+false
+\oe The scope of this particle is always the
+entire sentence.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx u|s
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge son
-\ge nephew.on.same.side.of.family
-\nt Moten uses the same term to refer to
-someone's sons and their siblings' sons
-\dt 30/Nov/2012
+\re
+\de son; ego's male child
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge nephew_on_same_side_of_family
+\ge nephew
+\re
+\de nephew on the same side of the family;
+ego's sibling's male child
+\oe Moten uses the same term to refer to
+one's sons and one's siblings' sons.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv mea
+\le nephew on the other side of the family
+\lf Cpart
+\lv ko
+\le daughter, niece on the same side of the
+family
+\lf Cpart
+\lv teba
+\le niece on the other side of the family
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx uzab
+\lc
+\hm
+\ph
 \ps num
+\sn
 \ge eight
-\dt 30/Dec/2009
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx -v-
-\a -uv-
-\a -zv-
-\u s+ -v-
-\u z+ -v-
-\u |s+ -v-
-\u |z+ -v-
-\a -v-
-\u f+ -v-
-\a -gv-
-\u k+ -v-
-\a -bv-
-\u p+ -v-
-\a -dv-
-\u t+ -v-
+\lc
+\hm
+\ph
 \ps case
+\sn
 \ge GEN.SG
-\dt 16/Nov/2009
+\re
+\de singular genitive infix
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
+
+\lx va
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge colour
+\ge tint
+\ge hue
+\re
+\de
+\oe
+\ue
+\ee This noun is also used as a suffix to
+form colour names.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx vajag
+\lc
+\hm
+\ph
 \ps vt
+\sn
 \ge learn
 \ge study
-\dt 08/Sep/2011
+\re
+\de to learn (sthg), to study (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
+
+\lx vajagdina
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge classroom
+\ge study
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv tina
+\le room
+\cf
+\ce
+\sd
+\lt learn room
+\mr vajag-tina
+\dt 05/Mar/2013
 
 \lx vajagzif
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge student
-\dt 06/Dec/2012
+\ge pupil
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt learner
+\mr vajag-sif
+\dt 05/Mar/2013
 
 \lx veld
 \lc vel(d)
+\hm
+\ph
 \ps num
+\sn
 \ge five
-\dt 26/Aug/2011
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx venla
+\lc
+\hm
+\ph
 \ps n
-\ge crowd
+\sn 1
 \ge people
 \ge tribe
 \ge population
-\dt 07/Aug/2012
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge crowd
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx vepe|ne
+\lc
+\hm
+\ph
 \ps vi
+\sn
 \ge apologise
+\re
+\de to apologise
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
 \ps n
+\sn
 \ge apology
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
 \ps interj
+\sn 1
 \ge sorry
-\ge thank.you
+\re
+\de 'sorry'
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge thank_you
 \ge thanks
-\ns This word is also used instead of
-fv:davi|zo to give thanks for receiving
-something (a service, a present, or just
-a compliment) to acknowledge the
+\re
+\de 'thank you', 'thanks'
+\oe This word is used instead of fv:davi|zo
+to give thanks for receiving something
+(a service, a present, or just a
+compliment) and/or to acknowledge the
 person's efforts.
-\dt 04/Dec/2012
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv davi|zo
+\le thank you, thanks
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx ve|za
+\lc
+\hm
+\ph
 \ps vt
-\ge feel.like
-\ge look.like
-\ge seem.to.be
-\ns Used with a first person subject, this
-verb usually means "to feel like",
+\sn
+\ge feel_like
+\ge look_like
+\ge seem_to_be
+\re
+\de to feel like (sthg or s.o.), to look like
+(sthg or s.o.), to seem to be (sthg or
+s.o.)
+\oe
+\ue
+\ee Used with a first person subject, this
+verb usually means 'to feel like',
 referring to an internal impression.
 Used with another person as subject, it
-usually means "to look like", referring
-to the impression that person is making
-on the speaker.
-\dt 14/Nov/2012
+usually means 'to look like', referring to
+the impression that person is making on
+the speaker.
+\xv
+\xe
+\lf Cpart
+\lv pinas
+\le to feel, to look
+\lf Cpart
+\lv gi|no
+\le to feel (an external sensation), to
+understand
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx vike
+\lc
+\hm
+\ph
 \ps pr
+\sn
 \ge self
-\ng Reflexive pronoun used in all persons
-and referring to the subject of the
-current clause. It agrees with the
-subject in number.
-\dt 26/Aug/2011
+\ge myself
+\ge yourself
+\ge himself
+\ge herself
+\ge itself
+\ge ourselves
+\ge yourselves
+\ge themselves
+\re
+\de reflexive personal pronoun
+\oe Used in all persons, and always refers
+to the subject of the current clause. It
+agrees with the subject in number.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
+
+\lx volaj
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge poultry
+\ge fowl
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
+
+\lx volajsubo
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge poultry_restaurant
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv subo
+\le shop, restaurant
+\cf
+\ce
+\sd
+\lt poultry shop
+\mr volaj-subo
+\dt 05/Mar/2013
 
 \lx vone
+\lc
+\hm
+\ph
 \ps n
-\ge cold.water
+\sn
+\ge cold_water
 \ge water
-\dt 15/Jan/2013
+\re
+\de cold water, water
+\oe Refers to cold water, water in its
+natural liquid state, and to the
+elemental concept.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv den
+\le hot water
+\lf Cpart
+\lv zuba
+\le warm water
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx vonemune
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge November
-\dt 15/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt water month
+\mr vone-mune
+\dt 05/Mar/2013
 
 \lx vonesiza
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge Wednesday
-\dt 13/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt water day
+\mr vone-siza
+\dt 05/Mar/2013
 
 \lx voslim
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge beauty
+\re
+\de
+\oe Refers to the generic concept of
+metaphorical beauty, not to a specific
+value of beauty.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge appropriateness
-\ge fitness.for.purpose
-\nt Refers to the actual scales, rather than
-to a specific value on those scales.
-\dt 16/Jan/2013
+\ge fitness_for_purpose
+\re
+\de
+\oe Refers to the generic concept of
+appropriateness, not to a specific value
+of appropriateness.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt beauty & ugliness
+\mr vo|sa-slim
+\dt 05/Mar/2013
 
 \lx vospinas
+\lc
+\hm
+\ph
 \ps vi
-\ge look.good
-\ge be.beautiful
+\sn
+\ge look_good
+\ge be_beautiful
+\re
+\de to look good, to be beautiful
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
 \ps n
+\sn
 \ge beauty
+\ge physical_beauty
 \ge beautiful
 \ge good-looking
-\nt Refers strictly to one's physical
-appearance.
-\ns Normally never used for oneself.
-\dt 28/Jan/2013
+\re
+\de (physical) beauty; also as adj. beautiful,
+good-looking
+\oe Refers strictly to one's physical
+appearance, and normally never used
+for oneself.
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv slimpinas
+\le to look ugly, physical ugliness
+\lf Sim
+\lv vo|sa
+\le beauty, appropriateness
+\cf
+\ce
+\sd
+\lt beauty look
+\mr vo|sa-pinas
+\dt 05/Mar/2013
 
 \lx vo|sa
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge beauty
 \ge beautiful
+\re
+\de beauty; also as adj. beautiful
+\oe Refers to metaphorical beauty, i.e.
+presence of aesthetic sense and value,
+only. Physical beauty is fv:vospinas.
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv vospinas
+\le physical beauty
+\cf
+\ce
+\sd
+\sn 2
+\ge appropriateness
 \ge appropriate
 \ge good
 \ge nice
-\ge fit.for.purpose
-\dt 16/Jan/2013
+\ge fit_for_purpose
+\re
+\de appropriateness; also as adj.
+appropriate, fit for purpose, good, nice
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv slim
+\le ugliness, inappropriateness
+\lf Sim
+\lv ufan
+\le greatness
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx -vu|z
+\lc
+\hm
+\ph
 \ps nsf
-\ge "employee"
-\nt Forms job descriptions.
-\dt 30/Nov/2012
+\sn
+\ge employee
+\ge worker
+\ge -er
+\re
+\de actor/agent suffix
+\oe Used with activities falling under fv:go.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv -non
+\le artist, -er
+\lf Sim
+\lv -sif
+\le -er
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx -z
-\a -uz
-\a -|s
-\u t+ -z
-\u |s+ -z
-\a -|z
-\u d+ -z
-\u |z+ -z
-\a -s
-\u s+ -z
-\a -fs
-\u f+ -z
-\a -ks
-\u k+ -z
-\a -ps
-\u p+ -z
+\lc
+\hm
+\ph
 \ps vinfl
+\sn
 \ge PTCP
-\dt 17/Nov/2009
+\re
+\de participle suffix
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx zanej
+\lc
+\hm
+\ph
 \ps n
-\ge finger.ring
-\dt 25/Nov/2009
+\sn
+\ge finger_ring
+\ge ring
+\re
+\de ring; a piece of jewellery used on
+fingers
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Syn
+\lv |lajpe|lastu|l
+\le ring
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx zda
+\lc
+\hm
+\ph
 \ps n
-\ge paternal.grandparent
+\sn
+\ge paternal_grandparent
 \ge grandparent
-\nt Moten does not distinguish between
+\ge paternal_grandfather
+\ge paternal_grandmother
+\ge grandfather
+\ge grandmother
+\re
+\de paternal grandparent; ego's father's
+father or mother
+\oe
+\ue
+\ee Moten does not distinguish between
 granfathers and grandmothers, but it
 does distinguish whether the
 grandparent is on the father's or the
 mother's side.
-\dt 18/Dec/2012
+\xv
+\xe
+\lf Cpart
+\lv lomin
+\le maternal grandparent
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx zek
+\lc
+\hm
+\ph
 \ps vt
+\sn
 \ge follow
-\ge go.after
-\nt The root fv:zek can be used as a prefix
-to mean "following, next".
-\dt 12/Feb/2013
+\ge go_after
+\re
+\de to follow (sthg), to go after (sthg)
+\oe
+\ue
+\ee The root fv:zek can also be used as a
+prefix to mean 'following, next', or as a
+suffix to mean 'to carry on, to
+continue'.
+\xv
+\xe
+\lf Cpart
+\lv son
+\le to precede, to go before
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx zelo
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge zero
+\re
+\de
 \oe This term is used only in formal
 mathematical or scientific contexts to
 refer to the mathematical zero.
-\dt 05/Jan/2010
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx zenk
 \lc zen(k)
+\hm
+\ph
 \ps vt
+\sn
 \ge stop
-\ge wait.with
-\nt This verb means "to stop momentarily",
-i.e. "to stop with the intention of
-starting again later". It can also be
-used to mean "to wait with doing
-something".
-\dt 12/Feb/2013
+\ge wait_with
+\re
+\de to stop (sthg), to wait with (sthg); to
+stop momentarily, to wait with the
+intention of resuming the action later
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv kuneg
+\le to end
+\lf Sim
+\lv kunstul
+\le to give up
+\lf Cpart
+\lv |za|neg
+\le to start with the intention of finishing
+\lf Cpart
+\lv |zajstul
+\le to start
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx -zes
+\lc
+\hm
+\ph
 \ps nsf
-\ge "little"
-\ns Like fv:-sin, but used only with female
-animate referents.
-\dt 18/Dec/2012
+\sn
+\ge little_female
+\re
+\de female diminutive suffix
+\oe Used with female animate referents.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv -mas
+\le little male
+\lf Sim
+\lv -sin
+\le little
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx zgebo
+\lc
+\hm
+\ph
 \ps vt
-\ge work.on
-\ge tire.from
-\ge suffer.from
-\ng This verb has usually the first meaning
+\sn 1
+\ge work_on
+\re
+\de to work on (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge tire_from
+\re
+\de to tire from (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge suffer_from
+\re
+\de to suffer from (sthg)
+\oe This verb usually has the first meaning
 with a subject in the nominative case,
 and the other two meanings with a
 subject in the instrumental.
-\dt 03/Apr/2012
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv gmadev
+\le to suffer from, to tire from
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx zi|sun
+\lc
+\hm
+\ph
 \ps nc
+\sn
 \ge degree
 \ge point
-\dt 07/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee A generic counter that can be used
+instead of various units.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx zoba|saj
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge March
-\dt 15/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt spring start
+\mr zobat-|zaj
+\dt 05/Mar/2013
 
 \lx zobat
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge spring
-\dt 15/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx zobatmune
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge May
-\dt 15/Jan/2010
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt spring month
+\mr zobat-mune
+\dt 05/Mar/2013
 
 \lx zuba
+\lc
+\hm
+\ph
 \ps n
-\ge warm.water
-\nt Refers to water that is warm to the
+\sn
+\ge warm_water
+\ge water
+\re
+\de warm water
+\oe Refers to water that is warm to the
 touch but not scalding, typically the
 temperature of a bath or shower.
-\dt 15/Jan/2013
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv vone
+\le cold water
+\lf Cpart
+\lv den
+\le hot water
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
+
+\lx zubatina
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge bathroom
+\ge shower-room
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv tina
+\le room
+\cf
+\ce
+\sd
+\lt warm water room
+\mr zuba-tina
+\dt 05/Mar/2013
 
 \lx zu|leb
+\lc
+\hm
+\ph
 \ps vi
-\ge clear.up
-\ge become.clean
-\dt 19/Jan/2010
+\sn 1
+\ge clear_up
+\ge become_clean
+\re
+\de to clear up, to become clean
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv gana
+\le to clear up, to get solved
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx zunla
+\lc
+\hm
+\ph
 \ps n
+\sn 1
 \ge place
 \ge location
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge space
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
 \ps vi
-\ge be.at
+\sn
+\ge be_at
 \ge stay
-\ge live.at
-\dt 26/Aug/2011
+\ge live_at
+\re
+\de to be (somewhere), to stay
+(somewhere), to live (somewhere)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx zunlafoto
+\lc
+\hm
+\ph
 \ps vt
-\ge look.for
+\sn
+\ge look_for
 \ge search
 \ge seek
-\ge try.to.locate
-\nt This verb is the counterpart of
-fv:zunla|lek. It refers to the process of
-trying to locate an object or a person.
-For more abstract searches, see
-fv:foto.
-\dt 12/Sep/2012
+\ge try_to_locate
+\re
+\de to look for (sthg or s.o.), to search
+(sthg or s.o.), to seek (sthg or s.o.), to
+try to locate (sthg or s.o.)
+\oe Used to refer to the process of trying
+to locate an object or a person. For
+abstract searches, use the verb fv:ifotoj.
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv foto
+\le to look for, to research
+\lf Cpart
+\lv zunla|lek
+\le to find, to locate
+\cf
+\ce
+\sd
+\lt place search
+\mr zunla-foto
+\dt 05/Mar/2013
 
 \lx zunla|lek
+\lc
+\hm
+\ph
 \ps vt
+\sn
 \ge find
 \ge locate
-\nt This verb is used only to indicate that
-one found the location of something or
-someone, possibly after they had been
-lost. For abstract discoveries, use the
-verb fv:a|lek.
-\dt 23/Mar/2012
+\re
+\de to find (sthg or s.o.), to locate (sthg or
+s.o.)
+\oe Used to refer to the process of
+discovering the location of an object or
+a person. For abstract discoveries, use
+the verb fv:ja|leki.
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv a|lek
+\le to find, to discover
+\lf Cpart
+\lv zunlafoto
+\le to look for, to try to locate
+\cf
+\ce
+\sd
+\lt place find
+\mr zunla-a|lek
+\dt 05/Mar/2013
 
 \lx zutuun
+\lc
+\hm
 \ph zuˈtuːn
 \ps interj
+\sn
 \ge silence
-\nt This interjection is supposed to be an
-onomatopoeic representation of total
-silence.
-\dt 15/Feb/2012
+\re
+\de 'silence'
+\oe
+\ue
+\ee This interjection is an onomatopoeic
+representation of total silence.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx -|z-
-\a -u|z-
-\a -|z-
-\u s+ -|z-
-\u z+ -|z-
-\u |s+ -|z-
-\u d+ -|z-
-\a -|s-
-\u t+ -|z-
-\a -bz-
-\u b+ -|z-
-\a -fs-
-\u f+ -|z-
-\a -gz-
-\u g+ -|z-
-\a -ks-
-\u k+ -|z-
-\a -ps-
-\u p+ -|z-
-\a -vz-
-\u v+ -|z-
+\lc
+\hm
+\ph
 \ps case
+\sn
 \ge ACC.PL
-\dt 17/Nov/2009
+\re
+\de plural accusative infix
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx |zaj
+\lc
+\hm
+\ph
 \ps n
-\ge beginning
+\sn
 \ge start
+\ge beginning
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
 \ps part
-\ge to.start
-\nt Used to indicate the sense of counting
-in ordinal numbers.
-\dt 15/Jan/2010
+\sn
+\ge to_start
+\re
+\de part of ordinal numbers, indicating
+counting towards the beginning of a list
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv kun
+\le end, ending
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx |zaja
+\lc
+\hm
+\ph
 \ps num
+\sn
 \ge first
-\dt 04/Jan/2010
+\re
+\de first; an ordinal number indicating the
+first position of an ordered list
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv kuna
+\le last
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx |zajstul
+\lc
+\hm
+\ph
 \ps vt
+\sn
 \ge start
 \ge begin
-\nt unlike fv:i|za|negi, this verb shows no
-expectation of carrying on until the end.
-\dt 12/Feb/2013
+\re
+\de to start (sthg), to begin (sthg); to start
+an action without a specific plan to
+actually finish it
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv kuneg
+\le to end
+\lf Sim
+\lv kunstul
+\le to give up
+\lf Cpart
+\lv |za|neg
+\le to start with the intention of finishing
+\lf Cpart
+\lv zenk
+\le to stop momentarily
+\cf
+\ce
+\sd
+\lt start summon
+\mr |zaj-stul
+\dt 05/Mar/2013
 
 \lx |za|neg
+\lc
+\hm
+\ph
 \ps vt
+\sn
 \ge start
 \ge begin
-\nt This verb means "to start with the
-intention of going through until the
-end", i.e. it is used when the subject's
-intention is to stop only when the action
-has reached its natural conclusion.
-\dt 12/Feb/2013
+\re
+\de to start (sthg), to begin (sthg); to start
+an action with the explicit intent of
+going through until the action has
+reached its natural conclusion
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv kuneg
+\le to end
+\lf Sim
+\lv kunstul
+\le to give up
+\lf Cpart
+\lv zenk
+\le to stop momentarily
+\lf Cpart
+\lv |zajstul
+\le to start
+\cf
+\ce
+\sd
+\lt start do
+\mr |zaj-neg
+\dt 05/Mar/2013
 
 \lx |zika
+\lc
+\hm
+\ph
 \ps n
+\sn
 \ge mountain
 \ge mount
-\dt 25/Nov/2009
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx |zu-
 \ps pref
 \ge CAUS
+\lc
+\hm
+\ph
+\ps
+\sn
+\ge
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
 \dt 09/Dec/2009

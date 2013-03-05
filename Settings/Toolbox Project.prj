@@ -51,7 +51,7 @@
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
-\widthMarkerArea 213
+\widthMarkerArea 235
 \JumpTarget
 \FocusTarget
 \+brflst 
@@ -76,21 +76,21 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey zek
+\fldPriKey a
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri zek
+\fldPri a
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri penlabuta
+\fldPri kolsikaku|lu
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 6
-\CaretLineScroll 6
-\CaretChar 117
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
 \+cck 
 \mkrSingleField 1d
 \-cck
@@ -127,14 +127,14 @@
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey zek
-\fldSecKey follow
+\fldPriKey a
+\fldSecKey there
 \-rec
 \+keySearch 
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri negipiz
+\fldPri aaa
 \MatchWhole
 \match_char p
 \-keyInsert
