@@ -3295,7 +3295,7 @@ science or similar goals.
 \oe This verb is also used to indicate an
 attempt to do something, especially
 when used with a completive
-subclause.
+subclause, or more rarely as a suffix.
 \ue
 \ee
 \xv
@@ -3308,7 +3308,32 @@ subclause.
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\dt 06/Mar/2013
+
+\lx fotobel
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge research
+\ge scientific_research
+\re
+\de (scientific) research
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt search art
+\mr foto-bel
+\dt 06/Mar/2013
 
 \lx fuli
 \lc
@@ -3371,7 +3396,9 @@ subclause.
 \oe
 \ue One of the few single-consonant roots,
 it forms a regular infinitive fv:igi, and a
-regular participle fv:guz.
+regular participle fv:guz. Its imperative
+is seldom used, but when it is used it
+appears as fv:gi.
 \ee Never used to mean "to live
 somewhere". The verb fv:izunlaj is
 used in that case.
@@ -3389,9 +3416,12 @@ used in that case.
 \re
 \de
 \oe
-\ue As a noun, it usually appears as fv:gu,
-unless inflection makes the additional
-vowel unnecessary.
+\ue As a noun, it usually appears in the
+nominative singular indefinite as fv:gu
+(more rarely as fv:gi). In other forms,
+the bare stem fv:g is used, and the
+inflections themselves provide the
+needed vowel.
 \ee Refers to the abstract concept of life in
 general. The concept of currently being
 alive is usually rendered as fv:guz or
@@ -3407,7 +3437,7 @@ as static or active.
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\dt 11/Mar/2013
 
 \lx ga
 \lc
@@ -4281,15 +4311,15 @@ metaphorical pain.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Syn
+\lv mikostulipi
+\le telephone
 \cf
 \ce
 \sd
 \lt to call by phone
 \mr i-miko-stul-i
-\dt 26/Feb/2013
+\dt 07/Mar/2013
 
 \lx Imonuj
 \lc
@@ -5672,7 +5702,8 @@ last position of an ordered list
 the natural conclusion of an action
 \oe
 \ue
-\ee
+\ee Also used as a suffix to form
+cessative-completives.
 \xv
 \xe
 \lf Sim
@@ -5692,7 +5723,7 @@ the natural conclusion of an action
 \sd
 \lt end do
 \mr kun-neg
-\dt 28/Feb/2013
+\dt 11/Mar/2013
 
 \lx kunstul
 \lc
@@ -5709,7 +5740,9 @@ the natural conclusion of an action
 the natural conclusion of an action
 \oe
 \ue
-\ee
+\ee Also used as a suffix to form
+cessatives, while keeping its specific
+shade of meaning..
 \xv
 \xe
 \lf Sim
@@ -5729,7 +5762,7 @@ the natural conclusion of an action
 \sd
 \lt end summon
 \mr kun-stul
-\dt 28/Feb/2013
+\dt 11/Mar/2013
 
 \lx lam
 \lc
@@ -5833,7 +5866,7 @@ inferiority
 \hm
 \ph
 \ps n
-\sn
+\sn 1
 \ge darkness
 \ge dark
 \re
@@ -5849,9 +5882,31 @@ inferiority
 \cf
 \ce
 \sd
+\sn 2
+\ge black
+\ge purple
+\ge brown
+\ge blue
+\ge green
+\re
+\de
+\oe
+\ue
+\ee One of Moten's only two basic colour
+terms, it covers both dark colours like
+black, purple and brown, and cool
+colours like blue and green.
+\xv
+\xe
+\lf Ant
+\lv no|se
+\le brightness
+\cf
+\ce
+\sd
 \lt
 \mr
-\dt 27/Feb/2013
+\dt 07/Mar/2013
 
 \lx len
 \lc
@@ -5955,9 +6010,73 @@ inferiority
 \mr
 \dt 28/Feb/2013
 
-\lx lin
+\lx lezudati
 \lc
 \hm
+\ph
+\ps n
+\sn 1
+\ge singing
+\re
+\de singing, manner of singing
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge chanting
+\re
+\de chanting, manner of chanting
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt sing manner
+\mr lezu-dati
+\dt 07/Mar/2013
+
+\lx lin
+\lc
+\hm 1
+\ph
+\ps vi
+\sn
+\ge fly
+\ge soar
+\re
+\de to fly, to soar
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
+
+\lx lin
+\lc
+\hm 2
 \ph
 \ps vt
 \sn 1
@@ -5995,7 +6114,7 @@ innate.
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\dt 05/Mar/2013
 
 \lx linan
 \lc
@@ -6993,6 +7112,31 @@ phone
 \mr miko-stul
 \dt 28/Feb/2013
 
+\lx mikostulipi
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge telephone
+\ge phone
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Syn
+\lv imikostu|l
+\le telephone
+\cf
+\ce
+\sd
+\lt far summon tool
+\mr miko-stul-ipi
+\dt 07/Mar/2013
+
 \lx mikujtin
 \lc
 \hm
@@ -7018,6 +7162,47 @@ distance.
 \lt remoteness & proximity
 \mr miko-ujtin
 \dt 28/Feb/2013
+
+\lx mja
+\lc
+\hm
+\ph
+\ps interj
+\sn
+\ge meow
+\re
+\de 'meow'
+\oe
+\ue
+\ee This is an onomatopoeia representing
+the sound of a cat crying.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\ps vi
+\sn
+\ge meow
+\re
+\de to meow
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 05/Mar/2013
 
 \lx mjan
 \lc
@@ -7403,6 +7588,82 @@ in mind
 \mr
 \dt 28/Feb/2013
 
+\lx nanagbel
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge fiction_writing
+\ge writing
+\re
+\de fiction writing
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv nanago
+\le technical writing
+\cf
+\ce
+\sd
+\lt write art
+\mr nanag-bel
+\dt 06/Mar/2013
+
+\lx nanagnon
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge author
+\ge fiction_writer
+\ge writer
+\re
+\de author, fiction writer
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv nanagvu|z
+\le technical writer
+\cf
+\ce
+\sd
+\lt write artist
+\mr nanag-non
+\dt 06/Mar/2013
+
+\lx nanago
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge technical_writing
+\ge writing
+\re
+\de technical writing
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv nanagbel
+\le fiction writing
+\cf
+\ce
+\sd
+\lt write job
+\mr nanag-go
+\dt 06/Mar/2013
+
 \lx nanaguz
 \lc
 \hm
@@ -7465,6 +7726,31 @@ in mind
 \lt book shop
 \mr nanag-z-subo
 \dt 28/Feb/2013
+
+\lx nanagvu|z
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge technical_writer
+\ge writer
+\re
+\de technical writer
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv nanagnon
+\le author, fiction writer
+\cf
+\ce
+\sd
+\lt write employee
+\mr nanag-vu|z
+\dt 06/Mar/2013
 
 \lx ne-
 \lc
@@ -7799,6 +8085,51 @@ superlatives.
 \lt
 \mr
 \dt 28/Feb/2013
+
+\lx no|se
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge brightness
+\ge bright
+\re
+\de brightness; also as adj. bright
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge white
+\ge yellow
+\ge red
+\re
+\de
+\oe
+\ue
+\ee One of Moten's only two basic colour
+terms, it covers both bright colours like
+white and yellow, and warm colours
+like red.
+\xv
+\xe
+\lf Ant
+\lv leksod
+\le darkness
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 07/Mar/2013
 
 \lx nu-
 \lc
@@ -8594,8 +8925,9 @@ tough, sturdy
 \ps vt
 \sn 1
 \ge ingest
+\ge consume
 \re
-\de to ingest (sthg)
+\de to ingest (sthg), to consume (sthg)
 \oe
 \ue
 \ee
@@ -8634,15 +8966,15 @@ basically means 'ingesting for purpose
 of sustenance'.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv psena
+\le to swallow, to ingest
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\dt 11/Mar/2013
 
 \lx o|zemetina
 \lc
@@ -9463,6 +9795,51 @@ shoulder joints.
 \lt
 \mr
 \dt 28/Feb/2013
+
+\lx psena
+\lc
+\hm
+\ph
+\ps vt
+\sn 1
+\ge swallow
+\ge ingest
+\re
+\de to swallow (sthg), to ingest (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge smoke
+\re
+\de to smoke (sthg)
+\oe
+\ue
+\ee This word describes the process of
+swallowing or ingesting things for
+non-nutritional purposes. Swallowing
+one's saliva is fv:ipsenaj, as well as
+taking medecine. It can also be used to
+mean "to smoke".
+\xv
+\xe
+\lf Cpart
+\lv o|zeme
+\le to ingest, to eat, to drink
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 11/Mar/2013
 
 \lx -s
 \lc
@@ -10401,6 +10778,55 @@ rather fuzzy way.
 \lt
 \mr
 \dt 04/Mar/2013
+
+\lx spondakit
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge fauna
+\ge animal_kingdom
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt small & large animal
+\mr sponda-kit
+\dt 06/Mar/2013
+
+\lx spondakitpel
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge zoology
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt small & large animal art
+\mr sponda-kit-bel
+\dt 06/Mar/2013
 
 \lx ssii
 \lc
@@ -12919,13 +13345,16 @@ refer to the mathematical zero.
 \sn
 \ge stop
 \ge wait_with
+\ge pause
 \re
-\de to stop (sthg), to wait with (sthg); to
-stop momentarily, to wait with the
-intention of resuming the action later
+\de to stop (sthg), to wait with (sthg), to
+pause (sthg); to stop momentarily, to
+wait with the intention of resuming the
+action later
 \oe
 \ue
-\ee
+\ee Also used as a suffix to form
+cessatives.
 \xv
 \xe
 \lf Sim
@@ -12945,7 +13374,7 @@ intention of resuming the action later
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\dt 11/Mar/2013
 
 \lx -zes
 \lc
@@ -13464,7 +13893,8 @@ an action without a specific plan to
 actually finish it
 \oe
 \ue
-\ee
+\ee Also used as a suffix to form
+inchoatives.
 \xv
 \xe
 \lf Sim
@@ -13484,7 +13914,7 @@ actually finish it
 \sd
 \lt start summon
 \mr |zaj-stul
-\dt 05/Mar/2013
+\dt 07/Mar/2013
 
 \lx |za|neg
 \lc
@@ -13501,7 +13931,9 @@ going through until the action has
 reached its natural conclusion
 \oe
 \ue
-\ee
+\ee Also used as a suffix to form
+inchoatives, while keeping this specific
+shade of meaning.
 \xv
 \xe
 \lf Sim
@@ -13521,7 +13953,7 @@ reached its natural conclusion
 \sd
 \lt start do
 \mr |zaj-neg
-\dt 05/Mar/2013
+\dt 07/Mar/2013
 
 \lx |zika
 \lc

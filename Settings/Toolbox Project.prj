@@ -76,15 +76,15 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey a
+\fldPriKey psena
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri a
+\fldPri psena
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri kolsikaku|lu
+\fldPri psena
 \MatchWhole
 \match_char p
 \-keyInsert
@@ -121,14 +121,14 @@
 \-brf
 \-brflst
 \+ind 
-\mkrPriKey lx
-\srtPriKey Moten
-\mkrSecKey ge
+\mkrPriKey ge
+\srtPriKey English
+\mkrSecKey lx
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey a
-\fldSecKey there
+\fldPriKey ingest
+\fldSecKey psena
 \-rec
 \+keySearch 
 \match_char p

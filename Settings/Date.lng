@@ -1,4 +1,4 @@
-\+LanguageEncoding Date
+﻿\+LanguageEncoding Date
 \ver 5.0
 \desc Language encoding for sorting Shoebox datestamp fields (e.g. \dt in MDF). The format of a date is dd/Mmm/yyyy, e.g. 31/Dec/1999,  01/Jan/2000. Uses Date.cct to sort by year, month, and day.
 \case A a
@@ -124,4 +124,6 @@ N n P p Q q R r S s T t V v W w X x Y y Z z
 
 
 \-KeyDefs
+\UnicodeLang
+
 \-LanguageEncoding

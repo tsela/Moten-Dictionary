@@ -355,6 +355,7 @@
 \nam Lexical function label
 \desc Used to encode the semantic networks of a language. For consistency, a Range Set should be maintained on the lexical function labels used. When formatted by MDF, these labels can be modified (and even translated) by MDF's Audience CC tables.
 \lng English
+\rngset Ant Cpart Gen Idiom Sim Spec Src Syn 
 \+fnt 
 \Name Times New Roman
 \Size 11
@@ -948,12 +949,13 @@
 \MDF
 \verMDF 4.1
 
-\+expMDF Multi-Dictionary Formatter
+\+expMDF Engllish Moten Gloss Index
 \UTF8
-\copyright Copyright ï¿½ 2012
-\titleEnglishDiglot Moten ï¿½ English Dictionary
+\copyright Â© Copyright 2013 Christophe Grandsire-Koevoets
+\EnglishGlossIndex
+\titleEnglishDiglot Moten â—Š English Dictionary
 \titleEnglishTriglot Selaru — English — Indonesian Dictionary
-\titleGlossIndexEE English — Selaru
+\titleGlossIndexEE English â—Š Moten Word List
 \titleGlossIndexEN Indonesian — Selaru
 \titleGlossIndexER Ambonese Malay — Selaru
 \titleNationalDiglot Kamus Bahasa Selaru — Bahasa Indonesia
@@ -962,11 +964,121 @@
 \titleGlossIndexNN Bahasa Indonesia — Bahasa Selaru
 \titleGlossIndexNR Bahasa Ambon — Bahasa Selaru
 \exportedEnglishDiglot C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Dict_Moten.rtf
+\exportedGlossIndexEE C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\EnglishList.rtf
 \cctEnglishLabels mdf_eng.cct
 \dotEnglish mdf_e.dot
 \cctNationalLabels mdf_inz.cct
 \dotNational mdf_n.dot
-\fil Content Words
+\ExcludeNotes
+\typRTF MDF Rich Text Format
+\typHTML MDF SF-to-HTML
+\CheckConsistency
+\+mkrsubsetExcluded 
+\mkr dt
+\mkr ec
+\mkr es
+\mkr is
+\mkr re
+\mkr rn
+\mkr rr
+\mkr sd
+\mkr so
+\mkr st
+\mkr th
+\mkr we
+\mkr wn
+\mkr wr
+\-mkrsubsetExcluded
+\+rtfPageSetup 
+\paperSize A4
+\topMargin 2.2
+\bottomMargin 3.4
+\leftMargin 2.2
+\rightMargin 2.2
+\gutter 1.2
+\MirrorMargins
+\headerToEdge 1
+\footerToEdge 2.3
+\columns 2
+\columnSpacing 0.6
+\-rtfPageSetup
+\-expMDF
+
+\+expMDF Moten English Dictionary
+\UTF8
+\copyright Â© Copyright 2013 Christophe Grandsire-Koevoets
+\titleEnglishDiglot Moten â—Š English Dictionary
+\titleEnglishTriglot Selaru — English — Indonesian Dictionary
+\titleGlossIndexEE English ï¿½ Moten
+\titleGlossIndexEN Indonesian — Selaru
+\titleGlossIndexER Ambonese Malay — Selaru
+\titleNationalDiglot Kamus Bahasa Selaru — Bahasa Indonesia
+\titleNationalTriglot Kamus Bahasa Selaru — Bahasa Indonesia — Bahasa Ingris
+\titleGlossIndexNE Bahasa Ingris — Bahasa Selaru
+\titleGlossIndexNN Bahasa Indonesia — Bahasa Selaru
+\titleGlossIndexNR Bahasa Ambon — Bahasa Selaru
+\exportedEnglishDiglot C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\MotenDict.rtf
+\exportedGlossIndexEE C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\List_ee.rtf
+\cctEnglishLabels mdf_eng.cct
+\dotEnglish mdf_e.dot
+\cctNationalLabels mdf_inz.cct
+\dotNational mdf_n.dot
+\ExcludeNotes
+\typRTF MDF Rich Text Format
+\typHTML MDF SF-to-HTML
+\CheckConsistency
+\+mkrsubsetExcluded 
+\mkr dt
+\mkr ec
+\mkr es
+\mkr is
+\mkr re
+\mkr rn
+\mkr rr
+\mkr sd
+\mkr so
+\mkr st
+\mkr th
+\mkr we
+\mkr wn
+\mkr wr
+\-mkrsubsetExcluded
+\+rtfPageSetup 
+\paperSize A4
+\topMargin 2.2
+\bottomMargin 3.4
+\leftMargin 2.2
+\rightMargin 2.2
+\gutter 1.2
+\MirrorMargins
+\headerToEdge 1
+\footerToEdge 2.3
+\columns 2
+\columnSpacing 0.6
+\-rtfPageSetup
+\-expMDF
+
+\+expMDF Multi-Dictionary Formatter
+\UTF8
+\copyright Copyright ï¿½ 2013
+\EnglishGlossIndex
+\titleEnglishDiglot Moten ï¿½ English Dictionary
+\titleEnglishTriglot Selaru — English — Indonesian Dictionary
+\titleGlossIndexEE English ï¿½ Moten
+\titleGlossIndexEN Indonesian — Selaru
+\titleGlossIndexER Ambonese Malay — Selaru
+\titleNationalDiglot Kamus Bahasa Selaru — Bahasa Indonesia
+\titleNationalTriglot Kamus Bahasa Selaru — Bahasa Indonesia — Bahasa Ingris
+\titleGlossIndexNE Bahasa Ingris — Bahasa Selaru
+\titleGlossIndexNN Bahasa Indonesia — Bahasa Selaru
+\titleGlossIndexNR Bahasa Ambon — Bahasa Selaru
+\exportedEnglishDiglot C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Dict_Moten.rtf
+\exportedGlossIndexEE C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\List_ee.rtf
+\cctEnglishLabels mdf_eng.cct
+\dotEnglish mdf_e.dot
+\cctNationalLabels mdf_inz.cct
+\dotNational mdf_n.dot
+\ExcludeNotes
 \typRTF MDF Rich Text Format
 \typHTML MDF SF-to-HTML
 \+mkrsubsetExcluded 
@@ -1019,7 +1131,7 @@
 \+expSF Standard Format
 \-expSF
 
-\expDefault Multi-Dictionary Formatter
+\expDefault Engllish Moten Gloss Index
 \-expset
 \PreventNumbering
 \DisableNumbering
