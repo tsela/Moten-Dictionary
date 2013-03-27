@@ -76,15 +76,15 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey psena
+\fldPriKey mikoboze
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri psena
+\fldPri mikoboze
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri psena
+\fldPri mikomedgaz
 \MatchWhole
 \match_char p
 \-keyInsert
@@ -127,8 +127,8 @@
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey ingest
-\fldSecKey psena
+\fldPriKey broadcast
+\fldSecKey mikoboze
 \-rec
 \+keySearch 
 \match_char p

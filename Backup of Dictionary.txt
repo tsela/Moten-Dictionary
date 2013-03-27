@@ -122,6 +122,45 @@ such an opinion.
 \mr ada-kun
 \dt 21/Feb/2013
 
+\lx adamla
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge anniversary
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge birthday
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv pa|nasiza
+\le birthdate
+\cf
+\ce
+\sd
+\lt year new
+\mr ada-amla
+\dt 21/Mar/2013
+
 \lx ada|zaj
 \lc
 \hm
@@ -218,7 +257,9 @@ to motion away from the speaker.
 \ee In this sense, the value of the subject
 can be indicated with an adverbial
 phrase in the instrumental or the
-originative.
+originative. Also used as a suffix to
+mark actions that have started and are
+expected to carry on in the future..
 \xv
 \xe
 \lf Cpart
@@ -229,7 +270,7 @@ originative.
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\dt 19/Mar/2013
 
 \lx aguba|s
 \lc
@@ -400,9 +441,29 @@ or person, use the verb fv:izunla|leki.
 \cf
 \ce
 \sd
+\sn 3
+\ge manage
+\ge succeed
+\re
+\de to manage (to do sthg), to succeed (in
+doing sthg)
+\oe This verb is also used to indicate
+success in doing something, especially
+when used with a completive
+subclause, or more rarely as a suffix.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
 \lt
 \mr
-\dt 28/Feb/2013
+\dt 14/Mar/2013
 
 \lx Amelika
 \lc
@@ -413,7 +474,7 @@ or person, use the verb fv:izunla|leki.
 \ge America
 \re
 \de
-\oe As in English, it can refer to both
+\oe As in English, it can refer to both the
 American continent and the country of
 the United States.
 \ue
@@ -428,7 +489,7 @@ the United States.
 \sd
 \lt
 \mr
-\dt 21/Feb/2013
+\dt 15/Mar/2013
 
 \lx amla
 \lc
@@ -454,12 +515,14 @@ starting in a specific position.
 \lv mabo
 \le ancientness
 \lf Sim
-\cf odun
-\ce youth, newness
+\lv odun
+\le youth, newness
+\cf
+\ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\dt 14/Mar/2013
 
 \lx amo
 \lc
@@ -1189,6 +1252,67 @@ above the ankle
 \mr
 \dt 28/Feb/2013
 
+\lx boze
+\lc
+\hm
+\ph
+\ps vt
+\sn 1
+\ge send
+\ge receive
+\ge emit
+\ge mail
+\ge transfer
+\re
+\de to transfer (sthg), to send (sthg), to
+emit (sthg), to receive (sthg), to mail
+(sthg)
+\oe This verb works exactly like fv:ja|zi|n in
+semantics, participant and context use,
+and direction and benefit towards the
+speaker.
+\ue
+\ee The main difference between this verb
+and fv:ja|zi|n is that this verb implies
+indirectness between the giver and the
+receiver, i.e. distance, use of separate
+transport, sending through electronic
+means etc.
+\xv
+\xe
+\lf Cpart
+\lv medga
+\le to send, to receive, to transfer
+\lf Sim
+\lv ja|zin
+\le to give, to take, to transfer
+\cf
+\ce
+\sd
+\sn 2
+\ge throw
+\ge cast
+\ge get_hit_by
+\re
+\de to throw (sthg), to cast (sthg), to get hit
+by (sthg)
+\oe In this sense, this verb keeps the same
+semantics, context and participant use,
+and direction towards the speaker.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Mar/2013
+
 \lx bunes
 \lc
 \hm
@@ -1422,6 +1546,35 @@ derived from verbs.
 \lt
 \mr
 \dt 22/Feb/2013
+
+\lx datistul
+\lc
+\hm
+\ph
+\ps vt
+\sn
+\ge make_up
+\ge think_up
+\ge create
+\ge invent
+\re
+\de to make (sthg) up, to think (sthg) up, to
+create (sthg), to invent (sthg)
+\oe Used to refer to the creation of
+abstract objects, concepts and ideas.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv ipistul
+\le to build, to invent
+\cf
+\ce
+\sd
+\lt concept summon
+\mr dati-stul
+\dt 26/Mar/2013
 
 \lx davi|z
 \lc
@@ -2240,7 +2393,7 @@ wonder or disbelief.
 \lx ekkee
 \lc
 \hm
-\ph ekˈkeː
+\ph ɛkˈkeː
 \ps interj
 \sn
 \ge ouch
@@ -2260,7 +2413,7 @@ metaphorical pain.
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\dt 14/Mar/2013
 
 \lx eksa
 \lc
@@ -3291,7 +3444,8 @@ science or similar goals.
 \ge try
 \ge attempt
 \re
-\de to try (sthg), to attempt (sthg)
+\de to try (to do sthg), to attempt (to do
+sthg)
 \oe This verb is also used to indicate an
 attempt to do something, especially
 when used with a completive
@@ -3308,7 +3462,7 @@ subclause, or more rarely as a suffix.
 \sd
 \lt
 \mr
-\dt 06/Mar/2013
+\dt 14/Mar/2013
 
 \lx fotobel
 \lc
@@ -4456,6 +4610,38 @@ from verbs.
 \mr
 \dt 26/Feb/2013
 
+\lx ipistul
+\lc
+\hm
+\ph
+\ps vt
+\sn
+\ge build
+\ge create
+\ge construct
+\ge invent
+\re
+\de to build (sthg), to create (sthg), to
+construct (sthg), to invent (sthg)
+\oe Used to refer to the creation of
+concrete objects and machines.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv datistul
+\le to make up, to invent
+\lf Sim
+\lv ej
+\le to make, to build
+\cf
+\ce
+\sd
+\lt object summon
+\mr ipi-stul
+\dt 26/Mar/2013
+
 \lx ipiz
 \lc
 \hm
@@ -4787,6 +4973,32 @@ advantageous for them.
 \lt
 \mr
 \dt 28/Feb/2013
+
+\lx ja|zinuz
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge gift
+\ge present
+\re
+\de
+\oe Usually used to refer to a gift the
+speaker received from someone else.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv oplez
+\le gift, present
+\cf
+\ce
+\sd
+\lt given
+\mr ja|zin-z
+\dt 27/Mar/2013
 
 \lx jem
 \lc
@@ -5594,6 +5806,113 @@ family
 \mr Kolsika-ku|lu
 \dt 27/Feb/2013
 
+\lx kulstul
+\lc
+\hm
+\ph
+\ps vt
+\sn
+\ge conlang
+\ge construct_language
+\ge invent_language
+\re
+\de to conlang (sthg), to invent a language
+called (sthg)
+\oe Unlike its English equivalent, this verb
+is transitive and takes the created
+conlang as object. It can be used like
+its English equivalent by putting it in the
+middle voice.
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv datistul
+\le to make up, to invent
+\cf
+\ce
+\sd
+\lt language summon
+\mr ku|lu-stul
+\dt 27/Mar/2013
+
+\lx kulstulbel
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge conlanging
+\re
+\de conlanging, the art and craft of
+constructing languages
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt language summon art
+\mr ku|lu-stul-bel
+\dt 27/Mar/2013
+
+\lx kulstulnon
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge conlanger
+\re
+\de conlanger, constructed language
+creator
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt language summon artist
+\mr ku|lu-stul-non
+\dt 27/Mar/2013
+
+\lx kulstuluz
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge conlang
+\ge constructed_language
+\ge invented_language
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt language summoned
+\mr ku|lu-stul-z
+\dt 27/Mar/2013
+
 \lx ku|lu
 \lc
 \hm
@@ -5742,7 +6061,7 @@ the natural conclusion of an action
 \ue
 \ee Also used as a suffix to form
 cessatives, while keeping its specific
-shade of meaning..
+shade of meaning.
 \xv
 \xe
 \lf Sim
@@ -5762,7 +6081,7 @@ shade of meaning..
 \sd
 \lt end summon
 \mr kun-stul
-\dt 11/Mar/2013
+\dt 13/Mar/2013
 
 \lx lam
 \lc
@@ -6048,6 +6367,45 @@ inferiority
 \lt sing manner
 \mr lezu-dati
 \dt 07/Mar/2013
+
+\lx lezuz
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge song
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge chant
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt sung
+\mr lezu-z
+\dt 27/Mar/2013
 
 \lx lin
 \lc
@@ -6636,14 +6994,14 @@ holding a position for a long time.
 \lv amla
 \le newness
 \lf Sim
-\cf ukol
-\ce old age
+\lv ukol
+\le old age
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\dt 14/Mar/2013
 
 \lx Madjalolsag
 \lc
@@ -6779,6 +7137,67 @@ family
 \lt no hour
 \mr me-daj
 \dt 27/Feb/2013
+
+\lx medga
+\lc
+\hm
+\ph
+\ps vt
+\sn 1
+\ge send
+\ge receive
+\ge emit
+\ge mail
+\ge transfer
+\re
+\de to transfer (sthg), to send (sthg), to
+emit (sthg), to receive (sthg), to mail
+(sthg)
+\oe This verb works exactly like fv:joplej in
+semantics, participant and context use,
+and direction and benefit away from
+the speaker.
+\ue
+\ee The main difference between this verb
+and fv:joplej is that this verb implies
+indirectness between the giver and the
+receiver, i.e. distance, use of separate
+transport, sending through electronic
+means etc.
+\xv
+\xe
+\lf Cpart
+\lv boze
+\le to send, to receive, to transfer
+\lf Sim
+\lv ople
+\le to give, to take, to transfer
+\cf
+\ce
+\sd
+\sn 2
+\ge throw
+\ge cast
+\ge get_hit_by
+\re
+\de to throw (sthg), to cast (sthg), to get hit
+by (sthg)
+\oe In this sense, this verb keeps the same
+semantics, context and participant use,
+and direction away from the speaker.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 27/Mar/2013
 
 \lx mejee
 \lc
@@ -7085,6 +7504,113 @@ remote, far
 \lt
 \mr
 \dt 04/Mar/2013
+
+\lx mikoboze
+\lc
+\hm
+\ph
+\ps vt
+\sn
+\ge send
+\ge receive
+\ge broadcast
+\ge transmit
+\ge transfer
+\re
+\de to transfer (sthg), to send (sthg), to
+broadcast (sthg), to receive (sthg), to
+transmit (sthg)
+\oe This verb works exactly like fv:ibozej in
+semantics, participant and context use,
+and direction and benefit towards the
+speaker.
+\ue
+\ee This verb refers specifically to the
+transmission of information via
+radiowaves or other electronic means.
+\xv
+\xe
+\lf Cpart
+\lv mikomedga
+\le to broadcast, to receive, to transfer
+\lf Sim
+\lv boze
+\le to send, to receive, to transfer
+\cf
+\ce
+\sd
+\lt far send
+\mr miko-boze
+\dt 27/Mar/2013
+
+\lx mikobozez
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge transmission
+\ge broadcast
+\ge programme
+\ge show
+\re
+\de
+\oe This term is used when the speaker is
+on the receiving side of the
+transmission, i.e. the speaker is
+listener, viewer or otherwise consumer
+of the transmitted information.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv mikomedgaz
+\le transmission, broadcast, programme
+\cf
+\ce
+\sd
+\lt far sent
+\mr miko-boze-z
+\dt 27/Mar/2013
+
+\lx mikomedga
+\lc
+\hm
+\ph
+\ps vt
+\sn
+\ge send
+\ge receive
+\ge broadcast
+\ge transmit
+\ge transfer
+\re
+\de to transfer (sthg), to send (sthg), to
+broadcast (sthg), to receive (sthg), to
+transmit (sthg)
+\oe This verb works exactly like fv:imedgaj
+in semantics, participant and context
+use, and direction and benefit away
+from the speaker.
+\ue
+\ee This verb refers specifically to the
+transmission of information via
+radiowaves or other electronic means.
+\xv
+\xe
+\lf Cpart
+\lv mikoboze
+\le to broadcast, to receive, to transfer
+\lf Sim
+\lv medga
+\le to send, to receive, to transfer
+\cf
+\ce
+\sd
+\lt far send
+\mr miko-medga
+\dt 27/Mar/2013
 
 \lx mikostul
 \lc
@@ -8356,12 +8882,14 @@ indicate that they are young.
 \lv ukol
 \le old age
 \lf Sim
-\cf amla
-\ce newness
+\lv amla
+\le newness
+\cf
+\ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\dt 14/Mar/2013
 
 \lx okne
 \lc
@@ -8736,6 +9264,32 @@ them.
 \mr
 \dt 28/Feb/2013
 
+\lx oplez
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge gift
+\ge present
+\re
+\de
+\oe Usually used to refer to a gift the
+speaker gave to someone else.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv ja|zinuz
+\le gift, present
+\cf
+\ce
+\sd
+\lt given
+\mr ople-z
+\dt 27/Mar/2013
+
 \lx oskana|not
 \lc
 \hm
@@ -9024,6 +9578,61 @@ of sustenance'.
 \mr
 \dt 28/Feb/2013
 
+\lx pa|nasiza
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge birthdate
+\ge date_of_birth
+\re
+\de
+\oe Refers specifically to one's date of
+birth, i.e. the exact year, month and
+day that this event happened.
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv adamla
+\le birthday
+\cf
+\ce
+\sd
+\lt birth day
+\mr pa|na-siza
+\dt 21/Mar/2013
+
+\lx pa|nastul
+\lc
+\hm
+\ph
+\ps vt
+\sn
+\ge give_birth_to
+\re
+\de to give birth to (s.o.)
+\oe
+\ue
+\ee This is the standard verb used to refer
+to someone's birth, but in Moten it
+focusses on the mother's action, unlike
+the English "to be born", which
+focusses on what happens to the child.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt birth summon
+\mr pa|na-stul
+\dt 21/Mar/2013
+
 \lx pav
 \lc
 \hm
@@ -9101,7 +9710,7 @@ of sustenance'.
 \lx pelg
 \lc
 \hm
-\ph pelx
+\ph pɛɫx
 \ps interj
 \sn
 \ge ugh
@@ -9121,7 +9730,7 @@ contempt.
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\dt 14/Mar/2013
 
 \lx pe|la
 \lc
@@ -9795,6 +10404,51 @@ shoulder joints.
 \lt
 \mr
 \dt 28/Feb/2013
+
+\lx psena
+\lc
+\hm
+\ph
+\ps vt
+\sn 1
+\ge swallow
+\ge ingest
+\re
+\de to swallow (sthg), to ingest (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge smoke
+\re
+\de to smoke (sthg)
+\oe
+\ue
+\ee This word describes the process of
+swallowing or ingesting things for
+non-nutritional purposes. Swallowing
+one's saliva is fv:ipsenaj, as well as
+taking medecine. It can also be used to
+mean "to smoke".
+\xv
+\xe
+\lf Cpart
+\lv o|zeme
+\le to ingest, to eat, to drink
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 11/Mar/2013
 
 \lx -s
 \lc
@@ -11105,7 +11759,7 @@ read and to handle.
 \lx |saa
 \lc
 \hm
-\ph t͡saː
+\ph ts͡aː
 \ps interj
 \sn
 \ge heavy_rain
@@ -11125,7 +11779,7 @@ sound of a heavy rain fall.
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\dt 14/Mar/2013
 
 \lx |se
 \lc
@@ -12147,7 +12801,9 @@ refers to motion towards the speaker.
 \de to be enough
 \oe
 \ue
-\ee
+\ee Also used as a suffix to mark actions
+that have started in the past and are
+still happening.
 \xv
 \xe
 \lf Cpart
@@ -12158,7 +12814,7 @@ refers to motion towards the speaker.
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\dt 19/Mar/2013
 
 \lx ufan
 \lc
@@ -12356,12 +13012,14 @@ long time.
 \lv odun
 \le youth
 \lf Sim
-\cf mabo
-\ce ancientness
+\lv mabo
+\le ancientness
+\cf
+\ce
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\dt 14/Mar/2013
 
 \lx umpi
 \lc
@@ -12571,7 +13229,7 @@ form colour names.
 \hm
 \ph
 \ps vt
-\sn
+\sn 1
 \ge learn
 \ge study
 \re
@@ -12587,9 +13245,26 @@ form colour names.
 \cf
 \ce
 \sd
+\sn 2
+\ge teach
+\re
+\de to teach (sthg)
+\oe In this use, the object is still what is
+learned. The person learning, when
+mentioned, is in the benefactive.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
 \lt
 \mr
-\dt 05/Mar/2013
+\dt 21/Mar/2013
 
 \lx vajagdina
 \lc
@@ -12616,6 +13291,31 @@ form colour names.
 \mr vajag-tina
 \dt 05/Mar/2013
 
+\lx vajagnon
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge teacher
+\ge tutor
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv vajagzif
+\le student, pupil
+\cf
+\ce
+\sd
+\lt teach artist
+\mr vajag-non
+\dt 21/Mar/2013
+
 \lx vajagzif
 \lc
 \hm
@@ -12631,15 +13331,15 @@ form colour names.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv vajagnon
+\le teacher
 \cf
 \ce
 \sd
 \lt learner
 \mr vajag-sif
-\dt 05/Mar/2013
+\dt 21/Mar/2013
 
 \lx veld
 \lc vel(d)
@@ -13253,7 +13953,8 @@ mother's side.
 \ee The root fv:zek can also be used as a
 prefix to mean 'following, next', or as a
 suffix to mean 'to carry on, to
-continue'.
+continue', or if the action was
+previously stopped 'to resume'..
 \xv
 \xe
 \lf Cpart
@@ -13264,7 +13965,7 @@ continue'.
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\dt 13/Mar/2013
 
 \lx zelo
 \lc
