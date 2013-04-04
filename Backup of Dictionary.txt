@@ -465,6 +465,32 @@ subclause, or more rarely as a suffix.
 \mr
 \dt 14/Mar/2013
 
+\lx a|leka|lek
+\lc
+\hm
+\ph
+\ps vt
+\sn
+\ge discover_the_truth_about
+\ge get_to_the_bottom_of
+\re
+\de to discover the truth about (sthg), to get
+to the bottom of (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv fotofoto
+\le to try to get to the bottom of
+\cf
+\ce
+\sd
+\lt find find
+\mr a|lek-a|lek
+\dt 03/Apr/2013
+
 \lx Amelika
 \lc
 \hm
@@ -622,6 +648,30 @@ body, or its appearance in the sky.
 \lt
 \mr
 \dt 22/Feb/2013
+
+\lx apapa
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge night_sky
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt star star
+\mr apa-apa
+\dt 02/Apr/2013
 
 \lx apasiza
 \lc
@@ -3391,6 +3441,31 @@ nouns.
 \mr
 \dt 25/Feb/2013
 
+\lx fokezvokez
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge humankind
+\ge humanity
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt person person
+\mr fokez-fokez
+\dt 02/Apr/2013
+
 \lx foto
 \lc
 \hm
@@ -3488,6 +3563,34 @@ subclause, or more rarely as a suffix.
 \lt search art
 \mr foto-bel
 \dt 06/Mar/2013
+
+\lx fotofoto
+\lc
+\hm
+\ph
+\ps vt
+\sn
+\ge fully_research
+\ge look_for_the_truth_about
+\ge try_to_get_to_the_bottom_of
+\re
+\de to fully research (sthg), to look for the
+truth about (sthg), to try to get to the
+bottom of (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv a|leka|lek
+\le to get to the bottom of
+\cf
+\ce
+\sd
+\lt search search
+\mr foto-foto
+\dt 03/Apr/2013
 
 \lx fuli
 \lc
@@ -4855,6 +4958,80 @@ definitions.
 \mr
 \dt 26/Feb/2013
 
+\lx i|ze
+\lc
+\hm
+\ph
+\ps vt
+\sn 1
+\ge guide
+\re
+\de to guide (sthg or s.o.)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge lead
+\ge direct
+\ge conduct
+\re
+\de to lead (sthg or s.o.), to direct (sthg or
+s.o.), to conduct (sthg or s.o.)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge manage
+\re
+\de to manage (sthg or s.o.)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 4
+\ge drive
+\ge ride
+\re
+\de to drive (a vehicle), to ride (a vehicle
+or an animal)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Apr/2013
+
 \lx i-_-i
 \lc i- -i
 \hm
@@ -5940,6 +6117,32 @@ names.
 \lt
 \mr
 \dt 27/Feb/2013
+
+\lx ku|luku|lu
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge language
+\re
+\de
+\oe Refers to the concept of language in
+general, i.e. the ability to communicate
+symbolically with words.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt language language
+\mr ku|lu-ku|lu
+\dt 02/Apr/2013
 
 \lx kun
 \lc
@@ -7612,6 +7815,65 @@ radiowaves or other electronic means.
 \mr miko-medga
 \dt 27/Mar/2013
 
+\lx mikomedgaz
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge transmission
+\ge broadcast
+\ge programme
+\ge show
+\re
+\de
+\oe This term is used when the speaker is
+on the sending side of the transmission,
+i.e. the speaker produces, broadcasts
+or is otherwise featured in the
+transmitted information.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv mikobozez
+\le transmission, broadcast, programme
+\cf
+\ce
+\sd
+\lt far sent
+\mr miko-medga-z
+\dt 27/Mar/2013
+
+\lx mikomiko
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge unknown_territory
+\ge unexplored_territory
+\ge dangerous_territory
+\re
+\de unknown, unexplored and/or dangerous
+territories
+\oe
+\ue
+\ee Basically a nominal equivalent of the
+phrase 'here be dragons'.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt far far
+\mr miko-miko
+\dt 02/Apr/2013
+
 \lx mikostul
 \lc
 \hm
@@ -7778,6 +8040,45 @@ into their spatial meanings
 \lt
 \mr
 \dt 28/Feb/2013
+
+\lx monmonu
+\lc
+\hm
+\ph
+\ps vt
+\sn 1
+\ge roll
+\re
+\de to roll (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge wrap
+\re
+\de to wrap (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 03/Apr/2013
 
 \lx monu
 \lc
@@ -10328,6 +10629,31 @@ fv:sigoj instead.
 \mr
 \dt 28/Feb/2013
 
+\lx polpolt
+\lc polpol(t)
+\hm
+\ph
+\ps vi
+\sn
+\ge break_open
+\re
+\de to break open, to open in a way that
+cannot be closed again
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt open open
+\mr polt-polt
+\dt 03/Apr/2013
+
 \lx polt
 \lc pol(t)
 \hm
@@ -12815,6 +13141,31 @@ still happening.
 \lt
 \mr
 \dt 19/Mar/2013
+
+\lx uba|suba|s
+\lc
+\hm
+\ph
+\ps vi
+\sn
+\ge settle
+\ge fix_one's_residence
+\re
+\de to settle, to fix one's residence
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt come come
+\mr uba|s-uba|s
+\dt 02/Apr/2013
 
 \lx ufan
 \lc

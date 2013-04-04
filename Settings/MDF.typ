@@ -901,6 +901,10 @@
 \fel And
 \mkr lx
 \txt [@][#]
+\fel And
+\fel Not
+\mkr lx
+\txt -
 \match_char i
 \-fil
 
@@ -948,6 +952,7 @@
 \+expset 
 \MDF
 \verMDF 4.1
+\NoMDFReminder
 
 \+expMDF Engllish Moten Gloss Index
 \UTF8
@@ -964,7 +969,7 @@
 \titleGlossIndexNN Bahasa Indonesia — Bahasa Selaru
 \titleGlossIndexNR Bahasa Ambon — Bahasa Selaru
 \exportedEnglishDiglot C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Dict_Moten.rtf
-\exportedGlossIndexEE C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\EnglishList.rtf
+\exportedGlossIndexEE C:\Apps\Files\Conlanging\Moten\EnglishList.rtf
 \cctEnglishLabels mdf_eng.cct
 \dotEnglish mdf_e.dot
 \cctNationalLabels mdf_inz.cct
@@ -1017,7 +1022,7 @@
 \titleGlossIndexNE Bahasa Ingris — Bahasa Selaru
 \titleGlossIndexNN Bahasa Indonesia — Bahasa Selaru
 \titleGlossIndexNR Bahasa Ambon — Bahasa Selaru
-\exportedEnglishDiglot C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\MotenDict.rtf
+\exportedEnglishDiglot C:\Apps\Files\Conlanging\Moten\MotenDict.rtf
 \exportedGlossIndexEE C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\List_ee.rtf
 \cctEnglishLabels mdf_eng.cct
 \dotEnglish mdf_e.dot

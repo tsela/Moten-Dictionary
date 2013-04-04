@@ -76,15 +76,15 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey mikoboze
+\fldPriKey isis
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri mikoboze
+\fldPri isis
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri mikomedgaz
+\fldPri i|zevu|z
 \MatchWhole
 \match_char p
 \-keyInsert
@@ -121,14 +121,14 @@
 \-brf
 \-brflst
 \+ind 
-\mkrPriKey ge
-\srtPriKey English
-\mkrSecKey lx
+\mkrPriKey lx
+\srtPriKey Moten
+\mkrSecKey ge
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey broadcast
-\fldSecKey mikoboze
+\fldPriKey isis
+\fldSecKey truth
 \-rec
 \+keySearch 
 \match_char p
