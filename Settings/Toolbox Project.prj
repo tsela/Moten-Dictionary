@@ -40,7 +40,7 @@
 \-fntMarkers
 \+rundosMarkers 
 \-rundosMarkers
-\placementMain max -1 -1 -1 -1 0 0 1036 770
+\placementMain max -1 -1 -1 -1 0 0 1036 728
 \+dblst 
 
 \+db C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Dictionary.txt
@@ -76,21 +76,21 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey isis
+\fldPriKey uba|s
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri isis
+\fldPri uba|s
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri i|zevu|z
+\fldPri emag
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 0
-\CaretLineScroll 0
-\CaretChar 0
+\CaretLine 39
+\CaretLineScroll 10
+\CaretChar 7
 \+cck 
 \mkrSingleField 1d
 \-cck
@@ -121,14 +121,14 @@
 \-brf
 \-brflst
 \+ind 
-\mkrPriKey lx
-\srtPriKey Moten
-\mkrSecKey ge
+\mkrPriKey ge
+\srtPriKey English
+\mkrSecKey lx
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey isis
-\fldSecKey truth
+\fldPriKey arrive
+\fldSecKey uba|s
 \-rec
 \+keySearch 
 \match_char p

@@ -249,6 +249,23 @@ to motion away from the speaker.
 \ce
 \sd
 \sn 3
+\ge set
+\re
+\de to set
+\oe Only used in that sense when referring
+to celestial bodies like the sun and the
+moon.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 4
 \ge be_worth
 \re
 \de to be worth
@@ -270,7 +287,7 @@ expected to carry on in the future..
 \sd
 \lt
 \mr
-\dt 19/Mar/2013
+\dt 12/Apr/2013
 
 \lx aguba|s
 \lc
@@ -2663,6 +2680,34 @@ somewhat
 \mr elej-tina
 \dt 25/Feb/2013
 
+\lx elej|zajstul
+\lc
+\hm
+\ph
+\ps vi
+\sn
+\ge die
+\re
+\de to die (peacefully)
+\oe A common euphemism, meaning
+literally 'to start sleeping'. It can refer
+to many types of death, although it
+does imply that the death was not a
+violent one.
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv guneg
+\le to die (of old age)
+\cf
+\ce
+\sd
+\lt sleep start summon
+\mr elej-|zaj-stul
+\dt 09/Apr/2013
+
 \lx elojma
 \lc
 \hm
@@ -2798,6 +2843,52 @@ similar.
 \lt
 \mr
 \dt 25/Feb/2013
+
+\lx emag
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge sunset
+\re
+\de
+\oe
+\ue
+\ee In Moten, the sun does not set. Instead,
+it is said to 'leave'.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge west
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv emuba|s
+\le sunrise, east
+\lf Cpart
+\lv nos(t)
+\le left hand, left arm, left side, north
+\lf Cpart
+\lv jestel
+\le right hand, right arm, right side, south
+\cf
+\ce
+\sd
+\lt sun go
+\mr eme-ag
+\dt 12/Apr/2013
 
 \lx eme
 \lc
@@ -2942,6 +3033,52 @@ similar.
 \lt sun day
 \mr eme-siza
 \dt 25/Feb/2013
+
+\lx emuba|s
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge sunrise
+\re
+\de
+\oe
+\ue
+\ee In Moten, the sun does not rise.
+Instead, it is said to 'arrive'.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge east
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv emag
+\le sunset, west
+\lf Cpart
+\lv nos(t)
+\le left hand, left arm, left side, north
+\lf Cpart
+\lv jestel
+\le right hand, right arm, right side, south
+\cf
+\ce
+\sd
+\lt sun come
+\mr eme-uba|s
+\dt 12/Apr/2013
 
 \lx e|nek
 \lc
@@ -3414,7 +3551,7 @@ expressed, is in the originative.
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\dt 09/Apr/2013
 
 \lx fokez
 \lc
@@ -4318,6 +4455,31 @@ may start at any time
 \lt day & night
 \mr gom-dod
 \dt 26/Feb/2013
+
+\lx guneg
+\lc
+\hm
+\ph
+\ps vi
+\sn
+\ge die
+\ge pass_away
+\re
+\de to die (of old age), to pass away
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv elej|zajstul
+\le to die (peacefully)
+\cf
+\ce
+\sd
+\lt finish living
+\mr g-kuneg
+\dt 09/Apr/2013
 
 \lx i-
 \lc
@@ -5285,6 +5447,71 @@ speaker received from someone else.
 \mr jez-poma
 \dt 26/Feb/2013
 
+\lx jestel
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge right_hand
+\ge right_arm
+\re
+\de
+\oe This noun refers specifically to the
+right hand or arm of a person.
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv jez
+\le hand, arm
+\cf
+\ce
+\sd
+\sn 2
+\ge right
+\ge right_side
+\re
+\de right (side)
+\oe Refers strictly to the direction.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge south
+\re
+\de
+\oe
+\ue
+\ee Basically, cardinal directions are
+named by figuratively facing east, so
+that south is on one's right side.
+\xv
+\xe
+\lf Cpart
+\lv nos(t)
+\le left hand, left arm, left side, north
+\lf Cpart
+\lv emuba|s
+\le sunrise, east
+\lf Cpart
+\lv emag
+\le sunset, west
+\cf
+\ce
+\sd
+\lt hand other
+\mr jez-tel
+\dt 12/Apr/2013
+
 \lx jez
 \lc
 \hm
@@ -5306,12 +5533,18 @@ opposable thumbs.
 \lf Cpart
 \lv bnam
 \le foot, leg
+\lf Spec
+\lv nos(t)
+\le left hand, left arm
+\lf Cpart
+\lv jestel
+\le right hand, right arm
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\dt 11/Apr/2013
 
 \lx jos
 \lc
@@ -8322,6 +8555,55 @@ correct
 \mr
 \dt 28/Feb/2013
 
+\lx mung
+\lc mun(g)
+\hm
+\ph
+\ps vi
+\sn 1
+\ge be_different
+\ge differ
+\ge different
+\re
+\de to be different, to differ (from sthg)
+\oe
+\ue
+\ee Equivalent of the English adjective
+'different', but it is a verb in Moten.
+\xv
+\xe
+\lf Syn
+\lv |siga
+\le to be different, to disagree
+\cf
+\ce
+\sd
+\sn 2
+\ge be_wrong
+\ge be_incorrect
+\ge wrong
+\ge incorrect
+\re
+\de to be wrong, to be incorrect
+\oe When used with a person as subject,
+this verb can only indicate that that
+person is not the one the speaker was
+expecting/was talking about.
+\ue Often used in conversation as a softer
+way of saying 'no'.
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 10/Apr/2013
+
 \lx mut
 \lc
 \hm
@@ -8957,6 +9239,70 @@ superlatives.
 \lt
 \mr
 \dt 28/Feb/2013
+
+\lx nost
+\lc nos(t)
+\hm
+\ph
+\ps n
+\sn 1
+\ge left_hand
+\ge left_arm
+\re
+\de
+\oe This noun refers specifically to the left
+hand or arm of a person.
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv jez
+\le hand, arm
+\cf
+\ce
+\sd
+\sn 2
+\ge left
+\ge left_side
+\re
+\de left (side)
+\oe Refers strictly to the direction.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge north
+\re
+\de
+\oe
+\ue
+\ee Basically, cardinal directions are
+named by figuratively facing east, so
+that north is on one's left side.
+\xv
+\xe
+\lf Cpart
+\lv jestel
+\le right hand, right arm, right side, south
+\lv emuba|s
+\le sunrise, east
+\lf Cpart
+\lv emag
+\le sunset, west
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 12/Apr/2013
 
 \lx no|se
 \lc
@@ -12103,6 +12449,35 @@ read and to handle.
 \mr su-gi|no
 \dt 04/Mar/2013
 
+\lx sujez
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge agreement
+\ge concurrence
+\ge harmony
+\re
+\de
+\oe Refers strictly to the state of sharing a
+view or an opinion.
+\ue
+\ee The verb 'to agree' is typically
+translated in Moten as fv:sujedezun fv:
+agem: 'to have the agreement'.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt one hand
+\mr su-jez
+\dt 11/Apr/2013
+
 \lx Sujomi
 \lc
 \hm
@@ -12201,6 +12576,49 @@ water
 \lt tea shop
 \mr |se-subo
 \dt 04/Mar/2013
+
+\lx |siga
+\lc
+\hm
+\ph
+\ps vi
+\sn 1
+\ge be_different
+\ge differ
+\ge different
+\re
+\de to be different, to differ (from sthg)
+\oe
+\ue
+\ee Equivalent of the English adjective
+'different', but it is a verb in Moten.
+\xv
+\xe
+\lf Syn
+\lv mun(g)
+\le to be different, to be wrong
+\cf
+\ce
+\sd
+\sn 2
+\ge disagree
+\re
+\de to disagree
+\oe Used to indicate that one does not
+concur with some person or opinion.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 10/Apr/2013
 
 \lx |sim
 \lc
@@ -13167,6 +13585,23 @@ refers to motion towards the speaker.
 \ce
 \sd
 \sn 3
+\ge rise
+\re
+\de to rise
+\oe Only used in that sense when referring
+to celestial bodies like the sun and the
+moon.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 4
 \ge be_enough
 \re
 \de to be enough
@@ -13185,7 +13620,7 @@ still happening.
 \sd
 \lt
 \mr
-\dt 19/Mar/2013
+\dt 12/Apr/2013
 
 \lx uba|suba|s
 \lc
