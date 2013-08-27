@@ -355,7 +355,7 @@
 \nam Lexical function label
 \desc Used to encode the semantic networks of a language. For consistency, a Range Set should be maintained on the lexical function labels used. When formatted by MDF, these labels can be modified (and even translated) by MDF's Audience CC tables.
 \lng English
-\rngset Ant Cpart Gen Idiom Sim Spec Src Syn 
+\rngset Ant Cpart Gen Idiom Nact Ninst Nug Sim Spec Src Syn 
 \+fnt 
 \Name Times New Roman
 \Size 11

@@ -1782,6 +1782,38 @@ way up to boiling water.
 \mr
 \dt 22/Feb/2013
 
+\lx devodi
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge west_wind
+\re
+\de
+\oe
+\ue
+\ee In Moten, the various winds from the
+cardinal directions have separate
+names.
+\xv
+\xe
+\lf Cpart
+\lv embo
+\le east wind
+\lf Cpart
+\lv ibnost
+\le north wind
+\lf Cpart
+\lv iptel
+\le south wind
+\cf
+\ce
+\sd
+\lt from the night
+\mr d<e><v>od-i
+\dt 24/Apr/2013
+
 \lx di-
 \lc
 \hm
@@ -2090,8 +2122,9 @@ children to refer to their own mothers.
 \sn
 \ge fatty_man
 \ge fatty
+\ge fatso
 \re
-\de fatty man
+\de fatty man, fatso; also as adj. fatty
 \oe
 \ue Pejorative word referring to
 overweight men and boys.
@@ -2106,7 +2139,7 @@ overweight men and boys.
 \sd
 \lt little male pear
 \mr dloa-mas
-\dt 22/Feb/2013
+\dt 29/Jul/2013
 
 \lx dloasin
 \lc
@@ -2139,9 +2172,10 @@ overweight men and boys.
 \ps n
 \sn
 \ge fatty_woman
+\ge fatso
 \ge fatty
 \re
-\de fatty woman
+\de fatty woman, fatso; also as adj. fatty
 \oe
 \ue Pejorative word referring to
 overweight women and girls.
@@ -2156,7 +2190,7 @@ overweight women and girls.
 \sd
 \lt little female pear
 \mr dloa-zes
-\dt 22/Feb/2013
+\dt 29/Jul/2013
 
 \lx dod
 \lc
@@ -2690,10 +2724,10 @@ somewhat
 \re
 \de to die (peacefully)
 \oe A common euphemism, meaning
-literally 'to start sleeping'. It can refer
-to many types of death, although it
-does imply that the death was not a
-violent one.
+literally 'to start sleeping, to fall asleep'.
+It can refer to many types of death,
+although it does imply that the death
+was not a violent one.
 \ue
 \ee
 \xv
@@ -2706,7 +2740,7 @@ violent one.
 \sd
 \lt sleep start summon
 \mr elej-|zaj-stul
-\dt 09/Apr/2013
+\dt 14/Apr/2013
 
 \lx elojma
 \lc
@@ -2889,6 +2923,38 @@ it is said to 'leave'.
 \lt sun go
 \mr eme-ag
 \dt 12/Apr/2013
+
+\lx embo
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge east_wind
+\re
+\de
+\oe
+\ue
+\ee In Moten, the various winds from the
+cardinal directions have separate
+names.
+\xv
+\xe
+\lf Cpart
+\lv devodi
+\le west wind
+\lf Cpart
+\lv ibnost
+\le north wind
+\lf Cpart
+\lv iptel
+\le south wind
+\cf
+\ce
+\sd
+\lt sun wind
+\mr eme-ibo
+\dt 24/Apr/2013
 
 \lx eme
 \lc
@@ -3228,6 +3294,33 @@ women.
 \mr e|lon-zes
 \dt 25/Feb/2013
 
+\lx eze|s
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge sound
+\ge noise
+\re
+\de
+\oe Always countable, unlike the English
+translations which can be used as mass
+nouns.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt heard
+\mr ezet-z
+\dt 03/Jul/2013
+
 \lx ezet
 \lc
 \hm
@@ -3299,24 +3392,37 @@ women.
 \sn
 \ge sorry
 \ge sorry_to_bother_you
+\ge excuse_me
+\ge see
+\ge you_see
 \re
 \de 'sorry', 'sorry to bother you', 'excuse
-me'
+me', 'see', 'you see'
 \oe
 \ue
-\ee This expression is used to ask for
-attention in a neutral to polite manner.
+\ee This expression is used to call
+someone's attention or address
+someone in a neutral to polite manner.
 \xv
 \xe
 \lf Sim
 \lv mejee
-\le psst, hey
+\le psst, hey, look
+\lv memas
+\le hey, look, listen (to a male)
+\lf Sim
+\lv mezes
+\le hey, look, listen (to a female)
+\lf Sim
+\lv mesin
+\le hey, look, listen, see (to a male, female
+or group)
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\dt 16/Jul/2013
 
 \lx Filansi
 \lc
@@ -3760,8 +3866,10 @@ bottom of (sthg)
 \ps nc
 \sn
 \ge second
+\ge moment
 \re
-\de second; a very short amount of time
+\de second; moment, a very short amount
+of time
 \oe
 \ue
 \ee
@@ -3775,7 +3883,7 @@ bottom of (sthg)
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\dt 01/May/2013
 
 \lx g
 \lc
@@ -4221,6 +4329,73 @@ aware of the meaning of (sthg)
 \mr
 \dt 28/Feb/2013
 
+\lx gize
+\lc
+\hm
+\ph
+\ps vt
+\sn 1
+\ge please
+\ge be_liked_by
+\ge be_enjoyed_by
+\ge like
+\ge enjoy
+\re
+\de to please (s.o.), to be liked by (s.o.), to
+be enjoyed by (s.o.)
+\oe When the subject of this verb is
+inanimate (an object, concept or
+activity, including a subordinate
+clause), this verb indicates that the
+object likes or enjoys the subject. In
+this sense, it is more common and less
+strong than fv:iteo|l.
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv teol
+\le to please, to like, to be fond of
+\cf
+\ce
+\sd
+\sn 2
+\ge be_loved_by
+\ge be_lusted_after_by
+\ge love
+\ge lust_after
+\re
+\de to be loved by (s.o.), to be lusted after
+by (s.o.)
+\oe When the subject of this verb is
+animate (usually a person), this verb
+indicates that the object feels a very
+strong attraction towards the subject,
+usually of sexual nature. It can also
+indicate romantic feelings, with the
+added meaning that one wants to
+physically act on them.
+\ue
+\ee This verb refers to the mental activity
+usually referred to as 'liking' or 'loving'
+in English. However, it does so with a
+different argument orientation: the
+subject of the verb is the thing or
+person liked, while the object is the
+person doing the liking.
+\xv
+\xe
+\lf Sim
+\lv majtage
+\le to love, to be romantically attracted to
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 17/Apr/2013
+
 \lx gmadev
 \lc
 \hm
@@ -4553,6 +4728,38 @@ may start at any time
 \lt wind strong
 \mr ibo-ipiz
 \dt 26/Feb/2013
+
+\lx ibnost
+\lc ibnos(t)
+\hm
+\ph
+\ps n
+\sn
+\ge north_wind
+\re
+\de
+\oe
+\ue
+\ee In Moten, the various winds from the
+cardinal directions have separate
+names.
+\xv
+\xe
+\lf Cpart
+\lv iptel
+\le south wind
+\lf Cpart
+\lv embo
+\le east wind
+\lf Cpart
+\lv devodi
+\le west wind
+\cf
+\ce
+\sd
+\lt wind north
+\mr ibo-nost
+\dt 24/Apr/2013
 
 \lx ibo
 \lc
@@ -4952,6 +5159,38 @@ heavy
 \lt
 \mr
 \dt 26/Feb/2013
+
+\lx iptel
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge south_wind
+\re
+\de
+\oe
+\ue
+\ee In Moten, the various winds from the
+cardinal directions have separate
+names.
+\xv
+\xe
+\lf Cpart
+\lv ibnost
+\le north wind
+\lf Cpart
+\lv embo
+\le east wind
+\lf Cpart
+\lv devodi
+\le west wind
+\cf
+\ce
+\sd
+\lt wind other
+\mr ibo-tel
+\dt 24/Apr/2013
 
 \lx isis
 \lc
@@ -5357,6 +5596,68 @@ advantageous for them.
 \lt
 \mr
 \dt 28/Feb/2013
+
+\lx ja|zinse
+\lc
+\hm
+\ph
+\ps vt
+\sn 1
+\ge discuss
+\ge debate
+\re
+\de to discuss (sthg), to debate (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv oknese
+\le to recount, to talk about, to discuss, to
+debate
+\cf
+\ce
+\sd
+\sn 2
+\ge argue
+\ge argue_about
+\re
+\de to argue (about) (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge negotiate
+\re
+\de to negotiate (sthg)
+\oe Used when the speaker wants to
+indicate that the debate, argument or
+negotation is going a way that is
+advantageous to them.
+\ue
+\ee When used in the perfect aspect, this
+verb can also mean: 'to agree, to come
+to an agreement'.
+\xv
+\xe
+\lf Cpart
+\lv oplese
+\le to discuss, to argue, to negotiate
+\cf
+\ce
+\sd
+\lt give say
+\mr ja|zin-se
+\dt 23/Apr/2013
 
 \lx ja|zinuz
 \lc
@@ -7508,6 +7809,75 @@ holding a position for a long time.
 \mr
 \dt 27/Feb/2013
 
+\lx majta
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge love
+\ge romantic_love
+\ge affection
+\re
+\de (romantic) love, affection
+\oe Can only refer to the feeling of
+romantic attraction towards another
+person.
+\ue
+\ee
+\xv
+\xe
+\lf Idiom
+\lv majtage
+\le to love, to feel romantically attracted to
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 16/Apr/2013
+
+\lx majtage
+\lc
+\hm
+\ph
+\ps vt
+\sn
+\ge love
+\ge have_romantic_feelings_for
+\ge feel_romantically_attracted_to
+\re
+\de to love (s.o.), to have romantic feelings
+for (s.o.), to feel romantically attracted
+to (s.o.)
+\oe Can only refer to romantic love, so the
+object has to be another person, or be
+at least animate.
+\ue
+\ee Although the verbal part of this
+compound is an auxiliary, this verb
+takes the regular infinitive and
+participle affixes, so the infinitive is
+fv:imajtagej and the participle is
+fv:majtagez.
+\xv
+\xe
+\lf Src
+\lv majta
+\le romantic love
+\lf Sim
+\lv teol
+\le to please, to like, to be fond of
+\lf Sim
+\lv gize
+\le to please, to like, to enjoy, to love
+\cf
+\ce
+\sd
+\lt love have
+\mr majta-ge
+\dt 16/Apr/2013
+
 \lx -mas
 \lc
 \hm
@@ -7690,23 +8060,37 @@ and direction away from the speaker.
 \ge hey
 \ge yoo-hoo
 \ge psst
+\ge look
+\ge listen
 \re
-\de 'ahem', 'psst', 'yoo-hoo', 'hey'
+\de 'ahem', 'psst', 'yoo-hoo', 'hey', 'look',
+'listen'
 \oe
 \ue
-\ee This interjection is used to ask for
-attention in a familiar manner.
+\ee This interjection is used to call
+someone's attention or address
+someone in a familiar manner.
 \xv
 \xe
 \lf Sim
 \lv fe|su
-\le sorry to bother you
+\le sorry to bother you, you see
+\lf Sim
+\lv memas
+\le hey, look, listen (to a male)
+\lf Sim
+\lv mezes
+\le hey, look, listen (to a female)
+\lf Sim
+\lv mesin
+\le hey, look, listen, see (to a male, female
+or group)
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\dt 16/Jul/2013
 
 \lx mejto
 \lc
@@ -7787,6 +8171,47 @@ though; particle indicating contradiction
 \lt
 \mr
 \dt 27/Feb/2013
+
+\lx memas
+\lc
+\hm
+\ph
+\ps interj
+\sn
+\ge hey
+\ge look
+\ge listen
+\re
+\de 'hey', 'look', 'listen'
+\oe Use of this interjection is restricted to
+addressing a single male person.
+\ue
+\ee This interjection is used to call
+someone's attention or address
+someone in a familiar manner, although
+it is considered somewhat less abrupt
+than fv:mejee.
+\xv
+\xe
+\lf Sim
+\lv fe|su
+\le sorry to bother you, you see
+\lf Sim
+\lv mejee
+\le psst, hey, look
+\lf Sim
+\lv mezes
+\le hey, look, listen (to a female)
+\lf Sim
+\lv mesin
+\le hey, look, listen, see (to a male, female
+or group)
+\cf
+\ce
+\sd
+\lt little male hey
+\mr mejee-mas
+\dt 16/Jul/2013
 
 \lx meno
 \lc
@@ -7892,6 +8317,47 @@ though; particle indicating contradiction
 \mr
 \dt 27/Feb/2013
 
+\lx mesin
+\lc
+\hm
+\ph
+\ps interj
+\sn
+\ge hey
+\ge look
+\ge listen
+\ge see
+\re
+\de 'hey', 'look', 'listen', 'see'
+\oe This interjection can be used towards
+males, females and groups.
+\ue
+\ee This interjection is used to call
+someone's attention or address
+someone in a familiar to neutral
+manner. It is not as familiar as
+fv:mejee, but not as polite as fv:fe|su
+either.
+\xv
+\xe
+\lv fe|su
+\le sorry to bother you, you see
+\lf Sim
+\lv mejee
+\le psst, hey, look
+\lf Sim
+\lv memas
+\le hey, look, listen (to a male)
+\lf Sim
+\lv mezes
+\le hey, look, listen (to a female)
+\cf
+\ce
+\sd
+\lt little hey
+\mr mejee-sin
+\dt 16/Jul/2013
+
 \lx met
 \lc
 \hm
@@ -7932,6 +8398,46 @@ though; particle indicating contradiction
 \lt
 \mr
 \dt 28/Feb/2013
+
+\lx mezes
+\lc
+\hm
+\ph
+\ps interj
+\sn
+\ge hey
+\ge look
+\ge listen
+\re
+\de 'hey', 'look', 'listen'
+\oe Use of this interjection is restricted to
+addressing a single female person.
+\ue
+\ee This interjection is used to call
+someone's attention or address
+someone in a familiar manner, although
+it is considered somewhat less abrupt
+than fv:mejee.
+\xv
+\xe
+\lv fe|su
+\le sorry to bother you, you see
+\lf Sim
+\lv mejee
+\le psst, hey, look
+\lf Sim
+\lv memas
+\le hey, look, listen (to a male)
+\lf Sim
+\lv mesin
+\le hey, look, listen, see (to a male, female
+or group)
+\cf
+\ce
+\sd
+\lt little female hey
+\mr mejee-zes
+\dt 16/Jul/2013
 
 \lx mik
 \lc
@@ -8055,6 +8561,62 @@ of the transmitted information.
 \mr miko-boze-z
 \dt 27/Mar/2013
 
+\lx mikoeze|s
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge radio
+\re
+\de radio, the technology that allows the
+transmission of sound via
+electromagnetic waves
+\oe Strictly refers to the technology (and
+related medium), rather than to the
+devices that use it.
+\ue
+\ee
+\xv
+\xe
+\lf Ninst
+\lv mikoeze|sipi
+\le radio set
+\cf
+\ce
+\sd
+\lt far heard
+\mr miko-ezet-z
+\dt 04/Jul/2013
+
+\lx mikoeze|sipi
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge radio_set
+\ge wireless_set
+\re
+\de
+\oe Refers specifically to a device used to
+receive (more rarely send)
+electromagnetic waves encoding
+sound.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt far heard tool
+\mr miko-ezet-z-ipi
+\dt 04/Jul/2013
+
 \lx mikomedga
 \lc
 \hm
@@ -8152,6 +8714,64 @@ phrase 'here be dragons'.
 \mr miko-miko
 \dt 02/Apr/2013
 
+\lx mikope|laz
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge television
+\re
+\de television, the technology that allows
+the transmission of pictures (and
+sound) via electromagnetic waves
+\oe Strictly refers to the technology (and
+related medium), rather than to the
+devices that use it.
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv tele
+\le TV, TV set
+\lf Ninst
+\lv mikope|lazipi
+\le television set
+\cf
+\ce
+\sd
+\lt far seen
+\mr miko-pe|la-z
+\dt 04/Jul/2013
+
+\lx mikope|lazipi
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge television_set
+\ge TV_set
+\re
+\de
+\oe Refers specifically to a device that
+receives television signals and displays
+them in audio-visual form.
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv tele
+\le TV, TV set
+\cf
+\ce
+\sd
+\lt far seen tool
+\mr miko-pe|la-z-ipi
+\dt 04/Jul/2013
+
 \lx mikostul
 \lc
 \hm
@@ -8171,12 +8791,18 @@ phone
 \lf Sim
 \lv stul
 \le to summon, to call
+\lf Ninst
+\lv imikostu|l
+\le telephone
+\lf Ninst
+\lv mikostulipi
+\le telephone
 \cf
 \ce
 \sd
 \lt far summon
 \mr miko-stul
-\dt 28/Feb/2013
+\dt 04/Jul/2013
 
 \lx mikostulipi
 \lc
@@ -8188,7 +8814,9 @@ phone
 \ge phone
 \re
 \de
-\oe
+\oe Can only refer to the device itself. For
+a more generic meaning, use
+fv:imikostu|l instead.
 \ue
 \ee
 \xv
@@ -8201,7 +8829,7 @@ phone
 \sd
 \lt far summon tool
 \mr miko-stul-ipi
-\dt 07/Mar/2013
+\dt 28/Jun/2013
 
 \lx mikujtin
 \lc
@@ -9376,6 +10004,49 @@ counters.
 \mr
 \dt 28/Feb/2013
 
+\lx nud
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge family
+\ge clan
+\ge tribe
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge bond
+\ge connection
+\ge affiliation
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 17/Apr/2013
+
 \lx nudel
 \lc
 \hm
@@ -9633,8 +10304,11 @@ indicate that they are young.
 \sd
 \sn 2
 \ge talk_about
+\ge discuss
+\ge debate
 \re
-\de to talk about (sthg)
+\de to talk about (sthg), to discuss (sthg), to
+debate (sthg)
 \oe
 \ue
 \ee
@@ -9648,7 +10322,7 @@ indicate that they are young.
 \sd
 \lt story say
 \mr okne-se
-\dt 28/Feb/2013
+\dt 23/Apr/2013
 
 \lx oknestul
 \lc
@@ -9955,6 +10629,73 @@ them.
 \lt
 \mr
 \dt 28/Feb/2013
+
+\lx oplese
+\lc
+\hm
+\ph
+\ps vt
+\sn 1
+\ge discuss
+\ge debate
+\re
+\de to discuss (sthg), to debate (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv oknese
+\le to recount, to talk about, to discuss, to
+debate
+\cf
+\ce
+\sd
+\sn 2
+\ge argue
+\ge argue_about
+\re
+\de to argue (about) (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge negotiate
+\re
+\de to negotiate (sthg)
+\oe Used when the speaker wants to
+indicate that the debate, argument or
+negotation is going a way that is
+disadvantageous to them, or to indicate
+that they are neutral about it. In this
+case however, it is in sometimes better
+to use the verb fv:joknesej, which is
+totally neutral, but does not cover the
+lexical area of 'negotiation'.
+\ue
+\ee When used in the perfect aspect, this
+verb can also mean: 'to agree, to come
+to an agreement'.
+\xv
+\xe
+\lf Cpart
+\lv ja|zinse
+\le to discuss, to argue, to negotiate
+\cf
+\ce
+\sd
+\lt give say
+\mr ople-se
+\dt 23/Apr/2013
 
 \lx oplez
 \lc
@@ -10524,7 +11265,23 @@ or s.o.)
 \hm
 \ph
 \ps n
-\sn
+\sn 1
+\ge image
+\ge picture
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
 \ge acquaintance
 \ge friend
 \re
@@ -10542,7 +11299,7 @@ or s.o.)
 \sd
 \lt seen
 \mr pe|la-z
-\dt 28/Feb/2013
+\dt 03/Jul/2013
 
 \lx pen-
 \lc
@@ -11348,7 +12105,9 @@ name.
 \re
 \de to say (sthg), to tell (sthg)
 \oe
-\ue
+\ue When used in the desiderative mood,
+this verb can take on the meaning "to
+mean", as in French "vouloir dire".
 \ee
 \xv
 \xe
@@ -11360,7 +12119,7 @@ name.
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\dt 30/May/2013
 
 \lx se-
 \lc
@@ -13011,6 +13770,36 @@ definite article.
 \mr tel-ba
 \dt 04/Mar/2013
 
+\lx tele
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge TV
+\ge TV_set
+\re
+\de
+\oe Can refer to both the medium and the
+device.
+\ue Familiar.
+\ee Borrowed from French 'télé', familiar
+abbreviation of 'télévision'.
+\xv
+\xe
+\lf Sim
+\lv mikope|laz
+\le television
+\lf Sim
+\lv mikope|lazipi
+\le television set
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 04/Jul/2013
+
 \lx telga
 \lc
 \hm
@@ -13065,15 +13854,18 @@ verb is the thing or person liked, while
 the object is the person doing the liking.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv majtage
+\le to love, to be romantically attracted to
+\lf Sim
+\lv gize
+\le to please, to like, to enjoy, to love
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\dt 16/Apr/2013
 
 \lx teolsif
 \lc
@@ -13585,6 +14377,23 @@ refers to motion towards the speaker.
 \ce
 \sd
 \sn 3
+\ge rise
+\re
+\de to rise
+\oe Only used in that sense when referring
+to celestial bodies like the sun and the
+moon.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 4
 \ge be_enough
 \re
 \de to be enough
@@ -13603,7 +14412,7 @@ still happening.
 \sd
 \lt
 \mr
-\dt 19/Mar/2013
+\dt 12/Apr/2013
 
 \lx uba|suba|s
 \lc
@@ -14154,6 +14963,76 @@ mentioned, is in the benefactive.
 \lt learner
 \mr vajag-sif
 \dt 21/Mar/2013
+
+\lx valpinas
+\lc
+\hm
+\ph
+\ps vt
+\sn
+\ge imagine
+\ge fantasise
+\ge fantasise_about
+\re
+\de to imagine (sthg), to fantasise (about)
+(sthg)
+\oe Usually used with a first person
+subject, much rarer with other persons.
+\ue
+\ee When used in the middle voice, it
+means: 'to get an idea'.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt image feel
+\mr va|le-pinas
+\dt 17/Apr/2013
+
+\lx va|le
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge image
+\ge picture
+\re
+\de
+\oe Can refer to both a mental or concrete
+representation of something.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge idea
+\re fantasy
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 17/Apr/2013
 
 \lx veld
 \lc vel(d)
