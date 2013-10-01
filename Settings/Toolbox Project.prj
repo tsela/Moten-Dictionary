@@ -76,15 +76,15 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey teol
+\fldPriKey apsim
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri teol
+\fldPri apsim
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri gato
+\fldPri apsim
 \MatchWhole
 \match_char p
 \-keyInsert
@@ -121,14 +121,14 @@
 \-brf
 \-brflst
 \+ind 
-\mkrPriKey lx
-\srtPriKey Moten
-\mkrSecKey ge
+\mkrPriKey ge
+\srtPriKey English
+\mkrSecKey lx
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey teol
-\fldSecKey please
+\fldPriKey achoo
+\fldSecKey apsim
 \-rec
 \+keySearch 
 \match_char p

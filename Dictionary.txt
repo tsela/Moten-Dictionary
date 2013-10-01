@@ -330,6 +330,30 @@ forth
 \mr ag-uba|s
 \dt 25/Feb/2013
 
+\lx agzif
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge traveller
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt one who goes
+\mr ag-sif
+\dt 11/Sep/2013
+
 \lx aja
 \lc
 \hm
@@ -364,12 +388,15 @@ indicate surprise.
 \ps vi
 \sn
 \ge exist
+\ge be
 \re
-\de to exist
+\de to exist, to be (existential)
 \oe This verb is used to assert the
 existence of fv:sponda, i.e. small
 animals, as well as inanimate objects or
-concepts.
+concepts. When used with an
+instrumental phrase, it can also
+correspond to 'to be + adjective'.
 \ue
 \ee
 \xv
@@ -382,7 +409,7 @@ concepts.
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\dt 26/Sep/2013
 
 \lx akfe|su
 \lc
@@ -713,6 +740,63 @@ body, or its appearance in the sky.
 \lt star day
 \mr apa-siza
 \dt 22/Feb/2013
+
+\lx apsim
+\lc
+\hm
+\ph
+\ps interj
+\sn
+\ge achoo
+\re
+\de 'achoo'
+\oe
+\ue
+\ee This is an onomatopoeia representing
+the sound of a sneeze.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\ps vi
+\sn
+\ge sneeze
+\re
+\de to sneeze
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\ps n
+\sn
+\ge sneeze
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 01/Oct/2013
 
 \lx a|sin
 \lc
@@ -1218,6 +1302,39 @@ a fv:kit, i.e. a large animal.
 \mr
 \dt 22/Feb/2013
 
+\lx bnamag
+\lc
+\hm
+\ph
+\ps vi
+\sn
+\ge walk
+\ge travel
+\re
+\de to walk, to travel (on foot)
+\oe Does not refer to the physical activity
+of walking (which is fv:jugejugej), but
+to the idea of travelling from one place
+to the other on foot, as opposed to
+travelling using some form of
+transportation (which is fv:jemagi).
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv jemag
+\le to sail, to travel
+\lf Cpart
+\lv ugejuge
+\le to step, to walk
+\cf
+\ce
+\sd
+\lt foot go
+\mr bnam-ag
+\dt 13/Sep/2013
+
 \lx bnameno
 \lc
 \hm
@@ -1292,6 +1409,80 @@ above the ankle
 \lt
 \mr
 \dt 22/Feb/2013
+
+\lx bolog
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge weather
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt sky season
+\mr bo-log
+\dt 23/Sep/2013
+
+\lx bolslim
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge bad_weather
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv bolvo|sa
+\le nice, fair weather
+\cf
+\ce
+\sd
+\lt weather ugly
+\mr bolog-slim
+\dt 23/Sep/2013
+
+\lx bolvo|sa
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge good_weather
+\ge nice_weather
+\ge fair_weather
+\re
+\de good, nice, fair weather
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv bolslim
+\le bad weather
+\cf
+\ce
+\sd
+\lt weather beautiful
+\mr bolog-vo|sa
+\dt 23/Sep/2013
 
 \lx bontu
 \lc
@@ -1529,8 +1720,10 @@ encouragement or exasperation.
 \ps vi
 \sn
 \ge happen
+\ge be_on
 \re
-\de to happen
+\de to happen (sometime), to be
+(sometime)
 \oe
 \ue
 \ee
@@ -1544,7 +1737,7 @@ encouragement or exasperation.
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\dt 23/Sep/2013
 
 \lx daj
 \lc
@@ -1770,8 +1963,14 @@ way up to boiling water.
 \xv
 \xe
 \lf Cpart
+\lv |no
+\le ice
+\lf Cpart
 \lv vone
 \le cold water
+\lf Cpart
+\lv zubzin
+\le lukewarm water
 \lf Cpart
 \lv zuba
 \le warm water
@@ -1780,7 +1979,45 @@ way up to boiling water.
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\dt 23/Sep/2013
+
+\lx dena
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge high_temperature
+\ge hotness
+\ge hot
+\re
+\de high temperature, hotness; also as adj.
+hot
+\oe Refers to unpleasantly high
+temperatures, scalding or otherwise
+damaging to the body. Not used for
+weather temperatures.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv |no
+\le freezing cold
+\lf Cpart
+\lv vona
+\le low temperature, cold
+\lf Cpart
+\lv zubna
+\le pleasant temperature, warmth, warm
+\lf Sim
+\cf la|zi
+\ce high temperature, warmth, hotness,
+warm, hot (of weather)
+\sd
+\lt
+\mr
+\dt 23/Sep/2013
 
 \lx devodi
 \lc
@@ -2598,9 +2835,9 @@ somewhat
 \cf
 \ce
 \sd
-\lt
-\mr
-\dt 28/Feb/2013
+\lt little touch
+\mr eksa-sin
+\dt 18/Sep/2013
 
 \lx Elas
 \lc
@@ -3384,6 +3621,51 @@ nouns.
 \mr
 \dt 25/Feb/2013
 
+\lx faoom
+\lc
+\hm
+\ph faˈoːm
+\ps interj
+\sn 1
+\ge whoosh
+\re
+\de 'whoosh'
+\oe
+\ue
+\ee An onomatopoeia representing the
+sound of the wind in a storm.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge like_a_whirlwind
+\ge fast_and_strong
+\ge messily
+\re
+\de
+\oe
+\ue
+\ee It can also be used as an ideophone to
+indicate quickness and strength, but
+generally associated with leaving a
+mess behind.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 12/Sep/2013
+
 \lx fe|su
 \lc
 \hm
@@ -4036,7 +4318,7 @@ as static or active.
 \hm
 \ph
 \ps vaux
-\sn
+\sn 1
 \ge have
 \re
 \de to have (sthg or s.o.)
@@ -4051,9 +4333,28 @@ as static or active.
 \cf
 \ce
 \sd
+\sn 2
+\ge be
+\re
+\de to be (adj.)
+\oe
+\ue
+\ee Since Moten does not have adjectives
+as a separate part of speech, predicate
+adjectives are rendered in Moten as
+nouns used as objects of the verb
+fv:agem.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
 \lt
 \mr
-\dt 04/Mar/2013
+\dt 24/Sep/2013
 
 \lx gebez
 \lc
@@ -4309,6 +4610,38 @@ children to refer to their own fathers.
 \lt for fourteen days
 \mr geni-tol-siz<d>a-n
 \dt 25/Feb/2013
+
+\lx ge|zaj
+\lc
+\hm
+\ph
+\ps vt
+\sn
+\ge become
+\ge begin_to_have
+\ge get
+\ge catch
+\re
+\de to become (adj), to begin to have (sthg
+or s.o.), to get (sthg), to catch (sthg)
+\oe One of the many verbs meaning 'to
+become', this one has the same
+argument semantics as fv:agem: 'to
+have', i.e. it is used for possession and
+for predicate adjectives.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv to|zaj
+\le to become, to begin to be
+\cf
+\ce
+\sd
+\lt have start
+\mr ge-|zaj
+\dt 01/Oct/2013
 
 \lx gi|no
 \lc
@@ -5527,6 +5860,69 @@ drive a vehicle.
 \mr
 \dt 26/Feb/2013
 
+\lx jalu
+\lc
+\hm
+\ph
+\ps vt
+\sn 1
+\ge keep
+\ge retain
+\re
+\de to keep (sthg), to retain (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge hold
+\ge carry
+\ge store
+\re
+\de to hold (sthg), to carry (sthg), to store
+(sthg)
+\oe This verb has those senses only when
+a location is indicated, and the exact
+translation depends on whether that
+location is on a person or not. 
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv tmame
+\le to carry, to hold, to bear
+\cf
+\ce
+\sd
+\sn 3
+\ge hide
+\ge conceal
+\re
+\de to hide (sthg), to conceal (sthg)
+\oe
+\ue
+\ee And extension of the meaning 'to
+store'.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 11/Sep/2013
+
 \lx japu
 \lc
 \hm
@@ -5749,6 +6145,92 @@ speaker received from someone else.
 \mr
 \dt 26/Feb/2013
 
+\lx jemag
+\lc
+\hm
+\ph
+\ps vi
+\sn 1
+\ge sail
+\re
+\de to sail
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge travel
+\re
+\de to travel
+\oe Despite the etymology of the word
+suggesting riverboat sailing as its main
+sense, this verb is actually most
+commonly used as a generic verb
+meaning 'to travel', whatever means of
+travel are used (excluding travel on
+foot, which is fv:ibnamagi).
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv bnamag
+\le to walk, to travel (on foot)
+\cf
+\ce
+\sd
+\lt river go
+\mr jem-ag
+\dt 13/Sep/2013
+
+\lx jemnon
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge heron
+\ge stork
+\ge crane
+\ge egret
+\ge spoonbill
+\ge ibis
+\ge flamingo
+\ge long-legged_wading_bird
+\re
+\de heron, stork, crane, egret, spoonbill,
+ibis, flamingo, etc.; long-legged wading
+bird
+\oe
+\ue
+\ee This word basically refers to any
+long-legged and long-necked wading
+bird, especially those living in
+freshwater habitats. It does not refer
+to a specific species or even related
+species of birds, but to a specific body
+shape and behaviour. The name may
+refer to a perceived grace in the
+movements of those birds.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt river artist
+\mr jem-non
+\dt 17/Sep/2013
+
 \lx jespoma
 \lc
 \hm
@@ -5896,6 +6378,55 @@ opposable thumbs.
 \lt
 \mr
 \dt 04/Mar/2013
+
+\lx kaan
+\lc
+\hm
+\ph kaːn
+\ps interj
+\sn 1
+\ge shining_brightly
+\re
+\de 'shining_brightly'
+\oe
+\ue
+\ee This is an onomatopoeia representing
+the sun shining brightly at the zenith.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge brightly
+\ge warmly
+\ge hot
+\ge searing
+\ge too_hot_to_handle
+\ge dangerous
+\re
+\de
+\oe
+\ue
+\ee As an ideophone, it represents things
+that shine brightly on their own, rather
+than simply glitter or sparkle. It also
+marks thinks that are 'too hot to
+handle', whether literally or figuratively.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 13/Sep/2013
 
 \lx kafe
 \lc
@@ -6292,7 +6823,7 @@ grandchildren.
 \hm
 \ph
 \ps interj
-\sn
+\sn 1
 \ge tick_tock
 \re
 \de 'tick tock'
@@ -6308,9 +6839,30 @@ the sound of a clock ticking.
 \cf
 \ce
 \sd
+\sn 2
+\ge regularly
+\ge like_clockwork
+\ge automatically
+\ge without_thinking
+\re
+\de
+\oe
+\ue
+\ee This word can also be used as an
+ideophone referring to the idea of doing
+things very regularly, but also
+automatically and without thinking.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
 \lt
 \mr
-\dt 26/Feb/2013
+\dt 12/Sep/2013
 
 \lx kit
 \lc
@@ -6918,6 +7470,53 @@ proximity to the listener
 \mr
 \dt 28/Feb/2013
 
+\lx la|zi
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge high_temperature
+\ge warm_weather
+\ge hot_weaher
+\ge warmth
+\ge hotness
+\ge warm
+\ge hot
+\re
+\de high temperature, warm/hot weather,
+warmth, hotness; also as adj. warm,
+hot
+\oe Used to refer to weather temperatures
+only. Indicates weather temperatures
+that are high enough to not simply be
+pleasant anymore.
+\ue
+\ee It is considered a weather
+phenomenon, on par with fv:ibo: "wind"
+and others, and for this reason can be
+the subject of the verb fv:ivdaj.
+\xv
+\xe
+\lf Cpart
+\lv |no
+\le freezing cold
+\lf Cpart
+\lv vona
+\le low temperature, cold
+\lf Cpart
+\lv zubna
+\le pleasant temperature, warmth, warm
+\lf Sim
+\lv dena
+\le high temperature, hotness, hot
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 23/Sep/2013
+
 \lx le-
 \lc
 \hm
@@ -7312,8 +7911,41 @@ laying eggs.
 \hm
 \ph
 \ps n
-\sn
+\sn 1
 \ge season
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge time
+\ge right_time
+\ge proper_time
+\re
+\de (right, proper) time (to do something)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge occasion
+\ge circumstance
 \re
 \de
 \oe
@@ -7329,7 +7961,7 @@ laying eggs.
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\dt 23/Sep/2013
 
 \lx Loma
 \lc
@@ -7902,6 +8534,36 @@ fv:majtagez.
 \lt love have
 \mr majta-ge
 \dt 16/Apr/2013
+
+\lx manto
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge coat
+\ge overcoat
+\ge jacket
+\ge cloak
+\ge mantle
+\re
+\de
+\oe
+\ue
+\ee Basically any piece of clothing used to
+protect oneself (or at least one's upper
+body) from bad weather conditions.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 01/Sep/2013
 
 \lx -mas
 \lc
@@ -9016,7 +9678,7 @@ into their spatial meanings
 \hm
 \ph
 \ps vt
-\sn
+\sn 1
 \ge turn
 \re
 \de to turn (sthg or s.o.)
@@ -9031,9 +9693,39 @@ into their spatial meanings
 \cf
 \ce
 \sd
+\sn 2
+\ge happen
+\ge change
+\ge evolve
+\ge turn.into
+\ge become
+\re
+\de to happen, to change, to evolve, to turn
+into (sthg or s.o.), to become (sthg, s.o.
+or adj.)
+\oe To take this sense, fv:imonuj must be
+put in the middle voice, which
+effectively makes it intransitive. The
+result of the change (the equivalent of
+the predicate of 'to become') can be
+included by putting it in the final (when
+becoming something or someone) or
+the instrumental (when the predicate of
+'to become' would be an adjective in
+English).
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
 \lt
 \mr
-\dt 28/Feb/2013
+\dt 24/Sep/2013
 
 \lx mosezgo
 \lc
@@ -9761,6 +10453,50 @@ fv:kamoj).
 \mr neg-|nalam
 \dt 28/Feb/2013
 
+\lx neka
+\lc
+\hm
+\ph
+\ps vi
+\sn
+\ge come_to_be
+\ge come_into_being
+\ge appear
+\ge happen
+\ge become
+\re
+\de to come to be, to appear, to happen, to
+become
+\oe Basically the inceptive equivalent of
+fv:jaki: 'to exist', this verb is used to
+assert the coming into being of
+fv:sponda, i.e. small animals, as well as
+inanimate objects or concepts, as well
+as the happening of events. It is also
+one of the many verbs meaning 'to
+become' (but restricted to small
+animals and inanimates). In that sense,
+the result of the change (the equivalent
+of the predicate of 'to become') can be
+included by putting it in the final (when
+becoming something or someone) or
+the instrumental (when the predicate of
+'to become' would be an adjective in
+English).
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv pmav
+\le to come to be, to become
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Sep/2013
+
 \lx Nipon
 \lc
 \hm
@@ -9790,7 +10526,7 @@ fv:kamoj).
 \hm
 \ph
 \ps interj
-\sn
+\sn 1
 \ge blah
 \re
 \de 'blah'
@@ -9806,9 +10542,25 @@ sound of continuous speech.
 \cf
 \ce
 \sd
+\sn 2
+\ge constantly_blabbering_about
+\re
+\de
+\oe
+\ue
+\ee Also used as an ideophone indicating
+endless/bothering chattering.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
 \lt
 \mr
-\dt 28/Feb/2013
+\dt 12/Sep/2013
 
 \lx -no
 \lc
@@ -10168,6 +10920,104 @@ participants, usually as a disjunct.
 \lt with while is doing
 \mr i-neg<d>-i-n ko-di-i-t<d>o-n
 \dt 28/Feb/2013
+
+\lx |no
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge ice
+\ge frozen_water
+\re
+\de ice
+\oe
+\ue
+\ee Refers to water in its frozen state.
+\xv
+\xe
+\lf Cpart
+\lv den
+\le hot water
+\lf Cpart
+\lv zuba
+\le warm water
+\lf Cpart
+\lv zubzin
+\le lukewarm water
+\lf Cpart
+\lv vone
+\le cold water
+\cf
+\ce
+\sd
+\sn 2
+\ge frost
+\ge snow
+\re
+\de frost; snow (when on the ground)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge freezing_cold
+\ge icy_cold
+\ge cold
+\re
+\de freezing, icy cold; also as an adj.
+freezing, icy cold, cold
+\oe
+\ue
+\ee Refers to temperatures below the
+freezing point of water, unlike fv:vona,
+which refers to temperatures
+experienced as cold, but higher than
+the freezing point of water.
+\xv
+\xe
+\lf Cpart
+\lv vona
+\le low temperature, cold
+\lf Cpart
+\lv zubna
+\le pleasant temperature, warmth, warm
+\lf Cpart
+\lv dena
+\le high temperature, hotness, hot
+\lf Cpart
+\cf la|zi
+\ce high temperature, warmth, hotness,
+warm, hot (of weather)
+\cf
+\ce
+\sd
+\sn 4
+\ge glass
+\re
+\de glass (material)
+\oe
+\ue
+\ee Refers to the glass material itself, not
+to glass vessels.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 23/Sep/2013
 
 \lx |nuba
 \lc
@@ -11012,6 +11862,55 @@ of sustenance'.
 \mr o|zeme-tina
 \dt 28/Feb/2013
 
+\lx pakipak
+\lc
+\hm
+\ph
+\ps interj
+\sn 1
+\ge pad_pad_pad
+\re
+\de 'pad pad pad'
+\oe
+\ue
+\ee This is an onomatopoeia representing
+the sound of footsteps.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge step_by_step
+\ge one_by_one
+\ge methodically
+\ge meticulously
+\ge by_the_book
+\ge without_imagination
+\re
+\de
+\oe
+\ue
+\ee This word is also used as an ideophone
+indicating meticulousness, working one
+step at a time, but also something or
+someone that is 'by the book' and lacks
+imagination.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 12/Sep/2013
+
 \lx pa|na
 \lc
 \hm
@@ -11678,6 +12577,47 @@ starting point for measuring height.
 \mr plis-sif
 \dt 28/Feb/2013
 
+\lx pmav
+\lc
+\hm
+\ph
+\ps vi
+\sn
+\ge come_to_be
+\ge come_into_being
+\ge appear
+\ge become
+\re
+\de to come to be, to appear, to happen, to
+become
+\oe Basically the inceptive equivalent of
+fv:ispej: 'to exist', this verb is used to
+assert the coming into being of human
+beings, as well as fv:kit, i.e. large
+animals. It is also one of the many
+verbs meaning 'to become' (but
+restricted to humans and big animals).
+In that sense, the result of the change
+(the equivalent of the predicate of 'to
+become') can be included by putting it
+in the final (when becoming something
+or someone) or the instrumental (when
+the predicate of 'to become' would be
+an adjective in English).
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv neka
+\le to come to be, to happen, to become
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 26/Sep/2013
+
 \lx poga
 \lc
 \hm
@@ -11948,6 +12888,42 @@ mean "to smoke".
 \lt
 \mr
 \dt 11/Mar/2013
+
+\lx puton
+\lc
+\hm
+\ph
+\ps vt
+\sn
+\ge take_off
+\ge remove
+\ge doff
+\re
+\de to take (sthg) off, to remove (sthg), to
+doff (sthg)
+\oe This verb refers to removing clothes,
+jewels, shoes, or anything else that is
+worn from someone or something.
+Depending on context and the
+participants in the sentence, it can refer
+to taking something off oneself or off
+somebody or something else. And used
+in the middle voice, it is equivalent to
+'to get (s.o., sthg or oneself)
+undressed'.
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv steo
+\le to put on, to dress in
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 10/Sep/2013
 
 \lx -s
 \lc
@@ -12806,6 +13782,78 @@ for oneself.
 \mr slim-pinas
 \dt 05/Mar/2013
 
+\lx smelt
+\lc smel(t)
+\hm
+\ph
+\ps n
+\sn 1
+\ge plank
+\ge board
+\re
+\de plank, board (usually wooden)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge gameboard
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge tray
+\ge platter
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 4
+\ge table
+\ge desk
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Spec
+\lv tolmos
+\le dining table
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 23/Sep/2013
+
 \lx son
 \lc
 \hm
@@ -12842,11 +13890,14 @@ suffix to mean 'to get ready to'.
 \ps vi
 \sn
 \ge exist
+\ge be
 \re
-\de to exist
+\de to exist, to be (existential)
 \oe This verb is used to assert the
 existence of human beings, as well as
-fv:kit, i.e. large animals.
+fv:kit, i.e. large animals. When used
+with an instrumental phrase, it can also
+correspond to 'to be + adjective'.
 \ue
 \ee
 \xv
@@ -12859,7 +13910,7 @@ fv:kit, i.e. large animals.
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\dt 26/Sep/2013
 
 \lx sponda
 \lc
@@ -13017,6 +14068,41 @@ geographical entity.
 \lt
 \mr
 \dt 04/Mar/2013
+
+\lx steo
+\lc
+\hm
+\ph
+\ps vt
+\sn
+\ge put_on
+\ge dress_in
+\ge don
+\re
+\de to put (sthg) on, to dress in (sthg), to
+don (sthg)
+\oe This verb refers to dressing something
+or someone in clothes, jewels, shoes, or
+anything else that is worn. Depending
+on context and the participants in the
+sentence, it can refer to putting
+something on oneself or on somebody
+or something else. And used in the
+middle voice, it is equivalent to 'to get
+(s.o., sthg or oneself) dressed'.
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv puton
+\le to take off, to remove
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 10/Sep/2013
 
 \lx stul
 \lc
@@ -13738,6 +14824,7 @@ disjunct.
 \ps n
 \sn 1
 \ge other
+\ge another
 \re
 \de
 \oe
@@ -13769,7 +14856,7 @@ definite article.
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\dt 17/Sep/2013
 
 \lx telba
 \lc
@@ -14145,13 +15232,28 @@ sound of a light rain shower.
 \hm
 \ph
 \ps vt
-\sn
+\sn 1
 \ge carry
 \ge hold
 \ge bear
 \re
 \de to carry (sthg or s.o.), to hold (sthg or
 s.o.), to bear (sthg or s.o.)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv jalu
+\le to keep, to hold, to store, to hide
+\cf
+\ce
+\sd
+\sn 2
+\ge wear
+\re
+\de to wear (sthg)
 \oe
 \ue
 \ee
@@ -14165,7 +15267,7 @@ s.o.), to bear (sthg or s.o.)
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\dt 11/Sep/2013
 
 \lx to
 \lc
@@ -14176,7 +15278,12 @@ s.o.), to bear (sthg or s.o.)
 \ge be
 \re
 \de to be (sthg or s.o.)
-\oe
+\oe This verb is used only for identity and
+definition or as an auxiliary of
+conjugation. For position in time or
+space, the verbs fv:idabolnaj and
+fv:izunlaj are needed. And for
+predicate adjectives, fv:agem is used.
 \ue
 \ee Unlike the verb 'to be' in most
 languages that have it (including
@@ -14193,7 +15300,7 @@ accusative case.
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\dt 24/Sep/2013
 
 \lx tol
 \lc
@@ -14218,6 +15325,47 @@ accusative case.
 \lt
 \mr
 \dt 04/Mar/2013
+
+\lx tolmos
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge table
+\ge dining_table
+\re
+\de (dining) table
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv smel(t)
+\le plank, board; table, desk
+\cf
+\ce
+\sd
+\sn 2
+\ge meal
+\ge fare
+\re
+\de meal; fare (food and drink)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt four leg
+\mr tol-mosu
+\dt 23/Sep/2013
 
 \lx tolugen
 \lc
@@ -14252,7 +15400,7 @@ nominals in Moten.
 \hm
 \ph
 \ps interj
-\sn
+\sn 1
 \ge thump_thump
 \re
 \de 'thump thump'
@@ -14268,9 +15416,60 @@ sound of a heart beating.
 \cf
 \ce
 \sd
+\sn 2
+\ge excitedly
+\ge nervously
+\re
+\de
+\oe
+\ue
+\ee As an ideophone, this word indicates
+heightened excitement and/or
+nervousness, i.e. any type of emotion
+that is associated with a higher
+heartbeat rate.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
 \lt
 \mr
-\dt 04/Mar/2013
+\dt 12/Sep/2013
+
+\lx to|zaj
+\lc
+\hm
+\ph
+\ps vt
+\sn
+\ge become
+\ge begin_to_be
+\re
+\de to become (sthg or s.o.), to begin to be
+(sthg or s.o.)
+\oe One of the many verbs meaning 'to
+become', this one has the same
+argument semantics as fv:atom: 'to be',
+i.e. it is used for identity and definition
+but not with predicate adjectives (that
+is fv:ige|zaj).
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv ge|zaj
+\le to become, to begin to have
+\cf
+\ce
+\sd
+\lt be start
+\mr to-|zaj
+\dt 25/Sep/2013
 
 \lx tul
 \lc
@@ -14553,9 +15752,9 @@ purpose. That is fv:vo|sa.
 \cf
 \ce
 \sd
-\lt
-\mr
-\dt 04/Mar/2013
+\lt little greatness
+\mr ufan-sin
+\dt 18/Sep/2013
 
 \lx ufu
 \lc
@@ -14581,6 +15780,196 @@ the sound of a dog barking.
 \lt
 \mr
 \dt 04/Mar/2013
+
+\lx uge
+\lc
+\hm
+\ph
+\ps nc
+\sn 1
+\ge step
+\ge pace
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge step
+\ge footstep
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge step
+\ge phase
+\ge stage
+\re
+\de
+\oe
+\ue
+\ee Can refer to physical walking steps,
+marks on the ground, and abstract
+steps or stages of a plan. Does not
+refer to the steps of a ladder though.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 16/Sep/2013
+
+\lx ugejuge
+\lc
+\hm
+\ph
+\ps vi
+\sn 1
+\ge step
+\ge walk
+\re
+\de to step, to walk
+\oe
+\ue
+\ee Refers to the physical activity of
+walking rather than the act of travelling
+on foot (which is fv:ibnamagi).
+\xv
+\xe
+\lf Cpart
+\lv bnamag
+\le to walk, to travel (on foot)
+\lf Sim
+\lv ugzin
+\le to stroll, to go for a walk
+\cf
+\ce
+\sd
+\sn 2
+\ge step
+\re
+\de to step
+\oe
+\ue
+\ee Refers to the abstract idea of going
+through a list of actions.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\ps n
+\sn 1
+\ge walk
+\ge stroll
+\ge hike
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv ugzin
+\le stroll, leisurely walk
+\cf
+\ce
+\sd
+\sn 2
+\ge list_of_steps
+\ge instructions
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt step step
+\mr uge-uge
+\dt 18/Sep/2013
+
+\lx ugzin
+\lc
+\hm
+\ph
+\ps vi
+\sn
+\ge stroll
+\ge go_for_a_stroll
+\ge take_a_stroll
+\ge have_a_stroll
+\ge take_a_walk
+\ge go_for_a_walk
+\ge stretch_one's_legs
+\re
+\de to stroll, to go for a stroll/walk,, to
+take/have a stroll/walk, to stretch one's
+legs
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv ugejuge
+\le to step, to walk
+\cf
+\ce
+\sd
+\ps n
+\sn
+\ge stroll
+\ge leisurely_walk
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv ugejuge
+\le walk, stroll, hike
+\cf
+\ce
+\sd
+\lt little walk
+\mr ugejuge-sin
+\dt 18/Sep/2013
 
 \lx ujtin
 \lc
@@ -15321,6 +16710,42 @@ agrees with the subject in number.
 \mr volaj-subo
 \dt 05/Mar/2013
 
+\lx vona
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge low_temperature
+\ge cold
+\re
+\de low temperature, cold; also as adj. cold
+\oe Refers to temperatures experienced as
+cold, but not freezing.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv |no
+\le freezing cold
+\lf Cpart
+\lv zubna
+\le pleasant temperature, warmth, warm
+\lf Cpart
+\lv dena
+\le high temperature, hotness, hot
+\lf Cpart
+\cf la|zi
+\ce high temperature, warmth, hotness,
+warm, hot (of weather)
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 23/Sep/2013
+
 \lx vone
 \lc
 \hm
@@ -15344,12 +16769,18 @@ elemental concept.
 \lf Cpart
 \lv zuba
 \le warm water
+\lf Cpart
+\lv zubzin
+\le lukewarm water
+\lf Cpart
+\lv |no
+\le ice
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\dt 23/Sep/2013
 
 \lx vonemune
 \lc
@@ -15672,7 +17103,7 @@ mother's side.
 prefix to mean 'following, next', or as a
 suffix to mean 'to carry on, to
 continue', or if the action was
-previously stopped 'to resume'..
+previously stopped 'to resume'.
 \xv
 \xe
 \lf Cpart
@@ -15683,7 +17114,7 @@ previously stopped 'to resume'..
 \sd
 \lt
 \mr
-\dt 13/Mar/2013
+\dt 13/Sep/2013
 
 \lx zelo
 \lc
@@ -15950,8 +17381,14 @@ temperature of a bath or shower.
 \xv
 \xe
 \lf Cpart
+\lv |no
+\le ice
+\lf Cpart
 \lv vone
 \le cold water
+\lf Cpart
+\lv zubzin
+\le lukewarm water
 \lf Cpart
 \lv den
 \le hot water
@@ -15960,7 +17397,7 @@ temperature of a bath or shower.
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\dt 23/Sep/2013
 
 \lx zubatina
 \lc
@@ -15986,6 +17423,88 @@ temperature of a bath or shower.
 \lt warm water room
 \mr zuba-tina
 \dt 05/Mar/2013
+
+\lx zubna
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge pleasant_temperature
+\ge warmth
+\ge warm
+\re
+\de pleasant temperature, warmth; also as
+adj. warm
+\oe Usually refers to a pleasant, radiating
+temperature like that of a body, or to a
+comfortable room temperature. A nice
+outdoor temperature can also be
+fv:zubna.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv |no
+\le freezing cold
+\lf Cpart
+\lv vona
+\le low temperature, cold
+\lf Cpart
+\lv dena
+\le high temperature, hotness, hot
+\lf Cpart
+\cf la|zi
+\ce high temperature, warmth, hotness,
+warm, hot (of weather)
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 23/Sep/2013
+
+\lx zubzin
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge lukewarm_water
+\ge tepid_water
+\ge water
+\re
+\de lukewarm water
+\oe Refers to water that is lukewarm to the
+touch, i.e. not cold but not warm
+enough to call it fv:zuba.
+\ue Unlike fv:vone, fv:zuba or fv:den,
+fv:zubzin is not seen as a basic term to
+refer to water. Rather, it is seen as a
+kind of warm fv:vone or cold fv:zuba,
+and can be called as such.
+\ee
+\xv
+\xe
+\lf Cpart
+\lv |no
+\le ice
+\lf Cpart
+\lv vone
+\le cold water
+\lf Cpart
+\lv zuba
+\le warm water
+\lf Cpart
+\lv den
+\le hot water
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 23/Sep/2013
 
 \lx zu|leb
 \lc
@@ -16142,7 +17661,7 @@ the verb fv:ja|leki.
 \hm
 \ph zuˈtuːn
 \ps interj
-\sn
+\sn 1
 \ge silence
 \re
 \de 'silence'
@@ -16158,9 +17677,28 @@ representation of total silence.
 \cf
 \ce
 \sd
+\sn 2
+\ge silently
+\ge very_quietly
+\ge stealthily
+\re
+\de
+\oe
+\ue
+\ee Used as an ideophone to indicate the
+idea of moving silently and without
+anyone noticing.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
 \lt
 \mr
-\dt 05/Mar/2013
+\dt 12/Sep/2013
 
 \lx -|z-
 \lc
