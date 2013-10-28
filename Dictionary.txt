@@ -2276,6 +2276,80 @@ disjunct.
 \mr di|la-|suko
 \dt 22/Feb/2013
 
+\lx dimdutun
+\lc
+\hm
+\ph
+\ps exp
+\sn
+\ge how_long
+\re
+\de (for) how long; interrogative adverb of
+duration
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt during what
+\mr di-m<d>ut-n
+\dt 28/Oct/2013
+
+\lx dimut
+\lc
+\hm
+\ph
+\ps exp
+\sn
+\ge when
+\re
+\de when; interrogative adverb of time
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt at what
+\mr di-mut
+\dt 28/Oct/2013
+
+\lx dimvuti
+\lc
+\hm
+\ph
+\ps exp
+\sn
+\ge how_often
+\re
+\de how often; interrogative adverb of
+frequency
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt every what
+\mr di-m<v>ut-i
+\dt 28/Oct/2013
+
 \lx dizes
 \lc
 \hm
@@ -2502,6 +2576,79 @@ between sunset and sunrise
 \lt
 \mr
 \dt 25/Feb/2013
+
+\lx dulak
+\lc
+\hm
+\ph
+\ps vt
+\sn 1
+\ge extinguish
+\ge put_out
+\re
+\de to extinguish (sthg), to put (sthg) out
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge switch_off
+\ge turn_off
+\ge shut_down
+\ge close
+\re
+\de to switch (sthg) off, to turn (sthg) off,
+to shut (sthg) down, to close (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge stop
+\ge conclude
+\ge close
+\re
+\de to stop (sthg), to conclude (sthg), to
+close (sthg)
+\oe
+\ue
+\ee This verb has a wide range of
+meanings, all having to do with some
+object being changed from an active
+state to a state of rest. Its original
+meaning is 'to put out', as in 'to put a
+fire out'. Related to it is the meaning 'to
+switch off', used for electrical
+appliances, engines (and thus anything
+that contains an engine), but also
+computer programs. Finally, it means
+'to close', when the object is some kind
+of event.
+\xv
+\xe
+\lf Ant
+\lv e|s
+\le to light, to switch on, to open
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Oct/2013
 
 \lx e
 \lc
@@ -3482,6 +3629,77 @@ species.
 \mr
 \dt 25/Feb/2013
 
+\lx e|s
+\lc
+\hm
+\ph
+\ps vt
+\sn 1
+\ge light
+\ge set_fire_to
+\re
+\de to light (sthg), to set fire to (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge switch_on
+\ge turn_on
+\ge start_up
+\ge open
+\re
+\de to switch (sthg) on, to turn (sthg) on, to
+start (sthg) up, to open (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge start
+\ge open
+\re
+\de to start (sthg), to open (sthg)
+\oe
+\ue
+\ee This verb has a wide range of
+meanings, all having to do with some
+object being changed from a state of
+rest to an active state. Its original
+meaning is 'to light', as in 'to light a fire,
+a candle'. Related to it is the meaning
+'to switch on', used for electrical
+appliances, engines (and thus anything
+that contains an engine), but also
+computer programs. Finally, it means
+'to open', when the object is some kind
+of event.
+\xv
+\xe
+\lf Ant
+\lv dulak
+\le to extinguish, to switch off, to close
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Oct/2013
+
 \lx et
 \lc
 \hm
@@ -3505,6 +3723,35 @@ species.
 \lt
 \mr
 \dt 25/Feb/2013
+
+\lx etitotetok
+\lc
+\hm
+\ph
+\ps exp
+\sn
+\ge once_upon_a_time
+\ge start_of_tale
+\re
+\de once upon a time; start of a tale or
+story
+\oe
+\ue
+\ee This is an expression used to start
+tales, fables and stories that are
+supposedly set in a mythical past.
+\xv
+\xe
+\lf Cpart
+\lv otetoketito
+\le and they lived happily ever after; end
+of tale
+\cf
+\ce
+\sd
+\lt it is now and it was once
+\mr et-ito-ot-etok
+\dt 08/Oct/2013
 
 \lx ezes
 \lc
@@ -5356,6 +5603,56 @@ fv:Adodun.
 \mr i-miko-stul-i-sin
 \dt 26/Feb/2013
 
+\lx ind
+\lc in(d)
+\hm
+\ph
+\ps vi
+\sn
+\ge close
+\ge shut
+\re
+\de to close, to shut
+\oe Used with openings, for instance doors
+and windows.
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv polt
+\le to open
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 21/Oct/2013
+
+\lx induz
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge window
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv poltuz
+\le door
+\cf
+\ce
+\sd
+\lt closed
+\mr ind-z
+\dt 21/Oct/2013
+
 \lx ipe|lastu|l
 \lc
 \hm
@@ -5716,6 +6013,49 @@ definitions.
 \lt
 \mr
 \dt 26/Feb/2013
+
+\lx ize
+\lc
+\hm
+\ph
+\ps vt
+\sn 1
+\ge open
+\re
+\de to open (sthg)
+\oe Used with containers, like packages,
+boxes, presents, or pieces of furniture, 
+like chests or closets. Also used with
+one's organs, like one's eyes, mouth, or
+hands.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge unpack
+\re
+\de to unpack (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv nege2
+\le to close, to pack
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Oct/2013
 
 \lx i|ze
 \lc
@@ -7139,6 +7479,31 @@ family
 \mr Kolsika-ku|lu
 \dt 27/Feb/2013
 
+\lx komut
+\lc
+\hm
+\ph
+\ps exp
+\sn
+\ge how
+\re
+\de how; interrogative adverb of means or
+manner
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt with what
+\mr ko-mut
+\dt 28/Oct/2013
+
 \lx kulstul
 \lc
 \hm
@@ -8350,6 +8715,92 @@ counters.
 \mr
 \dt 28/Feb/2013
 
+\lx |lemik
+\lc
+\hm
+\ph
+\ps pr
+\sn
+\ge anyone
+\ge anybody
+\ge whoever
+\re
+\de (just) anyone, (just) anybody, whoever
+\oe Refers to persons only. Not used in
+interrogative or negative contexts,
+except in the sense of 'just anyone'.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt any who
+\mr |le-mik
+\dt 28/Oct/2013
+
+\lx |lemun
+\lc
+\hm
+\ph
+\ps pr
+\sn
+\ge any_of
+\ge whichever
+\re
+\de (just) any (of), whichever
+\oe Used when talking about a choice
+among various items (be it persons or
+not). Not used in interrogative or
+negative contexts, except in the sense
+of 'just any'.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt any which
+\mr |le-mun
+\dt 28/Oct/2013
+
+\lx |lemut
+\lc
+\hm
+\ph
+\ps pr
+\sn
+\ge anything
+\ge whatever
+\ge whatsoever
+\re
+\de (just) anything, whatever, whatsoever
+\oe Refers to objects and concepts only.
+Not used in interrogative or negative
+contexts, except in the sense of 'just
+anything'.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt any what
+\mr |le-mut
+\dt 28/Oct/2013
+
 \lx mabamla
 \lc
 \hm
@@ -8899,6 +9350,81 @@ or group)
 \lt little male hey
 \mr mejee-mas
 \dt 16/Jul/2013
+
+\lx memik
+\lc
+\hm
+\ph
+\ps pr
+\sn
+\ge no_one
+\ge nobody
+\re
+\de
+\oe Refers to persons only.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt no who
+\mr me-mik
+\dt 28/Oct/2013
+
+\lx memun
+\lc
+\hm
+\ph
+\ps pr
+\sn
+\ge none_of
+\re
+\de none (of)
+\oe Used when talking about a choice
+among various items (be it persons or
+not).
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt no which
+\mr me-mun
+\dt 28/Oct/2013
+
+\lx memut
+\lc
+\hm
+\ph
+\ps pr
+\sn
+\ge nothing
+\re
+\de
+\oe Refers to objects and concepts only.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt no what
+\mr me-mut
+\dt 28/Oct/2013
 
 \lx meno
 \lc
@@ -9634,6 +10160,80 @@ into their spatial meanings
 \mr
 \dt 28/Feb/2013
 
+\lx momdutun
+\lc
+\hm
+\ph
+\ps exp
+\sn
+\ge where_to
+\re
+\de where to; interrogative adverb of
+destination
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt to what
+\mr mo-m<d>ut-n
+\dt 28/Oct/2013
+
+\lx momut
+\lc
+\hm
+\ph
+\ps exp
+\sn
+\ge where
+\re
+\de where; interrogative adverb of location
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt at what
+\mr mo-mut
+\dt 28/Oct/2013
+
+\lx momvuti
+\lc
+\hm
+\ph
+\ps exp
+\sn
+\ge where_from
+\re
+\de where from; interrogative adverb of
+origin
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt from what
+\mr mo-m<v>ut-i
+\dt 28/Oct/2013
+
 \lx monmonu
 \lc
 \hm
@@ -9859,8 +10459,10 @@ correct
 \ps pr
 \sn
 \ge which
+\ge which_one
 \re
-\de which; interrogative pronoun
+\de which, which one; interrogative
+pronoun
 \oe Used to ask about a choice.
 \ue
 \ee
@@ -9874,7 +10476,7 @@ correct
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\dt 28/Oct/2013
 
 \lx mune
 \lc
@@ -9958,7 +10560,7 @@ way of saying 'no'.
 \ge what
 \re
 \de what; interrogative pronoun
-\oe Used to ask about things and concept.
+\oe Used to ask about things and concepts.
 \ue
 \ee
 \xv
@@ -9971,7 +10573,7 @@ way of saying 'no'.
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\dt 28/Oct/2013
 
 \lx muton
 \lc
@@ -10311,7 +10913,7 @@ equality
 
 \lx nege
 \lc
-\hm
+\hm 1
 \ph
 \ps num
 \sn
@@ -10331,7 +10933,51 @@ equality
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\dt 22/Oct/2013
+
+\lx nege
+\lc
+\hm 2
+\ph
+\ps vt
+\sn 1
+\ge close
+\ge shut
+\re
+\de to close (sthg), to shut (sthg)
+\oe Used with containers, like packages,
+boxes, presents, or pieces of furniture, 
+like chests or closets. Also used with
+one's organs, like one's eyes, mouth, or
+hands.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge pack
+\re
+\de to pack (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv ize
+\le to open, to unpack
+\cf
+\ce
+\sd
+\lt
+\mr
+\dt 22/Oct/2013
 
 \lx negesizdan
 \lc
@@ -10847,6 +11493,84 @@ counters.
 \lt
 \mr
 \dt 28/Feb/2013
+
+\lx numik
+\lc
+\hm
+\ph
+\ps pr
+\sn
+\ge everyone
+\ge everybody
+\ge all
+\re
+\de
+\oe Refers to persons only.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt every who
+\mr nu-mik
+\dt 28/Oct/2013
+
+\lx numun
+\lc
+\hm
+\ph
+\ps pr
+\sn
+\ge each_one
+\ge all_of
+\re
+\de each one (of), all (of)
+\oe Used when talking about a choice
+among various items (be it persons or
+not).
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt every which
+\mr nu-mun
+\dt 28/Oct/2013
+
+\lx numut
+\lc
+\hm
+\ph
+\ps pr
+\sn
+\ge everything
+\ge all
+\re
+\de
+\oe Refers to objects and concepts only.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt every what
+\mr nu-mut
+\dt 28/Oct/2013
 
 \lx |nalam
 \lc
@@ -11663,6 +12387,34 @@ then
 \lt
 \mr
 \dt 28/Feb/2013
+
+\lx otetoketito
+\lc
+\hm
+\ph
+\ps exp
+\sn
+\ge and_they_lived_happily_ever_after
+\ge end_of_tale
+\re
+\de and they lived happily ever after; end
+of a tale or story
+\oe
+\ue
+\ee This is an expression used to end tales,
+fables and stories that are supposedly
+set in a mythical past.
+\xv
+\xe
+\lf Cpart
+\lv etitotetok
+\le once upon a time; start of tale
+\cf
+\ce
+\sd
+\lt it was once and it is now
+\mr ot-etok-et-ito
+\dt 08/Oct/2013
 
 \lx otez
 \lc
@@ -12752,7 +13504,8 @@ fv:sigoj instead.
 \re
 \de to break open, to open in a way that
 cannot be closed again
-\oe
+\oe Used with openings, for instance doors
+and windows.
 \ue
 \ee
 \xv
@@ -12765,7 +13518,7 @@ cannot be closed again
 \sd
 \lt open open
 \mr polt-polt
-\dt 03/Apr/2013
+\dt 21/Oct/2013
 
 \lx polt
 \lc pol(t)
@@ -12776,20 +13529,21 @@ cannot be closed again
 \ge open
 \re
 \de to open
-\oe
+\oe Used with openings, for instance doors
+and windows.
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Ant
+\lv ind
+\le to close, to shut
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\dt 21/Oct/2013
 
 \lx poltuz
 \lc
@@ -12805,15 +13559,15 @@ cannot be closed again
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv induz
+\le window
 \cf
 \ce
 \sd
 \lt opened
 \mr polt-z
-\dt 28/Feb/2013
+\dt 21/Oct/2013
 
 \lx poma
 \lc
@@ -13223,6 +13977,88 @@ counters.
 \mr seliz-sif
 \dt 28/Feb/2013
 
+\lx semik
+\lc
+\hm
+\ph
+\ps pr
+\sn
+\ge someone
+\ge somebody
+\ge who_knows_who
+\re
+\de
+\oe Refers to persons only.
+\ue
+\ee Similar to fv:tamik, but insisting on the
+speaker's ignorance of the referent.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt I don't know who
+\mr se-mik
+\dt 28/Oct/2013
+
+\lx semun
+\lc
+\hm
+\ph
+\ps pr
+\sn
+\ge some_of
+\ge one_of
+\ge who_knows_which
+\re
+\de some (of), one (of), who knows which
+\oe Used when talking about a choice
+among various items (be it persons or
+not).
+\ue
+\ee Similar to fv:tamun, but insisting on the
+speaker's ignorance of the referent.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt I don't know which
+\mr se-mun
+\dt 28/Oct/2013
+
+\lx semut
+\lc
+\hm
+\ph
+\ps pr
+\sn
+\ge something
+\ge who_knows_what
+\re
+\de
+\oe Refers to objects and concepts only.
+\ue
+\ee Similar to fv:tamut, but insisting on the
+speaker's ignorance of the referent.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt I don't know what
+\mr se-mut
+\dt 28/Oct/2013
+
 \lx sen
 \lc
 \hm
@@ -13319,12 +14155,14 @@ difficult to understand and to handle.
 \sn
 \ge earth
 \ge ground
+\ge floor
+\ge soil
 \re
 \de
 \oe
 \ue
 \ee Refers to both the elemental concept
-and the ground we walk on.
+and the ground or floor we walk on.
 \xv
 \xe
 \lf
@@ -13335,7 +14173,7 @@ and the ground we walk on.
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\dt 27/Oct/2013
 
 \lx senodjem
 \lc
@@ -14708,6 +15546,82 @@ growing on a bush, shrub or tree
 \mr
 \dt 04/Mar/2013
 
+\lx tamik
+\lc
+\hm
+\ph
+\ps pr
+\sn
+\ge someone
+\ge somebody
+\re
+\de
+\oe Refers to persons only.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt some who
+\mr ta-mik
+\dt 28/Oct/2013
+
+\lx tamun
+\lc
+\hm
+\ph
+\ps pr
+\sn
+\ge some_of
+\ge one_of
+\re
+\de some (of), one (of)
+\oe Used when talking about a choice
+among various items (be it persons or
+not).
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt some which
+\mr ta-mun
+\dt 28/Oct/2013
+
+\lx tamut
+\lc
+\hm
+\ph
+\ps pr
+\sn
+\ge something
+\re
+\de
+\oe Refers to objects and concepts only.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt some what
+\mr ta-mut
+\dt 28/Oct/2013
+
 \lx te-
 \lc
 \hm
@@ -14935,6 +15849,30 @@ abbreviation of 'télévision'.
 \lt other & I
 \mr tel-ga
 \dt 04/Mar/2013
+
+\lx temut
+\lc
+\hm
+\ph
+\ps exp
+\sn
+\ge what_for
+\re
+\de what for; interrogative adverb of goal
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt for what
+\mr te-mut
+\dt 28/Oct/2013
 
 \lx teol
 \lc
@@ -17915,3 +18853,27 @@ shade of meaning.
 \lt
 \mr
 \dt 05/Mar/2013
+
+\lx |zumut
+\lc
+\hm
+\ph
+\ps exp
+\sn
+\ge why
+\re
+\de why; interrogative adverb of cause
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt because of what
+\mr |zu-mut
+\dt 28/Oct/2013
