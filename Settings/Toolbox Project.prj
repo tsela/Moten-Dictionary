@@ -40,7 +40,7 @@
 \-fntMarkers
 \+rundosMarkers 
 \-rundosMarkers
-\placementMain max -32000 -32000 -1 -1 0 0 768 728
+\placementMain max -1 -1 -1 -1 0 0 768 728
 \+dblst 
 
 \+db C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Dictionary.txt
@@ -76,15 +76,15 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey momvuti
+\fldPriKey a
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri momvuti
+\fldPri a
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri |zumut
+\fldPri mabukol
 \MatchWhole
 \match_char p
 \-keyInsert
@@ -121,20 +121,20 @@
 \-brf
 \-brflst
 \+ind 
-\mkrPriKey ge
-\srtPriKey English
-\mkrSecKey lx
+\mkrPriKey lx
+\srtPriKey Moten
+\mkrSecKey ge
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey where_from
-\fldSecKey momvuti
+\fldPriKey a
+\fldSecKey there
 \-rec
 \+keySearch 
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri aaa
+\fldPri o|zemez
 \MatchWhole
 \match_char p
 \-keyInsert

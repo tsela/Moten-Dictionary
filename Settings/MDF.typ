@@ -355,7 +355,7 @@
 \nam Lexical function label
 \desc Used to encode the semantic networks of a language. For consistency, a Range Set should be maintained on the lexical function labels used. When formatted by MDF, these labels can be modified (and even translated) by MDF's Audience CC tables.
 \lng English
-\rngset Ant Cpart Gen Idiom Nact Ninst Nug Sim Spec Src Syn 
+\rngset Ant Comp Cpart Deriv Gen Idiom Max Min Nact Ninst Nug Part Sim Spec Src Syn Whole 
 \+fnt 
 \Name Times New Roman
 \Size 11
@@ -911,6 +911,21 @@
 \-filset
 
 \+jmpset 
+\+jmp Cross-reference
+\EnforceRefIntegrity
+\+mkrsubsetIncluded 
+\mkr cf
+\mkr lv
+\-mkrsubsetIncluded
+\+drflst 
+\+drf 
+\File C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Dictionary.txt
+\mkr lx
+\-drf
+\-drflst
+\MatchWhole
+\match_char e
+\-jmp
 \-jmpset
 
 \+template 
@@ -935,6 +950,7 @@
 \fld \sd
 \fld \lt
 \fld \mr
+\fld \bw
 \-template
 \mkrRecord lx
 \mkrSecKey hm
@@ -1136,7 +1152,7 @@
 \+expSF Standard Format
 \-expSF
 
-\expDefault Engllish Moten Gloss Index
+\expDefault Moten English Dictionary
 \-expset
 \PreventNumbering
 \DisableNumbering

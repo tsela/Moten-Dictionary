@@ -9,21 +9,27 @@
 \sn
 \ge there
 \re
-\de there, that place
+\de there, that place; spatial pronoun
+indicating a location close to the
+listener
 \oe
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv e
+\le here, this place
+\lf Cpart
+\lv o
+\le over there, that place over there
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 21/Feb/2013
+\bw
+\dt 19/Nov/2013
 
 \lx abal
 \lc
@@ -61,18 +67,25 @@ someone asking you why you have
 such an opinion.
 \xv
 \xe
+\lf Ant
+\lv kemi
+\le pleasantness, wonderfulness
 \lf Sim
 \lv slim
-\le inappropriateness
+\le ugliness, inappropriateness
 \lf Sim
 \lv tlebe
 \le mediocrity
+\lf Gen
+\lv kemabal
+\le opinion, subjective value
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 21/Feb/2013
+\bw
+\dt 10/Jan/2014
 
 \lx ada
 \lc
@@ -81,22 +94,64 @@ such an opinion.
 \ps nc
 \sn
 \ge year
+\ge calendar_year
 \re
-\de year, calendar year
-\oe
+\de (calendar) year
+\oe Refers to both a calendar year in dates
+and to a length of time of one year.
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Part
+\lv mune
+\le (calendar) month
+\lf Part
+\lv siza
+\le (calendar) day
+\lf Part
+\lv ada|zaj
+\le January
+\lf Part
+\lv kelemune
+\le February
+\lf Part
+\lv zoba|saj
+\le March
+\lf Part
+\lv ibomune
+\le April
+\lf Part
+\lv zobatmune
+\le May
+\lf Part
+\lv emelogzaj
+\le June
+\lf Part
+\lv ememune
+\le July
+\lf Part
+\lv atmune
+\le August
+\lf Part
+\lv o|nigzaj
+\le September
+\lf Part
+\lv senodmune
+\le October
+\lf Part
+\lv vonemune
+\le November
+\lf Part
+\lv adakun
+\le December
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 21/Feb/2013
+\bw
+\dt 11/Feb/2014
 
 \lx adakun
 \lc
@@ -112,15 +167,22 @@ such an opinion.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Whole
+\lv ada
+\le (calendar) year
+\lf Gen
+\lv mune
+\le (calendar) month
+\lf Src
+\lv kun
+\le end, ending
 \cf
 \ce
 \sd
 \lt year end
 \mr ada-kun
-\dt 21/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx adamla
 \lc
@@ -136,9 +198,12 @@ such an opinion.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv amla
+\le newness
+\lf Src
+\lv ada
+\le (calendar) year
 \cf
 \ce
 \sd
@@ -154,12 +219,16 @@ such an opinion.
 \lf Sim
 \lv pa|nasiza
 \le birthdate
+\lf Gen
+\lv siza
+\le (calendar) day
 \cf
 \ce
 \sd
 \lt year new
 \mr ada-amla
-\dt 21/Mar/2013
+\bw
+\dt 12/Feb/2014
 
 \lx ada|zaj
 \lc
@@ -175,15 +244,22 @@ such an opinion.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Whole
+\lv ada
+\le (calendar) year
+\lf Gen
+\lv mune
+\le (calendar) month
+\lf Src
+\lv |zaj
+\le start, beginning
 \cf
 \ce
 \sd
 \lt year start
 \mr ada-|zaj
-\dt 21/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx Adodun
 \lc
@@ -205,12 +281,19 @@ Turning'.
 \lf Sim
 \lv Imonuj
 \le the Turning
+\lf Src
+\lv odun
+\le youth
+\lf Gen
+\lv ada
+\le (calendar) year
 \cf
 \ce
 \sd
 \lt year young
 \mr ada-odun
-\dt 21/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx ag
 \lc
@@ -239,12 +322,20 @@ to motion away from the speaker.
 \de to leave
 \oe
 \ue
-\ee
+\ee Also used as a suffix to mark actions
+that have started and are expected to
+carry on in the future.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Nact
+\lv agzif
+\le traveller
+\lf Compound
+\lv aguba|s
+\le to come and go, to be nervous
+\lf Compound
+\lv akfe|su
+\le sorry for leaving early
 \cf
 \ce
 \sd
@@ -259,9 +350,12 @@ moon.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Compound
+\lv emag
+\le sunset
+\lf Cpart
+\lv uba|s
+\le to come, to arrive, to rise
 \cf
 \ce
 \sd
@@ -274,20 +368,19 @@ moon.
 \ee In this sense, the value of the subject
 can be indicated with an adverbial
 phrase in the instrumental or the
-originative. Also used as a suffix to
-mark actions that have started and are
-expected to carry on in the future..
+originative.
 \xv
 \xe
-\lf Cpart
-\lv uba|s
-\le to come
+\lf
+\lv
+\le
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 12/Apr/2013
+\bw
+\dt 13/Jan/2014
 
 \lx aguba|s
 \lc
@@ -305,9 +398,12 @@ forth
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv ag
+\le to go, to leave
+\lf Src
+\lv uba|s
+\le to come, to arrive
 \cf
 \ce
 \sd
@@ -328,7 +424,8 @@ forth
 \sd
 \lt go & come
 \mr ag-uba|s
-\dt 25/Feb/2013
+\bw
+\dt 09/Jan/2014
 
 \lx agzif
 \lc
@@ -344,15 +441,16 @@ forth
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv ag
+\le to go, to leave
 \cf
 \ce
 \sd
 \lt one who goes
 \mr ag-sif
-\dt 11/Sep/2013
+\bw
+\dt 08/Jan/2014
 
 \lx aja
 \lc
@@ -371,15 +469,16 @@ someone is startled by something, to
 indicate surprise.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv ejo
+\le huh, what
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\bw
+\dt 13/Jan/2014
 
 \lx ak
 \lc
@@ -409,7 +508,8 @@ correspond to 'to be + adjective'.
 \sd
 \lt
 \mr
-\dt 26/Sep/2013
+\bw
+\dt 15/Nov/2013
 
 \lx akfe|su
 \lc
@@ -427,19 +527,23 @@ now', 'bye'
 leaves someone else, especially in
 cases when they were not meant to
 leave yet. However, it is considered
-polite to use it even when people leave
-as planned.
+polite (and friendly) to use it even
+when people leave as planned.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv fe|su
+\le sorry
+\lf Src
+\lv ag
+\le to go, to leave
 \cf
 \ce
 \sd
 \lt go sorry
 \mr ag-fe|su
-\dt 21/Feb/2013
+\bw
+\dt 09/Jan/2014
 
 \lx a|lek
 \lc
@@ -482,6 +586,12 @@ or person, use the verb fv:izunla|leki.
 \lf Cpart
 \lv foto
 \le to look for, to research
+\lf Max
+\lv a|leka|lek
+\le to get to the bottom of
+\lf Sim
+\lv gana
+\le to clear up, to get solved
 \cf
 \ce
 \sd
@@ -507,7 +617,8 @@ subclause, or more rarely as a suffix.
 \sd
 \lt
 \mr
-\dt 14/Mar/2013
+\bw
+\dt 17/Jan/2014
 
 \lx a|leka|lek
 \lc
@@ -528,12 +639,16 @@ to the bottom of (sthg)
 \lf Cpart
 \lv fotofoto
 \le to try to get to the bottom of
+\lf Src
+\lv a|lek
+\le to find, to discover
 \cf
 \ce
 \sd
 \lt find find
 \mr a|lek-a|lek
-\dt 03/Apr/2013
+\bw
+\dt 09/Jan/2014
 
 \lx Amelika
 \lc
@@ -551,15 +666,16 @@ the United States.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv status
+\le state, country, nation
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 15/Mar/2013
+\bw English
+\dt 12/Feb/2014
 
 \lx amla
 \lc
@@ -587,12 +703,16 @@ starting in a specific position.
 \lf Sim
 \lv odun
 \le youth, newness
+\lf Gen
+\lv mabamla
+\le experience, ownership time
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 14/Mar/2013
+\bw
+\dt 09/Jan/2014
 
 \lx amo
 \lc
@@ -606,7 +726,8 @@ starting in a specific position.
 \ge sister
 \ge cousin
 \re
-\de someone who is ego's sibling or first
+\de different-sex sibling or cousin;
+someone who is ego's sibling or first
 cousin (child of an uncle or aunt of
 ego), of opposite sex from ego
 \oe
@@ -637,12 +758,19 @@ registers.
 \lf Cpart
 \lv |suko
 \le same-sex sibling, cousin or friend
+\lf Compound
+\lv |sukamo
+\le (family) generation
+\lf Whole
+\lv nud
+\le family, clan, tribe
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\bw
+\dt 13/Jan/2014
 
 \lx -ano
 \lc
@@ -666,7 +794,8 @@ registers.
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\bw
+\dt 15/Nov/2013
 
 \lx apa
 \lc
@@ -683,15 +812,19 @@ body, or its appearance in the sky.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv denol
+\le celestial body, astronomical object
+\lf Max
+\lv apapa
+\le night sky
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\bw
+\dt 09/Jan/2014
 
 \lx apapa
 \lc
@@ -707,15 +840,16 @@ body, or its appearance in the sky.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv apa
+\le star
 \cf
 \ce
 \sd
 \lt star star
 \mr apa-apa
-\dt 02/Apr/2013
+\bw
+\dt 09/Jan/2014
 
 \lx apasiza
 \lc
@@ -731,15 +865,22 @@ body, or its appearance in the sky.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Whole
+\lv negesizdan
+\le week
+\lf Part
+\lv siza
+\le (calendar) day
+\lf Src
+\lv apa
+\le star
 \cf
 \ce
 \sd
 \lt star day
 \mr apa-siza
-\dt 22/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx apsim
 \lc
@@ -796,7 +937,8 @@ the sound of a sneeze.
 \sd
 \lt
 \mr
-\dt 01/Oct/2013
+\bw
+\dt 15/Nov/2013
 
 \lx a|sin
 \lc
@@ -812,7 +954,7 @@ the sound of a sneeze.
 \ee
 \xv
 \xe
-\lf Gen
+\lf Whole
 \lv at1
 \le fire
 \cf
@@ -820,7 +962,8 @@ the sound of a sneeze.
 \sd
 \lt little fire
 \mr at1-sin
-\dt 25/Feb/2013
+\bw
+\dt 09/Jan/2014
 
 \lx a|siza
 \lc
@@ -836,15 +979,22 @@ the sound of a sneeze.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Whole
+\lv negesizdan
+\le week
+\lf Gen
+\lv siza
+\le (calendar) day
+\lf Src
+\lv at1
+\le fire
 \cf
 \ce
 \sd
 \lt fire day
 \mr at1-siza
-\dt 22/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx at
 \lc
@@ -861,7 +1011,7 @@ the sound of a sneeze.
 and an actual burning fire.
 \xv
 \xe
-\lf Spec
+\lf Part
 \lv a|sin
 \le flame
 \cf
@@ -869,7 +1019,8 @@ and an actual burning fire.
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 09/Jan/2014
 
 \lx at
 \lc
@@ -879,21 +1030,29 @@ and an actual burning fire.
 \sn
 \ge then
 \re
-\de then, that time
+\de then, that time; temporal pronoun
+indicating a time away from the
+speaker, and possibly close or
+somehow related to the listener
 \oe
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv et
+\le now, this time
+\lf Cpart
+\lv ot
+\le once, formerly, in the future, that time
+then
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\bw
+\dt 09/Jan/2014
 
 \lx atmune
 \lc
@@ -909,15 +1068,22 @@ and an actual burning fire.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Whole
+\lv ada
+\le (calendar) year
+\lf Gen
+\lv mune
+\le (calendar) month
+\lf Src
+\lv at1
+\le fire
 \cf
 \ce
 \sd
 \lt fire month
 \mr at1-mune
-\dt 22/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx ba
 \lc
@@ -933,15 +1099,28 @@ and an actual burning fire.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv ga
+\le I
+\lf Cpart
+\lv telga
+\le we
+\lf Cpart
+\lv telba
+\le you.PL
+\lf Cpart
+\lv vike
+\le oneself
+\lf Idiom
+\lv saj_|laba
+\le same here
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\bw
+\dt 11/Feb/2014
 
 \lx badi
 \lc
@@ -954,18 +1133,24 @@ and an actual burning fire.
 \de dog; a domesticated canine
 \oe Does not specify or imply gender.
 \ue
-\ee
+\ee Dogs can be fv:sponda or fv:kit
+depending on their size, the attachment
+of the speaker to the animal, etc.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv sponda
+\le small animal
+\lf Gen
+\lv kit
+\le big animal
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\bw
+\dt 09/Jan/2014
 
 \lx Balat
 \lc
@@ -981,15 +1166,16 @@ and an actual burning fire.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv status
+\le state, country, nation
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\bw Hindi
+\dt 10/Jan/2014
 
 \lx bazin
 \lc
@@ -1000,23 +1186,23 @@ and an actual burning fire.
 \ge village
 \ge small_town
 \re
-\de
+\de village, small town; a settlement bigger
+than a hamlet but smaller than a town
 \oe
 \ue
-\ee A settlement bigger than a hamlet but
-smaller than a town. Not necessarily
-rural.
+\ee Not necessarily rural.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv bazlo
+\le town, city
 \cf
 \ce
 \sd
 \lt little town
 \mr bazlo-sin
-\dt 22/Feb/2013
+\bw
+\dt 10/Jan/2014
 
 \lx bazlo
 \lc
@@ -1027,22 +1213,23 @@ rural.
 \ge town
 \ge city
 \re
-\de
+\de town, city; a large settlement, generally
+urbanised
 \oe
 \ue
-\ee A large settlement, generally
-urbanised.
+\ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Min
+\lv bazin
+\le village, small town
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\bw
+\dt 10/Jan/2014
 
 \lx bel
 \lc
@@ -1073,7 +1260,8 @@ activities.
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\bw
+\dt 15/Nov/2013
 
 \lx Belzik
 \lc
@@ -1089,15 +1277,16 @@ activities.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv status
+\le state, country, nation
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\bw French
+\dt 10/Jan/2014
 
 \lx be|leg
 \lc
@@ -1124,7 +1313,8 @@ activities.
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\bw
+\dt 15/Nov/2013
 
 \lx be|s
 \lc
@@ -1160,9 +1350,12 @@ downwards
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv fin
+\le great height
+\lf Cpart
+\lv piv
+\le low height
 \cf
 \ce
 \sd
@@ -1186,7 +1379,8 @@ downwards
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\bw
+\dt 10/Jan/2014
 
 \lx bivo
 \lc
@@ -1222,12 +1416,19 @@ discontinuous.
 \lf Cpart
 \lv poga
 \le rank, number, ordinal number
+\lf Spec
+\lv sambivo
+\le prime number
+\lf Compound
+\lv bivostul
+\le to count, to measure
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 06/Feb/2014
 
 \lx bivostul
 \lc
@@ -1264,12 +1465,16 @@ quantities.
 \lf Cpart
 \lv pogastul
 \le to rank
+\lf Src
+\lv bivo
+\le quantity, number, cardinal number
 \cf
 \ce
 \sd
 \lt quantity summon
 \mr bivo-stul
-\dt 28/Feb/2013
+\bw
+\dt 10/Jan/2014
 
 \lx bnam
 \lc
@@ -1295,12 +1500,22 @@ a fv:kit, i.e. a large animal.
 \lf Cpart
 \lv jez
 \le hand, arm
+\lf Compound
+\lv bnamag
+\le to walk, to travel on foot
+\lf Compound
+\lv bnameno
+\le shoe, boot
+\lf Part
+\lv bnampoma
+\le ankle
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\bw
+\dt 10/Jan/2014
 
 \lx bnamag
 \lc
@@ -1328,12 +1543,19 @@ transportation (which is fv:jemagi).
 \lf Cpart
 \lv ugejuge
 \le to step, to walk
+\lf Src
+\lv bnam
+\le foot, leg, paw
+\lf Src
+\lv ag
+\le to go, to leave
 \cf
 \ce
 \sd
 \lt foot go
 \mr bnam-ag
-\dt 13/Sep/2013
+\bw
+\dt 12/Feb/2014
 
 \lx bnameno
 \lc
@@ -1355,12 +1577,16 @@ above the ankle
 \lf Cpart
 \lv meno
 \le glove
+\lf Src
+\lv bnam
+\le foot, leg, paw
 \cf
 \ce
 \sd
 \lt foot glove
 \mr bnam-meno
-\dt 22/Feb/2013
+\bw
+\dt 10/Jan/2014
 
 \lx bnampoma
 \lc
@@ -1379,12 +1605,19 @@ above the ankle
 \lf Cpart
 \lv jespoma
 \le wrist
+\lf Whole
+\lv bnam
+\le foot, leg, paw
+\lf Src
+\lv poma
+\le neck
 \cf
 \ce
 \sd
 \lt foot neck
 \mr bnam-poma
-\dt 22/Feb/2013
+\bw
+\dt 10/Jan/2014
 
 \lx bo
 \lc
@@ -1393,8 +1626,11 @@ above the ankle
 \ps n
 \sn
 \ge sky
+\ge day_sky
 \re
-\de
+\de sky, day sky; refers mainly to the day
+sky, but can also refer to the sky in
+general, including the night sky
 \oe
 \ue
 \ee
@@ -1402,13 +1638,17 @@ above the ankle
 \xe
 \lf Sim
 \lv emekel
-\le skies
+\le skies, heavens
+\lf Compound
+\lv bolog
+\le weather
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\bw
+\dt 10/Jan/2014
 
 \lx bolog
 \lc
@@ -1418,21 +1658,32 @@ above the ankle
 \sn
 \ge weather
 \re
-\de
+\de weather, atmospheric conditions at a
+certain location
 \oe
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Spec
+\lv bolslim
+\le bad weather
+\lf Spec
+\lv bolvo|sa
+\le good weather
+\lf Src
+\lv bo
+\le sky, day sky
+\lf Src
+\lv log
+\le season
 \cf
 \ce
 \sd
 \lt sky season
 \mr bo-log
-\dt 23/Sep/2013
+\bw
+\dt 12/Feb/2014
 
 \lx bolslim
 \lc
@@ -1451,12 +1702,16 @@ above the ankle
 \lf Ant
 \lv bolvo|sa
 \le nice, fair weather
+\lf Gen
+\lv bolog
+\le weather
 \cf
 \ce
 \sd
 \lt weather ugly
 \mr bolog-slim
-\dt 23/Sep/2013
+\bw
+\dt 10/Jan/2014
 
 \lx bolvo|sa
 \lc
@@ -1477,12 +1732,16 @@ above the ankle
 \lf Ant
 \lv bolslim
 \le bad weather
+\lf Gen
+\lv bolog
+\le weather
 \cf
 \ce
 \sd
 \lt weather beautiful
 \mr bolog-vo|sa
-\dt 23/Sep/2013
+\bw
+\dt 10/Jan/2014
 
 \lx bontu
 \lc
@@ -1503,12 +1762,16 @@ above the ankle
 \lf Ant
 \lv sezgo
 \le high speed
+\lf Gen
+\lv sezbon
+\le velocity, speed
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 10/Jan/2014
 
 \lx boze
 \lc
@@ -1544,6 +1807,9 @@ means etc.
 \lf Sim
 \lv ja|zin
 \le to give, to take, to transfer
+\lf Compound
+\lv mikoboze
+\le to broadcast, to receive, to transfer
 \cf
 \ce
 \sd
@@ -1569,7 +1835,8 @@ and direction towards the speaker.
 \sd
 \lt
 \mr
-\dt 27/Mar/2013
+\bw
+\dt 31/Jan/2014
 
 \lx bunes
 \lc
@@ -1605,7 +1872,8 @@ the object is the cause of it.
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 15/Nov/2013
 
 \lx buta
 \lc
@@ -1621,15 +1889,19 @@ the object is the cause of it.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Ninst
+\lv ibutaj
+\le chair
+\lf Compound
+\lv penlabuta
+\le to sit and wait, to be patient
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\bw
+\dt 05/Feb/2014
 
 \lx -d-
 \lc
@@ -1653,7 +1925,8 @@ the object is the cause of it.
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\bw
+\dt 15/Nov/2013
 
 \lx daa
 \lc
@@ -1679,7 +1952,8 @@ encouragement or exasperation.
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\bw
+\dt 15/Nov/2013
 
 \lx dabolna
 \lc
@@ -1729,15 +2003,16 @@ encouragement or exasperation.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv zunla
+\le place, location; to be (somewhere)
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 23/Sep/2013
+\bw
+\dt 10/Jan/2014
 
 \lx daj
 \lc
@@ -1748,20 +2023,31 @@ encouragement or exasperation.
 \ge hour
 \re
 \de
-\oe
+\oe Refers to an hour both as a length of
+time and as a moment in time.
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Whole
+\lv siza
+\le (calendar) day
+\lf Part
+\lv pele
+\le minute
+\lf Part
+\lv funa
+\le second, moment
+\lf Deriv
+\lv medaj
+\le midnight
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\bw
+\dt 31/Jan/2014
 
 \lx dati
 \lc
@@ -1800,12 +2086,16 @@ derived from verbs.
 \lf Cpart
 \lv ipi
 \le thing, object, tool
+\lf Compound
+\lv datistul
+\le to make up, to invent
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\bw
+\dt 10/Jan/2014
 
 \lx datistul
 \lc
@@ -1829,12 +2119,16 @@ abstract objects, concepts and ideas.
 \lf Cpart
 \lv ipistul
 \le to build, to invent
+\lf Src
+\lv dati
+\le thing, concept, manner
 \cf
 \ce
 \sd
 \lt concept summon
 \mr dati-stul
-\dt 26/Mar/2013
+\bw
+\dt 10/Jan/2014
 
 \lx davi|z
 \lc
@@ -1880,7 +2174,8 @@ benefactive.
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 15/Nov/2013
 
 \lx davi|zo
 \lc
@@ -1903,12 +2198,19 @@ benefactive.
 \lf Sim
 \lv vepe|ne
 \le sorry, thank you
+\lf Cpart
+\lv saj_|laba
+\le my pleasure
+\lf Cpart
+\lv saj_|latelba
+\le my pleasure
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 10/Jan/2014
 
 \lx de
 \lc
@@ -1944,7 +2246,8 @@ English.
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\bw
+\dt 15/Nov/2013
 
 \lx den
 \lc
@@ -1965,7 +2268,7 @@ way up to boiling water.
 \lf Cpart
 \lv |no
 \le ice
-\lf Cpart
+\lf Gen
 \lv vone
 \le cold water
 \lf Cpart
@@ -1979,7 +2282,8 @@ way up to boiling water.
 \sd
 \lt
 \mr
-\dt 23/Sep/2013
+\bw
+\dt 10/Jan/2014
 
 \lx dena
 \lc
@@ -2011,13 +2315,263 @@ weather temperatures.
 \lv zubna
 \le pleasant temperature, warmth, warm
 \lf Sim
-\cf la|zi
-\ce high temperature, warmth, hotness,
+\lv la|zi
+\le high temperature, warmth, hotness,
 warm, hot (of weather)
+\cf
+\ce
 \sd
 \lt
 \mr
-\dt 23/Sep/2013
+\bw
+\dt 15/Nov/2013
+
+\lx Denapa
+\lc
+\hm
+\ph
+\ps np
+\sn
+\ge Venus
+\re
+\de the planet Venus
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv denol
+\le planet
+\lf Src
+\lv apa
+\le star
+\cf
+\ce
+\sd
+\lt planet stellar
+\mr denol-apa
+\bw
+\dt 12/Feb/2014
+
+\lx Denat
+\lc
+\hm
+\ph
+\ps np
+\sn
+\ge Mars
+\re
+\de the planet Mars
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv denol
+\le planet
+\lf Src
+\lv at1
+\le fire
+\cf
+\ce
+\sd
+\lt planet fiery
+\mr denol-at
+\bw
+\dt 12/Feb/2014
+
+\lx Denipiz
+\lc
+\hm
+\ph
+\ps np
+\sn
+\ge Saturn
+\re
+\de the planet Saturn
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv denol
+\le planet
+\lf Src
+\lv ipiz
+\le heaviness, high strength
+\cf
+\ce
+\sd
+\lt planet strong
+\mr denol-ipiz
+\bw
+\dt 12/Feb/2014
+
+\lx Denleksod
+\lc
+\hm
+\ph
+\ps np
+\sn
+\ge Pluto
+\re
+\de the planet Pluto
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv denol
+\le planet
+\lf Src
+\lv leksod
+\le darkness
+\cf
+\ce
+\sd
+\lt planet dark
+\mr denol-leksod
+\bw
+\dt 12/Feb/2014
+
+\lx denol
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge celestial_body
+\ge astronomical_object
+\re
+\de
+\oe
+\ue
+\ee This is a very generic word which
+refers to any astronomical object, be it
+stars, the sun, the moon, planets,
+satellites, and even comets and
+asteroids. Earth itself is considered a
+fv:denol as well.
+\xv
+\xe
+\lf Spec
+\lv apa
+\le star
+\lf Spec
+\lv eme
+\le sun
+\lf Spec
+\lv kel
+\le moon
+\cf
+\ce
+\sd
+\sn 2
+\ge planet
+\re
+\de
+\oe
+\ue
+\ee Given that other celestial bodies have
+specific nouns to refer to them, by
+default fv:denol is often used to refer
+to planets specifically.
+\xv
+\xe
+\lf Spec
+\lv Densezgo
+\le Mercury
+\lf Spec
+\lv Denapa
+\le Venus
+\lf Spec
+\lv Telgaden
+\le Earth
+\lf Spec
+\lv Denat
+\le Mars
+\lf Spec
+\lv Deno|se
+\le Jupiter
+\lf Spec
+\lv Denipiz
+\le Saturn
+\lf Spec
+\lv Iboden
+\le Uranus
+\lf Spec
+\lv Voneden
+\le Neptune
+\lf Spec
+\lv Denleksod
+\le Pluto
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 28/Dec/2013
+
+\lx Deno|se
+\lc
+\hm
+\ph
+\ps np
+\sn
+\ge Jupiter
+\re
+\de the planet Jupiter
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv denol
+\le planet
+\lf Src
+\lv no|se
+\le brightness
+\cf
+\ce
+\sd
+\lt planet bright
+\mr denol-no|se
+\bw
+\dt 12/Feb/2014
+
+\lx Densezgo
+\lc
+\hm
+\ph
+\ps np
+\sn
+\ge Mercury
+\re
+\de the planet Mercury
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv denol
+\le planet
+\lf Src
+\lv sezgo
+\le high speed
+\cf
+\ce
+\sd
+\lt planet quick
+\mr denol-sezgo
+\bw
+\dt 12/Feb/2014
 
 \lx devodi
 \lc
@@ -2039,17 +2593,27 @@ names.
 \lv embo
 \le east wind
 \lf Cpart
-\lv ibnost
+\lv ibnos(t)
 \le north wind
 \lf Cpart
 \lv iptel
 \le south wind
+\lf Gen
+\lv ibo
+\le air, wind
+\lf Gen
+\lv bolog
+\le weather
+\lf Src
+\lv dod
+\le evening, night
 \cf
 \ce
 \sd
 \lt from the night
 \mr d<e><v>od-i
-\dt 24/Apr/2013
+\bw
+\dt 15/Feb/2014
 
 \lx di-
 \lc
@@ -2074,7 +2638,8 @@ into their temporal meanings
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\bw
+\dt 15/Nov/2013
 
 \lx diba
 \lc
@@ -2111,7 +2676,8 @@ the object is the person having it.
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 15/Nov/2013
 
 \lx difoja
 \lc
@@ -2129,15 +2695,22 @@ ordered list
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv |zaja
+\le first
+\lf Cpart
+\lv kuna
+\le last
+\lf Gen
+\lv poga
+\le rank, ordinal number
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\bw
+\dt 13/Jan/2014
 
 \lx dikovo|sedan
 \lc
@@ -2155,15 +2728,16 @@ ordered list
 disjunct.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv vo|sa
+\le beauty, appropriateness
 \cf
 \ce
 \sd
 \lt during with the appropriateness
 \mr di-ko-vo|s<e><d>a-n
-\dt 26/Feb/2013
+\bw
+\dt 10/Jan/2014
 
 \lx dilku|lu
 \lc
@@ -2180,15 +2754,19 @@ disjunct.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv ku|lu
+\le language, tongue
+\lf Src
+\lv di|la
+\le mother
 \cf
 \ce
 \sd
 \lt mother language
 \mr di|la-ku|lu
-\dt 22/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx di|la
 \lc
@@ -2207,12 +2785,19 @@ disjunct.
 \lf Cpart
 \lv ge|sem
 \le father
+\lf Min
+\lv dizes
+\le mum
+\lf Whole
+\lv nud
+\le family, clan, tribe
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\bw
+\dt 12/Jan/2014
 
 \lx di|lamo
 \lc
@@ -2238,12 +2823,16 @@ disjunct.
 \lf Cpart
 \lv ge|samo
 \le paternal aunt
+\lf Whole
+\lv nud
+\le family, clan, tribe
 \cf
 \ce
 \sd
 \lt mother different-sex sibling
 \mr di|la-amo
-\dt 22/Feb/2013
+\bw
+\dt 12/Jan/2014
 
 \lx di|luko
 \lc
@@ -2269,12 +2858,16 @@ disjunct.
 \lf Cpart
 \lv ge|samo
 \le paternal aunt
+\lf Whole
+\lv nud
+\le family, clan, tribe
 \cf
 \ce
 \sd
 \lt mother same-sex sibling
 \mr di|la-|suko
-\dt 22/Feb/2013
+\bw
+\dt 12/Jan/2014
 
 \lx dimdutun
 \lc
@@ -2291,15 +2884,16 @@ duration
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv mut
+\le what
 \cf
 \ce
 \sd
 \lt during what
 \mr di-m<d>ut-n
-\dt 28/Oct/2013
+\bw
+\dt 12/Jan/2014
 
 \lx dimut
 \lc
@@ -2315,15 +2909,16 @@ duration
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv mut
+\le what
 \cf
 \ce
 \sd
 \lt at what
 \mr di-mut
-\dt 28/Oct/2013
+\bw
+\dt 12/Jan/2014
 
 \lx dimvuti
 \lc
@@ -2340,15 +2935,16 @@ frequency
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv mut
+\le what
 \cf
 \ce
 \sd
 \lt every what
 \mr di-m<v>ut-i
-\dt 28/Oct/2013
+\bw
+\dt 12/Jan/2014
 
 \lx dizes
 \lc
@@ -2369,13 +2965,17 @@ children to refer to their own mothers.
 \xe
 \lf Cpart
 \lv gemas
-\le daddy
+\le dad
+\lf Src
+\lv di|la
+\le mother
 \cf
 \ce
 \sd
 \lt little mother
 \mr di|la-zes
-\dt 22/Feb/2013
+\bw
+\dt 21/Jan/2014
 
 \lx dloa
 \lc
@@ -2391,15 +2991,31 @@ children to refer to their own mothers.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv tales(k)
+\le fruit, vegetable
+\lf Gen
+\lv o|zemez
+\le food, drink
+\lf Min
+\lv dloamas
+\le fatty man, fatso
+\lf Min
+\lv dloasin
+\le light bulb
+\lf Min
+\lv dloazes
+\le fatty woman, fatso
+\lf Compound
+\lv dloalum
+\le apple
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 22/Feb/2013
+\bw
+\dt 24/Jan/2014
 
 \lx dloalum
 \lc
@@ -2415,15 +3031,25 @@ children to refer to their own mothers.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv tales(k)
+\le fruit, vegetable
+\lf Gen
+\lv o|zemez
+\le food, drink
+\lf Src
+\lv dloa
+\le pear
+\lf Src
+\lv luma
+\le falsehood, fiction
 \cf
 \ce
 \sd
 \lt fake pear
 \mr dloa-luma
-\dt 22/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx dloamas
 \lc
@@ -2442,15 +3068,19 @@ overweight men and boys.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv dloazes
+\le fatty woman, fatso
+\lf Src
+\lv dloa
+\le pear
 \cf
 \ce
 \sd
 \lt little male pear
 \mr dloa-mas
-\dt 29/Jul/2013
+\bw
+\dt 12/Feb/2014
 
 \lx dloasin
 \lc
@@ -2466,15 +3096,16 @@ overweight men and boys.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv dloa
+\le pear
 \cf
 \ce
 \sd
 \lt little pear
 \mr dloa-sin
-\dt 22/Feb/2013
+\bw
+\dt 12/Jan/2014
 
 \lx dloazes
 \lc
@@ -2493,15 +3124,19 @@ overweight women and girls.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv dloamas
+\le fatty man, fatso
+\lf Src
+\lv dloa
+\le pear
 \cf
 \ce
 \sd
 \lt little female pear
 \mr dloa-zes
-\dt 29/Jul/2013
+\bw
+\dt 12/Feb/2014
 
 \lx dod
 \lc
@@ -2519,15 +3154,25 @@ between sunset and sunrise
 \ee
 \xv
 \xe
-\lf Ant
+\lf Cpart
 \lv gom
 \le day
+\lf Whole
+\lv siza
+\le (calendar) day
+\lf Whole
+\lv gomdod
+\le day, day & night
+\lf Idiom
+\lv devodi
+\le west wind
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 13/Jan/2014
 
 \lx doj|slanku|lu
 \lc
@@ -2546,12 +3191,16 @@ between sunset and sunrise
 \lf Gen
 \lv ku|lu
 \le language
+\lf Src
+\lv Doj|slan(t)
+\le Germany
 \cf
 \ce
 \sd
 \lt Germany language
 \mr Doj|slan(t)-ku|lu
-\dt 25/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx Doj|slant
 \lc Doj|slan(t)
@@ -2567,15 +3216,16 @@ between sunset and sunrise
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv status
+\le state, country, nation
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\bw German
+\dt 12/Jan/2014
 
 \lx dulak
 \lc
@@ -2601,11 +3251,13 @@ between sunset and sunrise
 \sn 2
 \ge switch_off
 \ge turn_off
+\ge stop
 \ge shut_down
 \ge close
 \re
 \de to switch (sthg) off, to turn (sthg) off,
-to shut (sthg) down, to close (sthg)
+to stop (sthg), to shut (sthg) down, to
+close (sthg)
 \oe
 \ue
 \ee
@@ -2637,7 +3289,7 @@ appliances, engines (and thus anything
 that contains an engine), but also
 computer programs. Finally, it means
 'to close', when the object is some kind
-of event.
+of event or speech.
 \xv
 \xe
 \lf Ant
@@ -2648,7 +3300,8 @@ of event.
 \sd
 \lt
 \mr
-\dt 22/Oct/2013
+\bw
+\dt 03/Jan/2014
 
 \lx e
 \lc
@@ -2658,21 +3311,27 @@ of event.
 \sn
 \ge here
 \re
-\de here, this place
+\de here, this place; spatial pronoun
+indicating a position close to the
+speaker
 \oe
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv a
+\le there, that place
+\lf Cpart
+\lv o
+\le over there, that place over there
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\bw
+\dt 19/Nov/2013
 
 \lx -e-
 \lc
@@ -2696,7 +3355,8 @@ of event.
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\bw
+\dt 15/Nov/2013
 
 \lx eg
 \lc
@@ -2712,15 +3372,16 @@ of event.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv bivo
+\le quantity, cardinal number
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\bw
+\dt 13/Jan/2014
 
 \lx egetolda|n
 \lc
@@ -2743,13 +3404,17 @@ may start at any time
 \le day, day & night
 \lf Sim
 \lv siza
-\le calendar day
+\le (calendar) day
+\lf Src
+\lv daj
+\le hour
 \cf
 \ce
 \sd
 \lt for twenty-four hours
 \mr eg-geni-tol-d<d>aj-n
-\dt 25/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx ej
 \lc
@@ -2768,13 +3433,17 @@ may start at any time
 \xe
 \lf Sim
 \lv neg
-\le to do
+\le to do, to act
+\lf Sim
+\lv ipistul
+\le to build, to invent
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 13/Jan/2014
 
 \lx ejo
 \lc
@@ -2782,26 +3451,28 @@ may start at any time
 \ph eˈjo
 \ps interj
 \sn
+\ge huh
 \ge eh
 \ge what
 \ge sorry
 \re
-\de 'eh', 'what', 'sorry'
+\de 'huh', 'eh', 'what', 'sorry'
 \oe
 \ue
 \ee This interjection is used to show
 wonder or disbelief.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv aja
+\le eh, what
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\bw
+\dt 13/Jan/2014
 
 \lx Ejuskal
 \lc
@@ -2817,15 +3488,16 @@ wonder or disbelief.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv venla
+\le people, tribe, population
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\bw Basque
+\dt 13/Jan/2014
 
 \lx ejuskalfokez
 \lc
@@ -2844,12 +3516,16 @@ wonder or disbelief.
 \lf Gen
 \lv fokez
 \le person
+\lf Src
+\lv Ejuskal
+\le Basque people
 \cf
 \ce
 \sd
 \lt Basque people person
 \mr Ejuskal-fokez
-\dt 25/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx ejuskalku|lu
 \lc
@@ -2868,12 +3544,16 @@ wonder or disbelief.
 \lf Gen
 \lv ku|lu
 \le language
+\lf Src
+\lv Ejuskal
+\le Basque people
 \cf
 \ce
 \sd
 \lt Basque people language
 \mr Ejuskal-ku|lu
-\dt 25/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx ekkee
 \lc
@@ -2898,7 +3578,8 @@ metaphorical pain.
 \sd
 \lt
 \mr
-\dt 14/Mar/2013
+\bw
+\dt 16/Nov/2013
 
 \lx eksa
 \lc
@@ -2916,9 +3597,9 @@ metaphorical pain.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Min
+\lv eksin
+\le to touch lightly, to brush past
 \cf
 \ce
 \sd
@@ -2949,15 +3630,16 @@ chance, to encounter (s.o.)
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv pe|la
+\le to see, to watch, to meet
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 13/Jan/2014
 
 \lx eksin
 \lc
@@ -2976,15 +3658,16 @@ somewhat
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv eksa
+\le to touch, to hit
 \cf
 \ce
 \sd
 \lt little touch
 \mr eksa-sin
-\dt 18/Sep/2013
+\bw
+\dt 13/Jan/2014
 
 \lx Elas
 \lc
@@ -3000,15 +3683,16 @@ somewhat
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv status
+\le state, country, nation
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\bw Modern Greek
+\dt 13/Jan/2014
 
 \lx elasku|lu
 \lc
@@ -3027,12 +3711,16 @@ somewhat
 \lf Gen
 \lv ku|lu
 \le language
+\lf Src
+\lv Elas
+\le Greece
 \cf
 \ce
 \sd
 \lt Greece language
 \mr Elas-ku|lu
-\dt 25/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx elej
 \lc
@@ -3048,9 +3736,12 @@ somewhat
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Compound
+\lv elej|zajstul
+\le to die (peacefully)
+\lf Compound
+\lv elejtina
+\le bedroom
 \cf
 \ce
 \sd
@@ -3072,7 +3763,8 @@ somewhat
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx elejtina
 \lc
@@ -3088,15 +3780,19 @@ somewhat
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv tina
+\le room
+\lf Src
+\lv elej
+\le to sleep
 \cf
 \ce
 \sd
 \lt sleep room
 \mr elej-tina
-\dt 25/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx elej|zajstul
 \lc
@@ -3105,6 +3801,7 @@ somewhat
 \ps vi
 \sn
 \ge die
+\ge pass_away
 \re
 \de to die (peacefully)
 \oe A common euphemism, meaning
@@ -3116,15 +3813,25 @@ was not a violent one.
 \ee
 \xv
 \xe
+\lf Ant
+\lv g
+\le to live, to be alive
 \lf Sim
 \lv guneg
 \le to die (of old age)
+\lf Src
+\lv elej
+\le to sleep
+\lf Src
+\lv |zajstul
+\le to start
 \cf
 \ce
 \sd
 \lt sleep start summon
 \mr elej-|zaj-stul
-\dt 14/Apr/2013
+\bw
+\dt 12/Feb/2014
 
 \lx elojma
 \lc
@@ -3151,15 +3858,16 @@ subject of the verb is the thought, while
 the object is the person having it.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Compound
+\lv elojmastul
+\le to be remembered by
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 13/Jan/2014
 
 \lx elojmastul
 \lc
@@ -3181,15 +3889,19 @@ the memory, while the object is the
 person remembering it.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Nact
+\lv elojmastulsif
+\le memory
+\lf Src
+\lv elojma
+\le to be thought of by
 \cf
 \ce
 \sd
 \lt be thought of summon
 \mr elojma-stul
-\dt 28/Feb/2013
+\bw
+\dt 13/Jan/2014
 
 \lx elojmastulsif
 \lc
@@ -3205,15 +3917,16 @@ person remembering it.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv elojmastul
+\le to be remembered by
 \cf
 \ce
 \sd
 \lt one that is remembered
 \mr elojma-stul-sif
-\dt 25/Feb/2013
+\bw
+\dt 13/Jan/2014
 
 \lx e|lon
 \lc
@@ -3233,9 +3946,15 @@ animals).
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv fokez
+\le person
+\lf Min
+\lv esin
+\le female
+\lf Min
+\lv ezes
+\le little woman, missy
 \cf
 \ce
 \sd
@@ -3254,13 +3973,17 @@ similar.
 \xe
 \lf Cpart
 \lv ka|se
-\le man, male, husband
+\le man, husband, partner
+\lf Whole
+\lv ka|se|lon
+\le couple
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\bw
+\dt 13/Jan/2014
 
 \lx emag
 \lc
@@ -3277,9 +4000,15 @@ similar.
 it is said to 'leave'.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv bolog
+\le weather
+\lf Src
+\lv eme
+\le sun
+\lf Src
+\lv ag
+\le to go, to leave, to set
 \cf
 \ce
 \sd
@@ -3306,7 +4035,8 @@ it is said to 'leave'.
 \sd
 \lt sun go
 \mr eme-ag
-\dt 12/Apr/2013
+\bw
+\dt 15/Feb/2014
 
 \lx embo
 \lc
@@ -3328,17 +4058,27 @@ names.
 \lv devodi
 \le west wind
 \lf Cpart
-\lv ibnost
+\lv ibnos(t)
 \le north wind
 \lf Cpart
 \lv iptel
 \le south wind
+\lf Gen
+\lv ibo
+\le air, wind
+\lf Gen
+\lv bolog
+\le weather
+\lf Src
+\lv eme
+\le sun
 \cf
 \ce
 \sd
 \lt sun wind
 \mr eme-ibo
-\dt 24/Apr/2013
+\bw
+\dt 15/Feb/2014
 
 \lx eme
 \lc
@@ -3354,15 +4094,19 @@ names.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv denol
+\le celestial body, astronomical object
+\lf Gen
+\lv bolog
+\le weather
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\bw
+\dt 15/Feb/2014
 
 \lx emekel
 \lc
@@ -3371,6 +4115,7 @@ names.
 \ps n
 \sn
 \ge skies
+\ge heavens
 \re
 \de
 \oe
@@ -3380,13 +4125,20 @@ names.
 \xe
 \lf Sim
 \lv bo
-\le sky
+\le sky, day sky
+\lf Src
+\lv eme
+\le sun
+\lf Src
+\lv kel
+\le moon
 \cf
 \ce
 \sd
 \lt sun & moon
 \mr eme-kel
-\dt 25/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx emelog
 \lc
@@ -3402,15 +4154,28 @@ names.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv zobat
+\le spring
+\lf Cpart
+\lv o|nig
+\le autumn
+\lf Cpart
+\lv kele
+\le winter
+\lf Gen
+\lv log
+\le season
+\lf Src
+\lv eme
+\le sun
 \cf
 \ce
 \sd
 \lt sun season
 \mr eme-log
-\dt 25/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx emelogzaj
 \lc
@@ -3426,15 +4191,25 @@ names.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Whole
+\lv ada
+\le (calendar) year
+\lf Gen
+\lv mune
+\le (calendar) month
+\lf Src
+\lv emelog
+\le summer
+\lf Src
+\lv |zaj
+\le start, beginning
 \cf
 \ce
 \sd
 \lt summer start
 \mr eme-log-|zaj
-\dt 25/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx ememune
 \lc
@@ -3450,15 +4225,22 @@ names.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Whole
+\lv ada
+\le (calendar) year
+\lf Gen
+\lv mune
+\le (calendar) month
+\lf Src
+\lv eme
+\le sun
 \cf
 \ce
 \sd
 \lt sun month
 \mr eme-mune
-\dt 25/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx emesiza
 \lc
@@ -3474,15 +4256,22 @@ names.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Whole
+\lv negesizdan
+\le week
+\lf Gen
+\lv siza
+\le (calendar) day
+\lf Src
+\lv eme
+\le sun
 \cf
 \ce
 \sd
 \lt sun day
 \mr eme-siza
-\dt 25/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx emuba|s
 \lc
@@ -3499,9 +4288,15 @@ names.
 Instead, it is said to 'arrive'.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv bolog
+\le weather
+\lf Src
+\lv eme
+\le sun
+\lf Src
+\lv uba|s
+\le to come, to arrive, to rise
 \cf
 \ce
 \sd
@@ -3528,7 +4323,8 @@ Instead, it is said to 'arrive'.
 \sd
 \lt sun come
 \mr eme-uba|s
-\dt 12/Apr/2013
+\bw
+\dt 15/Feb/2014
 
 \lx e|nek
 \lc
@@ -3544,15 +4340,16 @@ Instead, it is said to 'arrive'.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv bivo
+\le quantity, cardinal number
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\bw
+\dt 13/Jan/2014
 
 \lx esin
 \lc
@@ -3574,12 +4371,19 @@ species.
 \lf Cpart
 \lv kasin
 \le male
+\lf Gen
+\lv sponda
+\le small animal
+\lf Src
+\lv e|lon
+\le woman, wife, partner
 \cf
 \ce
 \sd
 \lt little woman
 \mr e|lon-sin
-\dt 25/Feb/2013
+\bw
+\dt 24/Jan/2014
 
 \lx Espa|na
 \lc
@@ -3595,15 +4399,16 @@ species.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv status
+\le state, country, nation
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\bw Spanish
+\dt 13/Jan/2014
 
 \lx Estalaj
 \lc
@@ -3619,15 +4424,16 @@ species.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv status
+\le state, country, nation
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\bw German
+\dt 13/Jan/2014
 
 \lx e|s
 \lc
@@ -3687,7 +4493,7 @@ appliances, engines (and thus anything
 that contains an engine), but also
 computer programs. Finally, it means
 'to open', when the object is some kind
-of event.
+of event or speech.
 \xv
 \xe
 \lf Ant
@@ -3698,7 +4504,8 @@ of event.
 \sd
 \lt
 \mr
-\dt 22/Oct/2013
+\bw
+\dt 03/Jan/2014
 
 \lx et
 \lc
@@ -3708,21 +4515,32 @@ of event.
 \sn
 \ge now
 \re
-\de now, this time
+\de now, this time; temporal pronoun
+indicating a time close to the speaker,
+typically 'now' from the point of view
+of the speaker
 \oe
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv at
+\le then, that time
+\lf Cpart
+\lv ot
+\le once, formerly, in the future, that time
+then
+\lf Idiom
+\lv godetun
+\le from now on
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\bw
+\dt 21/Jan/2014
 
 \lx etitotetok
 \lc
@@ -3751,7 +4569,8 @@ of tale
 \sd
 \lt it is now and it was once
 \mr et-ito-ot-etok
-\dt 08/Oct/2013
+\bw
+\dt 16/Nov/2013
 
 \lx ezes
 \lc
@@ -3760,8 +4579,9 @@ of tale
 \ps n
 \sn
 \ge little_woman
+\ge missy
 \re
-\de 'little woman'
+\de 'little woman', 'missy'
 \oe
 \ue Disparaging term of address towards
 women.
@@ -3771,12 +4591,16 @@ women.
 \lf Cpart
 \lv kamas
 \le little man
+\lf Src
+\lv e|lon
+\le woman, wife, partner
 \cf
 \ce
 \sd
 \lt little female woman
 \mr e|lon-zes
-\dt 25/Feb/2013
+\bw
+\dt 13/Jan/2014
 
 \lx eze|s
 \lc
@@ -3795,15 +4619,19 @@ nouns.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv ezet
+\le to hear, to listen to
+\lf Compound
+\lv mikoeze|s
+\le radio
 \cf
 \ce
 \sd
 \lt heard
 \mr ezet-z
-\dt 03/Jul/2013
+\bw
+\dt 31/Jan/2014
 
 \lx ezet
 \lc
@@ -3834,15 +4662,16 @@ nouns.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Nug
+\lv eze|s
+\le sound, noise
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx -f-
 \lc
@@ -3866,7 +4695,8 @@ nouns.
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\bw
+\dt 16/Nov/2013
 
 \lx faoom
 \lc
@@ -3911,7 +4741,8 @@ mess behind.
 \sd
 \lt
 \mr
-\dt 12/Sep/2013
+\bw
+\dt 16/Nov/2013
 
 \lx fe|su
 \lc
@@ -3937,6 +4768,7 @@ someone in a neutral to polite manner.
 \lf Sim
 \lv mejee
 \le psst, hey, look
+\lf Sim
 \lv memas
 \le hey, look, listen (to a male)
 \lf Sim
@@ -3946,12 +4778,109 @@ someone in a neutral to polite manner.
 \lv mesin
 \le hey, look, listen, see (to a male, female
 or group)
+\lf Sim
+\lv vepe|ne
+\le sorry, thank you
+\lf Compound
+\lv akfe|su
+\le sorry for leaving early
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 16/Jul/2013
+\bw
+\dt 11/Feb/2014
+
+\lx fet
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge party
+\ge feast
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv oskana|not
+\le celebration, ceremony
+\lf Compound
+\lv fetstul
+\le to celebrate, to party
+\cf
+\ce
+\sd
+\sn 2
+\ge holiday
+\ge holidays
+\ge vacation
+\re
+\de holiday; (when plural) holidays,
+vacation
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge name_day
+\re
+\de (when used with a possessor) name
+day
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw French
+\dt 13/Jan/2014
+
+\lx fetstul
+\lc
+\hm
+\ph
+\ps vt
+\sn
+\ge celebrate
+\ge party
+\re
+\de to celebrate (sthg or s.o.); (when in the
+middle voice) to party
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv fet
+\le party, feast, holiday
+\cf
+\ce
+\sd
+\lt party summon
+\mr fet-stul
+\bw
+\dt 13/Jan/2014
 
 \lx Filansi
 \lc
@@ -3967,15 +4896,16 @@ or group)
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv status
+\le state, country, nation
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\bw French
+\dt 13/Jan/2014
 
 \lx filansifokez
 \lc
@@ -3994,12 +4924,16 @@ or group)
 \lf Gen
 \lv fokez
 \le person
+\lf Src
+\lv Filansi
+\le France
 \cf
 \ce
 \sd
 \lt France person
 \mr Filansi-fokez
-\dt 25/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx filansiku|lu
 \lc
@@ -4018,12 +4952,16 @@ or group)
 \lf Gen
 \lv ku|lu
 \le language
+\lf Src
+\lv Filansi
+\le France
 \cf
 \ce
 \sd
 \lt France language
 \mr Filansi-ku|lu
-\dt 25/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx filansisubo
 \lc
@@ -4042,12 +4980,16 @@ or group)
 \lf Gen
 \lv subo
 \le shop, restaurant
+\lf Src
+\lv Filansi
+\le France
 \cf
 \ce
 \sd
 \lt France shop
 \mr Filansi-subo
-\dt 25/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx fin
 \lc
@@ -4104,12 +5046,19 @@ starting point for measuring height.
 \lf Ant
 \lv piv
 \le bottom, low height, depth
+\lf Cpart
+\lv be|s
+\le average height, average depth
+\lf Gen
+\lv finpiv
+\le height, depth, altitude
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\bw
+\dt 14/Jan/2014
 
 \lx finpiv
 \lc
@@ -4132,12 +5081,19 @@ downwards
 \lf Syn
 \lv be|s
 \le height, depth
+\lf Spec
+\lv fin
+\le top, great height, shallowness
+\lf Spec
+\lv piv
+\le bottom, low height, depth
 \cf
 \ce
 \sd
 \lt top & bottom
 \mr fin-piv
-\dt 25/Feb/2013
+\bw
+\dt 14/Jan/2014
 
 \lx fi|zon
 \lc
@@ -4154,9 +5110,9 @@ downwards
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv se
+\le to say, to tell
 \cf
 \ce
 \sd
@@ -4186,7 +5142,8 @@ expressed, is in the originative.
 \sd
 \lt
 \mr
-\dt 09/Apr/2013
+\bw
+\dt 14/Jan/2014
 
 \lx fokez
 \lc
@@ -4203,15 +5160,25 @@ expressed, is in the originative.
 nouns.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Spec
+\lv e|lon
+\le woman, wife, partner
+\lf Spec
+\lv ka|se
+\le man, husband, partner
+\lf Whole
+\lv fokezvokez
+\le humankind, humanity
+\lf Whole
+\lv venla
+\le people, tribe, crowd
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\bw
+\dt 11/Feb/2014
 
 \lx fokezvokez
 \lc
@@ -4228,15 +5195,16 @@ nouns.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Part
+\lv fokez
+\le person
 \cf
 \ce
 \sd
 \lt person person
 \mr fokez-fokez
-\dt 02/Apr/2013
+\bw
+\dt 11/Feb/2014
 
 \lx foto
 \lc
@@ -4284,6 +5252,12 @@ science or similar goals.
 \lf Cpart
 \lv a|lek
 \le to find, to discover
+\lf Max
+\lv fotofoto
+\le to try to get to the bottom of
+\lf Compound
+\lv fotobel
+\le (scientific) research
 \cf
 \ce
 \sd
@@ -4309,7 +5283,8 @@ subclause, or more rarely as a suffix.
 \sd
 \lt
 \mr
-\dt 14/Mar/2013
+\bw
+\dt 14/Jan/2014
 
 \lx fotobel
 \lc
@@ -4326,15 +5301,19 @@ subclause, or more rarely as a suffix.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv foto
+\le to look for, to research
+\lf Src
+\lv bel
+\le art, craft
 \cf
 \ce
 \sd
 \lt search art
 \mr foto-bel
-\dt 06/Mar/2013
+\bw
+\dt 12/Feb/2014
 
 \lx fotofoto
 \lc
@@ -4357,12 +5336,145 @@ bottom of (sthg)
 \lf Cpart
 \lv a|leka|lek
 \le to get to the bottom of
+\lf Src
+\lv foto
+\le to look for, to research
 \cf
 \ce
 \sd
 \lt search search
 \mr foto-foto
-\dt 03/Apr/2013
+\bw
+\dt 14/Jan/2014
+
+\lx fula
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge fart
+\re
+\de
+\oe
+\ue Somewhat informal, but not vulgar.
+\ee
+\xv
+\xe
+\lf Compound
+\lv fulastul
+\le to fart, to chatter aimlessly, to
+exaggerate
+\lf Compound
+\lv fulifula
+\le fool's gold, fraud, con
+\lf Compound
+\lv funafula
+\le stupid event, stupid mistake, d'oh
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 14/Jan/2014
+
+\lx fulastul
+\lc
+\hm
+\ph
+\ps vi
+\sn 1
+\ge fart
+\ge pass_wind
+\re
+\de to fart, to pass wind
+\oe
+\ue Somewhat informal, but not vulgar.
+\ee
+\xv
+\xe
+\lf Src
+\lv fula
+\le fart
+\cf
+\ce
+\sd
+\sn 2
+\ge chatter_aimlessly
+\ge waste_one's_breath
+\re
+\de to chatter aimlessly, to waste one's
+breath
+\oe
+\ue In this sense, this verb is quite vulgar
+and offensive.
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge exaggerate
+\ge blow_things_out_of_proportion
+\re
+\de to exaggerate, to blow things out of
+proportion
+\oe This verb can take on this meaning 'as
+is', but more commonly it takes on this
+sense when accompanied with an
+adverbial phrase in the originative,
+which indicates what is being
+exaggerated.
+\ue In this sense as well, it is quite vulgar
+and offensive.
+\ee
+\xv
+\xe
+\lf Nug
+\lv fulastuluz
+\le bullshit, nonsense
+\lf Nact
+\lv ifulastu|l
+\le bullshitter
+\cf
+\ce
+\sd
+\lt fart summon
+\mr fula-stul
+\bw
+\dt 22/Jan/2014
+
+\lx fulastuluz
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge bullshit
+\ge nonsense
+\re
+\de
+\oe
+\ue Vulgar.
+\ee
+\xv
+\xe
+\lf Src
+\lv fulastul
+\le to fart, to chatter aimlessly, to
+exaggerate
+\cf
+\ce
+\sd
+\lt farted
+\mr fula-stul-z
+\bw
+\dt 14/Jan/2014
 
 \lx fuli
 \lc
@@ -4378,15 +5490,81 @@ bottom of (sthg)
 \ee
 \xv
 \xe
+\lf Compound
+\lv fulifula
+\le fool's gold, fraud, con
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 14/Jan/2014
+
+\lx fulifula
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge fool's_gold
+\ge pyrite
+\re
+\de fool's gold; a mineral or substance
+often mistaken for gold, usually pyrite
+\oe
+\ue Perfectly neutral, can be used even in
+formal registers.
+\ee
+\xv
+\xe
 \lf
 \lv
 \le
 \cf
 \ce
 \sd
-\lt
-\mr
-\dt 25/Feb/2013
+\sn 2
+\ge too_good_to_be_true
+\re
+\de 'too good to be true'
+\oe
+\ue Somewhat familiar in this sense.
+\ee Used as a noun or adjective.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge fraud
+\ge deception
+\ge trick
+\ge racket
+\ge con
+\re
+\de
+\oe
+\ue Somewhat familiar in this sense.
+\ee
+\xv
+\xe
+\lf Src
+\lv fuli
+\le gold
+\lf Src
+\lv fula
+\le fart
+\cf
+\ce
+\sd
+\lt gold farty
+\mr fuli-fula
+\bw
+\dt 14/Jan/2014
 
 \lx funa
 \lc
@@ -4399,8 +5577,64 @@ bottom of (sthg)
 \re
 \de second; moment, a very short amount
 of time
-\oe
+\oe Mostly used as a duration, but can also
+be used to indicate a point in time.
 \ue
+\ee
+\xv
+\xe
+\lf Whole
+\lv siza
+\le (calendar) day
+\lf Whole
+\lv daj
+\le hour
+\lf Whole
+\lv pele
+\le minute
+\lf Compound
+\lv funafula
+\le stupid event, stupid mistake, d'oh
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 14/Jan/2014
+
+\lx funafula
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge moment_when_everything_went_wrong
+\ge stupid_event
+\ge facepalm
+\re
+\de moment when everything went wrong,
+event of utmost stupidity; facepalm
+\oe
+\ue Neutral, can be used in most registers.
+\ee Does not so much mean 'facepalm', as
+much as it refers to some event that
+makes everyone facepalm.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge stupid_mistake
+\ge headslapper
+\re
+\de
+\oe
+\ue Still neutral in this sense.
 \ee
 \xv
 \xe
@@ -4410,9 +5644,30 @@ of time
 \cf
 \ce
 \sd
-\lt
-\mr
-\dt 01/May/2013
+\ps interj
+\sn
+\ge d'oh
+\re
+\de 'd'oh'
+\oe
+\ue Tends to be used as an interjection only
+in familiar registers of language.
+\ee
+\xv
+\xe
+\lf Src
+\lv funa
+\le second, moment
+\lf Src
+\lv fula
+\le fart
+\cf
+\ce
+\sd
+\lt second farty
+\mr funa-fula
+\bw
+\dt 14/Jan/2014
 
 \lx g
 \lc
@@ -4430,14 +5685,17 @@ it forms a regular infinitive fv:igi, and a
 regular participle fv:guz. Its imperative
 is seldom used, but when it is used it
 appears as fv:gi.
-\ee Never used to mean "to live
-somewhere". The verb fv:izunlaj is
+\ee Never used to mean 'to live
+somewhere'. The verb fv:izunlaj is
 used in that case.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Ant
+\lv guneg
+\le to die, to pass away
+\lf Ant
+\lv elej|zajstul
+\le to die (peacefully)
 \cf
 \ce
 \sd
@@ -4449,10 +5707,10 @@ used in that case.
 \oe
 \ue As a noun, it usually appears in the
 nominative singular indefinite as fv:gu
-(more rarely as fv:gi). In other forms,
-the bare stem fv:g is used, and the
-inflections themselves provide the
-needed vowel.
+(more rarely as fv:gi, for euphonic
+reasons). In other forms, the bare stem
+fv:g is used, and the inflections
+themselves provide the needed vowel.
 \ee Refers to the abstract concept of life in
 general. The concept of currently being
 alive is usually rendered as fv:guz or
@@ -4468,7 +5726,8 @@ as static or active.
 \sd
 \lt
 \mr
-\dt 11/Mar/2013
+\bw
+\dt 21/Jan/2014
 
 \lx ga
 \lc
@@ -4484,15 +5743,28 @@ as static or active.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv ba
+\le you.SG
+\lf Cpart
+\lv telga
+\le we
+\lf Cpart
+\lv telba
+\le you.PL
+\lf Cpart
+\lv vike
+\le oneself
+\lf Idiom
+\lv tegoga
+\le personally
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\bw
+\dt 11/Feb/2014
 
 \lx gana
 \lc
@@ -4504,7 +5776,8 @@ as static or active.
 \ge get_solved
 \re
 \de to clear up, to get solved
-\oe
+\oe Used in the metaphorical sense of 'to
+clear up'.
 \ue
 \ee
 \xv
@@ -4512,6 +5785,9 @@ as static or active.
 \lf Sim
 \lv zu|leb
 \le to clear up, to become clean
+\lf Sim
+\lv a|lek
+\le to find, to discover
 \cf
 \ce
 \sd
@@ -4525,15 +5801,16 @@ as static or active.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv gi|no
+\le to feel, to understand
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\bw
+\dt 17/Jan/2014
 
 \lx gato
 \lc
@@ -4550,15 +5827,16 @@ as static or active.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv o|zemez
+\le food, drink
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 09/Aug/2013
+\bw French
+\dt 12/Feb/2014
 
 \lx ge
 \lc
@@ -4593,15 +5871,16 @@ nouns used as objects of the verb
 fv:agem.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv to
+\le to be (sthg or s.o.)
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 24/Sep/2013
+\bw
+\dt 17/Jan/2014
 
 \lx gebez
 \lc
@@ -4621,15 +5900,16 @@ always in the instrumental.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv se
+\le to say, to tell
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\bw
+\dt 17/Jan/2014
 
 \lx gem
 \lc
@@ -4646,9 +5926,9 @@ always in the instrumental.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Compound
+\lv sugem
+\le to unite, to merge
 \cf
 \ce
 \sd
@@ -4670,7 +5950,8 @@ intransitive.
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 17/Jan/2014
 
 \lx gemas
 \lc
@@ -4690,13 +5971,17 @@ children to refer to their own fathers.
 \xe
 \lf Cpart
 \lv dizes
-\le mommny
+\le mum
+\lf Src
+\lv ge|sem
+\le father
 \cf
 \ce
 \sd
 \lt little father
 \mr ge|sem-mas
-\dt 25/Feb/2013
+\bw
+\dt 21/Jan/2014
 
 \lx geni
 \lc
@@ -4712,15 +5997,16 @@ children to refer to their own fathers.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv bivo
+\le quantity, cardinal number
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\bw
+\dt 21/Jan/2014
 
 \lx ge|nadan
 \lc
@@ -4737,15 +6023,16 @@ children to refer to their own fathers.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv ada
+\le (calendar) year
 \cf
 \ce
 \sd
 \lt for ten years
 \mr geni-ad<d>a-n
-\dt 25/Feb/2013
+\bw
+\dt 21/Jan/2014
 
 \lx ge|samo
 \lc
@@ -4771,12 +6058,16 @@ children to refer to their own fathers.
 \lf Cpart
 \lv di|lamo
 \le maternal uncle
+\lf Whole
+\lv nud
+\le family, clan, tribe
 \cf
 \ce
 \sd
 \lt father different-sex sibling
 \mr ge|sem-amo
-\dt 25/Feb/2013
+\bw
+\dt 21/Jan/2014
 
 \lx ge|sem
 \lc
@@ -4795,12 +6086,19 @@ children to refer to their own fathers.
 \lf Cpart
 \lv di|la
 \le mother
+\lf Min
+\lv gemas
+\le dad
+\lf Whole
+\lv nud
+\le family, clan, tribe
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 25/Feb/2013
+\bw
+\dt 21/Jan/2014
 
 \lx ge|suko
 \lc
@@ -4826,12 +6124,16 @@ children to refer to their own fathers.
 \lf Cpart
 \lv di|lamo
 \le maternal uncle
+\lf Whole
+\lv nud
+\le family, clan, tribe
 \cf
 \ce
 \sd
 \lt father same-sex sibling
 \mr ge|sem-|suko
-\dt 25/Feb/2013
+\bw
+\dt 21/Jan/2014
 
 \lx getolsizdan
 \lc
@@ -4848,15 +6150,16 @@ children to refer to their own fathers.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv siza
+\le (calendar) day
 \cf
 \ce
 \sd
 \lt for fourteen days
 \mr geni-tol-siz<d>a-n
-\dt 25/Feb/2013
+\bw
+\dt 21/Jan/2014
 
 \lx ge|zaj
 \lc
@@ -4883,12 +6186,19 @@ for predicate adjectives.
 \lf Cpart
 \lv to|zaj
 \le to become, to begin to be
+\lf Src
+\lv ge
+\le to have, to be (adj.)
+\lf Src
+\lv |zaj
+\le start, beginning
 \cf
 \ce
 \sd
 \lt have start
 \mr ge-|zaj
-\dt 01/Oct/2013
+\bw
+\dt 12/Feb/2014
 
 \lx gi|no
 \lc
@@ -4924,15 +6234,23 @@ aware of the meaning of (sthg)
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv gana
+\le to clear up, to get solved, to become
+understandable
+\lf Compound
+\lv sugi|no
+\le simplicity, easiness
+\lf Compound
+\lv sengi|no
+\le complexity, difficulty
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 21/Jan/2014
 
 \lx gize
 \lc
@@ -4994,12 +6312,77 @@ person doing the liking.
 \lf Sim
 \lv majtage
 \le to love, to be romantically attracted to
+\lf Sim
+\lv stolge
+\le to like, to love
+\lf Deriv
+\lv gizez
+\le sexual attraction
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 17/Apr/2013
+\bw
+\dt 21/Jan/2014
+
+\lx gizez
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge liking
+\ge love
+\ge affection
+\ge sexual_attraction
+\ge lust
+\re
+\de liking, love, lust; attraction usually of
+sexual nature
+\oe
+\ue
+\ee This noun refers to the feeling of
+sexual attraction towards someone,
+which may or may not be accompanied
+by romantic feelings.
+\xv
+\xe
+\lf Sim
+\lv majta
+\le romantic love
+\lf Sim
+\lv teoluz
+\le non-romantic love, friendship
+\lf Sim
+\lv stolge
+\le familial love
+\lf Src
+\lv gize
+\le to please, to like, to enjoy, to love
+\cf
+\ce
+\sd
+\sn 2
+\ge lover
+\ge sexual_partner
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv teoluz
+\le friend, companion
+\cf
+\ce
+\sd
+\lt pleased
+\mr gize-z
+\bw
+\dt 21/Jan/2014
 
 \lx gmadev
 \lc
@@ -5072,9 +6455,10 @@ undergoes the change of state, and its
 object is the cause of it.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv bunes
+\le to become bothered by, to become
+annoyed by
 \cf
 \ce
 \sd
@@ -5100,7 +6484,8 @@ figuratively.
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 10/Jan/2014
 
 \lx go
 \lc
@@ -5132,7 +6517,8 @@ to name those activities.
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 16/Nov/2013
 
 \lx go-
 \lc
@@ -5156,7 +6542,8 @@ to name those activities.
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 16/Nov/2013
 
 \lx godetun
 \lc
@@ -5172,15 +6559,16 @@ to name those activities.
 \ee An idiom used as is.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv et
+\le now, this time
 \cf
 \ce
 \sd
 \lt from during now
 \mr go-<d>et-n
-\dt 26/Feb/2013
+\bw
+\dt 21/Jan/2014
 
 \lx gom
 \lc
@@ -5197,15 +6585,22 @@ and sunset
 \ee
 \xv
 \xe
-\lf Ant
+\lf Cpart
 \lv dod
 \le night
+\lf Whole
+\lv siza
+\le (calendar) day
+\lf Whole
+\lv gomdod
+\le day, day & night
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 13/Jan/2014
 
 \lx gomdod
 \lc
@@ -5228,13 +6623,20 @@ may start at any time
 \le 24-hour period
 \lf Sim
 \lv siza
-\le calendar day
+\le (calendar) day
+\lf Part
+\lv gom
+\le day
+\lf Part
+\lv dod
+\le night
 \cf
 \ce
 \sd
 \lt day & night
 \mr gom-dod
-\dt 26/Feb/2013
+\bw
+\dt 13/Jan/2014
 
 \lx guneg
 \lc
@@ -5251,6 +6653,9 @@ may start at any time
 \ee
 \xv
 \xe
+\lf Ant
+\lv g
+\le to live, to be alive
 \lf Sim
 \lv elej|zajstul
 \le to die (peacefully)
@@ -5259,7 +6664,45 @@ may start at any time
 \sd
 \lt finish living
 \mr g-kuneg
-\dt 09/Apr/2013
+\bw
+\dt 21/Jan/2014
+
+\lx gus
+\lc
+\hm
+\ph
+\ps vt
+\sn
+\ge look_like
+\ge resemble
+\ge seem_to_be
+\ge be_comparable_to
+\re
+\de to look like (sthg), to resemble (sthg),
+to seem to be (sthg), to be comparable
+to (sthg)
+\oe Only used of fv:sponda, i.e. small
+animals, as well as inanimate objects or
+concepts.
+\ue
+\ee This verb refers to the impression a
+small animal or inanimate makes on the
+speaker.
+\xv
+\xe
+\lf Cpart
+\lv onep
+\le to look, to seem to have
+\lf Sim
+\lv ve|za
+\le to feel like, to look like, to seem to be
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 21/Dec/2013
 
 \lx i-
 \lc
@@ -5283,7 +6726,8 @@ may start at any time
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 16/Nov/2013
 
 \lx -i
 \lc
@@ -5307,7 +6751,8 @@ may start at any time
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 16/Nov/2013
 
 \lx ibipiz
 \lc
@@ -5324,15 +6769,22 @@ may start at any time
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv ibo
+\le air, wind
+\lf Gen
+\lv bolog
+\le weather
+\lf Src
+\lv ipiz
+\le heaviness, high strength
 \cf
 \ce
 \sd
 \lt wind strong
 \mr ibo-ipiz
-\dt 26/Feb/2013
+\bw
+\dt 15/Feb/2014
 
 \lx ibnost
 \lc ibnos(t)
@@ -5359,12 +6811,22 @@ names.
 \lf Cpart
 \lv devodi
 \le west wind
+\lf Gen
+\lv ibo
+\le air, wind
+\lf Gen
+\lv bolog
+\le weather
+\lf Src
+\lv nos(t)
+\le left hand, left arm, left side, north
 \cf
 \ce
 \sd
 \lt wind north
-\mr ibo-nost
-\dt 24/Apr/2013
+\mr ibo-nos(t)
+\bw
+\dt 15/Feb/2014
 
 \lx ibo
 \lc
@@ -5396,15 +6858,59 @@ and the actual air we breathe.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Spec
+\lv ibnos(t)
+\le north wind
+\lf Spec
+\lv embo
+\le east wind
+\lf Spec
+\lv devodi
+\le west wind
+\lf Spec
+\lv iptel
+\le south wind
+\lf Max
+\lv ibipiz
+\le storm
+\lf Gen
+\lv bolog
+\le weather
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 15/Feb/2014
+
+\lx Iboden
+\lc
+\hm
+\ph
+\ps np
+\sn
+\ge Uranus
+\re
+\de the planet Uranus
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv denol
+\le planet
+\lf Src
+\lv ibo
+\le air, wind
+\cf
+\ce
+\sd
+\lt wind planet
+\mr ibo-denol
+\bw
+\dt 12/Feb/2014
 
 \lx ibomune
 \lc
@@ -5420,15 +6926,22 @@ and the actual air we breathe.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Whole
+\lv ada
+\le (calendar) year
+\lf Gen
+\lv mune
+\le (calendar) month
+\lf Src
+\lv ibo
+\le air, wind
 \cf
 \ce
 \sd
 \lt air month
 \mr ibo-mune
-\dt 26/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx ibosiza
 \lc
@@ -5444,15 +6957,22 @@ and the actual air we breathe.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Whole
+\lv negesizdan
+\le week
+\lf Gen
+\lv siza
+\le (calendar) day
+\lf Src
+\lv ibo
+\le air, wind
 \cf
 \ce
 \sd
 \lt air day
 \mr ibo-siza
-\dt 26/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx ibutaj
 \lc
@@ -5468,15 +6988,42 @@ and the actual air we breathe.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv buta
+\le to sit
 \cf
 \ce
 \sd
 \lt to sit
 \mr i-buta-i
-\dt 26/Feb/2013
+\bw
+\dt 10/Jan/2014
+
+\lx ifulastu|l
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge bullshitter
+\re
+\de bullshitter, speaker of tall tales
+\oe
+\ue Vulgar.
+\ee
+\xv
+\xe
+\lf Src
+\lv fulastul
+\le to fart, to chatter aimlessly, to
+exaggerate
+\cf
+\ce
+\sd
+\lt to fart
+\mr i-fula-stul-i
+\bw
+\dt 22/Jan/2014
 
 \lx ikkee
 \lc
@@ -5501,7 +7048,8 @@ metaphorical pain.
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 16/Nov/2013
 
 \lx ima
 \lc
@@ -5517,15 +7065,16 @@ metaphorical pain.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv bivo
+\le quantity, cardinal number
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 22/Jan/2014
 
 \lx imikostu|l
 \lc
@@ -5545,12 +7094,19 @@ metaphorical pain.
 \lf Syn
 \lv mikostulipi
 \le telephone
+\lf Min
+\lv imsin
+\le mobile phone
+\lf Src
+\lv mikostul
+\le to phone
 \cf
 \ce
 \sd
 \lt to call by phone
 \mr i-miko-stul-i
-\dt 07/Mar/2013
+\bw
+\dt 12/Feb/2014
 
 \lx Imonuj
 \lc
@@ -5572,12 +7128,22 @@ fv:Adodun.
 \lf Sim
 \lv Adodun
 \le New Year
+\lf Gen
+\lv oskana|not
+\le celebration, ceremony
+\lf Gen
+\lv fet
+\le party, feast, holiday
+\lf Src
+\lv monu
+\le to turn
 \cf
 \ce
 \sd
 \lt to turn
 \mr i-monu-i
-\dt 26/Feb/2013
+\bw
+\dt 04/Feb/2014
 
 \lx imsin
 \lc
@@ -5593,15 +7159,16 @@ fv:Adodun.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv imikostu|l
+\le telephone
 \cf
 \ce
 \sd
 \lt little phone
 \mr i-miko-stul-i-sin
-\dt 26/Feb/2013
+\bw
+\dt 23/Jan/2014
 
 \lx ind
 \lc in(d)
@@ -5613,21 +7180,79 @@ fv:Adodun.
 \ge shut
 \re
 \de to close, to shut
+\oe Used with openings and obstructions,
+for instance doors and windows. Taps,
+gates, barriers and borders also fall
+under this category.
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv pol(t)
+\le to open
+\lf Sim
+\lv nege2
+\le to close, to pack
+\lf Max
+\lv indin(d)
+\le to lock
+\lf Nact
+\lv induz
+\le window
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 23/Jan/2014
+
+\lx indind
+\lc indin(d)
+\hm
+\ph
+\ps vi
+\sn 1
+\ge lock
+\re
+\de to lock, to close in a way that cannot
+be opened again without force or a
+special tool (like a key)
 \oe Used with openings, for instance doors
 and windows.
 \ue
 \ee
 \xv
 \xe
-\lf Ant
-\lv polt
-\le to open
+\lf
+\lv
+\le
 \cf
 \ce
 \sd
-\lt
-\mr
-\dt 21/Oct/2013
+\sn 2
+\ge seal
+\re
+\de to seal
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv polpol(t)
+\le to break open, to unseal
+\lf Src
+\lv in(d)
+\le to close, to shut
+\cf
+\ce
+\sd
+\lt close close
+\mr ind-ind
+\bw
+\dt 23/Jan/2014
 
 \lx induz
 \lc
@@ -5646,12 +7271,16 @@ and windows.
 \lf Sim
 \lv poltuz
 \le door
+\lf Src
+\lv in(d)
+\le to close, to shut
 \cf
 \ce
 \sd
 \lt closed
 \mr ind-z
-\dt 21/Oct/2013
+\bw
+\dt 23/Jan/2014
 
 \lx ipe|lastu|l
 \lc
@@ -5683,15 +7312,19 @@ and windows.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Idiom
+\lv |lajpe|lastu|l
+\le ring
+\lf Src
+\lv pe|lastul
+\le to show, to reveal
 \cf
 \ce
 \sd
 \lt to show
 \mr i-pe|la-stul-i
-\dt 26/Feb/2013
+\bw
+\dt 29/Jan/2014
 
 \lx ipi
 \lc
@@ -5730,12 +7363,16 @@ from verbs.
 \lf Cpart
 \lv dati
 \le thing, concept, manner
+\lf Compound
+\lv ipistul
+\le to build, to invent
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 10/Jan/2014
 
 \lx ipistul
 \lc
@@ -5762,12 +7399,16 @@ concrete objects and machines.
 \lf Sim
 \lv ej
 \le to make, to build
+\lf Src
+\lv ipi
+\le thing, object, tool
 \cf
 \ce
 \sd
 \lt object summon
 \mr ipi-stul
-\dt 26/Mar/2013
+\bw
+\dt 10/Jan/2014
 
 \lx ipiz
 \lc
@@ -5783,7 +7424,8 @@ concrete objects and machines.
 heavy
 \oe
 \ue
-\ee
+\ee Similar to fv:otez, but does not indicate
+sturdiness.
 \xv
 \xe
 \lf
@@ -5808,12 +7450,16 @@ heavy
 \lf Ant
 \lv |nalam
 \le lightness, weakness
+\lf Compound
+\lv negipiz
+\le difficulty, hardness
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 04/Feb/2014
 
 \lx iptel
 \lc
@@ -5832,7 +7478,7 @@ names.
 \xv
 \xe
 \lf Cpart
-\lv ibnost
+\lv ibnos(t)
 \le north wind
 \lf Cpart
 \lv embo
@@ -5840,12 +7486,22 @@ names.
 \lf Cpart
 \lv devodi
 \le west wind
+\lf Gen
+\lv ibo
+\le air, wind
+\lf Gen
+\lv bolog
+\le weather
+\lf Src
+\lv tel
+\le other
 \cf
 \ce
 \sd
 \lt wind other
 \mr ibo-tel
-\dt 24/Apr/2013
+\bw
+\dt 15/Feb/2014
 
 \lx isis
 \lc
@@ -5881,12 +7537,19 @@ names.
 \lf Ant
 \lv luma
 \le falsehood, fiction
+\lf Gen
+\lv lumisis
+\le truth value
+\lf Idiom
+\lv tekojses
+\le actually, in fact
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\bw
+\dt 11/Feb/2014
 
 \lx Ita|la
 \lc
@@ -5902,15 +7565,16 @@ names.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv status
+\le state, country, nation
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw Italian
+\dt 23/Jan/2014
 
 \lx ita|laku|lu
 \lc
@@ -5929,12 +7593,16 @@ names.
 \lf Gen
 \lv ku|lu
 \le language
+\lf Src
+\lv Ita|la
+\le Italy
 \cf
 \ce
 \sd
 \lt Italy language
 \mr Ita|la-ku|lu
-\dt 26/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx ita|lasubo
 \lc
@@ -5953,12 +7621,16 @@ names.
 \lf Gen
 \lv subo
 \le shop, restaurant
+\lf Src
+\lv Ita|la
+\le Italy
 \cf
 \ce
 \sd
 \lt Italy shop
 \mr Ita|la-subo
-\dt 26/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx ivda
 \lc
@@ -5988,7 +7660,8 @@ definitions.
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 16/Nov/2013
 
 \lx iz
 \lc
@@ -6004,15 +7677,16 @@ definitions.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv u|nav
+\le so, and thus
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 23/Jan/2014
 
 \lx ize
 \lc
@@ -6024,24 +7698,25 @@ definitions.
 \re
 \de to open (sthg)
 \oe Used with containers, like packages,
-boxes, presents, or pieces of furniture, 
-like chests or closets. Also used with
-one's organs, like one's eyes, mouth, or
-hands.
+bottles, boxes, presents, or pieces of
+furniture,  like chests or closets. Also
+used with one's organs, like one's eyes,
+mouth, or hands.
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv pol(t)
+\le to open
 \cf
 \ce
 \sd
 \sn 2
 \ge unpack
+\ge unwrap
 \re
-\de to unpack (sthg)
+\de to unpack (sthg), to unwrap (sthg)
 \oe
 \ue
 \ee
@@ -6055,7 +7730,8 @@ hands.
 \sd
 \lt
 \mr
-\dt 22/Oct/2013
+\bw
+\dt 15/Feb/2014
 
 \lx i|ze
 \lc
@@ -6121,15 +7797,16 @@ or an animal)
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Nact
+\lv i|zevu|z
+\le manager, director, driver
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 04/Apr/2013
+\bw
+\dt 23/Jan/2014
 
 \lx i|zevu|z
 \lc
@@ -6166,15 +7843,16 @@ drive a vehicle.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv i|ze
+\le to guide, to lead, to drive
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 04/Apr/2013
+\bw
+\dt 23/Jan/2014
 
 \lx i-_-i
 \lc i- -i
@@ -6198,7 +7876,8 @@ drive a vehicle.
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 16/Nov/2013
 
 \lx jalu
 \lc
@@ -6249,8 +7928,7 @@ location is on a person or not.
 \de to hide (sthg), to conceal (sthg)
 \oe
 \ue
-\ee And extension of the meaning 'to
-store'.
+\ee An extension of the meaning 'to store'.
 \xv
 \xe
 \lf
@@ -6261,7 +7939,8 @@ store'.
 \sd
 \lt
 \mr
-\dt 11/Sep/2013
+\bw
+\dt 11/Feb/2014
 
 \lx japu
 \lc
@@ -6277,15 +7956,16 @@ store'.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv bivo
+\le quantity, cardinal number
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 24/Jan/2014
 
 \lx japujadan
 \lc
@@ -6302,15 +7982,16 @@ store'.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv ada
+\le (calendar) year
 \cf
 \ce
 \sd
 \lt for one hundred years
 \mr japu-ad<d>a-n
-\dt 26/Feb/2013
+\bw
+\dt 24/Jan/2014
 
 \lx ja|zin
 \lc
@@ -6351,12 +8032,19 @@ advantageous for them.
 \lf Cpart
 \lv ople
 \le to give, to take, to transfer
+\lf Sim
+\lv boze
+\le to send, to receive, to transfer
+\lf Nug
+\lv ja|zinuz
+\le gift, present
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 24/Jan/2014
 
 \lx ja|zinse
 \lc
@@ -6377,6 +8065,9 @@ advantageous for them.
 \lv oknese
 \le to recount, to talk about, to discuss, to
 debate
+\lf Gen
+\lv se
+\le to say, to tell
 \cf
 \ce
 \sd
@@ -6418,7 +8109,8 @@ to an agreement'.
 \sd
 \lt give say
 \mr ja|zin-se
-\dt 23/Apr/2013
+\bw
+\dt 24/Jan/2014
 
 \lx ja|zinuz
 \lc
@@ -6439,12 +8131,16 @@ speaker received from someone else.
 \lf Cpart
 \lv oplez
 \le gift, present
+\lf Src
+\lv ja|zin
+\le to give, to take, to transfer
 \cf
 \ce
 \sd
 \lt given
 \mr ja|zin-z
-\dt 27/Mar/2013
+\bw
+\dt 24/Jan/2014
 
 \lx jem
 \lc
@@ -6475,15 +8171,22 @@ speaker received from someone else.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Compound
+\lv jemag
+\le to sail, to travel
+\lf Compound
+\lv senodjem
+\le way, road
+\lf Deriv
+\lv jemnon
+\le heron, stork, crane
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 07/Feb/2014
 
 \lx jemag
 \lc
@@ -6523,12 +8226,19 @@ foot, which is fv:ibnamagi).
 \lf Cpart
 \lv bnamag
 \le to walk, to travel (on foot)
+\lf Src
+\lv jem
+\le river, brook
+\lf Src
+\lv ag
+\le to go, to leave
 \cf
 \ce
 \sd
 \lt river go
 \mr jem-ag
-\dt 13/Sep/2013
+\bw
+\dt 12/Feb/2014
 
 \lx jemnon
 \lc
@@ -6561,15 +8271,25 @@ refer to a perceived grace in the
 movements of those birds.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv linan
+\le bird
+\lf Gen
+\lv sponda
+\le small animal
+\lf Gen
+\lv kit
+\le big animal
+\lf Src
+\lv jem
+\le river, brook
 \cf
 \ce
 \sd
 \lt river artist
 \mr jem-non
-\dt 17/Sep/2013
+\bw
+\dt 24/Jan/2014
 
 \lx jespoma
 \lc
@@ -6588,12 +8308,22 @@ movements of those birds.
 \lf Cpart
 \lv bnampoma
 \le ankle
+\lf Whole
+\lv jez
+\le hand, arm
+\lf Idiom
+\lv |lajespoma
+\le bracelet
+\lf Src
+\lv poma
+\le neck
 \cf
 \ce
 \sd
 \lt hand neck
 \mr jez-poma
-\dt 26/Feb/2013
+\bw
+\dt 29/Jan/2014
 
 \lx jestel
 \lc
@@ -6614,6 +8344,9 @@ right hand or arm of a person.
 \lf Gen
 \lv jez
 \le hand, arm
+\lf Src
+\lv tel
+\le other
 \cf
 \ce
 \sd
@@ -6658,7 +8391,8 @@ that south is on one's right side.
 \sd
 \lt hand other
 \mr jez-tel
-\dt 12/Apr/2013
+\bw
+\dt 12/Feb/2014
 
 \lx jez
 \lc
@@ -6671,7 +8405,7 @@ that south is on one's right side.
 \re
 \de
 \oe This word is used to refer to the hand
-or arm of a person. It' s usually not
+or arm of a person. It's usually not
 used with animals, even those with
 opposable thumbs.
 \ue
@@ -6687,12 +8421,16 @@ opposable thumbs.
 \lf Cpart
 \lv jestel
 \le right hand, right arm
+\lf Compound
+\lv sujez
+\le agreement, harmony
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 11/Apr/2013
+\bw
+\dt 11/Feb/2014
 
 \lx jos
 \lc
@@ -6717,7 +8455,8 @@ opposable thumbs.
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 16/Nov/2013
 
 \lx kaan
 \lc
@@ -6766,7 +8505,8 @@ handle', whether literally or figuratively.
 \sd
 \lt
 \mr
-\dt 13/Sep/2013
+\bw
+\dt 17/Nov/2013
 
 \lx kafe
 \lc
@@ -6783,15 +8523,22 @@ beans of the coffee plant in hot water
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv |se
+\le tea
+\lf Compound
+\lv kafesubo
+\le café
+\lf Gen
+\lv o|zemez
+\le food, drink
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw French
+\dt 17/Feb/2014
 
 \lx kafesubo
 \lc
@@ -6810,12 +8557,16 @@ beans of the coffee plant in hot water
 \lf Gen
 \lv subo
 \le shop, restaurant
+\lf Src
+\lv kafe
+\le coffee
 \cf
 \ce
 \sd
 \lt coffee shop
 \mr kafe-subo
-\dt 26/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx kamas
 \lc
@@ -6824,8 +8575,9 @@ beans of the coffee plant in hot water
 \ps n
 \sn
 \ge little_man
+\ge mister
 \re
-\de 'little man'
+\de 'little man', 'mister'
 \oe
 \ue Disparaging term of address towards
 men.
@@ -6835,12 +8587,16 @@ men.
 \lf Cpart
 \lv ezes
 \le little woman
+\lf Src
+\lv ka|se
+\le man, husband, partner
 \cf
 \ce
 \sd
 \lt little male man
 \mr ka|se-mas
-\dt 26/Feb/2013
+\bw
+\dt 13/Jan/2014
 
 \lx kamoj
 \lc
@@ -6903,7 +8659,8 @@ indicate weakness.
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 17/Nov/2013
 
 \lx kasin
 \lc
@@ -6924,12 +8681,19 @@ a male member of a gendered species.
 \lf Cpart
 \lv esin
 \le female
+\lf Gen
+\lv sponda
+\le small animal
+\lf Src
+\lv ka|se
+\le man, husband, partner
 \cf
 \ce
 \sd
 \lt little man
 \mr ka|se-sin
-\dt 26/Feb/2013
+\bw
+\dt 24/Jan/2014
 
 \lx ka|se
 \lc
@@ -6948,9 +8712,15 @@ humans and fv:kit (i.e. large animals).
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv fokez
+\le person
+\lf Min
+\lv kasin
+\le male
+\lf Min
+\lv kamas
+\le little man, mister
 \cf
 \ce
 \sd
@@ -6969,13 +8739,17 @@ similar.
 \xe
 \lf Cpart
 \lv e|lon
-\le woman, female, wife
+\le woman, wife, partner
+\lf Whole
+\lv ka|se|lon
+\le couple
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 13/Jan/2014
 
 \lx ka|se|lon
 \lc
@@ -6994,15 +8768,19 @@ including same-sex ones.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Spec
+\lv e|lon
+\le woman, wife, partner
+\lf Spec
+\lv ka|se
+\le man, husband, partner
 \cf
 \ce
 \sd
 \lt man & woman
 \mr ka|se-e|lon
-\dt 26/Feb/2013
+\bw
+\dt 13/Jan/2014
 
 \lx kej
 \lc
@@ -7021,15 +8799,19 @@ alternatives
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv opa
+\le and, also
+\lf Cpart
+\lv me|lo
+\le but, however
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 31/Jan/2014
 
 \lx kel
 \lc
@@ -7045,15 +8827,16 @@ alternatives
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv denol
+\le celestial body, astronomical object
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 27/Dec/2013
 
 \lx kele
 \lc
@@ -7069,15 +8852,25 @@ alternatives
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv zobat
+\le spring
+\lf Cpart
+\lv emelog
+\le summer
+\lf Cpart
+\lv o|nig
+\le autumn
+\lf Gen
+\lv log
+\le season
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 13/Jan/2014
 
 \lx kelemune
 \lc
@@ -7093,15 +8886,22 @@ alternatives
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Whole
+\lv ada
+\le (calendar) year
+\lf Gen
+\lv mune
+\le (calendar) month
+\lf Src
+\lv kele
+\le winter
 \cf
 \ce
 \sd
 \lt winter month
 \mr kele-mune
-\dt 26/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx kelsiza
 \lc
@@ -7117,15 +8917,116 @@ alternatives
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Whole
+\lv negesizdan
+\le week
+\lf Gen
+\lv siza
+\le (calendar) day
+\lf Src
+\lv kel
+\le moon
 \cf
 \ce
 \sd
 \lt moon day
 \mr kel-siza
-\dt 26/Feb/2013
+\bw
+\dt 12/Feb/2014
+
+\lx kemabal
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge opinion
+\ge subjective_value
+\ge value
+\re
+\de opinion, (subjective) value
+\oe Refers to the generic concept of
+having an opinion (good or bad) about
+something, not to a specific opinion on
+something.
+\ue
+\ee
+\xv
+\xe
+\lf Spec
+\lv abal
+\le dreadfulness, lousiness
+\lf Spec
+\lv kemi
+\le pleasantness, wonderfulness
+\lf Sim
+\lv voslim
+\le beauty, appropriateness
+\lf Sim
+\lv uflebe
+\le quality, objective value
+\cf
+\ce
+\sd
+\lt pleasantness & dreadfulness
+\mr kemi-abal
+\bw
+\dt 10/Jan/2014
+
+\lx kemi
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge pleasantness
+\ge wonderfulness
+\ge pleasant
+\ge wonderful
+\ge good
+\re
+\de pleasantness, wonderfulness; also as
+adj. pleasant, wonderful, good
+\oe
+\ue
+\ee Using fv:kemi is no more than a
+statement of opinion. A strong
+statement of fondness, but just an
+opinion nonetheless. Since being fond
+of something does not necessarily
+mean it is fit for purpose, something
+being fv:kemi does not necessarily
+mean it is also fv:vo|sa (although the
+two often go hand in hand). Similarly,
+fv:kemi is different from fv:ufan in that
+the latter implies an objectively great
+quality. If you call something fv:ufan,
+you will be expected to be able to
+justify that statement. If you call
+something fv:kemi instead, the worst
+you can expect is someone asking you
+why you have such an opinion.
+\xv
+\xe
+\lf Ant
+\lv abal
+\le dreadfulness, lousiness
+\lf Sim
+\lv vo|sa
+\le appropriateness
+\lf Sim
+\lv ufan
+\le greatness
+\lf Gen
+\lv kemabal
+\le opinion, subjective value
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 10/Jan/2014
 
 \lx kfezi
 \lc
@@ -7148,15 +9049,110 @@ grandchildren.
 \ee
 \xv
 \xe
+\lf Cpart
+\lv zda
+\le paternal grandparent
+\lf Cpart
+\lv lomin
+\le maternal grandparent
+\lf Whole
+\lv nud
+\le family, clan, tribe
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 24/Jan/2014
+
+\lx kilom
+\lc
+\hm
+\ph
+\ps interj
+\sn
+\ge rumble
+\re
+\de 'rumble'
+\oe
+\ue
+\ee This onomatopoeia represents the
+sound of thunder.
+\xv
+\xe
 \lf
 \lv
 \le
 \cf
 \ce
 \sd
+\ps n
+\sn
+\ge thunder
+\ge rumble
+\ge thunderclap
+\re
+\de thunderclap; (when plural) thunder,
+rumble
+\oe This noun is a count noun.
+\ue
+\ee This is a noun of onomatopoeic origin
+that is still commonly used as
+onomatopoeia.
+\xv
+\xe
+\lf Cpart
+\lv no|sezgo
+\le lightning bolt
+\lf Compound
+\lv kilum
+\le firecracker
+\lf Gen
+\lv noskilom
+\le thunder and lightning
+\cf
+\ce
+\sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 04/Feb/2014
+
+\lx kilum
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge firecracker
+\ge banger
+\ge firework
+\re
+\de firecracker, banger; any kind of
+firework designed to emit loud bangs
+when lit.
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv linat
+\le firework, skyrocket
+\lf Src
+\lv kilom
+\le thunder, rumble
+\lf Src
+\lv luma
+\le falsehood, fiction
+\cf
+\ce
+\sd
+\lt thunder fake
+\mr kilom-luma
+\bw
+\dt 12/Feb/2014
 
 \lx kinkan
 \lc
@@ -7202,7 +9198,8 @@ automatically and without thinking.
 \sd
 \lt
 \mr
-\dt 12/Sep/2013
+\bw
+\dt 17/Nov/2013
 
 \lx kit
 \lc
@@ -7217,7 +9214,11 @@ automatically and without thinking.
 human being
 \oe Typically, the speaker uses their own
 size as base, and generally does so in a
-rather fuzzy way.
+rather fuzzy way. In particular, a
+speaker will often classify an animal as
+fv:kit to imply intelligence and/or
+strength, even if the animal is actually
+smaller than they are.
 \ue
 \ee
 \xv
@@ -7225,12 +9226,16 @@ rather fuzzy way.
 \lf Cpart
 \lv sponda
 \le small animal
+\lf Whole
+\lv spondakit
+\le fauna
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 10/Feb/2014
 
 \lx kjaj
 \lc
@@ -7276,7 +9281,8 @@ the originative or the causative.
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 17/Nov/2013
 
 \lx knama
 \lc
@@ -7298,15 +9304,22 @@ amount of grass or straw, use the
 plural fv:knamsa.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Compound
+\lv knamafin
+\le flower
+\lf Gen
+\lv |zenk
+\le large plant
+\lf Gen
+\lv |zensin
+\le small plant
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 26/Feb/2013
+\bw
+\dt 24/Jan/2014
 
 \lx knamafin
 \lc
@@ -7326,12 +9339,25 @@ carrying a single flower or flower group
 \lf Sim
 \lv talu
 \le flower, blossom
+\lf Gen
+\lv |zenk
+\le large plant
+\lf Gen
+\lv |zensin
+\le small plant
+\lf Src
+\lv knama
+\le grass, hay, weed
+\lf Src
+\lv fin
+\le top, great height, shallowness
 \cf
 \ce
 \sd
 \lt grass top
 \mr knama-fin
-\dt 04/Mar/2013
+\bw
+\dt 12/Feb/2014
 
 \lx ko
 \lc
@@ -7376,12 +9402,16 @@ family
 \lf Cpart
 \lv mea
 \le nephew on the other side of the family
+\lf Whole
+\lv nud
+\le family, clan, tribe
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\bw
+\dt 24/Jan/2014
 
 \lx ko-
 \lc
@@ -7405,7 +9435,8 @@ family
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\bw
+\dt 17/Nov/2013
 
 \lx Kolsika
 \lc
@@ -7429,7 +9460,8 @@ family
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\bw Corsican
+\dt 17/Nov/2013
 
 \lx kolsikafokez
 \lc
@@ -7448,12 +9480,16 @@ family
 \lf Gen
 \lv fokez
 \le person
+\lf Src
+\lv Kolsika
+\le Corsica
 \cf
 \ce
 \sd
 \lt Corsica person
 \mr Kolsika-fokez
-\dt 27/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx kolsikaku|lu
 \lc
@@ -7472,12 +9508,16 @@ family
 \lf Gen
 \lv ku|lu
 \le language
+\lf Src
+\lv Kolsika
+\le Corsica
 \cf
 \ce
 \sd
 \lt Corsica language
 \mr Kolsika-ku|lu
-\dt 27/Feb/2013
+\bw
+\dt 12/Feb/2014
 
 \lx komut
 \lc
@@ -7494,15 +9534,16 @@ manner
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv mut
+\le what
 \cf
 \ce
 \sd
 \lt with what
 \mr ko-mut
-\dt 28/Oct/2013
+\bw
+\dt 24/Jan/2014
 
 \lx kulstul
 \lc
@@ -7528,12 +9569,25 @@ middle voice.
 \lf Sim
 \lv datistul
 \le to make up, to invent
+\lf Compound
+\lv kulstulbel
+\le conlanging
+\lf Nact
+\lv kulstulnon
+\le conlanger
+\lf Nug
+\lv kulstuluz
+\le conlang
+\lf Src
+\lv ku|lu
+\le language
 \cf
 \ce
 \sd
 \lt language summon
 \mr ku|lu-stul
-\dt 27/Mar/2013
+\bw
+\dt 24/Jan/2014
 
 \lx kulstulbel
 \lc
@@ -7550,15 +9604,19 @@ constructing languages
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv kulstul
+\le to conlang
+\lf Src
+\lv bel
+\le art, craft
 \cf
 \ce
 \sd
 \lt language summon art
 \mr ku|lu-stul-bel
-\dt 27/Mar/2013
+\bw
+\dt 12/Feb/2014
 
 \lx kulstulnon
 \lc
@@ -7575,15 +9633,16 @@ creator
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv kulstul
+\le to conlang
 \cf
 \ce
 \sd
 \lt language summon artist
 \mr ku|lu-stul-non
-\dt 27/Mar/2013
+\bw
+\dt 24/Jan/2014
 
 \lx kulstuluz
 \lc
@@ -7601,15 +9660,16 @@ creator
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv kulstul
+\le to conlang
 \cf
 \ce
 \sd
 \lt language summoned
 \mr ku|lu-stul-z
-\dt 27/Mar/2013
+\bw
+\dt 24/Jan/2014
 
 \lx ku|lu
 \lc
@@ -7629,15 +9689,19 @@ in general.
 names.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Spec
+\lv dilku|lu
+\le mother tongue, native language
+\lf Max
+\lv ku|luku|lu
+\le language
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\bw
+\dt 24/Jan/2014
 
 \lx ku|luku|lu
 \lc
@@ -7655,15 +9719,16 @@ symbolically with words.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv ku|lu
+\le language
 \cf
 \ce
 \sd
 \lt language language
 \mr ku|lu-ku|lu
-\dt 02/Apr/2013
+\bw
+\dt 24/Jan/2014
 
 \lx kun
 \lc
@@ -7680,9 +9745,12 @@ symbolically with words.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Compound
+\lv kuneg
+\le to end
+\lf Compound
+\lv kunstul
+\le to give up
 \cf
 \ce
 \sd
@@ -7697,7 +9765,7 @@ counting towards the end of a list
 \ee
 \xv
 \xe
-\lf Cpart
+\lf Ant
 \lv |zaj
 \le start, beginning
 \cf
@@ -7705,7 +9773,8 @@ counting towards the end of a list
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\bw
+\dt 11/Feb/2014
 
 \lx kuna
 \lc
@@ -7725,12 +9794,19 @@ last position of an ordered list
 \lf Cpart
 \lv |zaja
 \le first
+\lf Cpart
+\lv difoja
+\le middle rank
+\lf Gen
+\lv poga
+\le rank, ordinal number
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\bw
+\dt 13/Jan/2014
 
 \lx kuneg
 \lc
@@ -7752,21 +9828,28 @@ cessative-completives.
 \lf Sim
 \lv kunstul
 \le to give up
-\lf Sim
-\lv zenk
-\le to stop momentarily
 \lf Cpart
+\lv zen(k)
+\le to stop momentarily
+\lf Ant
 \lv |za|neg
 \le to start with the intention of finishing
-\lf Cpart
+\lf Ant
 \lv |zajstul
 \le to start
+\lf Src
+\lv kun
+\le end, ending
+\lf Src
+\lv neg
+\le to do, to act
 \cf
 \ce
 \sd
 \lt end do
 \mr kun-neg
-\dt 11/Mar/2013
+\bw
+\dt 12/Feb/2014
 
 \lx kunstul
 \lc
@@ -7791,21 +9874,25 @@ shade of meaning.
 \lf Sim
 \lv kuneg
 \le to end
-\lf Sim
-\lv zenk
-\le to stop momentarily
 \lf Cpart
+\lv zen(k)
+\le to stop momentarily
+\lf Ant
 \lv |za|neg
 \le to start with the intention of finishing
-\lf Cpart
+\lf Ant
 \lv |zajstul
 \le to start
+\lf Src
+\lv kun
+\le end, ending
 \cf
 \ce
 \sd
 \lt end summon
 \mr kun-stul
-\dt 13/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx lam
 \lc
@@ -7833,7 +9920,8 @@ proximity to the listener
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 17/Nov/2013
 
 \lx la|zi
 \lc
@@ -7858,7 +9946,7 @@ that are high enough to not simply be
 pleasant anymore.
 \ue
 \ee It is considered a weather
-phenomenon, on par with fv:ibo: "wind"
+phenomenon, on par with fv:ibo: 'wind'
 and others, and for this reason can be
 the subject of the verb fv:ivdaj.
 \xv
@@ -7875,12 +9963,16 @@ the subject of the verb fv:ivdaj.
 \lf Sim
 \lv dena
 \le high temperature, hotness, hot
+\lf Gen
+\lv bolog
+\le weather
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 23/Sep/2013
+\bw
+\dt 10/Jan/2014
 
 \lx le-
 \lc
@@ -7909,7 +10001,8 @@ inferiority
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 17/Nov/2013
 
 \lx leksin
 \lc
@@ -7941,15 +10034,16 @@ inferiority
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv leksod
+\le darkness
 \cf
 \ce
 \sd
 \lt little darkness
 \mr leksod-sin
-\dt 27/Feb/2013
+\bw
+\dt 27/Jan/2014
 
 \lx leksod
 \lc
@@ -7966,9 +10060,9 @@ inferiority
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Min
+\lv leksin
+\le darkishness, twilight
 \cf
 \ce
 \sd
@@ -7996,7 +10090,8 @@ colours like blue and green.
 \sd
 \lt
 \mr
-\dt 07/Mar/2013
+\bw
+\dt 27/Jan/2014
 
 \lx len
 \lc
@@ -8024,7 +10119,8 @@ proximity to the speaker
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 17/Nov/2013
 
 \lx len-
 \lc
@@ -8059,7 +10155,8 @@ inferiority
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 17/Nov/2013
 
 \lx lezu
 \lc
@@ -8090,15 +10187,19 @@ inferiority
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Nug
+\lv lezuz
+\le song, chant
+\lf Compound
+\lv lezudati
+\le singing, chanting
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 27/Jan/2014
 
 \lx lezudati
 \lc
@@ -8129,15 +10230,19 @@ inferiority
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv lezu
+\le to sing, to chant
+\lf Src
+\lv dati
+\le thing, concept, manner
 \cf
 \ce
 \sd
 \lt sing manner
 \mr lezu-dati
-\dt 07/Mar/2013
+\bw
+\dt 12/Feb/2014
 
 \lx lezuz
 \lc
@@ -8168,15 +10273,16 @@ inferiority
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv lezu
+\le to sing, to chant
 \cf
 \ce
 \sd
 \lt sung
 \mr lezu-z
-\dt 27/Mar/2013
+\bw
+\dt 27/Jan/2014
 
 \lx lin
 \lc
@@ -8193,15 +10299,19 @@ inferiority
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Nact
+\lv linan
+\le bird
+\lf Compound
+\lv linat
+\le firework, skyrocket
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 05/Feb/2014
 
 \lx lin
 \lc
@@ -8218,9 +10328,9 @@ inferiority
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv olnes
+\le to know by heart
 \cf
 \ce
 \sd
@@ -8243,7 +10353,8 @@ innate.
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 05/Feb/2014
 
 \lx linan
 \lc
@@ -8258,18 +10369,96 @@ animal, usually capable of flight, and
 laying eggs.
 \oe
 \ue
-\ee
+\ee Birds can be fv:sponda or fv:kit
+depending on their size, the attachment
+of the speaker to the animal, etc.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv sponda
+\le small animal
+\lf Gen
+\lv kit
+\le big animal
+\lf Src
+\lv lin1
+\le to fly
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\bw
+\dt 03/Feb/2014
+
+\lx linat
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge firework
+\ge skyrocket
+\re
+\de firework, skyrocket; any kind of
+firework designed to rocket high in the
+sky before exploding, producing
+coloured flames and sparks
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv kilum
+\le firecraker, banger
+\lf Compound
+\lv linatoskan
+\le fireworks (display)
+\lf Src
+\lv lin1
+\le to fly
+\lf Src
+\lv at1
+\le fire
+\cf
+\ce
+\sd
+\lt fly fire
+\mr lin1-at
+\bw
+\dt 12/Feb/2014
+
+\lx linatoskan
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge fireworks
+\ge fireworks_display
+\re
+\de fireworks (display); an event or display
+where fireworks are set off as the
+main part of the entertainment
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv linat
+\le firework, skyrocket
+\lf Src
+\lv oskan
+\le event, show, story
+\cf
+\ce
+\sd
+\lt fly fire event
+\mr lin1-at-oskan
+\bw
+\dt 12/Feb/2014
 
 \lx log
 \lc
@@ -8285,9 +10474,18 @@ laying eggs.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Spec
+\lv zobat
+\le spring
+\lf Spec
+\lv emelog
+\le summer
+\lf Spec
+\lv o|nig
+\le autumn
+\lf Spec
+\lv kele
+\le winter
 \cf
 \ce
 \sd
@@ -8326,7 +10524,8 @@ laying eggs.
 \sd
 \lt
 \mr
-\dt 23/Sep/2013
+\bw
+\dt 13/Jan/2014
 
 \lx Loma
 \lc
@@ -8342,15 +10541,16 @@ laying eggs.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv bazlo
+\le town, city
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\bw Italian
+\dt 28/Jan/2014
 
 \lx lomin
 \lc
@@ -8379,12 +10579,19 @@ mother's side.
 \lf Cpart
 \lv zda
 \le paternal grandparent
+\lf Cpart
+\lv kfezi
+\le grandchild
+\lf Whole
+\lv nud
+\le family, clan, tribe
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\bw
+\dt 24/Jan/2014
 
 \lx los
 \lc
@@ -8415,7 +10622,8 @@ speaker and the listener
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 17/Nov/2013
 
 \lx lugen
 \lc
@@ -8431,15 +10639,28 @@ speaker and the listener
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Spec
+\lv neglugen
+\le verb
+\lf Spec
+\lv samlugen
+\le particle
+\lf Spec
+\lv tolugen
+\le nominal
+\lf Spec
+\lv pogla
+\le name, title
+\lf Spec
+\lv sigoj
+\le name
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\bw
+\dt 11/Feb/2014
 
 \lx luma
 \lc
@@ -8491,12 +10712,64 @@ speaker and the listener
 \lf Ant
 \lv isis
 \le truth, reality
+\lf Gen
+\lv lumisis
+\le truth value
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\bw
+\dt 23/Jan/2014
+
+\lx lumisis
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge truth_value
+\ge truth
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge reality_level
+\ge reality
+\re
+\de
+\oe
+\ue
+\ee Refers to the generic concept of truth
+value and reality level, the
+encompassing concept that includes
+both true and false, real and fake.
+\xv
+\xe
+\lf Spec
+\lv isis
+\le truth, reality
+\lf Spec
+\lv luma
+\le falsehood, fiction
+\cf
+\ce
+\sd
+\lt falsehood & truth
+\mr luma-isis
+\bw
+\dt 23/Jan/2014
 
 \lx |la
 \lc
@@ -8530,15 +10803,22 @@ speaker and the listener
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Idiom
+\lv |lag
+\le good bye, bye
+\lf Idiom
+\lv saj_ko|lea
+\le good bye, regards, have a nice trip
+\lf Idiom
+\lv |ledan
+\le merry, bless you, cheers
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\bw
+\dt 28/Jan/2014
 
 \lx |la-
 \lc
@@ -8562,7 +10842,8 @@ speaker and the listener
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\bw
+\dt 17/Nov/2013
 
 \lx |lag
 \lc
@@ -8574,20 +10855,28 @@ speaker and the listener
 \ge bye
 \re
 \de 'good bye', 'bye'
-\oe
-\ue
+\oe Symmetric, one normally answers
+fv:|lag with fv:|lag.
+\ue Informal to neutral in tone.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv mejto
+\le hello, hi
+\lf Sim
+\lv saj_ko|lea
+\le good bye, regards, have a nice trip
+\lf Src
+\lv |la
+\le peace, good health
 \cf
 \ce
 \sd
 \lt go in peace
 \mr ko-|l<e>a ag
-\dt 27/Feb/2013
+\bw
+\dt 28/Jan/2014
 
 \lx |lajespoma
 \lc
@@ -8603,15 +10892,16 @@ speaker and the listener
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv jespoma
+\le wrist
 \cf
 \ce
 \sd
 \lt to improve a wrist
 \mr |la-jez-poma
-\dt 27/Feb/2013
+\bw
+\dt 29/Jan/2014
 
 \lx |lajpe|lastu|l
 \lc
@@ -8632,12 +10922,16 @@ fingers
 \lf Syn
 \lv zanej
 \le ring
+\lf Src
+\lv ipe|lastu|l
+\le indicator, finger
 \cf
 \ce
 \sd
 \lt to improve a finger
 \mr |la-i-pe|la-stul-i
-\dt 05/Mar/2013
+\bw
+\dt 29/Jan/2014
 
 \lx |lamensin
 \lc
@@ -8653,15 +10947,16 @@ fingers
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv mensin
+\le cup, ear
 \cf
 \ce
 \sd
 \lt to improve an ear
 \mr |la-menzola-sin
-\dt 27/Feb/2013
+\bw
+\dt 30/Jan/2014
 
 \lx |lapoma
 \lc
@@ -8677,15 +10972,16 @@ fingers
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv poma
+\le neck
 \cf
 \ce
 \sd
 \lt to improve a neck
 \mr |la-poma
-\dt 27/Feb/2013
+\bw
+\dt 30/Jan/2014
 
 \lx |le-
 \lc
@@ -8713,7 +11009,77 @@ counters.
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 17/Nov/2013
+
+\lx |ledan
+\lc
+\hm
+\ph
+\ps exp
+\sn 1
+\ge merry
+\ge happy
+\ge good
+\re
+\de 'merry...', 'happy...', 'good...';
+expression used as the basis of many
+good wish phrases
+\oe
+\ue
+\ee This expression is used as basis for
+various good wish phrases, which are
+all formed by adding an uninflected
+noun before fv:|ledan. Examples are:
+fv:adamla fv:|ledan: 'happy
+birthday/anniversary', fv:Imonuj fv:
+|ledan: 'happy new year', and fv:Noel
+fv:|ledan: 'merry Christmas'.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge bless_you
+\ge gesundheit
+\re
+\de 'bless you', 'gesundheit'
+\oe When used on its own just after
+someone sneezed.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge cheers
+\ge bottoms_up
+\re
+\de 'cheers', 'bottoms up'
+\oe When used as a toast when drinking.
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv |la
+\le peace, good health
+\cf
+\ce
+\sd
+\lt (have) the peace(ful)
+\mr |l<e><d>a-n
+\bw
+\dt 29/Jan/2014
 
 \lx |lemik
 \lc
@@ -8733,15 +11099,22 @@ except in the sense of 'just anyone'.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv |lemut
+\le anything, whatever
+\lf Cpart
+\lv |lemun
+\le any, whichever
+\lf Src
+\lv mik
+\le who
 \cf
 \ce
 \sd
 \lt any who
 \mr |le-mik
-\dt 28/Oct/2013
+\bw
+\dt 31/Jan/2014
 
 \lx |lemun
 \lc
@@ -8762,15 +11135,22 @@ of 'just any'.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv |lemik
+\le anyone, whoever
+\lf Cpart
+\lv |lemut
+\le anything, whatever
+\lf Src
+\lv mun
+\le which
 \cf
 \ce
 \sd
 \lt any which
 \mr |le-mun
-\dt 28/Oct/2013
+\bw
+\dt 31/Jan/2014
 
 \lx |lemut
 \lc
@@ -8791,15 +11171,22 @@ anything'.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv |lemik
+\le anyone, whoever
+\lf Cpart
+\lv |lemun
+\le any, whichever
+\lf Src
+\lv mut
+\le what
 \cf
 \ce
 \sd
 \lt any what
 \mr |le-mut
-\dt 28/Oct/2013
+\bw
+\dt 31/Jan/2014
 
 \lx mabamla
 \lc
@@ -8836,12 +11223,19 @@ owned.
 \lf Sim
 \lv ukodun
 \le age
+\lf Spec
+\lv amla
+\le newness
+\lf Spec
+\lv mabo
+\le ancientness
 \cf
 \ce
 \sd
 \lt ancientness & newness
 \mr mabo-amla
-\dt 27/Feb/2013
+\bw
+\dt 31/Jan/2014
 
 \lx mabo
 \lc
@@ -8886,12 +11280,50 @@ holding a position for a long time.
 \lf Sim
 \lv ukol
 \le old age
+\lf Gen
+\lv mabamla
+\le experience, ownership time
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 14/Mar/2013
+\bw
+\dt 31/Jan/2014
+
+\lx mabukol
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge antiquity
+\ge antique
+\re
+\de antiquity; also as adj. antique
+\oe
+\ue
+\ee Refers to the quality of something
+which is both old and has been in
+someone's possession for a long time.
+\xv
+\xe
+\lf Ant
+\lv odamla
+\le brand newness
+\lf Sim
+\lv mabo
+\le ancientness
+\lf Sim
+\lv ukol
+\le old age
+\cf
+\ce
+\sd
+\lt ancientness & old age
+\mr mabo-ukol
+\bw
+\dt 05/Feb/2014
 
 \lx Madjalolsag
 \lc
@@ -8907,15 +11339,16 @@ holding a position for a long time.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv status
+\le state, country, nation
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\bw Hungarian
+\dt 31/Jan/2014
 
 \lx majta
 \lc
@@ -8935,15 +11368,25 @@ person.
 \ee
 \xv
 \xe
-\lf Idiom
+\lf Compound
 \lv majtage
 \le to love, to feel romantically attracted to
+\lf Sim
+\lv teoluz
+\le non-romantic love, friendship
+\lf Sim
+\lv gizez
+\le sexual attraction
+\lf Sim
+\lv stolge
+\le familial love
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 16/Apr/2013
+\bw
+\dt 31/Jan/2014
 
 \lx majtage
 \lc
@@ -8970,21 +11413,25 @@ fv:imajtagej and the participle is
 fv:majtagez.
 \xv
 \xe
-\lf Src
-\lv majta
-\le romantic love
 \lf Sim
 \lv teol
 \le to please, to like, to be fond of
 \lf Sim
 \lv gize
 \le to please, to like, to enjoy, to love
+\lf Sim
+\lv stolge
+\le to like, to love
+\lf Src
+\lv majta
+\le romantic love
 \cf
 \ce
 \sd
 \lt love have
 \mr majta-ge
-\dt 16/Apr/2013
+\bw
+\dt 31/Jan/2014
 
 \lx manto
 \lc
@@ -9014,7 +11461,8 @@ body) from bad weather conditions.
 \sd
 \lt
 \mr
-\dt 01/Sep/2013
+\bw French
+\dt 17/Nov/2013
 
 \lx -mas
 \lc
@@ -9041,7 +11489,8 @@ body) from bad weather conditions.
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 17/Nov/2013
 
 \lx me-
 \lc
@@ -9067,7 +11516,8 @@ counters.
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 17/Nov/2013
 
 \lx mea
 \lc
@@ -9096,12 +11546,16 @@ family
 \lf Cpart
 \lv teba
 \le niece on the other side of the family
+\lf Whole
+\lv nud
+\le family, clan, tribe
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\bw
+\dt 24/Jan/2014
 
 \lx medaj
 \lc
@@ -9117,15 +11571,16 @@ family
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv daj
+\le hour
 \cf
 \ce
 \sd
 \lt no hour
 \mr me-daj
-\dt 27/Feb/2013
+\bw
+\dt 31/Jan/2014
 
 \lx medga
 \lc
@@ -9161,6 +11616,9 @@ means etc.
 \lf Sim
 \lv ople
 \le to give, to take, to transfer
+\lf Compound
+\lv mikomedga
+\le to broadcast, to receive, to transfer
 \cf
 \ce
 \sd
@@ -9186,7 +11644,8 @@ and direction away from the speaker.
 \sd
 \lt
 \mr
-\dt 27/Mar/2013
+\bw
+\dt 31/Jan/2014
 
 \lx mejee
 \lc
@@ -9213,13 +11672,13 @@ someone in a familiar manner.
 \lf Sim
 \lv fe|su
 \le sorry to bother you, you see
-\lf Sim
+\lf Min
 \lv memas
 \le hey, look, listen (to a male)
-\lf Sim
+\lf Min
 \lv mezes
 \le hey, look, listen (to a female)
-\lf Sim
+\lf Min
 \lv mesin
 \le hey, look, listen, see (to a male, female
 or group)
@@ -9228,7 +11687,8 @@ or group)
 \sd
 \lt
 \mr
-\dt 16/Jul/2013
+\bw
+\dt 31/Jan/2014
 
 \lx mejto
 \lc
@@ -9240,20 +11700,28 @@ or group)
 \ge hi
 \re
 \de 'hello', 'hi'
-\oe
-\ue
+\oe Symmetric, one normally answers
+fv:mejto with fv:mejto.
+\ue Informal to neutral in tone.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv |lag
+\le good bye, bye
+\lf Sim
+\lv saj_ko|lea
+\le greetings, hello, welcome
+\lf Src
+\lv met
+\le to greet
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\bw
+\dt 31/Jan/2014
 
 \lx melag
 \lc
@@ -9278,7 +11746,8 @@ or group)
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\bw
+\dt 17/Nov/2013
 
 \lx me|lo
 \lc
@@ -9300,15 +11769,19 @@ though; particle indicating contradiction
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv opa
+\le and, also
+\lf Cpart
+\lv kej
+\le or, rather
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\bw
+\dt 31/Jan/2014
 
 \lx memas
 \lc
@@ -9335,21 +11808,22 @@ than fv:mejee.
 \lv fe|su
 \le sorry to bother you, you see
 \lf Sim
-\lv mejee
-\le psst, hey, look
-\lf Sim
 \lv mezes
 \le hey, look, listen (to a female)
 \lf Sim
 \lv mesin
 \le hey, look, listen, see (to a male, female
 or group)
+\lf Src
+\lv mejee
+\le psst, hey, look
 \cf
 \ce
 \sd
 \lt little male hey
 \mr mejee-mas
-\dt 16/Jul/2013
+\bw
+\dt 31/Jan/2014
 
 \lx memik
 \lc
@@ -9366,15 +11840,22 @@ or group)
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv memut
+\le nothing
+\lf Cpart
+\lv memun
+\le none
+\lf Src
+\lv mik
+\le who
 \cf
 \ce
 \sd
 \lt no who
 \mr me-mik
-\dt 28/Oct/2013
+\bw
+\dt 05/Feb/2014
 
 \lx memun
 \lc
@@ -9392,15 +11873,22 @@ not).
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv memik
+\le no one, nobody
+\lf Cpart
+\lv memut
+\le nothing
+\lf Src
+\lv mun
+\le which
 \cf
 \ce
 \sd
 \lt no which
 \mr me-mun
-\dt 28/Oct/2013
+\bw
+\dt 05/Feb/2014
 
 \lx memut
 \lc
@@ -9416,15 +11904,23 @@ not).
 \ee
 \xv
 \xe
-\lf
-\lv
+\lf Cpart
+\lv memik
+\le no one, nobody
+\lf Cpart
+\lv memun
+\le none
+\lf Src
+\lv mut
+\le what
 \le
 \cf
 \ce
 \sd
 \lt no what
 \mr me-mut
-\dt 28/Oct/2013
+\bw
+\dt 05/Feb/2014
 
 \lx meno
 \lc
@@ -9435,21 +11931,24 @@ not).
 \ge glove
 \ge mitten
 \re
-\de
+\de glove, mitten; a protecting covering for
+the hand, which may or may not
+extend above the wrist
 \oe
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv bnameno
+\le shoe, boot
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\bw
+\dt 10/Jan/2014
 
 \lx mensin
 \lc
@@ -9465,9 +11964,9 @@ not).
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv menzola
+\le jug, vase
 \cf
 \ce
 \sd
@@ -9481,15 +11980,16 @@ not).
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Idiom
+\lv |lamensin
+\le earring
 \cf
 \ce
 \sd
 \lt little jug
 \mr menzola-sin
-\dt 28/Feb/2013
+\bw
+\dt 31/Jan/2014
 
 \lx menzola
 \lc
@@ -9520,15 +12020,16 @@ not).
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Min
+\lv mensin
+\le cup, ear
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 27/Feb/2013
+\bw
+\dt 31/Jan/2014
 
 \lx mesin
 \lc
@@ -9553,23 +12054,25 @@ fv:mejee, but not as polite as fv:fe|su
 either.
 \xv
 \xe
+\lf Sim
 \lv fe|su
 \le sorry to bother you, you see
-\lf Sim
-\lv mejee
-\le psst, hey, look
 \lf Sim
 \lv memas
 \le hey, look, listen (to a male)
 \lf Sim
 \lv mezes
 \le hey, look, listen (to a female)
+\lf Src
+\lv mejee
+\le psst, hey, look
 \cf
 \ce
 \sd
 \lt little hey
 \mr mejee-sin
-\dt 16/Jul/2013
+\bw
+\dt 31/Jan/2014
 
 \lx met
 \lc
@@ -9610,7 +12113,8 @@ either.
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 17/Nov/2013
 
 \lx mezes
 \lc
@@ -9633,11 +12137,9 @@ it is considered somewhat less abrupt
 than fv:mejee.
 \xv
 \xe
+\lf Sim
 \lv fe|su
 \le sorry to bother you, you see
-\lf Sim
-\lv mejee
-\le psst, hey, look
 \lf Sim
 \lv memas
 \le hey, look, listen (to a male)
@@ -9645,12 +12147,16 @@ than fv:mejee.
 \lv mesin
 \le hey, look, listen, see (to a male, female
 or group)
+\lf Src
+\lv mejee
+\le psst, hey, look
 \cf
 \ce
 \sd
 \lt little female hey
 \mr mejee-zes
-\dt 16/Jul/2013
+\bw
+\dt 31/Jan/2014
 
 \lx mik
 \lc
@@ -9661,20 +12167,42 @@ or group)
 \ge who
 \re
 \de who; interrogative pronoun
-\oe Used to ask about humans.
+\oe Used to ask about humans. It can also
+be used to ask about fv:kit, i.e. large
+animals, although that is considered
+slightly awkward.
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv mut
+\le what
+\lf Cpart
+\lv mun
+\le which
+\lf Deriv
+\lv |lemik
+\le anyone, whoever
+\lf Deriv
+\lv memik
+\le no one, nobody
+\lf Deriv
+\lv numik
+\le everyone, everybody
+\lf Deriv
+\lv semik
+\le someone, somebody, who knows who
+\lf Deriv
+\lv tamik
+\le someone, somebody
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 11/Feb/2014
 
 \lx miko
 \lc
@@ -9698,12 +12226,34 @@ remote, far
 \lf Ant
 \lv ujtin
 \le proximity, closeness
+\lf Max
+\lv mikomiko
+\le unknown territory
+\lf Compound
+\lv mikoboze
+\le to broadcast, to receive, to transfer
+\lf Compound
+\lv mikomedga
+\le to broadcast, to receive, to transfer
+\lf Compound
+\lv mikoeze|s
+\le radio
+\lf Compound
+\lv mikope|laz
+\le television
+\lf Compound
+\lv mikostul
+\le to phone
+\lf Gen
+\lv mikujtin
+\le distance
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 15/Feb/2014
 
 \lx mikoboze
 \lc
@@ -9733,7 +12283,13 @@ radiowaves or other electronic means.
 \lf Cpart
 \lv mikomedga
 \le to broadcast, to receive, to transfer
-\lf Sim
+\lf Deriv
+\lv mikobozez
+\le transmission, broadcast, programme
+\lf Src
+\lv miko
+\le remoteness, long distance
+\lf Src
 \lv boze
 \le to send, to receive, to transfer
 \cf
@@ -9741,7 +12297,8 @@ radiowaves or other electronic means.
 \sd
 \lt far send
 \mr miko-boze
-\dt 27/Mar/2013
+\bw
+\dt 15/Feb/2014
 
 \lx mikobozez
 \lc
@@ -9767,12 +12324,16 @@ of the transmitted information.
 \lf Cpart
 \lv mikomedgaz
 \le transmission, broadcast, programme
+\lf Src
+\lv mikoboze
+\le to broadcast, to receive, to transfer
 \cf
 \ce
 \sd
 \lt far sent
 \mr miko-boze-z
-\dt 27/Mar/2013
+\bw
+\dt 31/Jan/2014
 
 \lx mikoeze|s
 \lc
@@ -9795,12 +12356,19 @@ devices that use it.
 \lf Ninst
 \lv mikoeze|sipi
 \le radio set
+\lf Src
+\lv miko
+\le remoteness, long distance
+\lf Src
+\lv eze|s
+\le sound, noise
 \cf
 \ce
 \sd
 \lt far heard
 \mr miko-ezet-z
-\dt 04/Jul/2013
+\bw
+\dt 15/Feb/2014
 
 \lx mikoeze|sipi
 \lc
@@ -9820,15 +12388,16 @@ sound.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv mikoeze|s
+\le radio
 \cf
 \ce
 \sd
 \lt far heard tool
 \mr miko-ezet-z-ipi
-\dt 04/Jul/2013
+\bw
+\dt 31/Jan/2014
 
 \lx mikomedga
 \lc
@@ -9858,7 +12427,13 @@ radiowaves or other electronic means.
 \lf Cpart
 \lv mikoboze
 \le to broadcast, to receive, to transfer
-\lf Sim
+\lf Deriv
+\lv mikomedgaz
+\le transmission, broadcast, programme
+\lf Src
+\lv miko
+\le remoteness, long distance
+\lf Src
 \lv medga
 \le to send, to receive, to transfer
 \cf
@@ -9866,7 +12441,8 @@ radiowaves or other electronic means.
 \sd
 \lt far send
 \mr miko-medga
-\dt 27/Mar/2013
+\bw
+\dt 15/Feb/2014
 
 \lx mikomedgaz
 \lc
@@ -9892,12 +12468,16 @@ transmitted information.
 \lf Cpart
 \lv mikobozez
 \le transmission, broadcast, programme
+\lf Src
+\lv mikomedga
+\le to broadcast, to receive, to transfer
 \cf
 \ce
 \sd
 \lt far sent
 \mr miko-medga-z
-\dt 27/Mar/2013
+\bw
+\dt 31/Jan/2014
 
 \lx mikomiko
 \lc
@@ -9917,15 +12497,16 @@ territories
 phrase 'here be dragons'.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv miko
+\le remoteness, long distance
 \cf
 \ce
 \sd
 \lt far far
 \mr miko-miko
-\dt 02/Apr/2013
+\bw
+\dt 31/Jan/2014
 
 \lx mikope|laz
 \lc
@@ -9951,12 +12532,19 @@ devices that use it.
 \lf Ninst
 \lv mikope|lazipi
 \le television set
+\lf Src
+\lv miko
+\le remoteness, long distance
+\lf Src
+\lv pe|la
+\le to see, to watch
 \cf
 \ce
 \sd
 \lt far seen
 \mr miko-pe|la-z
-\dt 04/Jul/2013
+\bw
+\dt 15/Feb/2014
 
 \lx mikope|lazipi
 \lc
@@ -9978,12 +12566,16 @@ them in audio-visual form.
 \lf Sim
 \lv tele
 \le TV, TV set
+\lf Src
+\lv mikope|laz
+\le television
 \cf
 \ce
 \sd
 \lt far seen tool
 \mr miko-pe|la-z-ipi
-\dt 04/Jul/2013
+\bw
+\dt 03/Feb/2014
 
 \lx mikostul
 \lc
@@ -10001,21 +12593,25 @@ phone
 \ee Often the verb fv:istu|l is used instead.
 \xv
 \xe
-\lf Sim
-\lv stul
-\le to summon, to call
 \lf Ninst
 \lv imikostu|l
 \le telephone
 \lf Ninst
 \lv mikostulipi
 \le telephone
+\lf Src
+\lv miko
+\le remoteness, long distance
+\lf Src
+\lv stul
+\le to summon, to call
 \cf
 \ce
 \sd
 \lt far summon
 \mr miko-stul
-\dt 04/Jul/2013
+\bw
+\dt 15/Feb/2014
 
 \lx mikostulipi
 \lc
@@ -10037,12 +12633,16 @@ fv:imikostu|l instead.
 \lf Syn
 \lv imikostu|l
 \le telephone
+\lf Src
+\lv mikostul
+\le to phone
 \cf
 \ce
 \sd
 \lt far summon tool
 \mr miko-stul-ipi
-\dt 28/Jun/2013
+\bw
+\dt 22/Jan/2014
 
 \lx mikujtin
 \lc
@@ -10060,15 +12660,19 @@ distance.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Spec
+\lv ujtin
+\le proximity, closeness
+\lf Spec
+\lv miko
+\le remoteness, long distance
 \cf
 \ce
 \sd
 \lt remoteness & proximity
 \mr miko-ujtin
-\dt 28/Feb/2013
+\bw
+\dt 31/Jan/2014
 
 \lx mja
 \lc
@@ -10101,15 +12705,16 @@ the sound of a cat crying.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Nact
+\lv mjan
+\le cat
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 05/Feb/2014
 
 \lx mjan
 \lc
@@ -10122,18 +12727,27 @@ the sound of a cat crying.
 \de cat; a domesticated feline
 \oe Does not specify or imply gender.
 \ue
-\ee
+\ee Cats can be fv:sponda or fv:kit
+depending on their size, the attachment
+of the speaker to the animal, etc.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv sponda
+\le small animal
+\lf Gen
+\lv kit
+\le big animal
+\lf Src
+\lv mja
+\le meow, to meow
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 04/Feb/2014
 
 \lx mo-
 \lc
@@ -10158,7 +12772,8 @@ into their spatial meanings
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 17/Nov/2013
 
 \lx momdutun
 \lc
@@ -10175,15 +12790,16 @@ destination
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv mut
+\le what
 \cf
 \ce
 \sd
 \lt to what
 \mr mo-m<d>ut-n
-\dt 28/Oct/2013
+\bw
+\dt 03/Feb/2014
 
 \lx momut
 \lc
@@ -10199,15 +12815,16 @@ destination
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv mut
+\le what
 \cf
 \ce
 \sd
 \lt at what
 \mr mo-mut
-\dt 28/Oct/2013
+\bw
+\dt 03/Feb/2014
 
 \lx momvuti
 \lc
@@ -10224,15 +12841,16 @@ origin
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv mut
+\le what
 \cf
 \ce
 \sd
 \lt from what
 \mr mo-m<v>ut-i
-\dt 28/Oct/2013
+\bw
+\dt 03/Feb/2014
 
 \lx monmonu
 \lc
@@ -10248,9 +12866,9 @@ origin
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv monu
+\le to turn
 \cf
 \ce
 \sd
@@ -10263,15 +12881,16 @@ origin
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Syn
+\lv nege2
+\le to pack, to wrap
 \cf
 \ce
 \sd
-\lt
-\mr
-\dt 03/Apr/2013
+\lt turn turn
+\mr monu-monu
+\bw
+\dt 03/Feb/2014
 
 \lx monu
 \lc
@@ -10287,22 +12906,24 @@ origin
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Max
+\lv monmonu
+\le to roll, to wrap
 \cf
 \ce
 \sd
 \sn 2
 \ge happen
+\ge play
 \ge change
 \ge evolve
 \ge turn.into
 \ge become
 \re
-\de to happen, to change, to evolve, to turn
-into (sthg or s.o.), to become (sthg, s.o.
-or adj.)
+\de to happen, to play (for a film, play or
+other kinds of performances), to
+change, to evolve, to turn into (sthg or
+s.o.), to become (sthg, s.o. or adj.)
 \oe To take this sense, fv:imonuj must be
 put in the middle voice, which
 effectively makes it intransitive. The
@@ -10317,15 +12938,16 @@ English).
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Idiom
+\lv Imonuj
+\le the Turning
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 24/Sep/2013
+\bw
+\dt 03/Feb/2014
 
 \lx mosezgo
 \lc
@@ -10338,18 +12960,31 @@ English).
 \de cheetah; a very quick wild feline
 \oe
 \ue
-\ee
+\ee Cheetahs are normally classified as
+fv:sponda. However, due to their status
+as predators, some people prefer to
+treat them as fv:kit.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv sponda
+\le small animal
+\lf Gen
+\lv kit
+\le big animal
+\lf Src
+\lv mosu
+\le paw, foot, leg
+\lf Src
+\lv sezgo
+\le high speed
 \cf
 \ce
 \sd
 \lt paw quick
 \mr mosu-sezgo
-\dt 28/Feb/2013
+\bw
+\dt 15/Feb/2014
 
 \lx mosu
 \lc
@@ -10373,12 +13008,16 @@ inanimate object (like a table).
 \lf Sim
 \lv bnam
 \le foot, leg, paw
+\lf Compound
+\lv mosezgo
+\le cheetah
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 03/Feb/2014
 
 \lx motenku|lu
 \lc
@@ -10403,7 +13042,8 @@ inanimate object (like a table).
 \sd
 \lt Moten language
 \mr Moten-ku|lu
-\dt 28/Feb/2013
+\bw
+\dt 17/Nov/2013
 
 \lx mu
 \lc
@@ -10442,15 +13082,19 @@ correct
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Ant
+\lv saj
+\le definitely, yes, okay
+\lf Sim
+\lv us
+\le not, it is false that
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 11/Feb/2014
 
 \lx mun
 \lc
@@ -10463,20 +13107,42 @@ correct
 \re
 \de which, which one; interrogative
 pronoun
-\oe Used to ask about a choice.
+\oe Used to ask about a choice. Also used
+as a prefix added to counters to form
+interrogative expressions meaning
+'how many'.
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv mik
+\le who
+\lf Cpart
+\lv mut
+\le what
+\lf Deriv
+\lv |lemun
+\le any, whichever
+\lf Deriv
+\lv memun
+\le none
+\lf Deriv
+\lv numun
+\le each one, all
+\lf Deriv
+\lv semun
+\le some, who knows which
+\lf Deriv
+\lv tamun
+\le some
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Oct/2013
+\bw
+\dt 11/Feb/2014
 
 \lx mune
 \lc
@@ -10485,22 +13151,65 @@ pronoun
 \ps nc
 \sn
 \ge month
+\ge calendar_month
 \re
-\de
-\oe
+\de (calendar) month
+\oe Refers to both a calendar month in
+dates and to a length of time of one
+month.
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Whole
+\lv ada
+\le (calendar) year
+\lf Part
+\lv siza
+\le (calendar) day
+\lf Spec
+\lv ada|zaj
+\le January
+\lf Spec
+\lv kelemune
+\le February
+\lf Spec
+\lv zoba|saj
+\le March
+\lf Spec
+\lv ibomune
+\le April
+\lf Spec
+\lv zobatmune
+\le May
+\lf Spec
+\lv emelogzaj
+\le June
+\lf Spec
+\lv ememune
+\le July
+\lf Spec
+\lv atmune
+\le August
+\lf Spec
+\lv o|nigzaj
+\le September
+\lf Spec
+\lv senodmune
+\le October
+\lf Spec
+\lv vonemune
+\le November
+\lf Spec
+\lv adakun
+\le December
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 11/Feb/2014
 
 \lx mung
 \lc mun(g)
@@ -10549,7 +13258,8 @@ way of saying 'no'.
 \sd
 \lt
 \mr
-\dt 10/Apr/2013
+\bw
+\dt 17/Nov/2013
 
 \lx mut
 \lc
@@ -10561,19 +13271,68 @@ way of saying 'no'.
 \re
 \de what; interrogative pronoun
 \oe Used to ask about things and concepts.
+Also used to ask about fv:sponda, i.e.
+small animals. Its various inflections
+are used as interrogative adverbs.
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv mik
+\le who
+\lf Cpart
+\lv mun
+\le which
+\lf Deriv
+\lv |lemut
+\le anything, whatever
+\lf Deriv
+\lv memut
+\le nothing
+\lf Deriv
+\lv numut
+\le everything, all
+\lf Deriv
+\lv semut
+\le something, who knows what
+\lf Deriv
+\lv tamut
+\le something
+\lf Idiom
+\lv dimdutun
+\le how long
+\lf Idiom
+\lv dimut
+\le when
+\lf Idiom
+\lv dimvuti
+\le how often
+\lf Idiom
+\lv momdutun
+\le where to
+\lf Idiom
+\lv momut
+\le where
+\lf Idiom
+\lv momvuti
+\le where from
+\lf Idiom
+\lv komut
+\le how
+\lf Idiom
+\lv temut
+\le what for
+\lf Idiom
+\lv |zumut
+\le why
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Oct/2013
+\bw
+\dt 11/Feb/2014
 
 \lx muton
 \lc
@@ -10583,21 +13342,23 @@ way of saying 'no'.
 \sn
 \ge sheep
 \re
-\de
-\oe
+\de sheep; a farm animal kept mostly for
+its wool, milk and meat.
+\oe Does not specify or imply gender.
 \ue
-\ee
+\ee Sheep are normally always fv:sponda.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv sponda
+\le small animal
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 04/Feb/2014
 
 \lx -n
 \lc
@@ -10621,7 +13382,8 @@ way of saying 'no'.
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 17/Nov/2013
 
 \lx naj
 \lc
@@ -10645,7 +13407,8 @@ way of saying 'no'.
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 17/Nov/2013
 
 \lx nanag
 \lc
@@ -10662,9 +13425,27 @@ way of saying 'no'.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv oknestul
+\le to read, to peruse
+\lf Cpart
+\lv sestul
+\le to recount, to read aloud
+\lf Compound
+\lv nanagbel
+\le fiction writing
+\lf Compound
+\lv nanago
+\le technical writing
+\lf Nact
+\lv nanagnon
+\le author, fiction writer
+\lf Nact
+\lv nanagvu|z
+\le technical writer
+\lf Nug
+\lv nanaguz
+\le book, writing
 \cf
 \ce
 \sd
@@ -10687,7 +13468,8 @@ in mind
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 04/Feb/2014
 
 \lx nanagbel
 \lc
@@ -10707,12 +13489,19 @@ in mind
 \lf Cpart
 \lv nanago
 \le technical writing
+\lf Src
+\lv nanag
+\le to write
+\lf Src
+\lv bel
+\le art, craft
 \cf
 \ce
 \sd
 \lt write art
 \mr nanag-bel
-\dt 06/Mar/2013
+\bw
+\dt 15/Feb/2014
 
 \lx nanagnon
 \lc
@@ -10733,12 +13522,16 @@ in mind
 \lf Cpart
 \lv nanagvu|z
 \le technical writer
+\lf Src
+\lv nanag
+\le to write
 \cf
 \ce
 \sd
 \lt write artist
 \mr nanag-non
-\dt 06/Mar/2013
+\bw
+\dt 04/Feb/2014
 
 \lx nanago
 \lc
@@ -10758,12 +13551,19 @@ in mind
 \lf Cpart
 \lv nanagbel
 \le fiction writing
+\lf Src
+\lv nanag
+\le to write
+\lf Src
+\lv go
+\le profession, job
 \cf
 \ce
 \sd
 \lt write job
 \mr nanag-go
-\dt 06/Mar/2013
+\bw
+\dt 15/Feb/2014
 
 \lx nanaguz
 \lc
@@ -10794,15 +13594,16 @@ in mind
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv nanag
+\le to write
 \cf
 \ce
 \sd
 \lt written
 \mr nanag-z
-\dt 28/Feb/2013
+\bw
+\dt 04/Feb/2014
 
 \lx nanaguzubo
 \lc
@@ -10821,12 +13622,16 @@ in mind
 \lf Gen
 \lv subo
 \le shop, restaurant
+\lf Src
+\lv nanaguz
+\le book, writing
 \cf
 \ce
 \sd
 \lt book shop
 \mr nanag-z-subo
-\dt 28/Feb/2013
+\bw
+\dt 04/Feb/2014
 
 \lx nanagvu|z
 \lc
@@ -10846,12 +13651,16 @@ in mind
 \lf Cpart
 \lv nanagnon
 \le author, fiction writer
+\lf Src
+\lv nanag
+\le to write
 \cf
 \ce
 \sd
 \lt write employee
 \mr nanag-vu|z
-\dt 06/Mar/2013
+\bw
+\dt 04/Feb/2014
 
 \lx ne-
 \lc
@@ -10881,7 +13690,8 @@ equality
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 17/Nov/2013
 
 \lx neg
 \lc
@@ -10903,13 +13713,26 @@ equality
 \xe
 \lf Sim
 \lv ej
-\le to make
+\le to make, to build
+\lf Compound
+\lv negipiz
+\le difficulty, hardness
+\lf Compound
+\lv neg|nalam
+\le easiness, softness
+\lf Compound
+\lv neglugen
+\le verb
+\lf Idiom
+\lv |negdin_kodidon
+\le at the same time
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 15/Feb/2014
 
 \lx nege
 \lc
@@ -10925,15 +13748,16 @@ equality
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv bivo
+\le quantity, cardinal number
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 22/Oct/2013
+\bw
+\dt 04/Feb/2014
 
 \lx nege
 \lc
@@ -10946,24 +13770,25 @@ equality
 \re
 \de to close (sthg), to shut (sthg)
 \oe Used with containers, like packages,
-boxes, presents, or pieces of furniture, 
-like chests or closets. Also used with
-one's organs, like one's eyes, mouth, or
-hands.
+bottles, boxes, presents, or pieces of
+furniture,  like chests or closets. Also
+used with one's organs, like one's eyes,
+mouth, or hands.
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv in(d)
+\le to close, to shut
 \cf
 \ce
 \sd
 \sn 2
 \ge pack
+\ge wrap
 \re
-\de to pack (sthg)
+\de to pack (sthg), to wrap (sthg)
 \oe
 \ue
 \ee
@@ -10972,12 +13797,16 @@ hands.
 \lf Ant
 \lv ize
 \le to open, to unpack
+\lf Syn
+\lv monmonu
+\le to wrap
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 22/Oct/2013
+\bw
+\dt 15/Feb/2014
 
 \lx negesizdan
 \lc
@@ -10994,15 +13823,37 @@ hands.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv siza
+\le (calendar) day
+\lf Part
+\lv kelsiza
+\le Monday
+\lf Part
+\lv a|siza
+\le Tuesday
+\lf Part
+\lv vonesiza
+\le Wednesday
+\lf Part
+\lv ibosiza
+\le Thursday
+\lf Part
+\lv seno|ziza
+\le Friday
+\lf Part
+\lv apasiza
+\le Saturday
+\lf Part
+\lv emesiza
+\le Sunday
 \cf
 \ce
 \sd
 \lt for seven days
 \mr nege-siz<d>a-n
-\dt 28/Feb/2013
+\bw
+\dt 11/Feb/2014
 
 \lx negipiz
 \lc
@@ -11032,12 +13883,19 @@ fv:otez).
 \lf Sim
 \lv sengi|no
 \le complexity
+\lf Src
+\lv neg
+\le to do, to act
+\lf Src
+\lv ipiz
+\le heaviness, high strength
 \cf
 \ce
 \sd
 \lt do heaviness
 \mr neg-ipiz
-\dt 28/Feb/2013
+\bw
+\dt 15/Feb/2014
 
 \lx neglugen
 \lc
@@ -11054,15 +13912,25 @@ fv:otez).
 verbs in Moten.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv samlugen
+\le particle
+\lf Cpart
+\lv tolugen
+\le nominal
+\lf Gen
+\lv lugen
+\le word
+\lf Src
+\lv neg
+\le to do, to act
 \cf
 \ce
 \sd
 \lt do word
 \mr neg-lugen
-\dt 28/Feb/2013
+\bw
+\dt 15/Feb/2014
 
 \lx neg|nalam
 \lc
@@ -11092,12 +13960,19 @@ fv:kamoj).
 \lf Sim
 \lv sugi|no
 \le simplicity
+\lf Src
+\lv neg
+\le to do, to act
+\lf Src
+\lv |nalam
+\le lightness, weakness
 \cf
 \ce
 \sd
 \lt do lightness
 \mr neg-|nalam
-\dt 28/Feb/2013
+\bw
+\dt 15/Feb/2014
 
 \lx neka
 \lc
@@ -11141,7 +14016,8 @@ English).
 \sd
 \lt
 \mr
-\dt 26/Sep/2013
+\bw
+\dt 17/Nov/2013
 
 \lx Nipon
 \lc
@@ -11157,15 +14033,16 @@ English).
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv status
+\le state, country, nation
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw Japanese
+\dt 04/Feb/2014
 
 \lx ni|si
 \lc
@@ -11206,7 +14083,8 @@ endless/bothering chattering.
 \sd
 \lt
 \mr
-\dt 12/Sep/2013
+\bw
+\dt 17/Nov/2013
 
 \lx -no
 \lc
@@ -11236,7 +14114,8 @@ superlatives.
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 17/Nov/2013
 
 \lx Noel
 \lc
@@ -11252,15 +14131,19 @@ superlatives.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv oskana|not
+\le celebration, ceremony
+\lf Gen
+\lv fet
+\le party, feast, holiday
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw French
+\dt 04/Feb/2014
 
 \lx -non
 \lc
@@ -11289,7 +14172,38 @@ superlatives.
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 17/Nov/2013
+
+\lx noskilom
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge thunder_and_lightning
+\ge thunder
+\ge lightning
+\re
+\de thunder; lightning; thunder and lightning
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Spec
+\lv no|sezgo
+\le lightning bolt
+\lf Spec
+\lv kilom
+\le thunder, rumble
+\cf
+\ce
+\sd
+\lt lightning bolt & thunderclap
+\mr no|sezgo-kilom
+\bw
+\dt 04/Feb/2014
 
 \lx nost
 \lc nos(t)
@@ -11353,7 +14267,8 @@ that north is on one's left side.
 \sd
 \lt
 \mr
-\dt 12/Apr/2013
+\bw
+\dt 17/Nov/2013
 
 \lx no|se
 \lc
@@ -11370,9 +14285,9 @@ that north is on one's left side.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Compound
+\lv no|sezgo
+\le lightning bolt
 \cf
 \ce
 \sd
@@ -11398,7 +14313,43 @@ like red.
 \sd
 \lt
 \mr
-\dt 07/Mar/2013
+\bw
+\dt 04/Feb/2014
+
+\lx no|sezgo
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge lightning_bolt
+\ge lightning
+\re
+\de lightning bolt; (when plural) lightning
+\oe This noun is a count noun.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv kilom
+\le thunder, rumble
+\lf Gen
+\lv noskilom
+\le thunder and lightning
+\lf Src
+\lv no|se
+\le brightness
+\lf Src
+\lv sezgo
+\le high speed
+\cf
+\ce
+\sd
+\lt brightness quick
+\mr no|se-sezgo
+\bw
+\dt 16/Feb/2014
 
 \lx nu-
 \lc
@@ -11425,7 +14376,8 @@ counters.
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 17/Nov/2013
 
 \lx nud
 \lc
@@ -11437,7 +14389,7 @@ counters.
 \ge clan
 \ge tribe
 \re
-\de
+\de (extended) family; clan, tribe
 \oe
 \ue
 \ee
@@ -11466,9 +14418,26 @@ counters.
 \cf
 \ce
 \sd
+\sn 3
+\ge link
+\re
+\de
+\oe Refers to abstract links only, not to
+physical ones.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
 \lt
 \mr
-\dt 17/Apr/2013
+\bw
+\dt 04/Feb/2014
 
 \lx nudel
 \lc
@@ -11492,7 +14461,8 @@ counters.
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 17/Nov/2013
 
 \lx numik
 \lc
@@ -11510,15 +14480,22 @@ counters.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv numut
+\le everything, all
+\lf Cpart
+\lv numun
+\le each one, all
+\lf Src
+\lv mik
+\le who
 \cf
 \ce
 \sd
 \lt every who
 \mr nu-mik
-\dt 28/Oct/2013
+\bw
+\dt 05/Feb/2014
 
 \lx numun
 \lc
@@ -11537,15 +14514,22 @@ not).
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv numik
+\le everyone, everybody
+\lf Cpart
+\lv numut
+\le everything, all
+\lf Src
+\lv mun
+\le which
 \cf
 \ce
 \sd
 \lt every which
 \mr nu-mun
-\dt 28/Oct/2013
+\bw
+\dt 06/Feb/2014
 
 \lx numut
 \lc
@@ -11562,15 +14546,22 @@ not).
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv numik
+\le everyone, everybody
+\lf Cpart
+\lv numun
+\le each one, all
+\lf Src
+\lv mut
+\le what
 \cf
 \ce
 \sd
 \lt every what
 \mr nu-mut
-\dt 28/Oct/2013
+\bw
+\dt 05/Feb/2014
 
 \lx |nalam
 \lc
@@ -11585,7 +14576,8 @@ not).
 \de lightness, low weight; also as adj. light
 \oe
 \ue
-\ee
+\ee Similar to fv:kamoj, but does not
+indicate softness.
 \xv
 \xe
 \lf
@@ -11612,12 +14604,16 @@ weak
 \lf Ant
 \lv ipiz
 \le heaviness, high strength
+\lf Compound
+\lv neg|nalam
+\le easiness, softness
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 04/Feb/2014
 
 \lx |negdin_kodidon
 \lc |negdin kodidon
@@ -11635,15 +14631,16 @@ weak
 participants, usually as a disjunct.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv neg
+\le to do, to act
 \cf
 \ce
 \sd
 \lt with while is doing
 \mr i-neg<d>-i-n ko-di-i-t<d>o-n
-\dt 28/Feb/2013
+\bw
+\dt 05/Feb/2014
 
 \lx |no
 \lc
@@ -11669,7 +14666,7 @@ participants, usually as a disjunct.
 \lf Cpart
 \lv zubzin
 \le lukewarm water
-\lf Cpart
+\lf Gen
 \lv vone
 \le cold water
 \cf
@@ -11717,9 +14714,11 @@ the freezing point of water.
 \lv dena
 \le high temperature, hotness, hot
 \lf Cpart
-\cf la|zi
-\ce high temperature, warmth, hotness,
+\lv la|zi
+\le high temperature, warmth, hotness,
 warm, hot (of weather)
+\cf
+\ce
 \cf
 \ce
 \sd
@@ -11727,10 +14726,93 @@ warm, hot (of weather)
 \ge glass
 \re
 \de glass (material)
-\oe
-\ue
-\ee Refers to the glass material itself, not
+\oe Refers to the glass material itself, not
 to glass vessels.
+\ue
+\ee
+\xv
+\xe
+\lf Syn
+\lv |nolum
+\le glass
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 05/Feb/2014
+
+\lx |nolum
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge glass
+\re
+\de glass (material)
+\oe Refers to the glass material itself, not
+to glass vessels.
+\ue
+\ee This compound was probably created
+because of the polysemy of fv:|no,
+which can make it ambiguous even in
+context.
+\xv
+\xe
+\lf Syn
+\lv |no
+\le glass, ice, cold
+\lf Src
+\lv luma
+\le falsehood, fiction
+\cf
+\ce
+\sd
+\lt ice fake
+\mr |no-luma
+\bw
+\dt 17/Feb/2014
+
+\lx |not
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge source
+\ge origin
+\re
+\de
+\oe Used with concepts and ideas, rather
+than with concrete items like rivers.
+\ue
+\ee
+\xv
+\xe
+\lf Syn
+\lv |za|not
+\le source, origin
+\cf
+\ce
+\sd
+\sn 2
+\ge cornerstone
+\ge principal_part
+\ge important
+\ge essential
+\ge principal
+\ge main
+\ge chief
+\re
+\de cornerstone, principal part; also as adj.
+important, essential, principal, main,
+chief
+\oe Means 'cornerstone' metaphorically
+only.
+\ue
+\ee
 \xv
 \xe
 \lf
@@ -11739,21 +14821,14 @@ to glass vessels.
 \cf
 \ce
 \sd
-\lt
-\mr
-\dt 23/Sep/2013
-
-\lx |nuba
-\lc
-\hm
-\ph
-\ps nc
-\sn
-\ge letter
-\ge character
+\sn 3
+\ge head
 \re
-\de
-\oe
+\de head (of a body)
+\oe One of the many words for 'head' in
+Moten, this one usually refers to the
+head of a human being or a fv:kit, i.e. a
+large animal.
 \ue
 \ee
 \xv
@@ -11766,7 +14841,35 @@ to glass vessels.
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 27/Dec/2013
+
+\lx |nuba
+\lc
+\hm
+\ph
+\ps nc
+\sn
+\ge letter
+\ge character
+\ge written_sign
+\re
+\de letter, character; (written) sign
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv pav
+\le digit
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 05/Feb/2014
 
 \lx o
 \lc
@@ -11777,21 +14880,28 @@ to glass vessels.
 \ge over_there
 \ge yonder
 \re
-\de over there, that place over there
+\de over there, that place over there;
+spatial pronoun indicating a location
+away from both the speaker and the
+listener
 \oe
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv a
+\le there, that place
+\lf Cpart
+\lv e
+\le here, this place
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 19/Nov/2013
 
 \lx odamla
 \lc
@@ -11810,15 +14920,22 @@ which is both newly made and newly
 acquired.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Ant
+\lv mabukol
+\le antiquity
+\lf Sim
+\lv odun
+\le youth
+\lf Sim
+\lv amla
+\le newness
 \cf
 \ce
 \sd
 \lt youth & newness
 \mr odun-amla
-\dt 28/Feb/2013
+\bw
+\dt 05/Feb/2014
 
 \lx odun
 \lc
@@ -11846,12 +14963,16 @@ indicate that they are young.
 \lf Sim
 \lv amla
 \le newness
+\lf Gen
+\lv ukodun
+\le age
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 14/Mar/2013
+\bw
+\dt 31/Jan/2014
 
 \lx okne
 \lc
@@ -11868,15 +14989,29 @@ indicate that they are young.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv oskan
+\le event, show, story
+\lf Min
+\lv oksin
+\le anecdote
+\lf Compound
+\lv oknese
+\le to recount, to talk about, to discuss, to
+debate
+\lf Compound
+\lv oknestul
+\le to read, to peruse
+\lf Compound
+\lv oknetina
+\le reading room
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 17/Feb/2014
 
 \lx oknese
 \lc
@@ -11913,15 +15048,25 @@ debate (sthg)
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv ja|zinse
+\le to discuss, to argue, to negotiate
+\lf Sim
+\lv oplese
+\le to discuss, to argue, to negotiate
+\lf Gen
+\lv se
+\le to say, to tell
+\lf Src
+\lv okne
+\le story, tale
 \cf
 \ce
 \sd
 \lt story say
 \mr okne-se
-\dt 23/Apr/2013
+\bw
+\dt 05/Feb/2014
 
 \lx oknestul
 \lc
@@ -11938,15 +15083,22 @@ debate (sthg)
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv sestul
+\le to recount, to read aloud
+\lf Cpart
+\lv nanag
+\le to write
+\lf Src
+\lv okne
+\le story, tale
 \cf
 \ce
 \sd
 \lt story summon
 \mr okne-stul
-\dt 28/Feb/2013
+\bw
+\dt 05/Feb/2014
 
 \lx oknetina
 \lc
@@ -11966,12 +15118,16 @@ debate (sthg)
 \lf Gen
 \lv tina
 \le room
+\lf Src
+\lv okne
+\le story, tale
 \cf
 \ce
 \sd
 \lt story room
 \mr okne-tina
-\dt 28/Feb/2013
+\bw
+\dt 05/Feb/2014
 
 \lx oksin
 \lc
@@ -12002,25 +15158,43 @@ debate (sthg)
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv okne
+\le story, tale
 \cf
 \ce
 \sd
 \lt little story
 \mr okne-sin
-\dt 28/Feb/2013
+\bw
+\dt 05/Feb/2014
 
 \lx ola
 \lc
 \hm
 \ph
 \ps vt
-\sn
+\sn 1
+\ge praise
 \ge glorify
 \re
-\de to glorify (s.o. or sthg)
+\de to praise (s.o. or sthg), to glorify (s.o.
+or sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge congratulate
+\re
+\de to congratulate (s.o. or sthg)
 \oe
 \ue
 \ee
@@ -12034,7 +15208,8 @@ debate (sthg)
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 05/Feb/2014
 
 \lx olnes
 \lc
@@ -12054,9 +15229,9 @@ sources.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Nact
+\lv olnesif
+\le expert
 \cf
 \ce
 \sd
@@ -12070,15 +15245,16 @@ sources.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv lin2
+\le to know by instinct
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 05/Feb/2014
 
 \lx olnesif
 \lc
@@ -12094,15 +15270,51 @@ sources.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv olnes
+\le to be an expert in, to know by heart
 \cf
 \ce
 \sd
 \lt one that is an expert
 \mr olnes-sif
-\dt 28/Feb/2013
+\bw
+\dt 05/Feb/2014
+
+\lx onep
+\lc
+\hm
+\ph
+\ps vt
+\sn
+\ge look
+\ge seem
+\ge seem_to_have
+\re
+\de to look (sthg), to seem (sthg), to seem
+to have (sthg)
+\oe Only used of fv:sponda, i.e. small
+animals, as well as inanimate objects or
+concepts.
+\ue
+\ee This verb refers to the impression a
+small animal or inanimate makes on the
+speaker.
+\xv
+\xe
+\lf Cpart
+\lv gus
+\le to look like, to seem to be
+\lf Sim
+\lv pinas
+\le to feel, to look, to seem to have
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 21/Dec/2013
 
 \lx o|nig
 \lc
@@ -12118,15 +15330,25 @@ sources.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv zobat
+\le spring
+\lf Cpart
+\lv emelog
+\le summer
+\lf Cpart
+\lv kele
+\le winter
+\lf Gen
+\lv log
+\le season
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 13/Jan/2014
 
 \lx o|nigzaj
 \lc
@@ -12142,15 +15364,22 @@ sources.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Whole
+\lv ada
+\le (calendar) year
+\lf Gen
+\lv mune
+\le (calendar) month
+\lf Src
+\lv o|nig
+\le autumn
 \cf
 \ce
 \sd
 \lt autumn start
 \mr o|nig-|zaj
-\dt 28/Feb/2013
+\bw
+\dt 17/Feb/2014
 
 \lx opa
 \lc
@@ -12172,15 +15401,19 @@ particle indicating additional elements
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv kej
+\le or, rather
+\lf Cpart
+\lv me|lo
+\le but, however
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 31/Jan/2014
 
 \lx ople
 \lc
@@ -12222,12 +15455,19 @@ them.
 \lf Cpart
 \lv ja|zin
 \le to give, to take, to transfer
+\lf Sim
+\lv medga
+\le to send, to receive, to transfer
+\lf Nug
+\lv oplez
+\le gift, present
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 24/Jan/2014
 
 \lx oplese
 \lc
@@ -12248,6 +15488,9 @@ them.
 \lv oknese
 \le to recount, to talk about, to discuss, to
 debate
+\lf Gen
+\lv se
+\le to say, to tell
 \cf
 \ce
 \sd
@@ -12294,7 +15537,8 @@ to an agreement'.
 \sd
 \lt give say
 \mr ople-se
-\dt 23/Apr/2013
+\bw
+\dt 24/Jan/2014
 
 \lx oplez
 \lc
@@ -12315,12 +15559,147 @@ speaker gave to someone else.
 \lf Cpart
 \lv ja|zinuz
 \le gift, present
+\lf Src
+\lv ople
+\le to give, to take, to transfer
 \cf
 \ce
 \sd
 \lt given
 \mr ople-z
-\dt 27/Mar/2013
+\bw
+\dt 24/Jan/2014
+
+\lx osk
+\lc os(k)
+\hm
+\ph
+\ps vi
+\sn 1
+\ge happen
+\ge proceed
+\ge take_place
+\re
+\de to happen, to proceed, to take place
+\oe Used of named, singular events, but
+also of series of events that are
+thematically related, like a story.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge play
+\ge be_played
+\re
+\de to play, to be played
+\oe Takes this sense when used with
+performance events, like theatre plays,
+recitals, concerts or films.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge last
+\re
+\de to last
+\oe Takes this sense when an indication of
+duration is present in the clause.
+\ue
+\ee
+\xv
+\xe
+\lf Nact
+\lv oskan
+\le event, show, story
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 05/Feb/2014
+
+\lx oskan
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge event
+\ge occasion
+\ge happening
+\re
+\de
+\oe
+\ue
+\ee This noun refers to an event as a single
+entity with a clear theme, typically an
+event with a name or title.
+\xv
+\xe
+\lf Compound
+\lv oskana|not
+\le celebration, ceremony
+\cf
+\ce
+\sd
+\sn 2
+\ge performance
+\ge work
+\ge play
+\ge film
+\ge concert
+\ge recital
+\ge show
+\re
+\de work, play, film, concert, recital, show;
+any kind of performance, whether live
+or recorded
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv osk
+\le to happen, to play, to last
+\cf
+\ce
+\sd
+\sn 3
+\ge story
+\ge tale
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Syn
+\lv okne
+\le story, tale
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 05/Feb/2014
 
 \lx oskana|not
 \lc
@@ -12346,20 +15725,28 @@ speaker gave to someone else.
 \ge ceremony
 \re
 \de
-\oe
+\oe Formal, refers to important, official
+and/or formal events.
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv fet
+\le party, feast, holiday
+\lf Src
+\lv oskan
+\le event, show, story
+\lf Src
+\lv |not
+\le source, origin, cornerstone, head
 \cf
 \ce
 \sd
-\lt
-\mr
-\dt 28/Feb/2013
+\lt event essential
+\mr oskan-|not
+\bw
+\dt 17/Feb/2014
 
 \lx ot
 \lc
@@ -12372,21 +15759,27 @@ speaker gave to someone else.
 \ge in_the_future
 \re
 \de once, formerly, in the future, that time
-then
+then; temporal pronoun indicating a
+remote time for both the speaker and
+the listener, in the past or the future
 \oe
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv et
+\le now, this time
+\lf Cpart
+\lv at
+\le then, that time
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 09/Jan/2014
 
 \lx otetoketito
 \lc
@@ -12414,7 +15807,8 @@ set in a mythical past.
 \sd
 \lt it was once and it is now
 \mr ot-etok-et-ito
-\dt 08/Oct/2013
+\bw
+\dt 18/Nov/2013
 
 \lx otez
 \lc
@@ -12481,7 +15875,8 @@ tough, sturdy
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 18/Nov/2013
 
 \lx oto
 \lc
@@ -12506,7 +15901,8 @@ tough, sturdy
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw French
+\dt 18/Nov/2013
 
 \lx otosubo
 \lc
@@ -12525,12 +15921,16 @@ tough, sturdy
 \lf Gen
 \lv subo
 \le shop, restaurant
+\lf Src
+\lv oto
+\le car
 \cf
 \ce
 \sd
 \lt car shop
 \mr oto-subo
-\dt 28/Feb/2013
+\bw
+\dt 05/Feb/2014
 
 \lx o|zeme
 \lc
@@ -12582,13 +15982,20 @@ of sustenance'.
 \xe
 \lf Cpart
 \lv psena
-\le to swallow, to ingest
+\le to swallow, to ingest, to smoke
+\lf Nug
+\lv o|zemez
+\le food, drink
+\lf Compound
+\lv o|zemetina
+\le dining room
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 11/Mar/2013
+\bw
+\dt 12/Feb/2014
 
 \lx o|zemetina
 \lc
@@ -12607,12 +16014,50 @@ of sustenance'.
 \lf Gen
 \lv tina
 \le room
+\lf Src
+\lv o|zeme
+\le to ingest, to eat, to drink
 \cf
 \ce
 \sd
 \lt ingest room
 \mr o|zeme-tina
-\dt 28/Feb/2013
+\bw
+\dt 05/Feb/2014
+
+\lx o|zemez
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge food
+\ge drink
+\ge foodstuff
+\ge beverage
+\re
+\de food, drink; any kind of substance, solid
+or liquid, that can be ingested for
+purpose of sustenance or
+thirst-quenching.
+\oe This noun is a count noun.
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv tolmos
+\le meal, fare, food
+\lf Src
+\lv o|zeme
+\le to ingest, to eat, to drink
+\cf
+\ce
+\sd
+\lt ingested
+\mr o|zeme-z
+\bw
+\dt 07/Feb/2014
 
 \lx pakipak
 \lc
@@ -12661,7 +16106,8 @@ imagination.
 \sd
 \lt
 \mr
-\dt 12/Sep/2013
+\bw
+\dt 18/Nov/2013
 
 \lx pa|na
 \lc
@@ -12677,15 +16123,19 @@ imagination.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Compound
+\lv pa|nasiza
+\le birthdate
+\lf Compound
+\lv pa|nastul
+\le to give birth to
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 05/Feb/2014
 
 \lx pa|nasiza
 \lc
@@ -12707,12 +16157,19 @@ day that this event happened.
 \lf Sim
 \lv adamla
 \le birthday
+\lf Src
+\lv pa|na
+\le birth
+\lf Src
+\lv siza
+\le (calendar) day
 \cf
 \ce
 \sd
 \lt birth day
 \mr pa|na-siza
-\dt 21/Mar/2013
+\bw
+\dt 17/Feb/2014
 
 \lx pa|nastul
 \lc
@@ -12728,19 +16185,20 @@ day that this event happened.
 \ee This is the standard verb used to refer
 to someone's birth, but in Moten it
 focusses on the mother's action, unlike
-the English "to be born", which
+the English 'to be born', which
 focusses on what happens to the child.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv pa|na
+\le birth
 \cf
 \ce
 \sd
 \lt birth summon
 \mr pa|na-stul
-\dt 21/Mar/2013
+\bw
+\dt 05/Feb/2014
 
 \lx pav
 \lc
@@ -12750,21 +16208,22 @@ focusses on what happens to the child.
 \sn
 \ge digit
 \re
-\de
+\de digit; (written) number sign
 \oe
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv |nuba
+\le letter, character
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 05/Feb/2014
 
 \lx pe-
 \lc
@@ -12790,7 +16249,10 @@ focusses on what happens to the child.
 \cf
 \ce
 \sd
-\dt 28/Feb/2013
+\lt
+\mr
+\bw
+\dt 18/Nov/2013
 
 \lx pele
 \lc
@@ -12801,20 +16263,28 @@ focusses on what happens to the child.
 \ge minute
 \re
 \de
-\oe
+\oe Refers to a minute both as a length of
+time and as a moment in time.
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Whole
+\lv siza
+\le (calendar) day
+\lf Whole
+\lv daj
+\le hour
+\lf Part
+\lv funa
+\le second, moment
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 10/Jan/2014
 
 \lx pelg
 \lc
@@ -12839,7 +16309,8 @@ contempt.
 \sd
 \lt
 \mr
-\dt 14/Mar/2013
+\bw
+\dt 18/Nov/2013
 
 \lx pe|la
 \lc
@@ -12872,9 +16343,15 @@ or s.o.)
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Compound
+\lv mikope|laz
+\le television
+\lf Compound
+\lv pe|lastul
+\le to show, to reveal
+\lf Nug
+\lv pe|laz
+\le image, picture, acquaintance
 \cf
 \ce
 \sd
@@ -12887,15 +16364,16 @@ or s.o.)
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv eksa
+\le to touch, to hit, to meet by chance
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 05/Feb/2014
 
 \lx pe|lastul
 \lc
@@ -12911,9 +16389,9 @@ or s.o.)
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Ninst
+\lv ipe|lastu|l
+\le indicator, finger
 \cf
 \ce
 \sd
@@ -12926,15 +16404,16 @@ or s.o.)
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv pe|la
+\le to see, to watch
 \cf
 \ce
 \sd
 \lt see summon
 \mr pe|la-stul
-\dt 28/Feb/2013
+\bw
+\dt 05/Feb/2014
 
 \lx pe|laz
 \lc
@@ -12951,9 +16430,9 @@ or s.o.)
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv pe|la
+\le to see, to watch
 \cf
 \ce
 \sd
@@ -12975,7 +16454,8 @@ or s.o.)
 \sd
 \lt seen
 \mr pe|la-z
-\dt 03/Jul/2013
+\bw
+\dt 05/Feb/2014
 
 \lx pen-
 \lc
@@ -13009,7 +16489,8 @@ little/few, not enough
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 18/Nov/2013
 
 \lx penla
 \lc
@@ -13041,15 +16522,22 @@ little/few, not enough
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Compound
+\lv penlabuta
+\le to sit and wait, to be patient
+\lf Compound
+\lv penlastul
+\le to invite, to ask out
+\lf Compound
+\lv penlatina
+\le waiting room
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 05/Feb/2014
 
 \lx penlabuta
 \lc
@@ -13080,15 +16568,19 @@ little/few, not enough
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv penla
+\le to wait for, to expect
+\lf Src
+\lv buta
+\le to sit
 \cf
 \ce
 \sd
 \lt wait & sit
 \mr penla-buta
-\dt 28/Feb/2013
+\bw
+\dt 05/Feb/2014
 
 \lx penlastul
 \lc
@@ -13119,15 +16611,16 @@ little/few, not enough
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv penla
+\le to wait for, to expect
 \cf
 \ce
 \sd
 \lt wait & summon
 \mr penla-stul
-\dt 28/Feb/2013
+\bw
+\dt 05/Feb/2014
 
 \lx penlatina
 \lc
@@ -13146,12 +16639,16 @@ little/few, not enough
 \lf Gen
 \lv tina
 \le room
+\lf Src
+\lv penla
+\le to wait for, to expect
 \cf
 \ce
 \sd
 \lt wait room
 \mr penla-tina
-\dt 28/Feb/2013
+\bw
+\dt 05/Feb/2014
 
 \lx pinas
 \lc
@@ -13165,7 +16662,11 @@ little/few, not enough
 \re
 \de to feel (sthg), to look (sthg), to seem to
 have (sthg)
-\oe
+\oe Normally only used with animate
+beings (usually only human beings and
+large animals, i.e. fv:kit, although it can
+be used with pets, even when those
+would be considered fv:sponda).
 \ue
 \ee Used with a first person subject, this
 verb usually means 'to feel', referring
@@ -13183,12 +16684,19 @@ speaker.
 \lv gi|no
 \le to feel (an external sensation), to
 understand
+\lf Sim
+\lv onep
+\le to look, to seem to have
+\lf Compound
+\lv valpinas
+\le to imagine, to fantasise
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 11/Feb/2014
 
 \lx piv
 \lc
@@ -13245,12 +16753,19 @@ starting point for measuring height.
 \lf Ant
 \lv fin
 \le top, great height, shallowness
+\lf Cpart
+\lv be|s
+\le average height, average depth
+\lf Gen
+\lv finpiv
+\le height, depth, altitude
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 14/Jan/2014
 
 \lx pleg
 \lc
@@ -13271,12 +16786,16 @@ starting point for measuring height.
 \lf Ant
 \lv tuna
 \le big size
+\lf Gen
+\lv tunapleg
+\le size
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 05/Feb/2014
 
 \lx plis
 \lc
@@ -13293,15 +16812,16 @@ starting point for measuring height.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Nact
+\lv plisif
+\le ruler, lord, lady
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 05/Feb/2014
 
 \lx plisif
 \lc
@@ -13319,15 +16839,16 @@ starting point for measuring height.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv plis
+\le to reign, to rule
 \cf
 \ce
 \sd
 \lt one who rules
 \mr plis-sif
-\dt 28/Feb/2013
+\bw
+\dt 05/Feb/2014
 
 \lx pmav
 \lc
@@ -13368,7 +16889,8 @@ an adjective in English).
 \sd
 \lt
 \mr
-\dt 26/Sep/2013
+\bw
+\dt 18/Nov/2013
 
 \lx poga
 \lc
@@ -13405,12 +16927,16 @@ an adjective in English).
 \lf Cpart
 \lv bivo
 \le quantity, number, cardinal number
+\lf Compound
+\lv pogastul
+\le to rank
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 10/Jan/2014
 
 \lx pogastul
 \lc
@@ -13430,12 +16956,16 @@ an adjective in English).
 \lf Cpart
 \lv bivostul
 \le to count, to measure
+\lf Src
+\lv poga
+\le rank, ordinal number
 \cf
 \ce
 \sd
 \lt rank summon
 \mr poga-stul
-\dt 28/Feb/2013
+\bw
+\dt 10/Jan/2014
 
 \lx pogla
 \lc
@@ -13463,12 +16993,16 @@ fv:sigoj instead.
 \lf Cpart
 \lv sigoj
 \le name
+\lf Gen
+\lv lugen
+\le word
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 05/Feb/2014
 
 \lx Polis
 \lc
@@ -13492,14 +17026,15 @@ fv:sigoj instead.
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw French
+\dt 05/Feb/2014
 
 \lx polpolt
 \lc polpol(t)
 \hm
 \ph
 \ps vi
-\sn
+\sn 1
 \ge break_open
 \re
 \de to break open, to open in a way that
@@ -13516,9 +17051,28 @@ and windows.
 \cf
 \ce
 \sd
+\sn 2
+\ge unseal
+\re
+\de to unseal
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv indin(d)
+\le to lock, to seal
+\lf Src
+\lv pol(t)
+\le to open
+\cf
+\ce
+\sd
 \lt open open
 \mr polt-polt
-\dt 21/Oct/2013
+\bw
+\dt 23/Jan/2014
 
 \lx polt
 \lc pol(t)
@@ -13529,21 +17083,33 @@ and windows.
 \ge open
 \re
 \de to open
-\oe Used with openings, for instance doors
-and windows.
+\oe Used with openings and obstructions,
+for instance doors and windows. Taps,
+gates, barriers and borders also fall
+under this category.
 \ue
 \ee
 \xv
 \xe
 \lf Ant
-\lv ind
+\lv in(d)
 \le to close, to shut
+\lf Sim
+\lv ize
+\le to open, to unpack
+\lf Max
+\lv polpol(t)
+\le to break open
+\lf Nact
+\lv poltuz
+\le door
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 21/Oct/2013
+\bw
+\dt 23/Jan/2014
 
 \lx poltuz
 \lc
@@ -13562,12 +17128,16 @@ and windows.
 \lf Sim
 \lv induz
 \le window
+\lf Src
+\lv pol(t)
+\le to open
 \cf
 \ce
 \sd
 \lt opened
 \mr polt-z
-\dt 21/Oct/2013
+\bw
+\dt 23/Jan/2014
 
 \lx poma
 \lc
@@ -13588,15 +17158,22 @@ to the area just below it down to the
 shoulder joints.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Compound
+\lv bnampoma
+\le ankle
+\lf Compound
+\lv jespoma
+\le wrist
+\lf Idiom
+\lv |lapoma
+\le necklace
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 30/Jan/2014
 
 \lx psena
 \lc
@@ -13630,7 +17207,7 @@ swallowing or ingesting things for
 non-nutritional purposes. Swallowing
 one's saliva is fv:ipsenaj, as well as
 taking medecine. It can also be used to
-mean "to smoke".
+mean 'to smoke'.
 \xv
 \xe
 \lf Cpart
@@ -13641,7 +17218,8 @@ mean "to smoke".
 \sd
 \lt
 \mr
-\dt 11/Mar/2013
+\bw
+\dt 18/Nov/2013
 
 \lx puton
 \lc
@@ -13677,7 +17255,8 @@ undressed'.
 \sd
 \lt
 \mr
-\dt 10/Sep/2013
+\bw
+\dt 18/Nov/2013
 
 \lx -s
 \lc
@@ -13702,7 +17281,8 @@ present tense verbs
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 18/Nov/2013
 
 \lx -s-
 \lc
@@ -13726,7 +17306,8 @@ present tense verbs
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 18/Nov/2013
 
 \lx saj
 \lc
@@ -13738,9 +17319,11 @@ present tense verbs
 \ge really
 \ge just
 \ge the_very
+\ge for_sure
 \re
-\de definitely, really, just, the very; particle
-emphasising the validity of an element
+\de definitely, really, just, the very, for sure;
+particle emphasising the validity of an
+element
 \oe
 \ue
 \ee
@@ -13763,15 +17346,168 @@ emphasising the validity of an element
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Ant
+\lv mu
+\le not, no, no way
+\lf Ant
+\lv us
+\le not, it is false that
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 17/Feb/2014
+
+\lx saj_ko|lea
+\lc saj ko|lea
+\hm
+\ph
+\ps exp
+\sn 1
+\ge greetings
+\ge hello
+\ge welcome
+\ge good_day
+\ge good_morning
+\ge good_afternoon
+\ge good_evening
+\re
+\de 'greetings', 'hello', 'welcome', 'good
+day', 'good morning', 'good afternoon',
+'good evening'
+\oe Asymmetric: only the person receiving
+the other (or greeting the other first)
+uses this expression.
+\ue Polite. When used among friends, it
+has the strong sense of 'welcome', and
+is used when people haven't seen each
+other for a long time.
+\ee
+\xv
+\xe
+\lf Sim
+\lv mejto
+\le hello, hi
+\cf
+\ce
+\sd
+\sn 2
+\ge good_bye
+\ge regards
+\ge have_a_nice_trip
+\ge good_night
+\re
+\de 'good bye', 'regards', 'have a nice trip',
+'good night'
+\oe Asymmetric: only the person staying
+behind uses this expression.
+\ue Polite. When used among friends, it
+has the strong sense of 'have a nice
+trip', and is used when people aren't
+expected to see each other for a long
+time.
+\ee
+\xv
+\xe
+\lf Sim
+\lv |lag
+\le good bye, bye
+\lf Src
+\lv |la
+\le peace, good health
+\cf
+\ce
+\sd
+\lt definitely with the peace
+\mr saj ko-|l<e>a
+\bw
+\dt 28/Jan/2014
+
+\lx saj_|laba
+\lc saj |laba
+\hm
+\ph
+\ps exp
+\sn
+\ge same_here
+\ge my_pleasure
+\ge thank_you
+\ge it_is_I_who_should_say_so
+\re
+\de 'same here', 'my pleasure', 'thank you',
+'it is I who should say so'
+\oe Used when speaking to a single
+person.
+\ue Can be used in any register, although in
+informal registers it sounds especially
+apologetic.
+\ee This expression is used as a reply to
+someone else (especially with
+greetings, thanks, compliments and
+apologies), when one wants to
+reciprocate the feeling that person
+expressed, and/or to indicate that one
+thinks that person is more worthy of
+that feeling than oneself.
+\xv
+\xe
+\lf Sim
+\lv saj_|latelba
+\le same here
+\lf Src
+\lv ba
+\le you.SG
+\cf
+\ce
+\sd
+\lt definitely for you.SG
+\mr saj |la-ba
+\bw
+\dt 06/Feb/2014
+
+\lx saj_|latelba
+\lc saj |latelba
+\hm
+\ph
+\ps exp
+\sn
+\ge same_here
+\ge my_pleasure
+\ge thank_you
+\ge it_is_I_who_should_say_so
+\re
+\de 'same here', 'my pleasure', 'thank you',
+'it is I who should say so'
+\oe Used when speaking to a group of
+people.
+\ue Can be used in any register, although in
+informal registers it sounds especially
+apologetic.
+\ee This expression is used as a reply to
+other people (especially with greetings,
+thanks, compliments and apologies),
+when one wants to reciprocate the
+feelings those people expressed, and/or
+to indicate that one thinks those people
+are more worthy of those feelings than
+oneself.
+\xv
+\xe
+\lf Sim
+\lv saj_|laba
+\le same here
+\lf Src
+\lv telba
+\le you.PL
+\cf
+\ce
+\sd
+\lt definitely for you.PL
+\mr saj |la-tel-ba
+\bw
+\dt 06/Feb/2014
 
 \lx sambivo
 \lc
@@ -13795,7 +17531,8 @@ emphasising the validity of an element
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 18/Nov/2013
 
 \lx samlugen
 \lc
@@ -13814,15 +17551,22 @@ the class that covers both interjections
 and clitics.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv neglugen
+\le verb
+\lf Cpart
+\lv tolugen
+\le nominal
+\lf Gen
+\lv lugen
+\le word
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 11/Feb/2014
 
 \lx samsigoj
 \lc
@@ -13839,15 +17583,16 @@ and clitics.
 name.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Whole
+\lv sigoj
+\le name
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 17/Feb/2014
 
 \lx se
 \lc
@@ -13861,20 +17606,24 @@ name.
 \de to say (sthg), to tell (sthg)
 \oe
 \ue When used in the desiderative mood,
-this verb can take on the meaning "to
-mean", as in French "vouloir dire".
+this verb can take on the meaning 'to
+mean', as in French 'vouloir dire'.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv gebez
+\le to speak, to talk
+\lf Spec
+\lv fi|zon
+\le to ask, to beg
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 30/May/2013
+\bw
+\dt 06/Feb/2014
 
 \lx se-
 \lc
@@ -13902,7 +17651,8 @@ counters.
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 18/Nov/2013
 
 \lx sejf
 \lc sej(f)
@@ -13927,7 +17677,8 @@ counters.
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 18/Nov/2013
 
 \lx seliz
 \lc
@@ -13943,15 +17694,22 @@ counters.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Deriv
+\lv selizif
+\le cherry tree
+\lf Gen
+\lv tales(k)
+\le fruit, vegetable
+\lf Gen
+\lv o|zemez
+\le food, drink
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw French
+\dt 06/Feb/2014
 
 \lx selizif
 \lc
@@ -13967,15 +17725,16 @@ counters.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv seliz
+\le cherry
 \cf
 \ce
 \sd
 \lt cherry-er
 \mr seliz-sif
-\dt 28/Feb/2013
+\bw
+\dt 06/Feb/2014
 
 \lx semik
 \lc
@@ -13994,15 +17753,22 @@ counters.
 speaker's ignorance of the referent.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv semut
+\le something, who knows what
+\lf Cpart
+\lv semun
+\le some, who knows which
+\lf Src
+\lv mik
+\le who
 \cf
 \ce
 \sd
 \lt I don't know who
 \mr se-mik
-\dt 28/Oct/2013
+\bw
+\dt 06/Feb/2014
 
 \lx semun
 \lc
@@ -14023,15 +17789,22 @@ not).
 speaker's ignorance of the referent.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv semik
+\le someone, somebody, who knows who
+\lf Cpart
+\lv semut
+\le something, who knows what
+\lf Src
+\lv mun
+\le which
 \cf
 \ce
 \sd
 \lt I don't know which
 \mr se-mun
-\dt 28/Oct/2013
+\bw
+\dt 06/Feb/2014
 
 \lx semut
 \lc
@@ -14049,15 +17822,22 @@ speaker's ignorance of the referent.
 speaker's ignorance of the referent.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv semik
+\le someone, somebody, who knows who
+\lf Cpart
+\lv semun
+\le some, who knows which
+\lf Src
+\lv mut
+\le what
 \cf
 \ce
 \sd
 \lt I don't know what
 \mr se-mut
-\dt 28/Oct/2013
+\bw
+\dt 06/Feb/2014
 
 \lx sen
 \lc
@@ -14073,15 +17853,16 @@ speaker's ignorance of the referent.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv bivo
+\le quantity, cardinal number
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 06/Feb/2014
 
 \lx senadan
 \lc
@@ -14098,15 +17879,16 @@ speaker's ignorance of the referent.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv ada
+\le (calendar) year
 \cf
 \ce
 \sd
 \lt for one thousand years
 \mr sen-ad<d>a-n
-\dt 28/Feb/2013
+\bw
+\dt 06/Feb/2014
 
 \lx sengi|no
 \lc
@@ -14136,16 +17918,20 @@ difficult to understand and to handle.
 \xe
 \lf Ant
 \lv sugi|no
-\le simplicity
+\le simplicity, easiness
 \lf Sim
 \lv negipiz
 \le difficulty, hardness
+\lf Src
+\lv gi|no
+\le to feel, to understand
 \cf
 \ce
 \sd
 \lt thousand understand
 \mr sen-gi|no
-\dt 28/Feb/2013
+\bw
+\dt 21/Jan/2014
 
 \lx senod
 \lc
@@ -14165,15 +17951,16 @@ difficult to understand and to handle.
 and the ground or floor we walk on.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Compound
+\lv senodjem
+\le way, road
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 27/Oct/2013
+\bw
+\dt 07/Feb/2014
 
 \lx senodjem
 \lc
@@ -14190,15 +17977,19 @@ and the ground or floor we walk on.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv senod
+\le earth, ground
+\lf Src
+\lv jem
+\le river, brook
 \cf
 \ce
 \sd
 \lt ground river
 \mr senod-jem
-\dt 28/Feb/2013
+\bw
+\dt 07/Feb/2014
 
 \lx senodmune
 \lc
@@ -14214,15 +18005,22 @@ and the ground or floor we walk on.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Whole
+\lv ada
+\le (calendar) year
+\lf Gen
+\lv mune
+\le (calendar) month
+\lf Src
+\lv senod
+\le earth, ground
 \cf
 \ce
 \sd
 \lt earth month
 \mr senod-mune
-\dt 28/Feb/2013
+\bw
+\dt 17/Feb/2014
 
 \lx seno|ziza
 \lc
@@ -14238,15 +18036,22 @@ and the ground or floor we walk on.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Whole
+\lv negesizdan
+\le week
+\lf Gen
+\lv siza
+\le (calendar) day
+\lf Src
+\lv senod
+\le earth, ground
 \cf
 \ce
 \sd
 \lt earth day
 \mr senod-siza
-\dt 28/Feb/2013
+\bw
+\dt 17/Feb/2014
 
 \lx sentalu
 \lc
@@ -14262,15 +18067,16 @@ and the ground or floor we walk on.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv talu
+\le flower, blossom
 \cf
 \ce
 \sd
 \lt thousand flower
 \mr sen-talu
-\dt 28/Feb/2013
+\bw
+\dt 07/Feb/2014
 
 \lx sestul
 \lc
@@ -14302,15 +18108,22 @@ and the ground or floor we walk on.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv oknestul
+\le to read, to peruse
+\lf Cpart
+\lv nanag
+\le to write
+\lf Src
+\lv se
+\le to say, to tell
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 17/Feb/2014
 
 \lx sezbon
 \lc
@@ -14328,15 +18141,19 @@ speed, not to a specific value of speed.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Spec
+\lv bontu
+\le low speed
+\lf Spec
+\lv sezgo
+\le high speed
 \cf
 \ce
 \sd
 \lt high speed & low speed
 \mr sezgo-bontu
-\dt 28/Feb/2013
+\bw
+\dt 10/Jan/2014
 
 \lx sezgo
 \lc
@@ -14359,12 +18176,19 @@ quick, fast
 \lf Ant
 \lv bontu
 \le low speed
+\lf Compound
+\lv mosezgo
+\le cheetah
+\lf Gen
+\lv sezbon
+\le velocity, speed
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 15/Feb/2014
 
 \lx -sif
 \lc
@@ -14410,7 +18234,8 @@ or flower they carry
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 18/Nov/2013
 
 \lx sigoj
 \lc
@@ -14432,12 +18257,19 @@ names in general, use fv:pogla.
 \lf Cpart
 \lv pogla
 \le name, title
+\lf Part
+\lv samsigoj
+\le given name
+\lf Gen
+\lv lugen
+\le word
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 17/Feb/2014
 
 \lx -sin
 \lc
@@ -14464,7 +18296,8 @@ names in general, use fv:pogla.
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 18/Nov/2013
 
 \lx siza
 \lc
@@ -14475,21 +18308,68 @@ names in general, use fv:pogla.
 \ge day
 \ge calendar_day
 \re
-\de
-\oe
+\de (calendar) day
+\oe Refers to a calendar day in dates. Can
+refer to a length of time as well, but
+always in terms of calendar days
+rather than of arbitrary periods of 24
+hours.
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Whole
+\lv ada
+\le (calendar) year
+\lf Whole
+\lv mune
+\le (calendar) month
+\lf Part
+\lv daj
+\le hour
+\lf Part
+\lv pele
+\le minute
+\lf Part
+\lv funa
+\le second, moment
+\lf Part
+\lv gom
+\le day
+\lf Part
+\lv dod
+\le night
+\lf Spec
+\lv kelsiza
+\le Monday
+\lf Spec
+\lv a|siza
+\le Tuesday
+\lf Spec
+\lv vonesiza
+\le Wednesday
+\lf Spec
+\lv ibosiza
+\le Thursday
+\lf Spec
+\lv seno|ziza
+\le Friday
+\lf Spec
+\lv apasiza
+\le Saturday
+\lf Spec
+\lv emesiza
+\le Sunday
+\lf Sim
+\lv gomdod
+\le day, day & night
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 28/Feb/2013
+\bw
+\dt 11/Feb/2014
 
 \lx slebe
 \lc
@@ -14508,15 +18388,19 @@ of Internet trolls.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv slim
+\le ugliness, inappropriateness
+\lf Src
+\lv tlebe
+\le mediocrity
 \cf
 \ce
 \sd
 \lt inappropriateness & mediocrity
 \mr slim-tlebe
-\dt 28/Feb/2013
+\bw
+\dt 07/Feb/2014
 
 \lx slim
 \lc
@@ -14563,12 +18447,19 @@ inappropriate, unfit for purpose, bad
 \lf Sim
 \lv tlebe
 \le mediocrity
+\lf Compound
+\lv slebe
+\le trollishness
+\lf Gen
+\lv voslim
+\le beauty, appropriateness
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 07/Feb/2014
 
 \lx slimpinas
 \lc
@@ -14577,9 +18468,10 @@ inappropriate, unfit for purpose, bad
 \ps vi
 \sn
 \ge look_ugly
+\ge feel_ugly
 \ge be_ugly
 \re
-\de to look ugly, to be ugly
+\de to look ugly, to feel ugly, to be ugly
 \oe
 \ue
 \ee
@@ -14601,8 +18493,13 @@ inappropriate, unfit for purpose, bad
 \de (physical) ugliness; also as adj. ugly,
 bad-looking
 \oe Refers strictly to one's physical
-appearance, and normally never used
-for oneself.
+appearance, although it takes a
+metaphorical meaning when it is used
+of oneself. Only applies to animate
+beings (usually only human beings and
+large animals, i.e. fv:kit, although it can
+apply to pets, even when those are
+fv:sponda).
 \ue
 \ee
 \xv
@@ -14613,12 +18510,16 @@ for oneself.
 \lf Sim
 \lv slim
 \le ugliness, inappropriateness
+\lf Src
+\lv pinas
+\le to feel, to look
 \cf
 \ce
 \sd
 \lt ugliness look
 \mr slim-pinas
-\dt 05/Mar/2013
+\bw
+\dt 17/Feb/2014
 
 \lx smelt
 \lc smel(t)
@@ -14690,7 +18591,8 @@ for oneself.
 \sd
 \lt
 \mr
-\dt 23/Sep/2013
+\bw
+\dt 18/Nov/2013
 
 \lx son
 \lc
@@ -14719,7 +18621,8 @@ suffix to mean 'to get ready to'.
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 18/Nov/2013
 
 \lx spe
 \lc
@@ -14748,7 +18651,8 @@ correspond to 'to be + adjective'.
 \sd
 \lt
 \mr
-\dt 26/Sep/2013
+\bw
+\dt 18/Nov/2013
 
 \lx sponda
 \lc
@@ -14763,7 +18667,10 @@ correspond to 'to be + adjective'.
 human being
 \oe Typically, the speaker uses their own
 size as base, and generally does so in a
-rather fuzzy way.
+rather fuzzy way. In particular, a
+speaker will often classify an animal as
+fv:sponda to imply cuteness, even if the
+animal is actually bigger than they are.
 \ue
 \ee
 \xv
@@ -14771,12 +18678,16 @@ rather fuzzy way.
 \lf Cpart
 \lv kit
 \le large animal
+\lf Whole
+\lv spondakit
+\le fauna
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 10/Feb/2014
 
 \lx spondakit
 \lc
@@ -14793,15 +18704,22 @@ rather fuzzy way.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Part
+\lv sponda
+\le small animal
+\lf Part
+\lv kit
+\le large animal
+\lf Compound
+\lv spondakitpel
+\le zoology
 \cf
 \ce
 \sd
 \lt small & large animal
 \mr sponda-kit
-\dt 06/Mar/2013
+\bw
+\dt 10/Feb/2014
 
 \lx spondakitpel
 \lc
@@ -14817,15 +18735,19 @@ rather fuzzy way.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv spondakit
+\le fauna
+\lf Src
+\lv bel
+\le art, craft
 \cf
 \ce
 \sd
 \lt small & large animal art
 \mr sponda-kit-bel
-\dt 06/Mar/2013
+\bw
+\dt 17/Feb/2014
 
 \lx ssii
 \lc
@@ -14851,7 +18773,8 @@ and is used as a speech filler.
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 18/Nov/2013
 
 \lx ssp
 \lc
@@ -14877,7 +18800,8 @@ silence.
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 18/Nov/2013
 
 \lx status
 \lc
@@ -14897,15 +18821,16 @@ geographical entity.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv venla
+\le people, tribe, nation
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw Latin
+\dt 11/Feb/2014
 
 \lx steo
 \lc
@@ -14940,7 +18865,70 @@ middle voice, it is equivalent to 'to get
 \sd
 \lt
 \mr
-\dt 10/Sep/2013
+\bw
+\dt 18/Nov/2013
+
+\lx stolge
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge love
+\ge affection
+\ge natural_affection
+\ge parental_affection
+\ge familial_love
+\re
+\de natural love, affection between family
+members; also the instinctive affection
+animals have for their young
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv majta
+\le romantic love
+\lf Sim
+\lv teoluz
+\le non-romantic love, friendship
+\lf Sim
+\lv gizez
+\le sexual attraction
+\cf
+\ce
+\sd
+\ps vt
+\sn
+\ge like
+\ge love
+\re
+\de to like (s.o.), to love (s.o.)
+\oe Only used with family members or
+people that are considered
+metaphorically family.
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv majtage
+\le to love, to feel romantically attracted to
+\lf Sim
+\lv teol
+\le to please, to like, to be fond of
+\lf Sim
+\lv gize
+\le to please, to like, to enjoy, to love
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw Ancient Greek?
+\dt 25/Dec/2013
 
 \lx stul
 \lc
@@ -14957,9 +18945,9 @@ middle voice, it is equivalent to 'to get
 \ee Commonly used in compounds.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Compound
+\lv mikostul
+\le to phone
 \cf
 \ce
 \sd
@@ -14984,7 +18972,8 @@ to be animate.
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 03/Feb/2014
 
 \lx su
 \lc
@@ -15000,15 +18989,16 @@ to be animate.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv bivo
+\le quantity, cardinal number
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 10/Feb/2014
 
 \lx subo
 \lc
@@ -15025,9 +19015,9 @@ to be animate.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Compound
+\lv subumpi
+\le shophouse
 \cf
 \ce
 \sd
@@ -15050,7 +19040,8 @@ restaurants.
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 10/Feb/2014
 
 \lx subumpi
 \lc
@@ -15066,15 +19057,19 @@ restaurants.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv subo
+\le shop, restaurant
+\lf Src
+\lv umpi
+\le house, home
 \cf
 \ce
 \sd
 \lt shop house
 \mr subo-umpi
-\dt 04/Mar/2013
+\bw
+\dt 10/Feb/2014
 
 \lx sugem
 \lc
@@ -15107,15 +19102,16 @@ intransitive.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv gem
+\le to gather, to accumulate
 \cf
 \ce
 \sd
 \lt one gather
 \mr su-gem
-\dt 04/Mar/2013
+\bw
+\dt 17/Jan/2014
 
 \lx sugi|no
 \lc
@@ -15146,16 +19142,20 @@ read and to handle.
 \xe
 \lf Ant
 \lv sengi|no
-\le complexity
+\le complexity, difficulty
 \lf Sim
 \lv neg|nalam
 \le easiness, softness
+\lf Src
+\lv gi|no
+\le to feel, to understand
 \cf
 \ce
 \sd
 \lt one understand
 \mr su-gi|no
-\dt 04/Mar/2013
+\bw
+\dt 21/Jan/2014
 
 \lx sujez
 \lc
@@ -15176,15 +19176,16 @@ translated in Moten as fv:sujedezun fv:
 agem: 'to have the agreement'.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv jez
+\le hand
 \cf
 \ce
 \sd
 \lt one hand
 \mr su-jez
-\dt 11/Apr/2013
+\bw
+\dt 11/Feb/2014
 
 \lx Sujomi
 \lc
@@ -15200,15 +19201,16 @@ agem: 'to have the agreement'.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv status
+\le state, country, nation
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw Finnish
+\dt 11/Feb/2014
 
 \lx |saa
 \lc
@@ -15225,15 +19227,16 @@ agem: 'to have the agreement'.
 sound of a heavy rain fall.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv tlitlap
+\le pitter patter
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 14/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx |se
 \lc
@@ -15251,15 +19254,22 @@ water
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv kafe
+\le coffee
+\lf Compound
+\lv |sesubo
+\le tea house
+\lf Gen
+\lv o|zemez
+\le food, drink
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw Chinese
+\dt 17/Feb/2014
 
 \lx |sesubo
 \lc
@@ -15278,12 +19288,16 @@ water
 \lf Gen
 \lv subo
 \le shop, restaurant
+\lf Src
+\lv |se
+\le tea
 \cf
 \ce
 \sd
 \lt tea shop
 \mr |se-subo
-\dt 04/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx |siga
 \lc
@@ -15314,7 +19328,9 @@ water
 \de to disagree
 \oe Used to indicate that one does not
 concur with some person or opinion.
-\ue
+\ue Often used in conversation as a
+stronger but more polite way of saying
+'no'.
 \ee
 \xv
 \xe
@@ -15326,7 +19342,8 @@ concur with some person or opinion.
 \sd
 \lt
 \mr
-\dt 10/Apr/2013
+\bw
+\dt 04/Feb/2014
 
 \lx |sim
 \lc
@@ -15342,15 +19359,16 @@ concur with some person or opinion.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv bivo
+\le quantity, cardinal number
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx |sukamo
 \lc
@@ -15381,15 +19399,19 @@ concur with some person or opinion.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv amo
+\le different-sex sibling, cousin or friend
+\lf Src
+\lv |suko
+\le same-sex sibling, cousin or friend
 \cf
 \ce
 \sd
 \lt same-sex & different-sex sibling
 \mr |suko-amo
-\dt 04/Mar/2013
+\bw
+\dt 09/Jan/2014
 
 \lx |suko
 \lc
@@ -15403,9 +19425,10 @@ concur with some person or opinion.
 \ge sister
 \ge cousin
 \re
-\de someone who is ego's sibling or first
-cousin (child of an uncle or aunt of
-ego), of the same sex as ego
+\de same-sex sibling or cousin; someone
+who is ego's sibling or first cousin
+(child of an uncle or aunt of ego), of
+the same sex as ego
 \oe
 \ue
 \ee
@@ -15434,12 +19457,16 @@ registers.
 \lf Cpart
 \lv amo
 \le different-sex sibling, cousin or friend
+\lf Compound
+\lv |sukamo
+\le (family) generation
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 09/Jan/2014
 
 \lx ta-
 \lc
@@ -15466,7 +19493,8 @@ counters.
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 18/Nov/2013
 
 \lx talesk
 \lc tales(k)
@@ -15486,15 +19514,19 @@ vegetal produce used for sustenance
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Compound
+\lv talesubo
+\le greengrocer's
+\lf Gen
+\lv o|zemez
+\le food, drink
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx talesubo
 \lc
@@ -15513,12 +19545,16 @@ vegetal produce used for sustenance
 \lf Gen
 \lv subo
 \le shop, restaurant
+\lf Src
+\lv tales(k)
+\le fruit, vegetable
 \cf
 \ce
 \sd
 \lt vegetal produce shop
 \mr talesk-subo
-\dt 04/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx talu
 \lc
@@ -15539,12 +19575,19 @@ growing on a bush, shrub or tree
 \lf Sim
 \lv knamafin
 \le flower
+\lf Gen
+\lv |zenk
+\le large plant
+\lf Gen
+\lv |zensin
+\le small plant
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 24/Jan/2014
 
 \lx tamik
 \lc
@@ -15561,15 +19604,22 @@ growing on a bush, shrub or tree
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv tamut
+\le something
+\lf Cpart
+\lv tamun
+\le some
+\lf Src
+\lv mik
+\le who
 \cf
 \ce
 \sd
 \lt some who
 \mr ta-mik
-\dt 28/Oct/2013
+\bw
+\dt 11/Feb/2014
 
 \lx tamun
 \lc
@@ -15588,15 +19638,22 @@ not).
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv tamik
+\le someone, somebody
+\lf Cpart
+\lv tamut
+\le something
+\lf Src
+\lv mun
+\le which
 \cf
 \ce
 \sd
 \lt some which
 \mr ta-mun
-\dt 28/Oct/2013
+\bw
+\dt 11/Feb/2014
 
 \lx tamut
 \lc
@@ -15612,15 +19669,22 @@ not).
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv tamik
+\le someone, somebody
+\lf Cpart
+\lv tamun
+\le some
+\lf Src
+\lv mut
+\le what
 \cf
 \ce
 \sd
 \lt some what
 \mr ta-mut
-\dt 28/Oct/2013
+\bw
+\dt 11/Feb/2014
 
 \lx te-
 \lc
@@ -15644,7 +19708,8 @@ not).
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 18/Nov/2013
 
 \lx teba
 \lc
@@ -15673,12 +19738,16 @@ family
 \lf Cpart
 \lv mea
 \le nephew on the other side of the family
+\lf Whole
+\lv nud
+\le family, clan, tribe
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 24/Jan/2014
 
 \lx tegoga
 \lc
@@ -15696,15 +19765,16 @@ family
 disjunct.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv ga
+\le I
 \cf
 \ce
 \sd
 \lt for from me
 \mr te-go-ga
-\dt 04/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx tekojses
 \lc
@@ -15721,15 +19791,16 @@ disjunct.
 \ee An idiom, usually used as a disjunct
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv isis
+\le truth, reality
 \cf
 \ce
 \sd
 \lt for with the truth
 \mr te-ko-is<e>is
-\dt 04/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx tel
 \lc
@@ -15770,7 +19841,8 @@ definite article.
 \sd
 \lt
 \mr
-\dt 17/Sep/2013
+\bw
+\dt 18/Nov/2013
 
 \lx telba
 \lc
@@ -15786,15 +19858,31 @@ definite article.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv ga
+\le I
+\lf Cpart
+\lv ba
+\le you.SG
+\lf Cpart
+\lv telga
+\le we
+\lf Cpart
+\lv vike
+\le oneself
+\lf Idiom
+\lv saj_|latelba
+\le same here
+\lf Src
+\lv tel
+\le other
 \cf
 \ce
 \sd
 \lt other & you.SG
 \mr tel-ba
-\dt 04/Mar/2013
+\bw
+\dt 17/Feb/2014
 
 \lx tele
 \lc
@@ -15824,7 +19912,8 @@ abbreviation of 'télévision'.
 \sd
 \lt
 \mr
-\dt 04/Jul/2013
+\bw French
+\dt 18/Nov/2013
 
 \lx telga
 \lc
@@ -15840,15 +19929,56 @@ abbreviation of 'télévision'.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv ga
+\le I
+\lf Cpart
+\lv ba
+\le you.SG
+\lf Cpart
+\lv telba
+\le you.PL
+\lf Cpart
+\lv vike
+\le oneself
+\lf Src
+\lv tel
+\le other
 \cf
 \ce
 \sd
 \lt other & I
 \mr tel-ga
-\dt 04/Mar/2013
+\bw
+\dt 17/Feb/2014
+
+\lx Telgaden
+\lc
+\hm
+\ph
+\ps np
+\sn
+\ge Earth
+\re
+\de the planet Earth
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv denol
+\le planet
+\lf Src
+\lv telga
+\le we
+\cf
+\ce
+\sd
+\lt our planet
+\mr telga-denol
+\bw
+\dt 17/Feb/2014
 
 \lx temut
 \lc
@@ -15864,15 +19994,16 @@ abbreviation of 'télévision'.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv mut
+\le what
 \cf
 \ce
 \sd
 \lt for what
 \mr te-mut
-\dt 28/Oct/2013
+\bw
+\dt 11/Feb/2014
 
 \lx teol
 \lc
@@ -15910,12 +20041,22 @@ the object is the person doing the liking.
 \lf Sim
 \lv gize
 \le to please, to like, to enjoy, to love
+\lf Sim
+\lv stolge
+\le to like, to love
+\lf Deriv
+\lv teoluz
+\le non-romantic love, friendship
+\lf Nact
+\lv teolsif
+\le friend, companion, acquaintance
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 16/Apr/2013
+\bw
+\dt 11/Feb/2014
 
 \lx teolsif
 \lc
@@ -15932,9 +20073,9 @@ the object is the person doing the liking.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Syn
+\lv teoluz
+\le friend, companion
 \cf
 \ce
 \sd
@@ -15949,15 +20090,89 @@ not include very close friends, but does
 include mere acquaintances.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Min
+\lv teomas
+\le (male) dear, darling
+\lf Min
+\lv teosin
+\le dear
+\lf Min
+\lv teozes
+\le (female) dear, darling
+\lf Src
+\lv teol
+\le to please, to like, to be fond of
 \cf
 \ce
 \sd
 \lt pleaser
 \mr teol-sif
-\dt 04/Mar/2013
+\bw
+\dt 11/Feb/2014
+
+\lx teoluz
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge liking
+\ge friendship
+\ge affection
+\ge love
+\re
+\de liking, friendship, affection;
+non-romantic love
+\oe
+\ue
+\ee This noun refers to the feeling of
+non-romantic love between people not
+related by blood, i.e. affection between
+friends.
+\xv
+\xe
+\lf Sim
+\lv majta
+\le romantic love
+\lf Sim
+\lv gizez
+\le sexual attraction
+\lf Sim
+\lv stolge
+\le familial love
+\lf Src
+\lv teol
+\le to please, to like, to be fond of
+\cf
+\ce
+\sd
+\sn 2
+\ge friend
+\ge companion
+\re
+\de
+\oe
+\ue
+\ee A near-synonym of fv:teolsif, although
+it implies a somewhat more active
+participation in the friendship
+relationship. As such, it cannot refer to
+mere acquaintances.
+\xv
+\xe
+\lf Syn
+\lv teolsif
+\le friend, companion, acquaintance
+\lf Cpart
+\lv gizez
+\le lover
+\cf
+\ce
+\sd
+\lt pleased
+\mr teol-z
+\bw
+\dt 31/Jan/2014
 
 \lx teomas
 \lc
@@ -15983,12 +20198,16 @@ sweet
 \lf Sim
 \lv teosin
 \le dear
+\lf Src
+\lv teolsif
+\le friend, companion, acquaintance
 \cf
 \ce
 \sd
 \lt little male pleaser
 \mr teol-sif-mas
-\dt 04/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx teosin
 \lc
@@ -16015,12 +20234,16 @@ endearing.
 \lf Sim
 \lv teozes
 \le (female) dear, darling
+\lf Src
+\lv teolsif
+\le friend, companion, acquaintance
 \cf
 \ce
 \sd
 \lt little pleaser
 \mr teol-sif-sin
-\dt 04/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx teozes
 \lc
@@ -16046,12 +20269,16 @@ sweet
 \lf Sim
 \lv teosin
 \le dear
+\lf Src
+\lv teolsif
+\le friend, companion, acquaintance
 \cf
 \ce
 \sd
 \lt little female pleaser
 \mr teol-sif-zes
-\dt 04/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx tina
 \lc
@@ -16076,7 +20303,8 @@ form names of specific types of rooms.
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 17/Feb/2014
 
 \lx tlap
 \lc
@@ -16085,10 +20313,9 @@ form names of specific types of rooms.
 \ps n
 \sn
 \ge light_rain
-\ge shower
 \ge rain
 \re
-\de light rain, shower; light type of rainfall
+\de light rain; light type of rainfall
 \oe
 \ue
 \ee
@@ -16102,7 +20329,8 @@ form names of specific types of rooms.
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 27/Jan/2014
 
 \lx tlebe
 \lc
@@ -16127,18 +20355,28 @@ purpose.
 \lf Ant
 \lv ufan
 \le greatness
+\lf Ant
+\lv ufsin
+\le good quality
 \lf Sim
 \lv abal
 \le dreadfulness, lousiness
 \lf Sim
 \lv slim
 \le inappropriateness
+\lf Compound
+\lv slebe
+\le trollishness
+\lf Gen
+\lv uflebe
+\le quality, objective value
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 07/Feb/2014
 
 \lx tlitlap
 \lc
@@ -16155,15 +20393,16 @@ purpose.
 sound of a light rain shower.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv |saa
+\le heavy rain
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx tmame
 \lc
@@ -16194,7 +20433,7 @@ s.o.), to bear (sthg or s.o.)
 \de to wear (sthg)
 \oe
 \ue
-\ee
+\ee An extension of the meaning 'to carry'.
 \xv
 \xe
 \lf
@@ -16205,7 +20444,8 @@ s.o.), to bear (sthg or s.o.)
 \sd
 \lt
 \mr
-\dt 11/Sep/2013
+\bw
+\dt 11/Feb/2014
 
 \lx to
 \lc
@@ -16230,15 +20470,16 @@ transitive, and takes an object in the
 accusative case.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv ge
+\le to have, to be (adj.)
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 24/Sep/2013
+\bw
+\dt 17/Jan/2014
 
 \lx tol
 \lc
@@ -16254,15 +20495,16 @@ accusative case.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv bivo
+\le quantity, cardinal number
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx tolmos
 \lc
@@ -16288,22 +20530,29 @@ accusative case.
 \sn 2
 \ge meal
 \ge fare
+\ge food
 \re
 \de meal; fare (food and drink)
 \oe
 \ue
-\ee
+\ee Refers to a specific meal, or to the
+type of food or fare served in an
+establishment.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv o|zemez
+\le food, drink
+\lf Src
+\lv mosu
+\le paw, foot, leg
 \cf
 \ce
 \sd
 \lt four leg
 \mr tol-mosu
-\dt 23/Sep/2013
+\bw
+\dt 17/Feb/2014
 
 \lx tolugen
 \lc
@@ -16323,15 +20572,25 @@ accusative case.
 nominals in Moten.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv neglugen
+\le verb
+\lf Cpart
+\lv samlugen
+\le particle
+\lf Gen
+\lv lugen
+\le word
+\lf Src
+\lv to
+\le to be (sthg or s.o.)
 \cf
 \ce
 \sd
 \lt be word
 \mr to-lugen
-\dt 04/Mar/2013
+\bw
+\dt 17/Feb/2014
 
 \lx topum
 \lc
@@ -16376,7 +20635,8 @@ heartbeat rate.
 \sd
 \lt
 \mr
-\dt 12/Sep/2013
+\bw
+\dt 18/Nov/2013
 
 \lx to|zaj
 \lc
@@ -16402,12 +20662,19 @@ is fv:ige|zaj).
 \lf Cpart
 \lv ge|zaj
 \le to become, to begin to have
+\lf Src
+\lv to
+\le to be (sthg or s.o.)
+\lf Src
+\lv |zaj
+\le start, beginning
 \cf
 \ce
 \sd
 \lt be start
 \mr to-|zaj
-\dt 25/Sep/2013
+\bw
+\dt 12/Feb/2014
 
 \lx tul
 \lc
@@ -16449,7 +20716,8 @@ fraction names such as 'half', 'third',
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 18/Nov/2013
 
 \lx tuna
 \lc
@@ -16470,12 +20738,16 @@ fraction names such as 'half', 'third',
 \lf Ant
 \lv pleg
 \le small size
+\lf Gen
+\lv tunapleg
+\le size
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 05/Feb/2014
 
 \lx tunapleg
 \lc
@@ -16492,15 +20764,19 @@ not to a specific value of size.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Spec
+\lv pleg
+\le small size
+\lf Spec
+\lv tuna
+\le big size
 \cf
 \ce
 \sd
 \lt big size & small size
 \mr tuna-pleg
-\dt 04/Mar/2013
+\bw
+\dt 05/Feb/2014
 
 \lx uba|s
 \lc
@@ -16529,12 +20805,17 @@ refers to motion towards the speaker.
 \de to arrive
 \oe
 \ue
-\ee
+\ee Also used as a suffix to mark actions
+that have started in the past and are
+still happening.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Compound
+\lv aguba|s
+\le to come and go, to be nervous
+\lf Max
+\lv uba|suba|s
+\le to settle
 \cf
 \ce
 \sd
@@ -16549,9 +20830,12 @@ moon.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Compound
+\lv emuba|s
+\le sunrise
+\lf Cpart
+\lv ag
+\le to go, to leave, to set
 \cf
 \ce
 \sd
@@ -16561,20 +20845,19 @@ moon.
 \de to be enough
 \oe
 \ue
-\ee Also used as a suffix to mark actions
-that have started in the past and are
-still happening.
+\ee
 \xv
 \xe
-\lf Cpart
-\lv ag
-\le to go
+\lf
+\lv
+\le
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 12/Apr/2013
+\bw
+\dt 11/Feb/2014
 
 \lx uba|suba|s
 \lc
@@ -16591,15 +20874,16 @@ still happening.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv uba|s
+\le to come, to arrive
 \cf
 \ce
 \sd
 \lt come come
 \mr uba|s-uba|s
-\dt 02/Apr/2013
+\bw
+\dt 11/Feb/2014
 
 \lx ufan
 \lc
@@ -16622,18 +20906,25 @@ purpose. That is fv:vo|sa.
 \lf Ant
 \lv tlebe
 \le mediocrity
-\lf Sim
+\lf Min
 \lv ufsin
 \le good quality
 \lf Sim
 \lv vo|sa
 \le appropriateness
+\lf Sim
+\lv kemi
+\le pleasantness, wonderfulness
+\lf Gen
+\lv uflebe
+\le quality, objective value
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 10/Jan/2014
 
 \lx uflebe
 \lc
@@ -16642,24 +20933,38 @@ purpose. That is fv:vo|sa.
 \ps n
 \sn
 \ge quality
+\ge objective_value
 \ge value
 \re
-\de
+\de quality, (objective) value
 \oe Refers to the generic concept of
 quality, not to a specific level of quality.
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Spec
+\lv ufan
+\le greatness
+\lf Spec
+\lv ufsin
+\le good quality
+\lf Spec
+\lv tlebe
+\le mediocrity
+\lf Sim
+\lv voslim
+\le beauty, appropriateness
+\lf Sim
+\lv kemabal
+\le opinion, subjective value
 \cf
 \ce
 \sd
 \lt greatness & mediocrity
 \mr ufan-tlebe
-\dt 04/Mar/2013
+\bw
+\dt 10/Jan/2014
 
 \lx ufsin
 \lc
@@ -16681,18 +20986,25 @@ necessarily indicate fitness for
 purpose. That is fv:vo|sa.
 \xv
 \xe
-\lf Sim
+\lf Src
 \lv ufan
 \le greatness
 \lf Sim
 \lv vo|sa
 \le appropriateness
+\lf Sim
+\lv kemi
+\le pleasantness, wonderfulness
+\lf Gen
+\lv uflebe
+\le quality, objective value
 \cf
 \ce
 \sd
 \lt little greatness
 \mr ufan-sin
-\dt 18/Sep/2013
+\bw
+\dt 10/Jan/2014
 
 \lx ufu
 \lc
@@ -16717,7 +21029,8 @@ the sound of a dog barking.
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 18/Nov/2013
 
 \lx uge
 \lc
@@ -16770,15 +21083,16 @@ steps or stages of a plan. Does not
 refer to the steps of a ladder though.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Max
+\lv ugejuge
+\le walk, stroll, hike
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 16/Sep/2013
+\bw
+\dt 11/Feb/2014
 
 \lx ugejuge
 \lc
@@ -16800,7 +21114,7 @@ on foot (which is fv:ibnamagi).
 \lf Cpart
 \lv bnamag
 \le to walk, to travel (on foot)
-\lf Sim
+\lf Min
 \lv ugzin
 \le to stroll, to go for a walk
 \cf
@@ -16834,7 +21148,7 @@ through a list of actions.
 \ee
 \xv
 \xe
-\lf Sim
+\lf Min
 \lv ugzin
 \le stroll, leisurely walk
 \cf
@@ -16850,15 +21164,16 @@ through a list of actions.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv uge
+\le step
 \cf
 \ce
 \sd
 \lt step step
 \mr uge-uge
-\dt 18/Sep/2013
+\bw
+\dt 11/Feb/2014
 
 \lx ugzin
 \lc
@@ -16882,7 +21197,7 @@ legs
 \ee
 \xv
 \xe
-\lf Sim
+\lf Src
 \lv ugejuge
 \le to step, to walk
 \cf
@@ -16899,7 +21214,7 @@ legs
 \ee
 \xv
 \xe
-\lf Sim
+\lf Src
 \lv ugejuge
 \le walk, stroll, hike
 \cf
@@ -16907,7 +21222,8 @@ legs
 \sd
 \lt little walk
 \mr ugejuge-sin
-\dt 18/Sep/2013
+\bw
+\dt 11/Feb/2014
 
 \lx ujtin
 \lc
@@ -16933,12 +21249,16 @@ also as adj. close, near, nearby
 \lf Ant
 \lv miko
 \le remoteness, long distance
+\lf Gen
+\lv mikujtin
+\le distance
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 04/Mar/2013
+\bw
+\dt 31/Jan/2014
 
 \lx ukodun
 \lc
@@ -16959,12 +21279,19 @@ existence.
 \lf Sim
 \lv mabamla
 \le experience
+\lf Spec
+\lv odun
+\le youth
+\lf Spec
+\lv ukol
+\le old age
 \cf
 \ce
 \sd
 \lt old age & youth
 \mr ukol-odun
-\dt 05/Mar/2013
+\bw
+\dt 31/Jan/2014
 
 \lx ukol
 \lc
@@ -16989,12 +21316,16 @@ long time.
 \lf Sim
 \lv mabo
 \le ancientness
+\lf Gen
+\lv ukodun
+\le age
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 14/Mar/2013
+\bw
+\dt 31/Jan/2014
 
 \lx umpi
 \lc
@@ -17011,15 +21342,16 @@ long time.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Compound
+\lv subumpi
+\le shophouse
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 10/Feb/2014
 
 \lx u|nav
 \lc
@@ -17037,15 +21369,16 @@ consequence
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv iz
+\le for
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 23/Jan/2014
 
 \lx us
 \lc
@@ -17065,15 +21398,19 @@ entire sentence.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Ant
+\lv saj
+\le definitely, yes, okay
+\lf Sim
+\lv mu
+\le not, no, no way
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 17/Feb/2014
 
 \lx u|s
 \lc
@@ -17117,12 +21454,16 @@ family
 \lf Cpart
 \lv teba
 \le niece on the other side of the family
+\lf Whole
+\lv nud
+\le family, clan, tribe
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 24/Jan/2014
 
 \lx uzab
 \lc
@@ -17138,15 +21479,16 @@ family
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv bivo
+\le quantity, cardinal number
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx -v-
 \lc
@@ -17170,7 +21512,8 @@ family
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 18/Nov/2013
 
 \lx va
 \lc
@@ -17197,7 +21540,8 @@ form colour names.
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 18/Nov/2013
 
 \lx vajag
 \lc
@@ -17214,9 +21558,12 @@ form colour names.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Nact
+\lv vajagzif
+\le student, pupil
+\lf Compound
+\lv vajagdina
+\le classroom
 \cf
 \ce
 \sd
@@ -17231,15 +21578,16 @@ mentioned, is in the benefactive.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Nact
+\lv vajagnon
+\le teacher
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 21/Mar/2013
+\bw
+\dt 17/Feb/2014
 
 \lx vajagdina
 \lc
@@ -17259,12 +21607,16 @@ mentioned, is in the benefactive.
 \lf Gen
 \lv tina
 \le room
+\lf Src
+\lv vajag
+\le to learn, to teach
 \cf
 \ce
 \sd
 \lt learn room
 \mr vajag-tina
-\dt 05/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx vajagnon
 \lc
@@ -17284,12 +21636,16 @@ mentioned, is in the benefactive.
 \lf Cpart
 \lv vajagzif
 \le student, pupil
+\lf Src
+\lv vajag
+\le to learn, to teach
 \cf
 \ce
 \sd
 \lt teach artist
 \mr vajag-non
-\dt 21/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx vajagzif
 \lc
@@ -17309,12 +21665,16 @@ mentioned, is in the benefactive.
 \lf Cpart
 \lv vajagnon
 \le teacher
+\lf Src
+\lv vajag
+\le to learn, to teach
 \cf
 \ce
 \sd
 \lt learner
 \mr vajag-sif
-\dt 21/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx valpinas
 \lc
@@ -17335,15 +21695,19 @@ subject, much rarer with other persons.
 means: 'to get an idea'.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv va|le
+\le image, idea, fantasy
+\lf Src
+\lv pinas
+\le to feel, to look
 \cf
 \ce
 \sd
 \lt image feel
 \mr va|le-pinas
-\dt 17/Apr/2013
+\bw
+\dt 11/Feb/2014
 
 \lx va|le
 \lc
@@ -17376,15 +21740,16 @@ representation of something.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Compound
+\lv valpinas
+\le to imagine, to fantasise
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 17/Apr/2013
+\bw
+\dt 11/Feb/2014
 
 \lx veld
 \lc vel(d)
@@ -17400,15 +21765,16 @@ representation of something.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv bivo
+\le quantity, cardinal number
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx venla
 \lc
@@ -17419,37 +21785,45 @@ representation of something.
 \ge people
 \ge tribe
 \ge population
+\ge nation
 \re
-\de
+\de people, tribe, population, nation; a
+group of people united in some way,
+whether through common descent,
+culture, history, language, interests etc
 \oe
 \ue
-\ee
+\ee Unlike fv:status, fv:venla does not
+necessarily refer to a political or
+geographical entity.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv status
+\le state, country, nation
 \cf
 \ce
 \sd
 \sn 2
 \ge crowd
 \re
-\de
+\de crowd; large and dense group of
+people in a single location
 \oe
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Part
+\lv fokez
+\le person
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx vepe|ne
 \lc
@@ -17497,9 +21871,9 @@ representation of something.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv fe|su
+\le sorry to bother you, you see
 \cf
 \ce
 \sd
@@ -17525,7 +21899,8 @@ person's efforts.
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx ve|za
 \lc
@@ -17535,12 +21910,17 @@ person's efforts.
 \sn
 \ge feel_like
 \ge look_like
+\ge resemble
 \ge seem_to_be
 \re
 \de to feel like (sthg or s.o.), to look like
-(sthg or s.o.), to seem to be (sthg or
-s.o.)
-\oe
+(sthg or s.o.), to resemble (sthg or
+s.o.), to seem to be (sthg or s.o.)
+\oe Normally only used with animate
+beings (usually only human beings and
+large animals, i.e. fv:kit, although it can
+be used with pets, even when those
+would be considered fv:sponda).
 \ue
 \ee Used with a first person subject, this
 verb usually means 'to feel like',
@@ -17558,12 +21938,16 @@ the speaker.
 \lv gi|no
 \le to feel (an external sensation), to
 understand
+\lf Sim
+\lv gus
+\le to look like, to seem to be
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 21/Dec/2013
 
 \lx vike
 \lc
@@ -17577,6 +21961,7 @@ understand
 \ge himself
 \ge herself
 \ge itself
+\ge oneself
 \ge ourselves
 \ge yourselves
 \ge themselves
@@ -17589,15 +21974,25 @@ agrees with the subject in number.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv ga
+\le I
+\lf Cpart
+\lv ba
+\le you.SG
+\lf Cpart
+\lv telga
+\le we
+\lf Cpart
+\lv telba
+\le you.PL
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx volaj
 \lc
@@ -17611,18 +22006,28 @@ agrees with the subject in number.
 \de
 \oe
 \ue
-\ee
+\ee Poultry is usually fv:sponda.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv linan
+\le bird
+\lf Gen
+\lv sponda
+\le small animal
+\lf Gen
+\lv o|zemez
+\le food, drink
+\lf Compound
+\lv volajsubo
+\le poultry restaurant
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw French
+\dt 17/Feb/2014
 
 \lx volajsubo
 \lc
@@ -17641,12 +22046,16 @@ agrees with the subject in number.
 \lf Gen
 \lv subo
 \le shop, restaurant
+\lf Src
+\lv volaj
+\le poultry, fowl
 \cf
 \ce
 \sd
 \lt poultry shop
 \mr volaj-subo
-\dt 05/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx vona
 \lc
@@ -17674,15 +22083,18 @@ cold, but not freezing.
 \lv dena
 \le high temperature, hotness, hot
 \lf Cpart
-\cf la|zi
-\ce high temperature, warmth, hotness,
+\lv la|zi
+\le high temperature, warmth, hotness,
 warm, hot (of weather)
+\cf
+\ce
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 23/Sep/2013
+\bw
+\dt 18/Nov/2013
 
 \lx vone
 \lc
@@ -17701,16 +22113,16 @@ elemental concept.
 \ee
 \xv
 \xe
-\lf Cpart
+\lf Spec
 \lv den
 \le hot water
-\lf Cpart
+\lf Spec
 \lv zuba
 \le warm water
-\lf Cpart
+\lf Spec
 \lv zubzin
 \le lukewarm water
-\lf Cpart
+\lf Spec
 \lv |no
 \le ice
 \cf
@@ -17718,7 +22130,36 @@ elemental concept.
 \sd
 \lt
 \mr
-\dt 23/Sep/2013
+\bw
+\dt 10/Jan/2014
+
+\lx Voneden
+\lc
+\hm
+\ph
+\ps np
+\sn
+\ge Neptune
+\re
+\de the planet Neptune
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv denol
+\le planet
+\lf Src
+\lv vone
+\le cold water
+\cf
+\ce
+\sd
+\lt water planet
+\mr vone-denol
+\bw
+\dt 17/Feb/2014
 
 \lx vonemune
 \lc
@@ -17734,15 +22175,22 @@ elemental concept.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Whole
+\lv ada
+\le (calendar) year
+\lf Gen
+\lv mune
+\le (calendar) month
+\lf Src
+\lv vone
+\le cold water
 \cf
 \ce
 \sd
 \lt water month
 \mr vone-mune
-\dt 05/Mar/2013
+\bw
+\dt 17/Feb/2014
 
 \lx vonesiza
 \lc
@@ -17758,15 +22206,22 @@ elemental concept.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Whole
+\lv negesizdan
+\le week
+\lf Gen
+\lv siza
+\le (calendar) day
+\lf Src
+\lv vone
+\le cold water
 \cf
 \ce
 \sd
 \lt water day
 \mr vone-siza
-\dt 05/Mar/2013
+\bw
+\dt 17/Feb/2014
 
 \lx voslim
 \lc
@@ -17802,15 +22257,25 @@ of appropriateness.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Spec
+\lv vo|sa
+\le beauty, appropriateness
+\lf Spec
+\lv slim
+\le ugliness, inappropriateness
+\lf Sim
+\lv kemabal
+\le opinion, subjective value
+\lf Sim
+\lv uflebe
+\le quality, objective value
 \cf
 \ce
 \sd
 \lt beauty & ugliness
 \mr vo|sa-slim
-\dt 05/Mar/2013
+\bw
+\dt 10/Jan/2014
 
 \lx vospinas
 \lc
@@ -17819,9 +22284,11 @@ of appropriateness.
 \ps vi
 \sn
 \ge look_good
+\ge feel_beautiful
 \ge be_beautiful
 \re
-\de to look good, to be beautiful
+\de to look good, to feel beautiful, to be
+beautiful
 \oe
 \ue
 \ee
@@ -17843,8 +22310,13 @@ of appropriateness.
 \de (physical) beauty; also as adj. beautiful,
 good-looking
 \oe Refers strictly to one's physical
-appearance, and normally never used
-for oneself.
+appearance, although it takes a
+metaphorical meaning when it is used
+of oneself. Only applies to animate
+beings (usually only human beings and
+large animals, i.e. fv:kit, although it can
+apply to pets, even when those are
+fv:sponda).
 \ue
 \ee
 \xv
@@ -17855,12 +22327,16 @@ for oneself.
 \lf Sim
 \lv vo|sa
 \le beauty, appropriateness
+\lf Src
+\lv pinas
+\le to feel, to look
 \cf
 \ce
 \sd
 \lt beauty look
 \mr vo|sa-pinas
-\dt 05/Mar/2013
+\bw
+\dt 17/Feb/2014
 
 \lx vo|sa
 \lc
@@ -17903,14 +22379,24 @@ appropriate, fit for purpose, good, nice
 \lv slim
 \le ugliness, inappropriateness
 \lf Sim
+\lv kemi
+\le pleasantness, wonderfulness
+\lf Sim
 \lv ufan
 \le greatness
+\lf Gen
+\lv voslim
+\le beauty, appropriateness
+\lf Idiom
+\lv dikovo|sedan
+\le normally, when things go well
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 10/Jan/2014
 
 \lx -vu|z
 \lc
@@ -17939,7 +22425,8 @@ appropriate, fit for purpose, good, nice
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 18/Nov/2013
 
 \lx -z
 \lc
@@ -17963,7 +22450,8 @@ appropriate, fit for purpose, good, nice
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 18/Nov/2013
 
 \lx zanej
 \lc
@@ -17989,7 +22477,8 @@ fingers
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 18/Nov/2013
 
 \lx zda
 \lc
@@ -18018,12 +22507,19 @@ mother's side.
 \lf Cpart
 \lv lomin
 \le maternal grandparent
+\lf Cpart
+\lv kfezi
+\le grandchild
+\lf Whole
+\lv nud
+\le family, clan, tribe
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 24/Jan/2014
 
 \lx zek
 \lc
@@ -18052,7 +22548,8 @@ previously stopped 'to resume'.
 \sd
 \lt
 \mr
-\dt 13/Sep/2013
+\bw
+\dt 18/Nov/2013
 
 \lx zelo
 \lc
@@ -18070,15 +22567,16 @@ refer to the mathematical zero.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Gen
+\lv bivo
+\le quantity, cardinal number
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx zenk
 \lc zen(k)
@@ -18100,10 +22598,10 @@ action later
 cessatives.
 \xv
 \xe
-\lf Sim
+\lf Cpart
 \lv kuneg
 \le to end
-\lf Sim
+\lf Cpart
 \lv kunstul
 \le to give up
 \lf Cpart
@@ -18117,7 +22615,8 @@ cessatives.
 \sd
 \lt
 \mr
-\dt 11/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx -zes
 \lc
@@ -18144,7 +22643,8 @@ cessatives.
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 18/Nov/2013
 
 \lx zgebo
 \lc
@@ -18201,7 +22701,8 @@ subject in the instrumental.
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 18/Nov/2013
 
 \lx zi|sun
 \lc
@@ -18227,7 +22728,8 @@ instead of various units.
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 18/Nov/2013
 
 \lx zoba|saj
 \lc
@@ -18243,15 +22745,25 @@ instead of various units.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Whole
+\lv ada
+\le (calendar) year
+\lf Gen
+\lv mune
+\le (calendar) month
+\lf Src
+\lv zobat
+\le spring
+\lf Src
+\lv |zaj
+\le start, beginning
 \cf
 \ce
 \sd
 \lt spring start
 \mr zobat-|zaj
-\dt 05/Mar/2013
+\bw
+\dt 17/Feb/2014
 
 \lx zobat
 \lc
@@ -18267,15 +22779,25 @@ instead of various units.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv emelog
+\le summer
+\lf Cpart
+\lv o|nig
+\le autumn
+\lf Cpart
+\lv kele
+\le winter
+\lf Gen
+\lv log
+\le season
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 13/Jan/2014
 
 \lx zobatmune
 \lc
@@ -18291,15 +22813,22 @@ instead of various units.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Whole
+\lv ada
+\le (calendar) year
+\lf Gen
+\lv mune
+\le (calendar) month
+\lf Src
+\lv zobat
+\le spring
 \cf
 \ce
 \sd
 \lt spring month
 \mr zobat-mune
-\dt 05/Mar/2013
+\bw
+\dt 17/Feb/2014
 
 \lx zuba
 \lc
@@ -18321,10 +22850,10 @@ temperature of a bath or shower.
 \lf Cpart
 \lv |no
 \le ice
-\lf Cpart
+\lf Gen
 \lv vone
 \le cold water
-\lf Cpart
+\lf Min
 \lv zubzin
 \le lukewarm water
 \lf Cpart
@@ -18335,7 +22864,8 @@ temperature of a bath or shower.
 \sd
 \lt
 \mr
-\dt 23/Sep/2013
+\bw
+\dt 10/Jan/2014
 
 \lx zubatina
 \lc
@@ -18355,12 +22885,16 @@ temperature of a bath or shower.
 \lf Gen
 \lv tina
 \le room
+\lf Src
+\lv zuba
+\le warm water
 \cf
 \ce
 \sd
 \lt warm water room
 \mr zuba-tina
-\dt 05/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx zubna
 \lc
@@ -18393,15 +22927,18 @@ fv:zubna.
 \lv dena
 \le high temperature, hotness, hot
 \lf Cpart
-\cf la|zi
-\ce high temperature, warmth, hotness,
+\lv la|zi
+\le high temperature, warmth, hotness,
 warm, hot (of weather)
+\cf
+\ce
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 23/Sep/2013
+\bw
+\dt 18/Nov/2013
 
 \lx zubzin
 \lc
@@ -18428,10 +22965,10 @@ and can be called as such.
 \lf Cpart
 \lv |no
 \le ice
-\lf Cpart
+\lf Gen
 \lv vone
 \le cold water
-\lf Cpart
+\lf Src
 \lv zuba
 \le warm water
 \lf Cpart
@@ -18442,7 +22979,8 @@ and can be called as such.
 \sd
 \lt
 \mr
-\dt 23/Sep/2013
+\bw
+\dt 10/Jan/2014
 
 \lx zu|leb
 \lc
@@ -18454,7 +22992,8 @@ and can be called as such.
 \ge become_clean
 \re
 \de to clear up, to become clean
-\oe
+\oe Used in the physical sense of 'to clear
+up'.
 \ue
 \ee
 \xv
@@ -18467,7 +23006,8 @@ and can be called as such.
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 17/Jan/2014
 
 \lx zunla
 \lc
@@ -18518,15 +23058,16 @@ and can be called as such.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv dabolna
+\le moment, time; to be (sometime)
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 10/Jan/2014
 
 \lx zunlafoto
 \lc
@@ -18555,12 +23096,16 @@ abstract searches, use the verb fv:ifotoj.
 \lf Cpart
 \lv zunla|lek
 \le to find, to locate
+\lf Src
+\lv zunla
+\le place, location
 \cf
 \ce
 \sd
 \lt place search
 \mr zunla-foto
-\dt 05/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx zunla|lek
 \lc
@@ -18587,12 +23132,16 @@ the verb fv:ja|leki.
 \lf Cpart
 \lv zunlafoto
 \le to look for, to try to locate
+\lf Src
+\lv zunla
+\le place, location
 \cf
 \ce
 \sd
 \lt place find
 \mr zunla-a|lek
-\dt 05/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx zutuun
 \lc
@@ -18636,7 +23185,8 @@ anyone noticing.
 \sd
 \lt
 \mr
-\dt 12/Sep/2013
+\bw
+\dt 18/Nov/2013
 
 \lx -|z-
 \lc
@@ -18660,7 +23210,8 @@ anyone noticing.
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 18/Nov/2013
 
 \lx |zaj
 \lc
@@ -18677,9 +23228,15 @@ anyone noticing.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Compound
+\lv |za|neg
+\le to start with the intention of finishing
+\lf Compound
+\lv |zajstul
+\le to start
+\lf Compound
+\lv |za|not
+\le source, origin
 \cf
 \ce
 \sd
@@ -18694,7 +23251,7 @@ counting towards the beginning of a list
 \ee
 \xv
 \xe
-\lf Cpart
+\lf Ant
 \lv kun
 \le end, ending
 \cf
@@ -18702,7 +23259,8 @@ counting towards the beginning of a list
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx |zaja
 \lc
@@ -18720,14 +23278,21 @@ first position of an ordered list
 \xv
 \xe
 \lf Cpart
+\lv difoja
+\le middle rank
+\lf Cpart
 \lv kuna
 \le last
+\lf Gen
+\lv poga
+\le rank, ordinal number
 \cf
 \ce
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 13/Jan/2014
 
 \lx |zajstul
 \lc
@@ -18748,23 +23313,27 @@ inchoatives.
 \xv
 \xe
 \lf Sim
-\lv kuneg
-\le to end
-\lf Sim
-\lv kunstul
-\le to give up
-\lf Cpart
 \lv |za|neg
 \le to start with the intention of finishing
 \lf Cpart
-\lv zenk
+\lv zen(k)
 \le to stop momentarily
+\lf Ant
+\lv kuneg
+\le to end
+\lf Ant
+\lv kunstul
+\le to give up
+\lf Src
+\lv |zaj
+\le start, beginning
 \cf
 \ce
 \sd
 \lt start summon
 \mr |zaj-stul
-\dt 07/Mar/2013
+\bw
+\dt 11/Feb/2014
 
 \lx |za|neg
 \lc
@@ -18787,23 +23356,159 @@ shade of meaning.
 \xv
 \xe
 \lf Sim
-\lv kuneg
-\le to end
-\lf Sim
-\lv kunstul
-\le to give up
-\lf Cpart
-\lv zenk
-\le to stop momentarily
-\lf Cpart
 \lv |zajstul
 \le to start
+\lf Cpart
+\lv zen(k)
+\le to stop momentarily
+\lf Ant
+\lv kuneg
+\le to end
+\lf Ant
+\lv kunstul
+\le to give up
+\lf Src
+\lv |zaj
+\le start, beginning
+\lf Src
+\lv neg
+\le to do, to act
 \cf
 \ce
 \sd
 \lt start do
 \mr |zaj-neg
-\dt 07/Mar/2013
+\bw
+\dt 17/Feb/2014
+
+\lx |za|not
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge source
+\ge origin
+\re
+\de
+\oe Used with concepts and ideas, rather
+than with concrete items like rivers.
+\ue
+\ee This pleonastic compound was
+probably created because fv:|not, with
+its many, and commonly used,
+alternative meanings, was becoming
+too confusing to use in its original
+meaning.
+\xv
+\xe
+\lf Syn
+\lv |not
+\le source, origin, cornerstone, head
+\lf Src
+\lv |zaj
+\le start, beginning
+\cf
+\ce
+\sd
+\lt beginning & source
+\mr |zaj-|not
+\bw
+\dt 11/Feb/2014
+
+\lx |zenk
+\lc |zen(k)
+\hm
+\ph
+\ps n
+\sn
+\ge large_plant
+\ge plant
+\re
+\de large plant; any plant larger than a
+human being
+\oe Typically, the speaker uses their own
+size as base, and generally does so in a
+rather fuzzy way.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv |zensin
+\le small plant
+\lf Whole
+\lv |zen|zen(k)
+\le flora
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 11/Feb/2014
+
+\lx |zensin
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge small_plant
+\ge plant
+\re
+\de small plant; any plant smaller than a
+human being
+\oe Typically, the speaker uses their own
+size as base, and generally does so in a
+rather fuzzy way.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv |zen(k)
+\le large plant
+\lf Whole
+\lv |zen|zen(k)
+\le flora
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 11/Feb/2014
+
+\lx |zen|zenk
+\lc |zen|zen(k)
+\hm
+\ph
+\ps n
+\sn
+\ge flora
+\ge plant_kingdom
+\ge vegetation
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Spec
+\lv |zen(k)
+\le large plant
+\lf Spec
+\lv |zensin
+\le small plant
+\cf
+\ce
+\sd
+\lt plant plant
+\mr |zenk-|zenk
+\bw
+\dt 11/Feb/2014
 
 \lx |zika
 \lc
@@ -18828,7 +23533,8 @@ shade of meaning.
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 18/Nov/2013
 
 \lx |zu-
 \lc
@@ -18852,4 +23558,30 @@ shade of meaning.
 \sd
 \lt
 \mr
-\dt 05/Mar/2013
+\bw
+\dt 18/Nov/2013
+
+\lx |zumut
+\lc
+\hm
+\ph
+\ps exp
+\sn
+\ge why
+\re
+\de why; interrogative adverb of cause
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv mut
+\le what
+\cf
+\ce
+\sd
+\lt because of what
+\mr |zu-mut
+\bw
+\dt 11/Feb/2014
