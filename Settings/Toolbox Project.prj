@@ -76,20 +76,20 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey a
+\fldPriKey gezistul
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri a
+\fldPri gezistul
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri mabukol
+\fldPri gezistul
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 0
-\CaretLineScroll 0
+\CaretLine 19
+\CaretLineScroll 19
 \CaretChar 0
 \+cck 
 \mkrSingleField 1d
@@ -127,8 +127,8 @@
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey a
-\fldSecKey there
+\fldPriKey gezistul
+\fldSecKey estimate
 \-rec
 \+keySearch 
 \match_char p

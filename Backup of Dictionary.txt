@@ -330,10 +330,10 @@ carry on in the future.
 \lf Nact
 \lv agzif
 \le traveller
-\lf Compound
+\lf Comp
 \lv aguba|s
 \le to come and go, to be nervous
-\lf Compound
+\lf Comp
 \lv akfe|su
 \le sorry for leaving early
 \cf
@@ -350,7 +350,7 @@ moon.
 \ee
 \xv
 \xe
-\lf Compound
+\lf Comp
 \lv emag
 \le sunset
 \lf Cpart
@@ -758,7 +758,7 @@ registers.
 \lf Cpart
 \lv |suko
 \le same-sex sibling, cousin or friend
-\lf Compound
+\lf Comp
 \lv |sukamo
 \le (family) generation
 \lf Whole
@@ -1419,7 +1419,7 @@ discontinuous.
 \lf Spec
 \lv sambivo
 \le prime number
-\lf Compound
+\lf Comp
 \lv bivostul
 \le to count, to measure
 \cf
@@ -1500,10 +1500,10 @@ a fv:kit, i.e. a large animal.
 \lf Cpart
 \lv jez
 \le hand, arm
-\lf Compound
+\lf Comp
 \lv bnamag
 \le to walk, to travel on foot
-\lf Compound
+\lf Comp
 \lv bnameno
 \le shoe, boot
 \lf Part
@@ -1639,7 +1639,7 @@ general, including the night sky
 \lf Sim
 \lv emekel
 \le skies, heavens
-\lf Compound
+\lf Comp
 \lv bolog
 \le weather
 \cf
@@ -1807,7 +1807,7 @@ means etc.
 \lf Sim
 \lv ja|zin
 \le to give, to take, to transfer
-\lf Compound
+\lf Comp
 \lv mikoboze
 \le to broadcast, to receive, to transfer
 \cf
@@ -1892,7 +1892,7 @@ the object is the cause of it.
 \lf Ninst
 \lv ibutaj
 \le chair
-\lf Compound
+\lf Comp
 \lv penlabuta
 \le to sit and wait, to be patient
 \cf
@@ -2086,7 +2086,7 @@ derived from verbs.
 \lf Cpart
 \lv ipi
 \le thing, object, tool
-\lf Compound
+\lf Comp
 \lv datistul
 \le to make up, to invent
 \cf
@@ -2292,11 +2292,10 @@ way up to boiling water.
 \ps n
 \sn
 \ge high_temperature
-\ge hotness
+\ge heat
 \ge hot
 \re
-\de high temperature, hotness; also as adj.
-hot
+\de high temperature, heat; also as adj. hot
 \oe Refers to unpleasantly high
 temperatures, scalding or otherwise
 damaging to the body. Not used for
@@ -2316,15 +2315,15 @@ weather temperatures.
 \le pleasant temperature, warmth, warm
 \lf Sim
 \lv la|zi
-\le high temperature, warmth, hotness,
-warm, hot (of weather)
+\le high temperature, warmth, heat, warm,
+hot (of weather)
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 15/Nov/2013
+\dt 26/Feb/2014
 
 \lx Denapa
 \lc
@@ -3006,7 +3005,7 @@ children to refer to their own mothers.
 \lf Min
 \lv dloazes
 \le fatty woman, fatso
-\lf Compound
+\lf Comp
 \lv dloalum
 \le apple
 \cf
@@ -3736,10 +3735,10 @@ somewhat
 \ee
 \xv
 \xe
-\lf Compound
+\lf Comp
 \lv elej|zajstul
 \le to die (peacefully)
-\lf Compound
+\lf Comp
 \lv elejtina
 \le bedroom
 \cf
@@ -3858,7 +3857,7 @@ subject of the verb is the thought, while
 the object is the person having it.
 \xv
 \xe
-\lf Compound
+\lf Comp
 \lv elojmastul
 \le to be remembered by
 \cf
@@ -4622,7 +4621,7 @@ nouns.
 \lf Src
 \lv ezet
 \le to hear, to listen to
-\lf Compound
+\lf Comp
 \lv mikoeze|s
 \le radio
 \cf
@@ -4781,7 +4780,7 @@ or group)
 \lf Sim
 \lv vepe|ne
 \le sorry, thank you
-\lf Compound
+\lf Comp
 \lv akfe|su
 \le sorry for leaving early
 \cf
@@ -4810,7 +4809,7 @@ or group)
 \lf Sim
 \lv oskana|not
 \le celebration, ceremony
-\lf Compound
+\lf Comp
 \lv fetstul
 \le to celebrate, to party
 \cf
@@ -5255,7 +5254,7 @@ science or similar goals.
 \lf Max
 \lv fotofoto
 \le to try to get to the bottom of
-\lf Compound
+\lf Comp
 \lv fotobel
 \le (scientific) research
 \cf
@@ -5361,14 +5360,14 @@ bottom of (sthg)
 \ee
 \xv
 \xe
-\lf Compound
+\lf Comp
 \lv fulastul
 \le to fart, to chatter aimlessly, to
 exaggerate
-\lf Compound
+\lf Comp
 \lv fulifula
 \le fool's gold, fraud, con
-\lf Compound
+\lf Comp
 \lv funafula
 \le stupid event, stupid mistake, d'oh
 \cf
@@ -5490,7 +5489,7 @@ exaggerate
 \ee
 \xv
 \xe
-\lf Compound
+\lf Comp
 \lv fulifula
 \le fool's gold, fraud, con
 \cf
@@ -5592,7 +5591,7 @@ be used to indicate a point in time.
 \lf Whole
 \lv pele
 \le minute
-\lf Compound
+\lf Comp
 \lv funafula
 \le stupid event, stupid mistake, d'oh
 \cf
@@ -5712,22 +5711,24 @@ reasons). In other forms, the bare stem
 fv:g is used, and the inflections
 themselves provide the needed vowel.
 \ee Refers to the abstract concept of life in
-general. The concept of currently being
-alive is usually rendered as fv:guz or
-fv:igi, depending on whether it is seen
-as static or active.
+general, or to the life of a being as a
+whole, from birth to death. The
+concept of currently being alive is
+usually rendered as fv:guz or fv:igi,
+depending on whether it is seen as
+static or active.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Comp
+\lv gzom
+\le lifeforce, vitality, vital breath
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 21/Jan/2014
+\dt 25/Feb/2014
 
 \lx ga
 \lc
@@ -5903,13 +5904,44 @@ always in the instrumental.
 \lf Sim
 \lv se
 \le to say, to tell
+\lf Comp
+\lv gebezdati
+\le tone (of voice)
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 17/Jan/2014
+\dt 28/Feb/2014
+
+\lx gebezdati
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge tone
+\re
+\de tone (of voice), manner of speaking
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv gebez
+\le to speak, to talk
+\lf Src
+\lv dati
+\le thing, concept, manner
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 28/Feb/2014
 
 \lx gem
 \lc
@@ -5926,7 +5958,7 @@ always in the instrumental.
 \ee
 \xv
 \xe
-\lf Compound
+\lf Comp
 \lv sugem
 \le to unite, to merge
 \cf
@@ -6161,6 +6193,140 @@ children to refer to their own fathers.
 \bw
 \dt 21/Jan/2014
 
+\lx gezi
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge worth
+\ge cost
+\ge usefulness
+\ge comparative_value
+\ge value
+\re
+\de worth, cost, (comparative) value
+\oe Refers to the generic concept of worth,
+cost or usefulness, not to a specific
+level of worth.
+\ue
+\ee While fv:uflebe refers to the inherent
+quality of something or someone, and
+fv:kemabal refers to the opinion
+someone has on something, fv:gezi
+refers to the value something or
+someone has in context, and/or when
+compared to others.
+\xv
+\xe
+\lf Sim
+\lv uflebe
+\le quality, objective value
+\lf Sim
+\lv kemabal
+\le opinion, subjective value
+\cf
+\ce
+\sd
+\sn 2
+\ge price
+\ge cost
+\ge numerical_value
+\re
+\de price, cost, (numerical) value
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge prize
+\ge award
+\re
+\de prize, award
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 03/Mar/2014
+
+\lx gezistul
+\lc
+\hm
+\ph
+\ps vt
+\sn 1
+\ge estimate
+\ge appraise
+\re
+\de to estimate (the value of) (sthg), to
+appraise (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge praise
+\ge value
+\re
+\de to praise (sthg or s.o.), to value (sthg
+or s.o.)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv ola
+\le to praise, to glorify, to congratulate
+\cf
+\ce
+\sd
+\sn 1
+\ge estimate
+\ge appraise
+\re
+\de to estimate (the value of) (sthg), to
+appraise (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt worth summon
+\mr gezi-stul
+\bw
+\dt 03/Mar/2014
+
 \lx ge|zaj
 \lc
 \hm
@@ -6238,10 +6404,10 @@ aware of the meaning of (sthg)
 \lv gana
 \le to clear up, to get solved, to become
 understandable
-\lf Compound
+\lf Comp
 \lv sugi|no
 \le simplicity, easiness
-\lf Compound
+\lf Comp
 \lv sengi|no
 \le complexity, difficulty
 \cf
@@ -6677,10 +6843,11 @@ may start at any time
 \ge resemble
 \ge seem_to_be
 \ge be_comparable_to
+\ge be_similar_to
 \re
 \de to look like (sthg), to resemble (sthg),
 to seem to be (sthg), to be comparable
-to (sthg)
+to (sthg), to be similar to (sthg)
 \oe Only used of fv:sponda, i.e. small
 animals, as well as inanimate objects or
 concepts.
@@ -6696,13 +6863,48 @@ speaker.
 \lf Sim
 \lv ve|za
 \le to feel like, to look like, to seem to be
+\lf Sim
+\lv olim
+\le similar, same
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 21/Dec/2013
+\dt 25/Feb/2014
+
+\lx gzom
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge lifeforce
+\ge vitality
+\ge vital_breath
+\re
+\de lifeforce, vitality; the capacity to live
+and develop that separates living from
+non-living things
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv som
+\le fundamental matter, energy, lifeforce
+\lf Src
+\lv g
+\le to live, to be alive
+\cf
+\ce
+\sd
+\lt life energy
+\mr g-som
+\bw
+\dt 25/Feb/2014
 
 \lx i-
 \lc
@@ -7363,7 +7565,7 @@ from verbs.
 \lf Cpart
 \lv dati
 \le thing, concept, manner
-\lf Compound
+\lf Comp
 \lv ipistul
 \le to build, to invent
 \cf
@@ -7450,7 +7652,7 @@ sturdiness.
 \lf Ant
 \lv |nalam
 \le lightness, weakness
-\lf Compound
+\lf Comp
 \lv negipiz
 \le difficulty, hardness
 \cf
@@ -8171,10 +8373,10 @@ speaker received from someone else.
 \ee
 \xv
 \xe
-\lf Compound
+\lf Comp
 \lv jemag
 \le to sail, to travel
-\lf Compound
+\lf Comp
 \lv senodjem
 \le way, road
 \lf Deriv
@@ -8421,7 +8623,7 @@ opposable thumbs.
 \lf Cpart
 \lv jestel
 \le right hand, right arm
-\lf Compound
+\lf Comp
 \lv sujez
 \le agreement, harmony
 \cf
@@ -8526,7 +8728,7 @@ beans of the coffee plant in hot water
 \lf Cpart
 \lv |se
 \le tea
-\lf Compound
+\lf Comp
 \lv kafesubo
 \le café
 \lf Gen
@@ -8965,13 +9167,16 @@ something.
 \lf Sim
 \lv uflebe
 \le quality, objective value
+\lf Sim
+\lv gezi
+\le value, worth, usefulness, price
 \cf
 \ce
 \sd
 \lt pleasantness & dreadfulness
 \mr kemi-abal
 \bw
-\dt 10/Jan/2014
+\dt 03/Mar/2014
 
 \lx kemi
 \lc
@@ -9105,7 +9310,7 @@ onomatopoeia.
 \lf Cpart
 \lv no|sezgo
 \le lightning bolt
-\lf Compound
+\lf Comp
 \lv kilum
 \le firecracker
 \lf Gen
@@ -9304,7 +9509,7 @@ amount of grass or straw, use the
 plural fv:knamsa.
 \xv
 \xe
-\lf Compound
+\lf Comp
 \lv knamafin
 \le flower
 \lf Gen
@@ -9569,7 +9774,7 @@ middle voice.
 \lf Sim
 \lv datistul
 \le to make up, to invent
-\lf Compound
+\lf Comp
 \lv kulstulbel
 \le conlanging
 \lf Nact
@@ -9745,10 +9950,10 @@ symbolically with words.
 \ee
 \xv
 \xe
-\lf Compound
+\lf Comp
 \lv kuneg
 \le to end
-\lf Compound
+\lf Comp
 \lv kunstul
 \le to give up
 \cf
@@ -9933,13 +10138,12 @@ proximity to the listener
 \ge warm_weather
 \ge hot_weaher
 \ge warmth
-\ge hotness
+\ge heat
 \ge warm
 \ge hot
 \re
 \de high temperature, warm/hot weather,
-warmth, hotness; also as adj. warm,
-hot
+warmth, heat; also as adj. warm, hot
 \oe Used to refer to weather temperatures
 only. Indicates weather temperatures
 that are high enough to not simply be
@@ -9962,7 +10166,7 @@ the subject of the verb fv:ivdaj.
 \le pleasant temperature, warmth, warm
 \lf Sim
 \lv dena
-\le high temperature, hotness, hot
+\le high temperature, heat, hot
 \lf Gen
 \lv bolog
 \le weather
@@ -9972,7 +10176,7 @@ the subject of the verb fv:ivdaj.
 \lt
 \mr
 \bw
-\dt 10/Jan/2014
+\dt 26/Feb/2014
 
 \lx le-
 \lc
@@ -10190,7 +10394,7 @@ inferiority
 \lf Nug
 \lv lezuz
 \le song, chant
-\lf Compound
+\lf Comp
 \lv lezudati
 \le singing, chanting
 \cf
@@ -10209,7 +10413,8 @@ inferiority
 \sn 1
 \ge singing
 \re
-\de singing, manner of singing
+\de singing, manner of singing, style of
+singing
 \oe
 \ue
 \ee
@@ -10242,7 +10447,7 @@ inferiority
 \lt sing manner
 \mr lezu-dati
 \bw
-\dt 12/Feb/2014
+\dt 28/Feb/2014
 
 \lx lezuz
 \lc
@@ -10302,7 +10507,7 @@ inferiority
 \lf Nact
 \lv linan
 \le bird
-\lf Compound
+\lf Comp
 \lv linat
 \le firework, skyrocket
 \cf
@@ -10412,7 +10617,7 @@ coloured flames and sparks
 \lf Cpart
 \lv kilum
 \le firecraker, banger
-\lf Compound
+\lf Comp
 \lv linatoskan
 \le fireworks (display)
 \lf Src
@@ -11368,7 +11573,7 @@ person.
 \ee
 \xv
 \xe
-\lf Compound
+\lf Comp
 \lv majtage
 \le to love, to feel romantically attracted to
 \lf Sim
@@ -11616,7 +11821,7 @@ means etc.
 \lf Sim
 \lv ople
 \le to give, to take, to transfer
-\lf Compound
+\lf Comp
 \lv mikomedga
 \le to broadcast, to receive, to transfer
 \cf
@@ -12229,19 +12434,19 @@ remote, far
 \lf Max
 \lv mikomiko
 \le unknown territory
-\lf Compound
+\lf Comp
 \lv mikoboze
 \le to broadcast, to receive, to transfer
-\lf Compound
+\lf Comp
 \lv mikomedga
 \le to broadcast, to receive, to transfer
-\lf Compound
+\lf Comp
 \lv mikoeze|s
 \le radio
-\lf Compound
+\lf Comp
 \lv mikope|laz
 \le television
-\lf Compound
+\lf Comp
 \lv mikostul
 \le to phone
 \lf Gen
@@ -13008,7 +13213,7 @@ inanimate object (like a table).
 \lf Sim
 \lv bnam
 \le foot, leg, paw
-\lf Compound
+\lf Comp
 \lv mosezgo
 \le cheetah
 \cf
@@ -13231,6 +13436,9 @@ month.
 \lf Syn
 \lv |siga
 \le to be different, to disagree
+\lf Sim
+\lv tel
+\le other, each other, different
 \cf
 \ce
 \sd
@@ -13259,7 +13467,7 @@ way of saying 'no'.
 \lt
 \mr
 \bw
-\dt 17/Nov/2013
+\dt 25/Feb/2014
 
 \lx mut
 \lc
@@ -13431,10 +13639,10 @@ its wool, milk and meat.
 \lf Cpart
 \lv sestul
 \le to recount, to read aloud
-\lf Compound
+\lf Comp
 \lv nanagbel
 \le fiction writing
-\lf Compound
+\lf Comp
 \lv nanago
 \le technical writing
 \lf Nact
@@ -13714,13 +13922,13 @@ equality
 \lf Sim
 \lv ej
 \le to make, to build
-\lf Compound
+\lf Comp
 \lv negipiz
 \le difficulty, hardness
-\lf Compound
+\lf Comp
 \lv neg|nalam
 \le easiness, softness
-\lf Compound
+\lf Comp
 \lv neglugen
 \le verb
 \lf Idiom
@@ -13973,6 +14181,34 @@ fv:kamoj).
 \mr neg-|nalam
 \bw
 \dt 15/Feb/2014
+
+\lx negzom
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge power
+\ge energy
+\ge capacity
+\re
+\de power, energy, capacity; the capacity
+to act, to do things
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv som
+\le fundamental matter, energy, lifeforce
+\cf
+\ce
+\sd
+\lt do energy
+\mr neg-som
+\bw
+\dt 26/Feb/2014
 
 \lx neka
 \lc
@@ -14285,7 +14521,7 @@ that north is on one's left side.
 \ee
 \xv
 \xe
-\lf Compound
+\lf Comp
 \lv no|sezgo
 \le lightning bolt
 \cf
@@ -14604,7 +14840,7 @@ weak
 \lf Ant
 \lv ipiz
 \le heaviness, high strength
-\lf Compound
+\lf Comp
 \lv neg|nalam
 \le easiness, softness
 \cf
@@ -14712,11 +14948,11 @@ the freezing point of water.
 \le pleasant temperature, warmth, warm
 \lf Cpart
 \lv dena
-\le high temperature, hotness, hot
+\le high temperature, heat, hot
 \lf Cpart
 \lv la|zi
-\le high temperature, warmth, hotness,
-warm, hot (of weather)
+\le high temperature, warmth, heat, warm,
+hot (of weather)
 \cf
 \ce
 \cf
@@ -14741,7 +14977,7 @@ to glass vessels.
 \lt
 \mr
 \bw
-\dt 05/Feb/2014
+\dt 26/Feb/2014
 
 \lx |nolum
 \lc
@@ -14995,14 +15231,14 @@ indicate that they are young.
 \lf Min
 \lv oksin
 \le anecdote
-\lf Compound
+\lf Comp
 \lv oknese
 \le to recount, to talk about, to discuss, to
 debate
-\lf Compound
+\lf Comp
 \lv oknestul
 \le to read, to peruse
-\lf Compound
+\lf Comp
 \lv oknetina
 \le reading room
 \cf
@@ -15185,9 +15421,9 @@ or sthg)
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv gezistul
+\le to estimate, to value, to praise
 \cf
 \ce
 \sd
@@ -15209,7 +15445,57 @@ or sthg)
 \lt
 \mr
 \bw
-\dt 05/Feb/2014
+\dt 03/Mar/2014
+
+\lx olim
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge similar_one
+\ge similar
+\re
+\de similar one; also as adj. similar
+\oe This noun is uncommon as a predicate,
+with fv:ive|zaj and fv:igusi preferred in
+that case.
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv ve|za
+\le to feel like, to look like, to seem to be
+\lf Sim
+\lv gus
+\le to look like, to seem to be
+\cf
+\ce
+\sd
+\sn 2
+\ge same_one
+\ge same
+\re
+\de same one; also as adj. same
+\oe In this sense, it must be used with the
+definite article.
+\ue
+\ee Due to its specific semantics, this word
+always takes fv:atom when used
+predicatively.
+\xv
+\xe
+\lf Ant
+\lv tel
+\le other, each other, different
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 25/Feb/2014
 
 \lx olnes
 \lc
@@ -15651,7 +15937,7 @@ entity with a clear theme, typically an
 event with a name or title.
 \xv
 \xe
-\lf Compound
+\lf Comp
 \lv oskana|not
 \le celebration, ceremony
 \cf
@@ -15986,7 +16272,7 @@ of sustenance'.
 \lf Nug
 \lv o|zemez
 \le food, drink
-\lf Compound
+\lf Comp
 \lv o|zemetina
 \le dining room
 \cf
@@ -16123,10 +16409,10 @@ imagination.
 \ee
 \xv
 \xe
-\lf Compound
+\lf Comp
 \lv pa|nasiza
 \le birthdate
-\lf Compound
+\lf Comp
 \lv pa|nastul
 \le to give birth to
 \cf
@@ -16343,10 +16629,10 @@ or s.o.)
 \ee
 \xv
 \xe
-\lf Compound
+\lf Comp
 \lv mikope|laz
 \le television
-\lf Compound
+\lf Comp
 \lv pe|lastul
 \le to show, to reveal
 \lf Nug
@@ -16522,13 +16808,13 @@ little/few, not enough
 \ee
 \xv
 \xe
-\lf Compound
+\lf Comp
 \lv penlabuta
 \le to sit and wait, to be patient
-\lf Compound
+\lf Comp
 \lv penlastul
 \le to invite, to ask out
-\lf Compound
+\lf Comp
 \lv penlatina
 \le waiting room
 \cf
@@ -16687,7 +16973,7 @@ understand
 \lf Sim
 \lv onep
 \le to look, to seem to have
-\lf Compound
+\lf Comp
 \lv valpinas
 \le to imagine, to fantasise
 \cf
@@ -16927,7 +17213,7 @@ an adjective in English).
 \lf Cpart
 \lv bivo
 \le quantity, number, cardinal number
-\lf Compound
+\lf Comp
 \lv pogastul
 \le to rank
 \cf
@@ -17158,10 +17444,10 @@ to the area just below it down to the
 shoulder joints.
 \xv
 \xe
-\lf Compound
+\lf Comp
 \lv bnampoma
 \le ankle
-\lf Compound
+\lf Comp
 \lv jespoma
 \le wrist
 \lf Idiom
@@ -17951,7 +18237,7 @@ difficult to understand and to handle.
 and the ground or floor we walk on.
 \xv
 \xe
-\lf Compound
+\lf Comp
 \lv senodjem
 \le way, road
 \cf
@@ -18176,7 +18462,7 @@ quick, fast
 \lf Ant
 \lv bontu
 \le low speed
-\lf Compound
+\lf Comp
 \lv mosezgo
 \le cheetah
 \lf Gen
@@ -18447,7 +18733,7 @@ inappropriate, unfit for purpose, bad
 \lf Sim
 \lv tlebe
 \le mediocrity
-\lf Compound
+\lf Comp
 \lv slebe
 \le trollishness
 \lf Gen
@@ -18594,6 +18880,73 @@ fv:sponda).
 \bw
 \dt 18/Nov/2013
 
+\lx som
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge primordial_essence
+\ge fundamental_matter
+\ge source_of_everything
+\re
+\de fundamental matter, source of
+everything; the primordial essence
+which all matter and energy derives
+from
+\oe
+\ue
+\ee A somewhat nebulous philosophical
+concept that seems to be the basis of a
+holistic view of the universe.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge energy
+\re
+\de energy; the capacity to do work
+\oe
+\ue
+\ee Often used in compounds as a suffix to
+indicate abilities or capacities.
+\xv
+\xe
+\lf Sim
+\lv negzom
+\le power, energy, capacity
+\cf
+\ce
+\sd
+\sn 3
+\ge lifeforce
+\ge vitality
+\ge vital_breath
+\re
+\de lifeforce, vitality; the capacity to live
+and develop that separates living from
+non-living things
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv gzom
+\le lifeforce, vitality, vital breath
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 26/Feb/2014
+
 \lx son
 \lc
 \hm
@@ -18710,7 +19063,7 @@ animal is actually bigger than they are.
 \lf Part
 \lv kit
 \le large animal
-\lf Compound
+\lf Comp
 \lv spondakitpel
 \le zoology
 \cf
@@ -18945,7 +19298,7 @@ metaphorically family.
 \ee Commonly used in compounds.
 \xv
 \xe
-\lf Compound
+\lf Comp
 \lv mikostul
 \le to phone
 \cf
@@ -19015,7 +19368,7 @@ to be animate.
 \ee
 \xv
 \xe
-\lf Compound
+\lf Comp
 \lv subumpi
 \le shophouse
 \cf
@@ -19172,8 +19525,8 @@ read and to handle.
 view or an opinion.
 \ue
 \ee The verb 'to agree' is typically
-translated in Moten as fv:sujedezun fv:
-agem: 'to have the agreement'.
+translated in Moten as fv:sujedezun
+fv:agem: 'to have the agreement'.
 \xv
 \xe
 \lf Src
@@ -19185,7 +19538,7 @@ agem: 'to have the agreement'.
 \lt one hand
 \mr su-jez
 \bw
-\dt 11/Feb/2014
+\dt 17/Feb/2014
 
 \lx Sujomi
 \lc
@@ -19257,7 +19610,7 @@ water
 \lf Cpart
 \lv kafe
 \le coffee
-\lf Compound
+\lf Comp
 \lv |sesubo
 \le tea house
 \lf Gen
@@ -19319,6 +19672,9 @@ water
 \lf Syn
 \lv mun(g)
 \le to be different, to be wrong
+\lf Sim
+\lv tel
+\le other, each other, different
 \cf
 \ce
 \sd
@@ -19343,7 +19699,7 @@ stronger but more polite way of saying
 \lt
 \mr
 \bw
-\dt 04/Feb/2014
+\dt 25/Feb/2014
 
 \lx |sim
 \lc
@@ -19457,7 +19813,7 @@ registers.
 \lf Cpart
 \lv amo
 \le different-sex sibling, cousin or friend
-\lf Compound
+\lf Comp
 \lv |sukamo
 \le (family) generation
 \cf
@@ -19514,7 +19870,7 @@ vegetal produce used for sustenance
 \ee
 \xv
 \xe
-\lf Compound
+\lf Comp
 \lv talesubo
 \le greengrocer's
 \lf Gen
@@ -19809,17 +20165,18 @@ disjunct.
 \ps n
 \sn 1
 \ge other
+\ge other_one
 \ge another
 \re
-\de
+\de other one; also as adj. other, another
 \oe
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Ant
+\lv olim
+\le similar, same
 \cf
 \ce
 \sd
@@ -19833,16 +20190,40 @@ definite article.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv vike
+\le oneself
+\cf
+\ce
+\sd
+\sn 3
+\ge different_one
+\ge different
+\re
+\de different one; also as adj. different
+\oe This use of fv:tel is relatively
+uncommon (especially predicatively),
+with fv:i|sigaj and fv:imungi preferred in
+that sense.
+\ue
+\ee Due to its specific semantics, this word
+always takes fv:atom when used
+predicatively.
+\xv
+\xe
+\lf Sim
+\lv |siga
+\le to be different, to disagree
+\lf Sim
+\lv mun(g)
+\le to be different, to be wrong
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 18/Nov/2013
+\dt 25/Feb/2014
 
 \lx telba
 \lc
@@ -20364,7 +20745,7 @@ purpose.
 \lf Sim
 \lv slim
 \le inappropriateness
-\lf Compound
+\lf Comp
 \lv slebe
 \le trollishness
 \lf Gen
@@ -20810,7 +21191,7 @@ that have started in the past and are
 still happening.
 \xv
 \xe
-\lf Compound
+\lf Comp
 \lv aguba|s
 \le to come and go, to be nervous
 \lf Max
@@ -20830,7 +21211,7 @@ moon.
 \ee
 \xv
 \xe
-\lf Compound
+\lf Comp
 \lv emuba|s
 \le sunrise
 \lf Cpart
@@ -20958,13 +21339,16 @@ quality, not to a specific level of quality.
 \lf Sim
 \lv kemabal
 \le opinion, subjective value
+\lf Sim
+\lv gezi
+\le value, worth, usefulness, price
 \cf
 \ce
 \sd
 \lt greatness & mediocrity
 \mr ufan-tlebe
 \bw
-\dt 10/Jan/2014
+\dt 03/Mar/2014
 
 \lx ufsin
 \lc
@@ -21342,7 +21726,7 @@ long time.
 \ee
 \xv
 \xe
-\lf Compound
+\lf Comp
 \lv subumpi
 \le shophouse
 \cf
@@ -21561,7 +21945,7 @@ form colour names.
 \lf Nact
 \lv vajagzif
 \le student, pupil
-\lf Compound
+\lf Comp
 \lv vajagdina
 \le classroom
 \cf
@@ -21740,7 +22124,7 @@ representation of something.
 \ee
 \xv
 \xe
-\lf Compound
+\lf Comp
 \lv valpinas
 \le to imagine, to fantasise
 \cf
@@ -21911,11 +22295,13 @@ person's efforts.
 \ge feel_like
 \ge look_like
 \ge resemble
+\ge be_similar_to
 \ge seem_to_be
 \re
 \de to feel like (sthg or s.o.), to look like
 (sthg or s.o.), to resemble (sthg or
-s.o.), to seem to be (sthg or s.o.)
+s.o.), to be similar to (sthg or s.o.), to
+seem to be (sthg or s.o.)
 \oe Normally only used with animate
 beings (usually only human beings and
 large animals, i.e. fv:kit, although it can
@@ -21941,13 +22327,16 @@ understand
 \lf Sim
 \lv gus
 \le to look like, to seem to be
+\lf Sim
+\lv olim
+\le similar, same
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 21/Dec/2013
+\dt 25/Feb/2014
 
 \lx vike
 \lc
@@ -21986,13 +22375,16 @@ agrees with the subject in number.
 \lf Cpart
 \lv telba
 \le you.PL
+\lf Sim
+\lv tel
+\le other, each other, different
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 11/Feb/2014
+\dt 25/Feb/2014
 
 \lx volaj
 \lc
@@ -22018,7 +22410,7 @@ agrees with the subject in number.
 \lf Gen
 \lv o|zemez
 \le food, drink
-\lf Compound
+\lf Comp
 \lv volajsubo
 \le poultry restaurant
 \cf
@@ -22081,11 +22473,11 @@ cold, but not freezing.
 \le pleasant temperature, warmth, warm
 \lf Cpart
 \lv dena
-\le high temperature, hotness, hot
+\le high temperature, heat, hot
 \lf Cpart
 \lv la|zi
-\le high temperature, warmth, hotness,
-warm, hot (of weather)
+\le high temperature, warmth, heat, warm,
+hot (of weather)
 \cf
 \ce
 \cf
@@ -22094,7 +22486,7 @@ warm, hot (of weather)
 \lt
 \mr
 \bw
-\dt 18/Nov/2013
+\dt 26/Feb/2014
 
 \lx vone
 \lc
@@ -22125,13 +22517,16 @@ elemental concept.
 \lf Spec
 \lv |no
 \le ice
+\lf Part
+\lv vonsin
+\le water drop
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 10/Jan/2014
+\dt 17/Feb/2014
 
 \lx Voneden
 \lc
@@ -22220,6 +22615,31 @@ elemental concept.
 \sd
 \lt water day
 \mr vone-siza
+\bw
+\dt 17/Feb/2014
+
+\lx vonsin
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge water_drop
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Whole
+\lv vone
+\le cold water
+\cf
+\ce
+\sd
+\lt little water
+\mr vone-sin
 \bw
 \dt 17/Feb/2014
 
@@ -22925,11 +23345,11 @@ fv:zubna.
 \le low temperature, cold
 \lf Cpart
 \lv dena
-\le high temperature, hotness, hot
+\le high temperature, heat, hot
 \lf Cpart
 \lv la|zi
-\le high temperature, warmth, hotness,
-warm, hot (of weather)
+\le high temperature, warmth, heat, warm,
+hot (of weather)
 \cf
 \ce
 \cf
@@ -22938,7 +23358,7 @@ warm, hot (of weather)
 \lt
 \mr
 \bw
-\dt 18/Nov/2013
+\dt 26/Feb/2014
 
 \lx zubzin
 \lc
@@ -23228,13 +23648,13 @@ anyone noticing.
 \ee
 \xv
 \xe
-\lf Compound
+\lf Comp
 \lv |za|neg
 \le to start with the intention of finishing
-\lf Compound
+\lf Comp
 \lv |zajstul
 \le to start
-\lf Compound
+\lf Comp
 \lv |za|not
 \le source, origin
 \cf
@@ -23434,7 +23854,7 @@ rather fuzzy way.
 \ee
 \xv
 \xe
-\lf Cpart
+\lf Min
 \lv |zensin
 \le small plant
 \lf Whole
@@ -23446,7 +23866,7 @@ rather fuzzy way.
 \lt
 \mr
 \bw
-\dt 11/Feb/2014
+\dt 17/Feb/2014
 
 \lx |zensin
 \lc

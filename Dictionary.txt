@@ -2292,11 +2292,10 @@ way up to boiling water.
 \ps n
 \sn
 \ge high_temperature
-\ge hotness
+\ge heat
 \ge hot
 \re
-\de high temperature, hotness; also as adj.
-hot
+\de high temperature, heat; also as adj. hot
 \oe Refers to unpleasantly high
 temperatures, scalding or otherwise
 damaging to the body. Not used for
@@ -2316,15 +2315,15 @@ weather temperatures.
 \le pleasant temperature, warmth, warm
 \lf Sim
 \lv la|zi
-\le high temperature, warmth, hotness,
-warm, hot (of weather)
+\le high temperature, warmth, heat, warm,
+hot (of weather)
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 15/Nov/2013
+\dt 26/Feb/2014
 
 \lx Denapa
 \lc
@@ -5712,22 +5711,24 @@ reasons). In other forms, the bare stem
 fv:g is used, and the inflections
 themselves provide the needed vowel.
 \ee Refers to the abstract concept of life in
-general. The concept of currently being
-alive is usually rendered as fv:guz or
-fv:igi, depending on whether it is seen
-as static or active.
+general, or to the life of a being as a
+whole, from birth to death. The
+concept of currently being alive is
+usually rendered as fv:guz or fv:igi,
+depending on whether it is seen as
+static or active.
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Comp
+\lv gzom
+\le lifeforce, vitality, vital breath
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 21/Jan/2014
+\dt 25/Feb/2014
 
 \lx ga
 \lc
@@ -5903,13 +5904,44 @@ always in the instrumental.
 \lf Sim
 \lv se
 \le to say, to tell
+\lf Comp
+\lv gebezdati
+\le tone (of voice)
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 17/Jan/2014
+\dt 28/Feb/2014
+
+\lx gebezdati
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge tone
+\re
+\de tone (of voice), manner of speaking
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv gebez
+\le to speak, to talk
+\lf Src
+\lv dati
+\le thing, concept, manner
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 28/Feb/2014
 
 \lx gem
 \lc
@@ -6160,6 +6192,138 @@ children to refer to their own fathers.
 \mr geni-tol-siz<d>a-n
 \bw
 \dt 21/Jan/2014
+
+\lx gezi
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge worth
+\ge cost
+\ge usefulness
+\ge comparative_value
+\ge value
+\re
+\de worth, cost, (comparative) value
+\oe Refers to the generic concept of worth,
+cost or usefulness, not to a specific
+level of worth.
+\ue
+\ee While fv:uflebe refers to the inherent
+quality of something or someone, and
+fv:kemabal refers to the opinion
+someone has on something, fv:gezi
+refers to the value something or
+someone has in context, and/or when
+compared to others.
+\xv
+\xe
+\lf Sim
+\lv uflebe
+\le quality, objective value
+\lf Sim
+\lv kemabal
+\le opinion, subjective value
+\cf
+\ce
+\sd
+\sn 2
+\ge price
+\ge cost
+\ge numerical_value
+\re
+\de price, cost, (numerical) value
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge prize
+\ge award
+\re
+\de prize, award
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 03/Mar/2014
+
+\lx gezistul
+\lc
+\hm
+\ph
+\ps vt
+\sn 1
+\ge estimate
+\ge appraise
+\re
+\de to estimate (the value of) (sthg), to
+appraise (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge praise
+\ge value
+\re
+\de to praise (sthg or s.o.), to value (sthg
+or s.o.)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv ola
+\le to praise, to glorify, to congratulate
+\cf
+\ce
+\sd
+\sn 3
+\ge award
+\re
+\de to award (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt worth summon
+\mr gezi-stul
+\bw
+\dt 03/Mar/2014
 
 \lx ge|zaj
 \lc
@@ -6677,10 +6841,11 @@ may start at any time
 \ge resemble
 \ge seem_to_be
 \ge be_comparable_to
+\ge be_similar_to
 \re
 \de to look like (sthg), to resemble (sthg),
 to seem to be (sthg), to be comparable
-to (sthg)
+to (sthg), to be similar to (sthg)
 \oe Only used of fv:sponda, i.e. small
 animals, as well as inanimate objects or
 concepts.
@@ -6696,13 +6861,48 @@ speaker.
 \lf Sim
 \lv ve|za
 \le to feel like, to look like, to seem to be
+\lf Sim
+\lv olim
+\le similar, same
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 21/Dec/2013
+\dt 25/Feb/2014
+
+\lx gzom
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge lifeforce
+\ge vitality
+\ge vital_breath
+\re
+\de lifeforce, vitality; the capacity to live
+and develop that separates living from
+non-living things
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv som
+\le fundamental matter, energy, lifeforce
+\lf Src
+\lv g
+\le to live, to be alive
+\cf
+\ce
+\sd
+\lt life energy
+\mr g-som
+\bw
+\dt 25/Feb/2014
 
 \lx i-
 \lc
@@ -8965,13 +9165,16 @@ something.
 \lf Sim
 \lv uflebe
 \le quality, objective value
+\lf Sim
+\lv gezi
+\le value, worth, usefulness, price
 \cf
 \ce
 \sd
 \lt pleasantness & dreadfulness
 \mr kemi-abal
 \bw
-\dt 10/Jan/2014
+\dt 03/Mar/2014
 
 \lx kemi
 \lc
@@ -9933,13 +10136,12 @@ proximity to the listener
 \ge warm_weather
 \ge hot_weaher
 \ge warmth
-\ge hotness
+\ge heat
 \ge warm
 \ge hot
 \re
 \de high temperature, warm/hot weather,
-warmth, hotness; also as adj. warm,
-hot
+warmth, heat; also as adj. warm, hot
 \oe Used to refer to weather temperatures
 only. Indicates weather temperatures
 that are high enough to not simply be
@@ -9962,7 +10164,7 @@ the subject of the verb fv:ivdaj.
 \le pleasant temperature, warmth, warm
 \lf Sim
 \lv dena
-\le high temperature, hotness, hot
+\le high temperature, heat, hot
 \lf Gen
 \lv bolog
 \le weather
@@ -9972,7 +10174,7 @@ the subject of the verb fv:ivdaj.
 \lt
 \mr
 \bw
-\dt 10/Jan/2014
+\dt 26/Feb/2014
 
 \lx le-
 \lc
@@ -10209,7 +10411,8 @@ inferiority
 \sn 1
 \ge singing
 \re
-\de singing, manner of singing
+\de singing, manner of singing, style of
+singing
 \oe
 \ue
 \ee
@@ -10242,7 +10445,7 @@ inferiority
 \lt sing manner
 \mr lezu-dati
 \bw
-\dt 12/Feb/2014
+\dt 28/Feb/2014
 
 \lx lezuz
 \lc
@@ -13231,6 +13434,9 @@ month.
 \lf Syn
 \lv |siga
 \le to be different, to disagree
+\lf Sim
+\lv tel
+\le other, each other, different
 \cf
 \ce
 \sd
@@ -13259,7 +13465,7 @@ way of saying 'no'.
 \lt
 \mr
 \bw
-\dt 17/Nov/2013
+\dt 25/Feb/2014
 
 \lx mut
 \lc
@@ -13973,6 +14179,34 @@ fv:kamoj).
 \mr neg-|nalam
 \bw
 \dt 15/Feb/2014
+
+\lx negzom
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge power
+\ge energy
+\ge capacity
+\re
+\de power, energy, capacity; the capacity
+to act, to do things
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv som
+\le fundamental matter, energy, lifeforce
+\cf
+\ce
+\sd
+\lt do energy
+\mr neg-som
+\bw
+\dt 26/Feb/2014
 
 \lx neka
 \lc
@@ -14712,11 +14946,11 @@ the freezing point of water.
 \le pleasant temperature, warmth, warm
 \lf Cpart
 \lv dena
-\le high temperature, hotness, hot
+\le high temperature, heat, hot
 \lf Cpart
 \lv la|zi
-\le high temperature, warmth, hotness,
-warm, hot (of weather)
+\le high temperature, warmth, heat, warm,
+hot (of weather)
 \cf
 \ce
 \cf
@@ -14741,7 +14975,7 @@ to glass vessels.
 \lt
 \mr
 \bw
-\dt 05/Feb/2014
+\dt 26/Feb/2014
 
 \lx |nolum
 \lc
@@ -15185,9 +15419,9 @@ or sthg)
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv gezistul
+\le to estimate, to value, to praise
 \cf
 \ce
 \sd
@@ -15209,7 +15443,57 @@ or sthg)
 \lt
 \mr
 \bw
-\dt 05/Feb/2014
+\dt 03/Mar/2014
+
+\lx olim
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge similar_one
+\ge similar
+\re
+\de similar one; also as adj. similar
+\oe This noun is uncommon as a predicate,
+with fv:ive|zaj and fv:igusi preferred in
+that case.
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv ve|za
+\le to feel like, to look like, to seem to be
+\lf Sim
+\lv gus
+\le to look like, to seem to be
+\cf
+\ce
+\sd
+\sn 2
+\ge same_one
+\ge same
+\re
+\de same one; also as adj. same
+\oe In this sense, it must be used with the
+definite article.
+\ue
+\ee Due to its specific semantics, this word
+always takes fv:atom when used
+predicatively.
+\xv
+\xe
+\lf Ant
+\lv tel
+\le other, each other, different
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 25/Feb/2014
 
 \lx olnes
 \lc
@@ -18594,6 +18878,73 @@ fv:sponda).
 \bw
 \dt 18/Nov/2013
 
+\lx som
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge primordial_essence
+\ge fundamental_matter
+\ge source_of_everything
+\re
+\de fundamental matter, source of
+everything; the primordial essence
+which all matter and energy derives
+from
+\oe
+\ue
+\ee A somewhat nebulous philosophical
+concept that seems to be the basis of a
+holistic view of the universe.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge energy
+\re
+\de energy; the capacity to do work
+\oe
+\ue
+\ee Often used in compounds as a suffix to
+indicate abilities or capacities.
+\xv
+\xe
+\lf Sim
+\lv negzom
+\le power, energy, capacity
+\cf
+\ce
+\sd
+\sn 3
+\ge lifeforce
+\ge vitality
+\ge vital_breath
+\re
+\de lifeforce, vitality; the capacity to live
+and develop that separates living from
+non-living things
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv gzom
+\le lifeforce, vitality, vital breath
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 26/Feb/2014
+
 \lx son
 \lc
 \hm
@@ -19172,8 +19523,8 @@ read and to handle.
 view or an opinion.
 \ue
 \ee The verb 'to agree' is typically
-translated in Moten as fv:sujedezun fv:
-agem: 'to have the agreement'.
+translated in Moten as fv:sujedezun
+fv:agem: 'to have the agreement'.
 \xv
 \xe
 \lf Src
@@ -19185,7 +19536,7 @@ agem: 'to have the agreement'.
 \lt one hand
 \mr su-jez
 \bw
-\dt 11/Feb/2014
+\dt 17/Feb/2014
 
 \lx Sujomi
 \lc
@@ -19319,6 +19670,9 @@ water
 \lf Syn
 \lv mun(g)
 \le to be different, to be wrong
+\lf Sim
+\lv tel
+\le other, each other, different
 \cf
 \ce
 \sd
@@ -19343,7 +19697,7 @@ stronger but more polite way of saying
 \lt
 \mr
 \bw
-\dt 04/Feb/2014
+\dt 25/Feb/2014
 
 \lx |sim
 \lc
@@ -19809,17 +20163,18 @@ disjunct.
 \ps n
 \sn 1
 \ge other
+\ge other_one
 \ge another
 \re
-\de
+\de other one; also as adj. other, another
 \oe
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Ant
+\lv olim
+\le similar, same
 \cf
 \ce
 \sd
@@ -19833,16 +20188,40 @@ definite article.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv vike
+\le oneself
+\cf
+\ce
+\sd
+\sn 3
+\ge different_one
+\ge different
+\re
+\de different one; also as adj. different
+\oe This use of fv:tel is relatively
+uncommon (especially predicatively),
+with fv:i|sigaj and fv:imungi preferred in
+that sense.
+\ue
+\ee Due to its specific semantics, this word
+always takes fv:atom when used
+predicatively.
+\xv
+\xe
+\lf Sim
+\lv |siga
+\le to be different, to disagree
+\lf Sim
+\lv mun(g)
+\le to be different, to be wrong
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 18/Nov/2013
+\dt 25/Feb/2014
 
 \lx telba
 \lc
@@ -20958,13 +21337,16 @@ quality, not to a specific level of quality.
 \lf Sim
 \lv kemabal
 \le opinion, subjective value
+\lf Sim
+\lv gezi
+\le value, worth, usefulness, price
 \cf
 \ce
 \sd
 \lt greatness & mediocrity
 \mr ufan-tlebe
 \bw
-\dt 10/Jan/2014
+\dt 03/Mar/2014
 
 \lx ufsin
 \lc
@@ -21911,11 +22293,13 @@ person's efforts.
 \ge feel_like
 \ge look_like
 \ge resemble
+\ge be_similar_to
 \ge seem_to_be
 \re
 \de to feel like (sthg or s.o.), to look like
 (sthg or s.o.), to resemble (sthg or
-s.o.), to seem to be (sthg or s.o.)
+s.o.), to be similar to (sthg or s.o.), to
+seem to be (sthg or s.o.)
 \oe Normally only used with animate
 beings (usually only human beings and
 large animals, i.e. fv:kit, although it can
@@ -21941,13 +22325,16 @@ understand
 \lf Sim
 \lv gus
 \le to look like, to seem to be
+\lf Sim
+\lv olim
+\le similar, same
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 21/Dec/2013
+\dt 25/Feb/2014
 
 \lx vike
 \lc
@@ -21986,13 +22373,16 @@ agrees with the subject in number.
 \lf Cpart
 \lv telba
 \le you.PL
+\lf Sim
+\lv tel
+\le other, each other, different
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 11/Feb/2014
+\dt 25/Feb/2014
 
 \lx volaj
 \lc
@@ -22081,11 +22471,11 @@ cold, but not freezing.
 \le pleasant temperature, warmth, warm
 \lf Cpart
 \lv dena
-\le high temperature, hotness, hot
+\le high temperature, heat, hot
 \lf Cpart
 \lv la|zi
-\le high temperature, warmth, hotness,
-warm, hot (of weather)
+\le high temperature, warmth, heat, warm,
+hot (of weather)
 \cf
 \ce
 \cf
@@ -22094,7 +22484,7 @@ warm, hot (of weather)
 \lt
 \mr
 \bw
-\dt 18/Nov/2013
+\dt 26/Feb/2014
 
 \lx vone
 \lc
@@ -22125,13 +22515,16 @@ elemental concept.
 \lf Spec
 \lv |no
 \le ice
+\lf Part
+\lv vonsin
+\le water drop
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 10/Jan/2014
+\dt 17/Feb/2014
 
 \lx Voneden
 \lc
@@ -22220,6 +22613,31 @@ elemental concept.
 \sd
 \lt water day
 \mr vone-siza
+\bw
+\dt 17/Feb/2014
+
+\lx vonsin
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge water_drop
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Whole
+\lv vone
+\le cold water
+\cf
+\ce
+\sd
+\lt little water
+\mr vone-sin
 \bw
 \dt 17/Feb/2014
 
@@ -22925,11 +23343,11 @@ fv:zubna.
 \le low temperature, cold
 \lf Cpart
 \lv dena
-\le high temperature, hotness, hot
+\le high temperature, heat, hot
 \lf Cpart
 \lv la|zi
-\le high temperature, warmth, hotness,
-warm, hot (of weather)
+\le high temperature, warmth, heat, warm,
+hot (of weather)
 \cf
 \ce
 \cf
@@ -22938,7 +23356,7 @@ warm, hot (of weather)
 \lt
 \mr
 \bw
-\dt 18/Nov/2013
+\dt 26/Feb/2014
 
 \lx zubzin
 \lc
