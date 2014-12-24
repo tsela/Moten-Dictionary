@@ -840,6 +840,12 @@ body, or its appearance in the sky.
 \ee
 \xv
 \xe
+\lf Sim
+\lv emekel
+\le skies, heavens
+\lf Cpart
+\lv bo
+\le sky, day sky
 \lf Src
 \lv apa
 \le star
@@ -849,7 +855,7 @@ body, or its appearance in the sky.
 \lt star star
 \mr apa-apa
 \bw
-\dt 09/Jan/2014
+\dt 18/Nov/2014
 
 \lx apasiza
 \lc
@@ -1177,6 +1183,83 @@ of the speaker to the animal, etc.
 \bw Hindi
 \dt 10/Jan/2014
 
+\lx bale
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge salt_water
+\ge seawater
+\ge brine
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge non-drinkable_water
+\ge water
+\re
+\de non-drinkable water
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv vone
+\le cold water
+\lf Max
+\lv balebale
+\le sea, ocean
+\lf Comp
+\lv ba|zip
+\le (table) salt
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 01/Dec/2014
+
+\lx balebale
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge sea
+\ge ocean
+\ge salt_lake
+\re
+\de sea, ocean, salt lake; any large
+expanse of salt water
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv bale
+\le salt water, brine
+\cf
+\ce
+\sd
+\lt brine brine
+\mr bale-bale
+\bw
+\dt 30/Nov/2014
+
 \lx bazin
 \lc
 \hm
@@ -1230,6 +1313,73 @@ urbanised
 \mr
 \bw
 \dt 10/Jan/2014
+
+\lx ba|zip
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge salt
+\ge sea_salt
+\ge table_salt
+\ge sodium_chloride
+\re
+\de (table) salt, sea salt, sodium chloride
+\oe Seems to refer strictly to soldium
+chloride, or mixes containing
+predominantly sodium chloride, not to
+other combinations of acids and bases.
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv bale
+\le salt water, brine
+\lf Src
+\lv |zip
+\le to boil, to bake, to cook
+\cf
+\ce
+\sd
+\lt brine boiled
+\mr bale-|zip
+\bw
+\dt 01/Dec/2014
+
+\lx bego
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge light_source
+\ge lamp
+\ge light
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv bem
+\le light, glow, illumination
+\lf Src
+\lv ugo
+\le source, spring, origin
+\lf Spec
+\lv buzi
+\le candle
+\cf
+\ce
+\sd
+\lt light source
+\mr bem-ugo
+\bw
+\dt 10/Dec/2014
 
 \lx bel
 \lc
@@ -1316,6 +1466,52 @@ activities.
 \bw
 \dt 15/Nov/2013
 
+\lx bem
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge light
+\ge glow
+\ge illumination
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Comp
+\lv bego
+\le light source, lamp
+\cf
+\ce
+\sd
+\ps vt
+\sn
+\ge light
+\ge illuminate
+\ge shine_on
+\re
+\de to light (sthg), to illuminate (sthg), to
+shine (light) on (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 16/Dec/2014
+
 \lx be|s
 \lc
 \hm
@@ -1324,6 +1520,8 @@ activities.
 \sn 1
 \ge height
 \ge depth
+\ge length
+\ge vertical_length
 \re
 \de height, depth; length in the vertical
 direction, whether upwards or
@@ -1380,7 +1578,7 @@ downwards
 \lt
 \mr
 \bw
-\dt 10/Jan/2014
+\dt 09/Mar/2014
 
 \lx bivo
 \lc
@@ -1509,13 +1707,16 @@ a fv:kit, i.e. a large animal.
 \lf Part
 \lv bnampoma
 \le ankle
+\lf Part
+\lv bnamzan
+\le toe
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 10/Jan/2014
+\dt 07/Mar/2014
 
 \lx bnamag
 \lc
@@ -1619,6 +1820,37 @@ above the ankle
 \bw
 \dt 10/Jan/2014
 
+\lx bnamzan
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge toe
+\re
+\de toe, digit of the foot
+\oe This word refers to human toes. It's
+usually not used with animals, unless
+they have human-like feet and are
+considered fv:kit.
+\ue
+\ee
+\xv
+\xe
+\lf Whole
+\lv bnam
+\le foot
+\lf Gen
+\lv zan
+\le digit, finger, toe
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 07/Mar/2014
+
 \lx bo
 \lc
 \hm
@@ -1642,13 +1874,19 @@ general, including the night sky
 \lf Comp
 \lv bolog
 \le weather
+\lf Cpart
+\lv apapa
+\le night sky
+\lf Idiom
+\lv |labo
+\le rainbow
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 10/Jan/2014
+\dt 08/Dec/2014
 
 \lx bolog
 \lc
@@ -1748,7 +1986,7 @@ certain location
 \hm
 \ph
 \ps n
-\sn
+\sn 1
 \ge low_speed
 \ge slowness
 \ge slow
@@ -1759,19 +1997,38 @@ certain location
 \ee
 \xv
 \xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge lateness
+\ge tardiness
+\ge late
+\ge tardy
+\re
+\de lateness, tardiness; also as adj. late,
+tardy
+\oe
+\ue
+\ee
+\xv
+\xe
 \lf Ant
 \lv sezgo
-\le high speed
+\le high speed, earliness
 \lf Gen
 \lv sezbon
-\le velocity, speed
+\le velocity, speed, timeliness
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 10/Jan/2014
+\dt 10/Mar/2014
 
 \lx boze
 \lc
@@ -1903,6 +2160,46 @@ the object is the cause of it.
 \bw
 \dt 05/Feb/2014
 
+\lx buzi
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge candle
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv bego
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge spark_plug
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw French
+\dt 10/Dec/2014
+
 \lx -d-
 \lc
 \hm
@@ -1980,7 +2277,8 @@ encouragement or exasperation.
 \ge time
 \re
 \de
-\oe
+\oe Refers to a specific time, but also to
+time in general.
 \ue
 \ee
 \xv
@@ -2012,7 +2310,7 @@ encouragement or exasperation.
 \lt
 \mr
 \bw
-\dt 10/Jan/2014
+\dt 10/Mar/2014
 
 \lx daj
 \lc
@@ -3226,6 +3524,122 @@ between sunset and sunrise
 \bw German
 \dt 12/Jan/2014
 
+\lx duki
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge fullness
+\ge completeness
+\ge completion
+\ge full
+\ge complete
+\re
+\de fullness, completeness; also as adj. full,
+complete
+\oe
+\ue
+\ee Often used (in its short compound form
+fv:duk) as a suffix to form nominals
+indicating possession of the quality
+represented by the suffixed word.
+\xv
+\xe
+\lf Ant
+\lv puza
+\le hole, gap, emptiness
+\lf Comp
+\lv dukstul
+\le to fill, to fill up
+\lf Gen
+\lv dukpuza
+\le fullness, emptiness, level
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 23/Dec/2014
+
+\lx dukpuza
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge fullness
+\ge emptiness
+\ge level
+\re
+\de fullness, emptiness (of a container);
+level (of the contents in a container)
+\oe Refers to the fullness or emptiness of a
+container in general, not to a specific
+level.
+\ue
+\ee
+\xv
+\xe
+\lf Spec
+\lv duki
+\le fullness, completeness
+\lf Spec
+\lv puza
+\le hole, gap, emptiness
+\cf
+\ce
+\sd
+\sn 2
+\ge contents
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 23/Dec/2014
+
+\lx dukstul
+\lc
+\hm
+\ph
+\ps vt
+\sn
+\ge fill
+\ge fill_up
+\re
+\de to fill (sthg) (up)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv puzdul
+\le to pierce, to perforate, to empty
+\lf Src
+\lv duki
+\le fullness, completeness
+\cf
+\ce
+\sd
+\lt fullness summon
+\mr duki-stul
+\bw
+\dt 23/Dec/2014
+
 \lx dulak
 \lc
 \hm
@@ -3721,6 +4135,71 @@ somewhat
 \bw
 \dt 12/Feb/2014
 
+\lx elbo
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge rib
+\re
+\de
+\oe Unlike other words referring to parts
+of the body, this one can be used with
+any living thing possessing ribs,
+whether human, large animal, or small
+animal.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge flank
+\ge side
+\re
+\de flank, side (of a symmetric body or
+object)
+\oe Only used when an object has a clear
+left-right symmetry.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv ma|z
+\le (river)bank, edge
+\cf
+\ce
+\sd
+\sn 3
+\ge side
+\ge opinion
+\ge standpoint
+\re
+\de side (of an argument), opinion,
+standpoint
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Comp
+\lv elzdul
+\le to choose, to select
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 12/Dec/2014
+
 \lx elej
 \lc
 \hm
@@ -3927,6 +4406,34 @@ person remembering it.
 \bw
 \dt 13/Jan/2014
 
+\lx elzdul
+\lc
+\hm
+\ph
+\ps vt
+\sn
+\ge choose
+\ge select
+\ge pick_out
+\re
+\de to choose (sthg or s.o.), to select (sthg
+or s.o.), to pick (sthg or s.o.) out
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv elbo
+\le rib, flank, side
+\cf
+\ce
+\sd
+\lt side summon
+\mr elbo-stul
+\bw
+\dt 12/Dec/2014
+
 \lx e|lon
 \lc
 \hm
@@ -4125,19 +4632,25 @@ names.
 \lf Sim
 \lv bo
 \le sky, day sky
+\lf Sim
+\lv apapa
+\le night sky
 \lf Src
 \lv eme
 \le sun
 \lf Src
 \lv kel
 \le moon
+\lf Idiom
+\lv |lemekel
+\le rainbow
 \cf
 \ce
 \sd
 \lt sun & moon
 \mr eme-kel
 \bw
-\dt 12/Feb/2014
+\dt 08/Dec/2014
 
 \lx emelog
 \lc
@@ -4661,6 +5174,12 @@ nouns.
 \ee
 \xv
 \xe
+\lf Gen
+\lv oam
+\le to feel, to sense, to smell, to taste
+\lf Cpart
+\lv pe|la
+\le to see, to watch
 \lf Nug
 \lv eze|s
 \le sound, noise
@@ -4670,7 +5189,7 @@ nouns.
 \lt
 \mr
 \bw
-\dt 12/Feb/2014
+\dt 05/Dec/2014
 
 \lx -f-
 \lc
@@ -4742,6 +5261,33 @@ mess behind.
 \mr
 \bw
 \dt 16/Nov/2013
+
+\lx festul
+\lc
+\hm
+\ph
+\ps vt
+\sn
+\ge celebrate
+\ge party
+\re
+\de to celebrate (sthg or s.o.); (when in the
+middle voice) to party
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv fet
+\le party, feast, holiday
+\cf
+\ce
+\sd
+\lt party summon
+\mr fet-stul
+\bw
+\dt 11/Dec/2014
 
 \lx fe|su
 \lc
@@ -4852,33 +5398,6 @@ day
 \lt
 \mr
 \bw French
-\dt 13/Jan/2014
-
-\lx fetstul
-\lc
-\hm
-\ph
-\ps vt
-\sn
-\ge celebrate
-\ge party
-\re
-\de to celebrate (sthg or s.o.); (when in the
-middle voice) to party
-\oe
-\ue
-\ee
-\xv
-\xe
-\lf Src
-\lv fet
-\le party, feast, holiday
-\cf
-\ce
-\sd
-\lt party summon
-\mr fet-stul
-\bw
 \dt 13/Jan/2014
 
 \lx Filansi
@@ -5068,6 +5587,8 @@ starting point for measuring height.
 \ge height
 \ge depth
 \ge altitude
+\ge length
+\ge vertical_length
 \re
 \de height, depth, altitude; length in the
 vertical direction, whether upwards or
@@ -5092,7 +5613,7 @@ downwards
 \lt top & bottom
 \mr fin-piv
 \bw
-\dt 14/Jan/2014
+\dt 09/Mar/2014
 
 \lx fi|zon
 \lc
@@ -5483,7 +6004,7 @@ exaggerate
 \sn
 \ge gold
 \re
-\de
+\de gold (material)
 \oe
 \ue
 \ee
@@ -5498,7 +6019,7 @@ exaggerate
 \lt
 \mr
 \bw
-\dt 14/Jan/2014
+\dt 04/Mar/2014
 
 \lx fulifula
 \lc
@@ -5594,13 +6115,16 @@ be used to indicate a point in time.
 \lf Comp
 \lv funafula
 \le stupid event, stupid mistake, d'oh
+\lf Comp
+\lv funma|z
+\le present
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 14/Jan/2014
+\dt 11/Dec/2014
 
 \lx funafula
 \lc
@@ -5667,6 +6191,40 @@ in familiar registers of language.
 \mr funa-fula
 \bw
 \dt 14/Jan/2014
+
+\lx funma|z
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge present
+\re
+\de present, the current moment in time
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv so|nem
+\le downstream, journey travelled, past
+\lf Cpart
+\lv zekjem
+\le upstream, journey ahead, future
+\lf Src
+\lv funa
+\le second, moment
+\lf Src
+\lv ma|z
+\le (river)bank, edge
+\cf
+\ce
+\sd
+\lt moment edge
+\mr funa-ma|z
+\bw
+\dt 11/Dec/2014
 
 \lx g
 \lc
@@ -5914,6 +6472,35 @@ always in the instrumental.
 \mr
 \bw
 \dt 28/Feb/2014
+
+\lx gebezan
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge forefinger
+\ge index_finger
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv zan
+\le digit, finger, toe
+\lf Src
+\lv gebez
+\le to speak, to talk
+\cf
+\ce
+\sd
+\lt speak digit
+\mr gebez-zan
+\bw
+\dt 07/Mar/2014
 
 \lx gebezdati
 \lc
@@ -6219,12 +6806,18 @@ someone has in context, and/or when
 compared to others.
 \xv
 \xe
+\lf Spec
+\lv gezom
+\le worth, usefulness, value
 \lf Sim
 \lv uflebe
 \le quality, objective value
 \lf Sim
 \lv kemabal
 \le opinion, subjective value
+\lf Sim
+\lv voslim
+\le beauty, appropriateness
 \cf
 \ce
 \sd
@@ -6255,16 +6848,16 @@ compared to others.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Comp
+\lv gezistul
+\le to estimate, to value, to praise
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 03/Mar/2014
+\dt 04/Mar/2014
 
 \lx gezistul
 \lc
@@ -6305,27 +6898,58 @@ or s.o.)
 \cf
 \ce
 \sd
-\sn 1
-\ge estimate
-\ge appraise
+\sn 3
+\ge award
 \re
-\de to estimate (the value of) (sthg), to
-appraise (sthg)
+\de to award (sthg)
 \oe
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Src
+\lv gezi
+\le value, worth, usefulness, price
 \cf
 \ce
 \sd
 \lt worth summon
 \mr gezi-stul
 \bw
-\dt 03/Mar/2014
+\dt 04/Mar/2014
+
+\lx gezom
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge worth
+\ge usefulness
+\ge value
+\re
+\de worth, usefulness, value (material)
+\oe Refers to usefulness or value as a
+metaphorical material s.o. or sthg can
+be made of, rather than to the concept
+of worth in general.
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv gezi
+\le value, worth, usefulness, price
+\lf Src
+\lv som
+\le fundamental matter, energy, lifeforce
+\cf
+\ce
+\sd
+\lt worth energy
+\mr gezi-som
+\bw
+\dt 04/Mar/2014
 
 \lx ge|zaj
 \lc
@@ -6387,6 +7011,9 @@ aware of an external sensation
 \lv pinas
 \le to feel, to seem to have (an internal
 sensation)
+\lf Sim
+\lv oam
+\le to feel, to sense, to smell, to taste
 \cf
 \ce
 \sd
@@ -6416,7 +7043,7 @@ understandable
 \lt
 \mr
 \bw
-\dt 21/Jan/2014
+\dt 05/Dec/2014
 
 \lx gize
 \lc
@@ -7338,14 +7965,14 @@ fv:Adodun.
 \le party, feast, holiday
 \lf Src
 \lv monu
-\le to turn
+\le to turn, to happen, to change
 \cf
 \ce
 \sd
 \lt to turn
 \mr i-monu-i
 \bw
-\dt 04/Feb/2014
+\dt 16/Dec/2014
 
 \lx imsin
 \lc
@@ -7514,6 +8141,9 @@ and windows.
 \ee
 \xv
 \xe
+\lf Sim
+\lv zan
+\le digit, finger, toe
 \lf Idiom
 \lv |lajpe|lastu|l
 \le ring
@@ -7526,7 +8156,7 @@ and windows.
 \lt to show
 \mr i-pe|la-stul-i
 \bw
-\dt 29/Jan/2014
+\dt 07/Mar/2014
 
 \lx ipi
 \lc
@@ -8379,7 +9009,13 @@ speaker received from someone else.
 \lf Comp
 \lv senodjem
 \le way, road
-\lf Deriv
+\lf Comp
+\lv zekjem
+\le upstream, journey ahead, future
+\lf Comp
+\lv so|nem
+\le downstream, journey travelled, past
+\lf Nact
 \lv jemnon
 \le heron, stork, crane
 \cf
@@ -8388,7 +9024,7 @@ speaker received from someone else.
 \lt
 \mr
 \bw
-\dt 07/Feb/2014
+\dt 10/Mar/2014
 
 \lx jemag
 \lc
@@ -8608,8 +9244,9 @@ that south is on one's right side.
 \de
 \oe This word is used to refer to the hand
 or arm of a person. It's usually not
-used with animals, even those with
-opposable thumbs.
+used with animals, unless they have
+opposable thumbs and are considered
+fv:kit.
 \ue
 \ee
 \xv
@@ -8620,9 +9257,12 @@ opposable thumbs.
 \lf Spec
 \lv nos(t)
 \le left hand, left arm
-\lf Cpart
+\lf Spec
 \lv jestel
 \le right hand, right arm
+\lf Part
+\lv zan
+\le digit, finger, toe
 \lf Comp
 \lv sujez
 \le agreement, harmony
@@ -8632,7 +9272,7 @@ opposable thumbs.
 \lt
 \mr
 \bw
-\dt 11/Feb/2014
+\dt 07/Mar/2014
 
 \lx jos
 \lc
@@ -9104,6 +9744,60 @@ alternatives
 \mr kele-mune
 \bw
 \dt 12/Feb/2014
+
+\lx keli
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge snow
+\ge falling_snow
+\re
+\de snow (when falling from the sky)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv |no
+\le ice, frost, snow
+\lf Min
+\lv kelsin
+\le snowflake
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 18/Dec/2014
+
+\lx kelsin
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge snowflake
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv keli
+\le snow (when falling from the sky)
+\cf
+\ce
+\sd
+\lt little snow
+\mr keli-sin
+\bw
+\dt 18/Dec/2014
 
 \lx kelsiza
 \lc
@@ -9642,6 +10336,42 @@ family
 \mr
 \bw
 \dt 17/Nov/2013
+
+\lx kolem
+\lc
+\hm
+\ph
+\ps exp
+\sn
+\ge the_more
+\ge in_the_same_way
+\ge so
+\re
+\de the more... the more..., as... so..., in
+the same way
+\oe
+\ue
+\ee This expression is often used where
+English would use correlative
+comparatives (the more... the more...).
+It appears only in the second clause of
+the comparison, with the first one being
+an instrumental, causative or temporal
+subordinate clause depending on
+meaning. Both clauses will normally be
+in the imperfective aspect.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt by the same
+\mr ko-ol<e>im
+\bw
+\dt 27/Mar/2014
 
 \lx Kolsika
 \lc
@@ -10510,13 +11240,16 @@ singing
 \lf Comp
 \lv linat
 \le firework, skyrocket
+\lf Comp
+\lv lintalu
+\le butterfly
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 05/Feb/2014
+\dt 06/Mar/2014
 
 \lx lin
 \lc
@@ -10664,6 +11397,35 @@ main part of the entertainment
 \mr lin1-at-oskan
 \bw
 \dt 12/Feb/2014
+
+\lx lintalu
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge butterfly
+\re
+\de
+\oe Refers strictly to the colourful, diurnal
+type.
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv lin1
+\le to fly
+\lf Src
+\lv talu
+\le flower, blosson
+\cf
+\ce
+\sd
+\lt fly flower
+\mr lin1-talu
+\bw
+\dt 06/Mar/2014
 
 \lx log
 \lc
@@ -11008,6 +11770,9 @@ both true and false, real and fake.
 \ee
 \xv
 \xe
+\lf Ant
+\lv tneban
+\le war, warfare, bad health
 \lf Idiom
 \lv |lag
 \le good bye, bye
@@ -11023,7 +11788,7 @@ both true and false, real and fake.
 \lt
 \mr
 \bw
-\dt 28/Jan/2014
+\dt 15/Dec/2014
 
 \lx |la-
 \lc
@@ -11049,6 +11814,34 @@ both true and false, real and fake.
 \mr
 \bw
 \dt 17/Nov/2013
+
+\lx |labo
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge rainbow
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Syn
+\lv |lemekel
+\le rainbow
+\lf Src
+\lv bo
+\le sky, day sky
+\cf
+\ce
+\sd
+\lt to improve a sky
+\mr |la-bo
+\bw
+\dt 08/Dec/2014
 
 \lx |lag
 \lc
@@ -11265,7 +12058,7 @@ someone sneezed.
 \cf
 \ce
 \sd
-\sn 2
+\sn 3
 \ge cheers
 \ge bottoms_up
 \re
@@ -11284,7 +12077,36 @@ someone sneezed.
 \lt (have) the peace(ful)
 \mr |l<e><d>a-n
 \bw
-\dt 29/Jan/2014
+\dt 16/Dec/2014
+
+\lx |lemekel
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge rainbow
+\re
+\de
+\oe
+\ue Somewhat lyrical or poetic, yet still
+common in the spoken language.
+\ee
+\xv
+\xe
+\lf Syn
+\lv |labo
+\le rainbow
+\lf Src
+\lv emekel
+\le skies, heavens
+\cf
+\ce
+\sd
+\lt to improve sun & moon
+\mr |la-eme-kel
+\bw
+\dt 08/Dec/2014
 
 \lx |lemik
 \lc
@@ -11697,6 +12519,80 @@ body) from bad weather conditions.
 \bw
 \dt 17/Nov/2013
 
+\lx mazdul
+\lc
+\hm
+\ph
+\ps vt
+\sn
+\ge cut
+\re
+\de to cut (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv ma|z
+\le (river)bank, edge
+\cf
+\ce
+\sd
+\lt edge summon
+\mr ma|z-stul
+\bw
+\dt 11/Dec/2014
+
+\lx ma|z
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge riverbank
+\ge bank
+\re
+\de (river)bank
+\oe Refers only to the land adjoining a body
+of flowing water.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge edge
+\ge side
+\re
+\de edge, side (of a 2D figure)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv elbo
+\le rib, flank, side
+\lf Comp
+\lv mazdul
+\le to cut
+\lf Comp
+\lv funma|z
+\le present
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 12/Dec/2014
+
 \lx me-
 \lc
 \hm
@@ -11943,16 +12839,16 @@ fv:mejto with fv:mejto.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Ant
+\lv sili
+\le exterior, outside
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 17/Nov/2013
+\dt 15/Dec/2014
 
 \lx me|lo
 \lc
@@ -11987,6 +12883,33 @@ though; particle indicating contradiction
 \mr
 \bw
 \dt 31/Jan/2014
+
+\lx me|lo_kolam
+\lc me|lo kolam
+\hm
+\ph
+\ps exp
+\sn
+\ge however
+\ge nevertheless
+\ge even_so
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt but by that
+\mr me|lo ko-lam
+\bw
+\dt 27/Mar/2014
 
 \lx memas
 \lc
@@ -12179,8 +13102,8 @@ extend above the wrist
 \ge outer_ear
 \ge ear
 \re
-\de
-\oe
+\de (outer) ear
+\oe This word is used of human ears only.
 \ue
 \ee
 \xv
@@ -12194,7 +13117,7 @@ extend above the wrist
 \lt little jug
 \mr menzola-sin
 \bw
-\dt 31/Jan/2014
+\dt 07/Mar/2014
 
 \lx menzola
 \lc
@@ -12420,9 +13343,10 @@ slightly awkward.
 \ge remote
 \ge far
 \ge far_off
+\ge long
 \re
 \de remoteness, long distance; also as adj.
-remote, far
+remote, far, long
 \oe
 \ue
 \ee
@@ -12458,7 +13382,7 @@ remote, far
 \lt
 \mr
 \bw
-\dt 15/Feb/2014
+\dt 09/Mar/2014
 
 \lx mikoboze
 \lc
@@ -12847,7 +13771,7 @@ fv:imikostu|l instead.
 \lt far summon tool
 \mr miko-stul-ipi
 \bw
-\dt 22/Jan/2014
+\dt 15/Jul/2014
 
 \lx mikujtin
 \lc
@@ -12856,11 +13780,13 @@ fv:imikostu|l instead.
 \ps n
 \sn
 \ge distance
+\ge length
+\ge horizontal_length
 \re
-\de
+\de distance, (horizontal) length
 \oe Refers to the generic concept of
-distance rather than to a specific
-distance.
+distance or length rather than to a
+specific distance or length.
 \ue
 \ee
 \xv
@@ -12877,7 +13803,7 @@ distance.
 \lt remoteness & proximity
 \mr miko-ujtin
 \bw
-\dt 31/Jan/2014
+\dt 09/Mar/2014
 
 \lx mja
 \lc
@@ -13073,7 +13999,7 @@ origin
 \xe
 \lf Src
 \lv monu
-\le to turn
+\le to turn, to happen, to change
 \cf
 \ce
 \sd
@@ -13095,7 +14021,7 @@ origin
 \lt turn turn
 \mr monu-monu
 \bw
-\dt 03/Feb/2014
+\dt 16/Dec/2014
 
 \lx monu
 \lc
@@ -13114,6 +14040,9 @@ origin
 \lf Max
 \lv monmonu
 \le to roll, to wrap
+\lf Idiom
+\lv Imonuj
+\le the Turning
 \cf
 \ce
 \sd
@@ -13143,16 +14072,19 @@ English).
 \ee
 \xv
 \xe
-\lf Idiom
-\lv Imonuj
-\le the Turning
+\lf Sim
+\lv os(k)
+\le to happen, to proceed, to play
+\lf Sim
+\lv sfom
+\le to flow, to float, to change
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 03/Feb/2014
+\dt 16/Dec/2014
 
 \lx mosezgo
 \lc
@@ -13182,14 +14114,14 @@ treat them as fv:kit.
 \le paw, foot, leg
 \lf Src
 \lv sezgo
-\le high speed
+\le high speed, earliness
 \cf
 \ce
 \sd
 \lt paw quick
 \mr mosu-sezgo
 \bw
-\dt 15/Feb/2014
+\dt 10/Mar/2014
 
 \lx mosu
 \lc
@@ -13598,8 +14530,23 @@ its wool, milk and meat.
 \hm
 \ph
 \ps n
-\sn
+\sn 1
 \ge feather
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge leaf
 \re
 \de
 \oe
@@ -13616,7 +14563,7 @@ its wool, milk and meat.
 \lt
 \mr
 \bw
-\dt 17/Nov/2013
+\dt 06/Mar/2014
 
 \lx nanag
 \lc
@@ -13931,6 +14878,9 @@ equality
 \lf Comp
 \lv neglugen
 \le verb
+\lf Comp
+\lv negzom
+\le power, energy, capacity
 \lf Idiom
 \lv |negdin_kodidon
 \le at the same time
@@ -13940,7 +14890,7 @@ equality
 \lt
 \mr
 \bw
-\dt 15/Feb/2014
+\dt 22/Dec/2014
 
 \lx nege
 \lc
@@ -14202,13 +15152,16 @@ to act, to do things
 \lf Sim
 \lv som
 \le fundamental matter, energy, lifeforce
+\lf Src
+\lv neg
+\le to do, to act
 \cf
 \ce
 \sd
 \lt do energy
 \mr neg-som
 \bw
-\dt 26/Feb/2014
+\dt 22/Dec/2014
 
 \lx neka
 \lc
@@ -14911,6 +15864,7 @@ participants, usually as a disjunct.
 \sn 2
 \ge frost
 \ge snow
+\ge lying_snow
 \re
 \de frost; snow (when on the ground)
 \oe
@@ -14918,9 +15872,9 @@ participants, usually as a disjunct.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv keli
+\le snow (when falling from the sky)
 \cf
 \ce
 \sd
@@ -14977,7 +15931,7 @@ to glass vessels.
 \lt
 \mr
 \bw
-\dt 26/Feb/2014
+\dt 18/Dec/2014
 
 \lx |nolum
 \lc
@@ -15011,6 +15965,68 @@ context.
 \bw
 \dt 17/Feb/2014
 
+\lx |no|som
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge stability
+\ge stable
+\re
+\de stability; also as adj. stable
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge presence
+\ge present
+\re
+\de presence; also as adj. present
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge existence
+\ge existing
+\ge existent
+\re
+\de existence; also as adj. existing, existent
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv |not
+\le source, origin, cornerstone, head
+\lf Src
+\lv som
+\le fundamental matter, energy, lifeforce
+\cf
+\ce
+\sd
+\lt origin energy
+\mr |not-som
+\bw
+\dt 19/Dec/2014
+
 \lx |not
 \lc
 \hm
@@ -15030,6 +16046,9 @@ than with concrete items like rivers.
 \lf Syn
 \lv |za|not
 \le source, origin
+\lf Cpart
+\lv ugo
+\le source, spring, origin
 \cf
 \ce
 \sd
@@ -15078,7 +16097,7 @@ large animal.
 \lt
 \mr
 \bw
-\dt 27/Dec/2013
+\dt 06/Dec/2014
 
 \lx |nuba
 \lc
@@ -15138,6 +16157,65 @@ listener
 \mr
 \bw
 \dt 19/Nov/2013
+
+\lx oam
+\lc
+\hm
+\ph
+\ps vt
+\sn 1
+\ge feel
+\ge sense
+\ge notice
+\re
+\de to feel (sthg), to sense (sthg), to notice
+(sthg)
+\oe With a subject in the instrumental or
+the nominative case.
+\ue
+\ee Refers to the usage of one's senses to
+experience one's environment, whether
+passively or actively.
+\xv
+\xe
+\lf Sim
+\lv gi|no
+\le to feel (an external sensation), to
+understand
+\cf
+\ce
+\sd
+\sn 2
+\ge feel_by_touch
+\ge smell
+\ge taste
+\re
+\de to feel (sthg) by touch, to smell (sthg),
+to taste (sthg)
+\oe Passively with a subject in the
+instrumental, or actively with a subject
+in the nominative case.
+\ue
+\ee Since there are specialised verbs for
+the senses of sight and hearing, this
+generic verb is often used to refer to
+the remaining senses only, i.e. touch,
+smell and taste.
+\xv
+\xe
+\lf Spec
+\lv ezet
+\le to hear, to listen to
+\lf Spec
+\lv pe|la
+\le to see, to watch
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 05/Dec/2014
 
 \lx odamla
 \lc
@@ -15567,6 +16645,82 @@ sources.
 \bw
 \dt 05/Feb/2014
 
+\lx om
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge tree
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Syn
+\lv omgo
+\le tree
+\cf
+\ce
+\sd
+\sn 2
+\ge wood
+\re
+\de wood (material)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 07/Dec/2014
+
+\lx omgo
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge tree
+\re
+\de
+\oe Refers only to the large wooden plants,
+not to the material they are made of,
+unlike fv:om.
+\ue
+\ee This explanatory compound was
+probably created because fv:om's two
+meanings were causing some
+ambiguity. As a result, it's still common
+to use fv:om to refer to trees, but
+fv:omgo can be used instead if one
+wants to be really clear.
+\xv
+\xe
+\lf Syn
+\lv om
+\le tree, wood (material)
+\lf Src
+\lv ugo
+\le source, spring, origin
+\cf
+\ce
+\sd
+\lt wood source
+\mr om-ugo
+\bw
+\dt 07/Dec/2014
+
 \lx onep
 \lc
 \hm
@@ -15892,9 +17046,9 @@ recitals, concerts or films.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv monu
+\le to turn, to happen, to change
 \cf
 \ce
 \sd
@@ -15917,7 +17071,7 @@ duration is present in the clause.
 \lt
 \mr
 \bw
-\dt 05/Feb/2014
+\dt 16/Dec/2014
 
 \lx oskan
 \lc
@@ -15961,7 +17115,7 @@ or recorded
 \xv
 \xe
 \lf Src
-\lv osk
+\lv os(k)
 \le to happen, to play, to last
 \cf
 \ce
@@ -15985,7 +17139,7 @@ or recorded
 \lt
 \mr
 \bw
-\dt 05/Feb/2014
+\dt 16/Dec/2014
 
 \lx oskana|not
 \lc
@@ -16629,6 +17783,12 @@ or s.o.)
 \ee
 \xv
 \xe
+\lf Gen
+\lv oam
+\le to feel, to sense, to smell, to taste
+\lf Cpart
+\lv ezet
+\le to hear, to listen to
 \lf Comp
 \lv mikope|laz
 \le television
@@ -16659,7 +17819,7 @@ or s.o.)
 \lt
 \mr
 \bw
-\dt 05/Feb/2014
+\dt 05/Dec/2014
 
 \lx pe|lastul
 \lc
@@ -17544,6 +18704,120 @@ undressed'.
 \bw
 \dt 18/Nov/2013
 
+\lx puza
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge hole
+\ge gap
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge lack
+\ge deficiency
+\re
+\de
+\oe
+\ue
+\ee Often used as a suffix (in its short
+compound form fv:puz) to form
+nominals indicating lack of the quality
+represented by the suffixed word.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge emptiness
+\ge empty
+\re
+\de emptiness; also as adj. empty
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv duki
+\le fullness, completeness
+\lf Comp
+\lv puzdul
+\le to pierce, to perforate, to empty
+\lf Gen
+\lv dukpuza
+\le fullness, emptiness, level
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 23/Dec/2014
+
+\lx puzdul
+\lc
+\hm
+\ph
+\ps vt
+\sn 1
+\ge pierce
+\ge perforate
+\ge bore_through
+\re
+\de to pierce (sthg), to perforate (sthg), to
+bore through (sthg), to drive a hole in
+(sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge empty
+\re
+\de to empty (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv dukstul
+\le to fill, to fill up
+\lf Src
+\lv puza
+\le hole, gap, emptiness
+\cf
+\ce
+\sd
+\lt hole summon
+\mr puza-stul
+\bw
+\dt 23/Dec/2014
+
 \lx -s
 \lc
 \hm
@@ -17945,11 +19219,43 @@ counters.
 \hm
 \ph
 \ps n
-\sn
+\sn 1
+\ge steam
+\ge water_vapour
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge smoke
+\ge fume
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
 \ge blur
 \ge blurred
 \re
-\de blur; also as adj. blurred
+\de blur; also as adj. blurry, blurred
 \oe
 \ue
 \ee
@@ -17964,7 +19270,7 @@ counters.
 \lt
 \mr
 \bw
-\dt 18/Nov/2013
+\dt 03/Dec/2014
 
 \lx seliz
 \lc
@@ -18211,13 +19517,16 @@ difficult to understand and to handle.
 \lf Src
 \lv gi|no
 \le to feel, to understand
+\lf Src
+\lv sen
+\le thousand
 \cf
 \ce
 \sd
 \lt thousand understand
 \mr sen-gi|no
 \bw
-\dt 21/Jan/2014
+\dt 06/Mar/2014
 
 \lx senod
 \lc
@@ -18356,13 +19665,16 @@ and the ground or floor we walk on.
 \lf Gen
 \lv talu
 \le flower, blossom
+\lf Src
+\lv sen
+\le thousand
 \cf
 \ce
 \sd
 \lt thousand flower
 \mr sen-talu
 \bw
-\dt 07/Feb/2014
+\dt 06/Mar/2014
 
 \lx sestul
 \lc
@@ -18416,7 +19728,7 @@ and the ground or floor we walk on.
 \hm
 \ph
 \ps n
-\sn
+\sn 1
 \ge velocity
 \ge speed
 \re
@@ -18427,26 +19739,43 @@ speed, not to a specific value of speed.
 \ee
 \xv
 \xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge timeliness
+\re
+\de
+\oe Refers to the generic concept of
+timeliness, not to a specific value of
+timeliness.
+\ue
+\ee
+\xv
+\xe
 \lf Spec
 \lv bontu
-\le low speed
+\le low speed, lateness
 \lf Spec
 \lv sezgo
-\le high speed
+\le high speed, earliness
 \cf
 \ce
 \sd
 \lt high speed & low speed
 \mr sezgo-bontu
 \bw
-\dt 10/Jan/2014
+\dt 10/Mar/2014
 
 \lx sezgo
 \lc
 \hm
 \ph
 \ps n
-\sn
+\sn 1
 \ge high_speed
 \ge quickness
 \ge quick
@@ -18459,22 +19788,209 @@ quick, fast
 \ee
 \xv
 \xe
-\lf Ant
-\lv bontu
-\le low speed
 \lf Comp
 \lv mosezgo
 \le cheetah
+\cf
+\ce
+\sd
+\sn 2
+\ge earliness
+\ge early
+\re
+\de earliness; also as adj. early
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv bontu
+\le low speed, lateness
 \lf Gen
 \lv sezbon
-\le velocity, speed
+\le velocity, speed, timeliness
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 15/Feb/2014
+\dt 10/Mar/2014
+
+\lx sfom
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge flow
+\ge current
+\re
+\de flow, current (of a body of moving
+water or other liquids)
+\oe Not used for electric current nor for air
+currents.
+\ue
+\ee
+\xv
+\xe
+\lf Comp
+\lv sfomstul
+\le to pour, to serve
+\cf
+\ce
+\sd
+\sn 2
+\ge course
+\ge path
+\re
+\de course (e.g. of a river), path
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge period
+\ge length_of_time
+\re
+\de period, length (of time)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 4
+\ge heavy_rain
+\ge rain
+\ge downpour
+\re
+\de heavy rain, downpour; heavy type of
+rainfall
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv tlap
+\le
+\cf
+\ce
+\sd
+\ps vi
+\sn 1
+\ge flow
+\ge run
+\re
+\de to flow, to run
+\oe Used for flowing liquids only. Never
+means 'to rain'.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge float
+\re
+\de to float
+\oe Used for non-drowning objects at the
+surface or within a body of liquid,
+usually moving. Not used for objects
+floating in air or drifting in space.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge change
+\ge evolve
+\re
+\de to change, to evolve
+\oe
+\ue
+\ee In this sense, fv:isfomi refers to how
+things change with time.
+\xv
+\xe
+\lf Sim
+\lv monu
+\le to turn, to happen, to change
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 16/Dec/2014
+
+\lx sfomstul
+\lc
+\hm
+\ph
+\ps vt
+\sn 1
+\ge pour
+\re
+\de to pour (sthg)
+\oe
+\ue
+\ee Refers to pouring liquid into some kind
+of recipient, usually for the purpose of
+serving it for consumption.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge serve
+\re
+\de to serve (sthg)
+\oe Refers only to serving items (usually
+food) for the purpose of consumption.
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv sfom
+\le flow, current, heavy rain
+\cf
+\ce
+\sd
+\lt flow summon
+\mr sfom-stul
+\bw
+\dt 16/Dec/2014
 
 \lx -sif
 \lc
@@ -18556,6 +20072,32 @@ names in general, use fv:pogla.
 \mr
 \bw
 \dt 17/Feb/2014
+
+\lx sili
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge exterior
+\ge outside
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv melag
+\le interior, inside
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 15/Dec/2014
 
 \lx -sin
 \lc
@@ -18914,7 +20456,9 @@ holistic view of the universe.
 \oe
 \ue
 \ee Often used in compounds as a suffix to
-indicate abilities or capacities.
+indicate abilities, capacities, and other
+abstract but measurable (or meant to
+be measurable) concepts.
 \xv
 \xe
 \lf Sim
@@ -18945,14 +20489,14 @@ non-living things
 \lt
 \mr
 \bw
-\dt 26/Feb/2014
+\dt 04/Mar/2014
 
 \lx son
 \lc
 \hm
 \ph
 \ps vt
-\sn
+\sn 1
 \ge precede
 \ge predate
 \ge go_before
@@ -18966,16 +20510,109 @@ prefix to mean 'previous, last', or as a
 suffix to mean 'to get ready to'.
 \xv
 \xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge move_downstream
+\ge go_downstream
+\ge be_downstream
+\re
+\de to move/go/be downstream (sthg)
+\oe
+\ue
+\ee Maybe the original meaning of this
+verb, it means both 'to move in the
+direction of the flow (of sthg)' and 'to
+be situated downstream (of sthg)'.
+\xv
+\xe
 \lf Cpart
 \lv zek
-\le to follow, to go after
+\le to follow, to go after, to go upstream
+\lf Comp
+\lv so|nem
+\le downstream, journey travelled, past
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 18/Nov/2013
+\dt 10/Mar/2014
+
+\lx so|nem
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge downstream
+\ge downriver
+\re
+\de the downstream part of a river or flow
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge journey_travelled
+\ge track
+\re
+\de journey travelled, track; the part of a
+journey that has already been travelled
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge past
+\re
+\de past, the period of time that has
+already happened
+\oe
+\ue
+\ee In this sense, it is also used with a time
+phrase as complement to mean 'ago'.
+\xv
+\xe
+\lf Ant
+\lv zekjem
+\le upstream, journey ahead, future
+\lf Cpart
+\lv funma|z
+\le present
+\lf Src
+\lv son
+\le to precede, to go before, to go
+downstream
+\lf Src
+\lv jem
+\le river, brook
+\cf
+\ce
+\sd
+\lt downstream river
+\mr son-jem
+\bw
+\dt 11/Dec/2014
 
 \lx spe
 \lc
@@ -19458,13 +21095,16 @@ intransitive.
 \lf Src
 \lv gem
 \le to gather, to accumulate
+\lf Src
+\lv su
+\le one
 \cf
 \ce
 \sd
 \lt one gather
 \mr su-gem
 \bw
-\dt 17/Jan/2014
+\dt 06/Mar/2014
 
 \lx sugi|no
 \lc
@@ -19502,13 +21142,16 @@ read and to handle.
 \lf Src
 \lv gi|no
 \le to feel, to understand
+\lf Src
+\lv su
+\le one
 \cf
 \ce
 \sd
 \lt one understand
 \mr su-gi|no
 \bw
-\dt 21/Jan/2014
+\dt 06/Mar/2014
 
 \lx sujez
 \lc
@@ -19532,13 +21175,16 @@ fv:agem: 'to have the agreement'.
 \lf Src
 \lv jez
 \le hand
+\lf Src
+\lv su
+\le one
 \cf
 \ce
 \sd
 \lt one hand
 \mr su-jez
 \bw
-\dt 17/Feb/2014
+\dt 06/Mar/2014
 
 \lx Sujomi
 \lc
@@ -19700,6 +21346,52 @@ stronger but more polite way of saying
 \mr
 \bw
 \dt 25/Feb/2014
+
+\lx |sika
+\lc
+\hm
+\ph
+\ps interj
+\sn 1
+\ge click_click
+\re
+\de 'click click'
+\oe
+\ue
+\ee This is an onomatopoeia representing
+the sound a door knob makes when
+one tries to open a locked door.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge trying_but_failing
+\ge blocked
+\re
+\de
+\oe
+\ue
+\ee It can be used as an ideophone that
+relays the idea that an action is being
+tried, but is somehow blocked, or the
+actor is just failing to accomplish it.
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 08/Sep/2014
 
 \lx |sim
 \lc
@@ -19931,6 +21623,12 @@ growing on a bush, shrub or tree
 \lf Sim
 \lv knamafin
 \le flower
+\lf Spec
+\lv sentalu
+\le rose
+\lf Comp
+\lv lintalu
+\le butterfly
 \lf Gen
 \lv |zenk
 \le large plant
@@ -19943,7 +21641,7 @@ growing on a bush, shrub or tree
 \lt
 \mr
 \bw
-\dt 24/Jan/2014
+\dt 06/Mar/2014
 
 \lx tamik
 \lc
@@ -20702,16 +22400,16 @@ form names of specific types of rooms.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv sfom
+\le flow, current, heavy rain
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 27/Jan/2014
+\dt 16/Dec/2014
 
 \lx tlebe
 \lc
@@ -20827,6 +22525,112 @@ s.o.), to bear (sthg or s.o.)
 \mr
 \bw
 \dt 11/Feb/2014
+
+\lx tneban
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge war
+\ge warfare
+\ge conflict
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge bad_health
+\ge unhealthy
+\re
+\de bad health; also as adj. unhealthy
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv |la
+\le peace, good health
+\cf
+\ce
+\sd
+\sn 3
+\ge damn
+\re
+\de damn, when used adjectivally
+\oe
+\ue Pejorative and somewhat rude.
+Naturally tends to be used only in
+familiar registers.
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\ps interj
+\sn
+\ge damn
+\ge damn_it
+\re
+\de 'damn', 'damn it'
+\oe
+\ue Swear word. Pejorative and somewhat
+rude.
+\ee
+\xv
+\xe
+\lf Src
+\lv tnebo
+\le to hurt, to injure, to damage
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 16/Dec/2014
+
+\lx tnebo
+\lc
+\hm
+\ph
+\ps vt
+\sn
+\ge hurt
+\ge injure
+\ge damage
+\re
+\de to hurt (s.o. or sthg), to injure (s.o. or
+sthg), to damage (sthg)
+\oe Refers to physical damage only.
+\ue
+\ee
+\xv
+\xe
+\lf Nact
+\lv tneban
+\le war, warfare, bad health
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 15/Dec/2014
 
 \lx to
 \lc
@@ -21447,9 +23251,9 @@ the sound of a dog barking.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Nact
+\lv ugenon
+\le big toe, hoof
 \cf
 \ce
 \sd
@@ -21476,7 +23280,7 @@ refer to the steps of a ladder though.
 \lt
 \mr
 \bw
-\dt 11/Feb/2014
+\dt 07/Mar/2014
 
 \lx ugejuge
 \lc
@@ -21559,6 +23363,87 @@ through a list of actions.
 \bw
 \dt 11/Feb/2014
 
+\lx ugenon
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge big_toe
+\ge hoof
+\re
+\de big toe; hoof
+\oe Refers to the big toe of human feet.
+Also used to refer to the hooves of
+large animals, i.e. fv:kit.
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv uge
+\le step
+\lf Gen
+\lv zan
+\le digit, finger, toe
+\cf
+\ce
+\sd
+\lt step artist
+\mr uge-non
+\bw
+\dt 07/Mar/2014
+
+\lx ugo
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge source
+\ge spring
+\ge fountainhead
+\re
+\de
+\oe Refers to the origin of a stream of
+water, i.e. the place that stream
+appears at the surface.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge origin
+\re
+\de
+\oe Refers strictly to concrete origins, i.e.
+locations or items something originates
+from. Never refers to the source of
+abstract items like information.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv |not
+\le source, origin, cornerstone, head
+\lf Cpart
+\lv |za|not
+\le source, origin
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 06/Dec/2014
+
 \lx ugzin
 \lc
 \hm
@@ -21622,9 +23507,10 @@ legs
 \ge close
 \ge near
 \ge nearby
+\ge short
 \re
 \de proximity, short distance, closeness;
-also as adj. close, near, nearby
+also as adj. close, near, nearby, short
 \oe
 \ue
 \ee
@@ -21642,7 +23528,7 @@ also as adj. close, near, nearby
 \lt
 \mr
 \bw
-\dt 31/Jan/2014
+\dt 09/Mar/2014
 
 \lx ukodun
 \lc
@@ -21763,6 +23649,34 @@ consequence
 \mr
 \bw
 \dt 23/Jan/2014
+
+\lx u|nav_kolam
+\lc u|nav kolam
+\hm
+\ph
+\ps exp
+\sn
+\ge therefore
+\ge so
+\ge thus
+\ge for_that_reason
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt so by that
+\mr u|nav ko-lam
+\bw
+\dt 27/Mar/2014
 
 \lx us
 \lc
@@ -22070,13 +23984,17 @@ mentioned, is in the benefactive.
 \ge fantasise
 \ge fantasise_about
 \re
-\de to imagine (sthg), to fantasise (about)
-(sthg)
+\de to imagine (sthg), to fantasise (about
+sthg)
 \oe Usually used with a first person
 subject, much rarer with other persons.
 \ue
 \ee When used in the middle voice, it
-means: 'to get an idea'.
+means: 'to get an idea'. It usually refers
+to possible or at least plausible ideas or
+fantasies. For ideas that are considered
+implausible or impossible, fv:ivalstu|l is
+preferred.
 \xv
 \xe
 \lf Src
@@ -22085,13 +24003,64 @@ means: 'to get an idea'.
 \lf Src
 \lv pinas
 \le to feel, to look
+\lf Sim
+\lv valstul
+\le to dream, to fantasise
 \cf
 \ce
 \sd
 \lt image feel
 \mr va|le-pinas
 \bw
-\dt 11/Feb/2014
+\dt 25/Jul/2014
+
+\lx valstul
+\lc
+\hm
+\ph
+\ps vt
+\sn 1
+\ge dream
+\re
+\de to dream (of sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv va|le
+\le image, idea, fantasy
+\lf Src
+\lv stul
+\le to summon, to call
+\cf
+\ce
+\sd
+\sn 2
+\ge fantasise
+\ge fantasise_about
+\re
+\de to fantasise (about something)
+\oe
+\ue
+\ee Used for truly implausible fantasies, or
+at least ideas that are considered
+implausible or impossible. For ideas
+and fantasies that are in the realm of
+possibilities, fv:ivalpinasi is preferred.
+\xv
+\xe
+\lf Sim
+\lv valpinas
+\le to imagine, to fantasise
+\cf
+\ce
+\sd
+\lt image summon
+\mr va|le-stul
+\bw
+\dt 25/Jul/2014
 
 \lx va|le
 \lc
@@ -22127,13 +24096,16 @@ representation of something.
 \lf Comp
 \lv valpinas
 \le to imagine, to fantasise
+\lf Comp
+\lv valstul
+\le to dream, to fantasise
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 11/Feb/2014
+\dt 15/Jul/2014
 
 \lx veld
 \lc vel(d)
@@ -22213,11 +24185,11 @@ people in a single location
 \lc
 \hm
 \ph
-\ps vi
+\ps n
 \sn
-\ge apologise
+\ge apology
 \re
-\de to apologise
+\de
 \oe
 \ue
 \ee
@@ -22229,11 +24201,11 @@ people in a single location
 \cf
 \ce
 \sd
-\ps n
+\ps vi
 \sn
-\ge apology
+\ge apologise
 \re
-\de
+\de to apologise
 \oe
 \ue
 \ee
@@ -22284,7 +24256,7 @@ person's efforts.
 \lt
 \mr
 \bw
-\dt 11/Feb/2014
+\dt 16/Dec/2014
 
 \lx ve|za
 \lc
@@ -22517,6 +24489,9 @@ elemental concept.
 \lf Spec
 \lv |no
 \le ice
+\lf Spec
+\lv bale
+\le salt water, brine
 \lf Part
 \lv vonsin
 \le water drop
@@ -22526,7 +24501,7 @@ elemental concept.
 \lt
 \mr
 \bw
-\dt 17/Feb/2014
+\dt 30/Nov/2014
 
 \lx Voneden
 \lc
@@ -22689,13 +24664,16 @@ of appropriateness.
 \lf Sim
 \lv uflebe
 \le quality, objective value
+\lf Sim
+\lv gezi
+\le value, worth, usefulness, price
 \cf
 \ce
 \sd
 \lt beauty & ugliness
 \mr vo|sa-slim
 \bw
-\dt 10/Jan/2014
+\dt 04/Mar/2014
 
 \lx vospinas
 \lc
@@ -22873,6 +24851,71 @@ appropriate, fit for purpose, good, nice
 \bw
 \dt 18/Nov/2013
 
+\lx zan
+\lc
+\hm
+\ph
+\ps nc
+\sn
+\ge digit
+\ge finger
+\ge toe
+\re
+\de digit, finger; toe
+\oe This word refers to human fingers and
+toes. It's usually not used with animals,
+unless they have human-like hands
+and/or feet and are considered fv:kit.
+\ue
+\ee As a noun, it generally means 'digit' but
+is commonly used as is to mean
+'finger'. As a counter, it can be used to
+count not only body extremities, but
+also things that naturally appear in
+groups of three or more.
+\xv
+\xe
+\lf Sim
+\lv ipe|lastu|l
+\le indicator, finger
+\lf Deriv
+\lv zanej
+\le finger ring
+\lf Spec
+\lv za|not
+\le thumb
+\lf Spec
+\lv gebezan
+\le forefinger, index finger
+\lf Spec
+\lv zanfin
+\le middle finger
+\lf Spec
+\lv zantel
+\le ring finger
+\lf Spec
+\lv zanmiko
+\le little finger
+\lf Min
+\lv zansin
+\le little finger, little toe
+\lf Spec
+\lv bnamzan
+\le toe
+\lf Spec
+\lv ugenon
+\le big toe, hoof
+\lf Whole
+\lv jez
+\le hand, arm
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 07/Mar/2014
+
 \lx zanej
 \lc
 \hm
@@ -22892,13 +24935,173 @@ fingers
 \lf Syn
 \lv |lajpe|lastu|l
 \le ring
+\lf Src
+\lv zan
+\le digit, finger, toe
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 18/Nov/2013
+\dt 07/Mar/2014
+
+\lx zanfin
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge middle_finger
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv zan
+\le digit, finger, toe
+\lf Src
+\lv fin
+\le top, great height, shallowness
+\cf
+\ce
+\sd
+\lt digit tall
+\mr zan-fin
+\bw
+\dt 07/Mar/2014
+
+\lx zanmiko
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge little_finger
+\ge pinkie
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv zansin
+\le little finger, little toe
+\lf Gen
+\lv zan
+\le digit, finger, toe
+\lf Src
+\lv miko
+\le remoteness, long distance
+\cf
+\ce
+\sd
+\lt digit far
+\mr zan-miko
+\bw
+\dt 07/Mar/2014
+
+\lx zansin
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge little_finger
+\ge pinkie
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Syn
+\lv zanmiko
+\le little finger
+\cf
+\ce
+\sd
+\sn 2
+\ge little_toe
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv zan
+\le digit, finger, toe
+\cf
+\ce
+\sd
+\lt little digit
+\mr zan-sin
+\bw
+\dt 07/Mar/2014
+
+\lx zantel
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge ring_finger
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv zan
+\le digit, finger, toe
+\lf Src
+\lv tel
+\le other, each other, different
+\cf
+\ce
+\sd
+\lt digit other
+\mr zan-tel
+\bw
+\dt 07/Mar/2014
+
+\lx za|not
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge thumb
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Gen
+\lv zan
+\le digit, finger, toe
+\lf Src
+\lv |not
+\le source, origin, cornerstone, head
+\cf
+\ce
+\sd
+\lt digit essential
+\mr zan-|not
+\bw
+\dt 07/Mar/2014
 
 \lx zda
 \lc
@@ -22946,7 +25149,7 @@ mother's side.
 \hm
 \ph
 \ps vt
-\sn
+\sn 1
 \ge follow
 \ge go_after
 \re
@@ -22960,16 +25163,108 @@ continue', or if the action was
 previously stopped 'to resume'.
 \xv
 \xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge move_upstream
+\ge go_upstream
+\ge be_upstream
+\re
+\de to move/go/be upstream (sthg)
+\oe
+\ue
+\ee Maybe the original meaning of this
+verb, it means both 'to move against
+the direction of the flow (of sthg)' and
+'to be situated upstream (of sthg)'.
+\xv
+\xe
 \lf Cpart
 \lv son
-\le to precede, to go before
+\le to precede, to go before, to go
+downstream
+\lf Comp
+\lv zekjem
+\le upstream, journey ahead, future
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 18/Nov/2013
+\dt 10/Mar/2014
+
+\lx zekjem
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge upstream
+\ge upriver
+\re
+\de the upstream part of a river or flow
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge journey_ahead
+\re
+\de journey ahead, the part of a journey
+that is left to be travelled
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge future
+\re
+\de future, the period of time that has not
+happened yet
+\oe
+\ue
+\ee In this sense, it is also used with a time
+phrase as complement to mean 'within'.
+\xv
+\xe
+\lf Ant
+\lv so|nem
+\le downstream, journey travelled, past
+\lf Cpart
+\lv funma|z
+\le present
+\lf Src
+\lv zek
+\le to follow, to go after, to go upstream
+\lf Src
+\lv jem
+\le river, brook
+\cf
+\ce
+\sd
+\lt upstream river
+\mr zek-jem
+\bw
+\dt 11/Dec/2014
 
 \lx zelo
 \lc
@@ -23454,7 +25749,8 @@ up'.
 \ge space
 \re
 \de
-\oe
+\oe Refers to a specific space, but also to
+space in general.
 \ue
 \ee
 \xv
@@ -23487,7 +25783,7 @@ up'.
 \lt
 \mr
 \bw
-\dt 10/Jan/2014
+\dt 10/Mar/2014
 
 \lx zunlafoto
 \lc
@@ -23828,13 +26124,16 @@ meaning.
 \lf Src
 \lv |zaj
 \le start, beginning
+\lf Cpart
+\lv ugo
+\le source, spring, origin
 \cf
 \ce
 \sd
 \lt beginning & source
 \mr |zaj-|not
 \bw
-\dt 11/Feb/2014
+\dt 06/Dec/2014
 
 \lx |zenk
 \lc |zen(k)
@@ -23935,9 +26234,24 @@ rather fuzzy way.
 \hm
 \ph
 \ps n
-\sn
+\sn 1
 \ge mountain
 \ge mount
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge hill
 \re
 \de
 \oe
@@ -23954,7 +26268,53 @@ rather fuzzy way.
 \lt
 \mr
 \bw
-\dt 18/Nov/2013
+\dt 10/Mar/2014
+
+\lx |zip
+\lc
+\hm
+\ph
+\ps vi
+\sn 1
+\ge boil
+\re
+\de to boil
+\oe Used of any kind of liquid, mostly liquid
+mixes, or solids put in liquids, usually in
+the process of preparing it for
+consumption, but not necessarily.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge bake
+\ge cook
+\re
+\de to bake, to cook
+\oe Generally used for preparing food for
+consumption, whenever heat of any
+kind is involved.
+\ue
+\ee
+\xv
+\xe
+\lf Comp
+\lv ba|zip
+\le (table) salt
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 01/Dec/2014
 
 \lx |zu-
 \lc
