@@ -76,20 +76,20 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey puzdul
+\fldPriKey ibzin
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri dukstul
+\fldPri ibo
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri dukstul
+\fldPri ibzin
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 0
-\CaretLineScroll 0
+\CaretLine 34
+\CaretLineScroll 34
 \CaretChar 0
 \+cck 
 \mkrSingleField 1d
@@ -127,8 +127,8 @@
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey fill
-\fldSecKey dukstul
+\fldPriKey air
+\fldSecKey ibo
 \-rec
 \+keySearch 
 \fldPri dimdutun

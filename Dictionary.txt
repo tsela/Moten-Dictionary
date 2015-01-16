@@ -7845,6 +7845,54 @@ and the actual air we breathe.
 \bw
 \dt 10/Jan/2014
 
+\lx ibzin
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge draught
+\ge draft
+\ge current_of_air
+\ge rush_of_air
+\re
+\de draught, draft; current of cool air in a
+confined space or room
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge current
+\ge flow
+\re
+\de current, flow (of air, gas, etc.)
+\oe Used for air flows, flows of other
+gases, as well as other types of flows,
+like electricity. Not used for water or
+other liquid flows.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv sfom
+\le flow, current, heavy rain
+\cf
+\ce
+\sd
+\lt little wind
+\mr ibo-sin
+\bw
+\dt 16/Jan/2015
+
 \lx ifulastu|l
 \lc
 \hm
@@ -16305,6 +16353,37 @@ indicate that they are young.
 \bw
 \dt 31/Jan/2014
 
+\lx oklum
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge lie
+\ge falsehood
+\ge untruth
+\re
+\de lie, falsehood, untruth
+\oe
+\ue
+\ee Basically false information given
+intentionally for the purpose of deceit.
+\xv
+\xe
+\lf Gen
+\lv okne
+\le story, tale
+\lf Src
+\lv luma
+\le falsehood, fiction
+\cf
+\ce
+\sd
+\lt story false
+\mr okne-luma
+\bw
+\dt 06/Jan/2015
+
 \lx okne
 \lc
 \hm
@@ -16326,6 +16405,9 @@ indicate that they are young.
 \lf Min
 \lv oksin
 \le anecdote
+\lf Spec
+\lv oklum
+\le lie, falsehood, untruth
 \lf Comp
 \lv oknese
 \le to recount, to talk about, to discuss, to
@@ -16342,7 +16424,7 @@ debate
 \lt
 \mr
 \bw
-\dt 17/Feb/2014
+\dt 06/Jan/2015
 
 \lx oknese
 \lc
@@ -19855,6 +19937,9 @@ currents.
 \lf Comp
 \lv sfomstul
 \le to pour, to serve
+\lf Cpart
+\lv ibzin
+\le draught, current, flow
 \cf
 \ce
 \sd
@@ -19964,7 +20049,7 @@ things change with time.
 \lt
 \mr
 \bw
-\dt 16/Dec/2014
+\dt 16/Jan/2015
 
 \lx sfomstul
 \lc
