@@ -7873,8 +7873,11 @@ confined space or room
 \ge current
 \ge flow
 \re
-\de current, flow (of air or electricity)
-\oe
+\de current, flow (of air, gas, etc.)
+\oe Used for air flows, flows of other
+gases, as well as other types of flows,
+like electricity. Not used for water or
+other liquid flows.
 \ue
 \ee
 \xv
@@ -25467,8 +25470,10 @@ cessatives.
 \ps vt
 \sn 1
 \ge work_on
+\ge exert_effort_on
 \re
-\de to work on (sthg)
+\de to work on (sthg), to exert effort on
+(sthg)
 \oe
 \ue
 \ee
@@ -25516,7 +25521,7 @@ subject in the instrumental.
 \lt
 \mr
 \bw
-\dt 18/Nov/2013
+\dt 20/Jan/2015
 
 \lx zi|sun
 \lc

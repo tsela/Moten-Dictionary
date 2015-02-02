@@ -5373,7 +5373,7 @@ or group)
 \lv oskana|not
 \le celebration, ceremony
 \lf Comp
-\lv fetstul
+\lv festul
 \le to celebrate, to party
 \cf
 \ce
@@ -5415,7 +5415,7 @@ day
 \lt
 \mr
 \bw French
-\dt 13/Jan/2014
+\dt 02/Feb/2015
 
 \lx Filansi
 \lc
@@ -25470,8 +25470,10 @@ cessatives.
 \ps vt
 \sn 1
 \ge work_on
+\ge exert_effort_on
 \re
-\de to work on (sthg)
+\de to work on (sthg), to exert effort on
+(sthg)
 \oe
 \ue
 \ee
@@ -25519,7 +25521,7 @@ subject in the instrumental.
 \lt
 \mr
 \bw
-\dt 18/Nov/2013
+\dt 20/Jan/2015
 
 \lx zi|sun
 \lc
