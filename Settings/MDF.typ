@@ -1152,7 +1152,7 @@
 \+expSF Standard Format
 \-expSF
 
-\expDefault Moten English Dictionary
+\expDefault Engllish Moten Gloss Index
 \-expset
 \PreventNumbering
 \DisableNumbering

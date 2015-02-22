@@ -1501,16 +1501,46 @@ shine (light) on (sthg)
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv bestul
+\le to gleam, to glitter, to sparkle
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 16/Dec/2014
+\dt 06/Feb/2015
+
+\lx bestul
+\lc
+\hm
+\ph
+\ps vi
+\sn
+\ge gleam
+\ge glitter
+\ge sparkle
+\re
+\de to gleam, to glitter, to sparkle; to reflect
+light
+\oe Refers to things that do not shine on
+their own but reflect light from other
+sources.
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv bem
+\le light, glow, illumination
+\cf
+\ce
+\sd
+\lt light summon
+\mr bem-stul
+\bw
+\dt 06/Feb/2015
 
 \lx be|s
 \lc
@@ -5373,7 +5403,7 @@ or group)
 \lv oskana|not
 \le celebration, ceremony
 \lf Comp
-\lv fetstul
+\lv festul
 \le to celebrate, to party
 \cf
 \ce
@@ -5415,7 +5445,7 @@ day
 \lt
 \mr
 \bw French
-\dt 13/Jan/2014
+\dt 02/Feb/2015
 
 \lx Filansi
 \lc
@@ -24452,13 +24482,49 @@ agrees with the subject in number.
 \lf Sim
 \lv tel
 \le other, each other, different
+\lf Comp
+\lv viksom
+\le freedom, independence
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 25/Feb/2014
+\dt 06/Feb/2015
+
+\lx viksom
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge freedom
+\ge independence
+\ge free
+\ge independent
+\ge unconstrained
+\re
+\de freedom, independence; also as adj.
+free, independent, unconstrained
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv vike
+\le oneself
+\lf Src
+\lv som
+\le fundamental matter, energy, lifeforce
+\cf
+\ce
+\sd
+\lt self energy
+\mr vike-som
+\bw
+\dt 06/Feb/2015
 
 \lx volaj
 \lc

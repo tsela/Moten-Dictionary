@@ -47,7 +47,7 @@
 \+wndlst 
 \+wnd 
 \placement normal -1 -1 0 0 681 0 1362 624
-\z 1
+\z 0
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -76,15 +76,15 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey fet
+\fldPriKey linan
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri lezudati
+\fldPri linan
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri ibzin
+\fldPri avjon
 \MatchWhole
 \match_char p
 \-keyInsert
@@ -97,7 +97,7 @@
 \-wnd
 \+wnd 
 \placement normal -1 -1 0 0 0 0 681 624
-\z 0
+\z 1
 \ViewMarkers
 \ViewFieldNames
 \widthMarkerArea 124
@@ -127,8 +127,8 @@
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey lezudati
-\fldSecKey singing
+\fldPriKey linan
+\fldSecKey bird
 \-rec
 \+keySearch 
 \fldPri dimdutun
