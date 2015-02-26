@@ -1512,6 +1512,9 @@ activities.
 \lf Comp
 \lv bego
 \le light source, lamp
+\lf Comp
+\lv embem
+\le sunshine
 \cf
 \ce
 \sd
@@ -1537,7 +1540,7 @@ shine (light) on (sthg)
 \lt
 \mr
 \bw
-\dt 06/Feb/2015
+\dt 25/Feb/2015
 
 \lx bestul
 \lc
@@ -4618,6 +4621,42 @@ it is said to 'leave'.
 \bw
 \dt 15/Feb/2014
 
+\lx embem
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge sunshine
+\re
+\de
+\oe
+\ue
+\ee It is considered a weather
+phenomenon, and for this reason can
+be used with the verb fv:ivdaj.
+\xv
+\xe
+\lf Cpart
+\lv kelno|se
+\le moonlight
+\lf Src
+\lv eme
+\le sun
+\lf Src
+\lv bem
+\le light, glow, illumination
+\lf Gen
+\lv bolog
+\le weather
+\cf
+\ce
+\sd
+\lt sun light
+\mr eme-bem
+\bw
+\dt 25/Feb/2015
+
 \lx embo
 \lc
 \hm
@@ -4674,6 +4713,9 @@ names.
 \ee
 \xv
 \xe
+\lf Comp
+\lv embem
+\le sunshine
 \lf Gen
 \lv denol
 \le celestial body, astronomical object
@@ -4686,7 +4728,7 @@ names.
 \lt
 \mr
 \bw
-\dt 15/Feb/2014
+\dt 25/Feb/2015
 
 \lx emekel
 \lc
@@ -8727,25 +8769,29 @@ s.o.), to conduct (sthg or s.o.)
 \sd
 \sn 3
 \ge manage
+\ge control
 \re
-\de to manage (sthg or s.o.)
+\de to manage (sthg or s.o.), to control
+(sthg or s.o.)
 \oe
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv plis
+\le to control, to reign, to govern
 \cf
 \ce
 \sd
 \sn 4
 \ge drive
 \ge ride
+\ge operate
 \re
 \de to drive (a vehicle), to ride (a vehicle
-or an animal)
+or an animal), to operate (a
+remote-controlled vehicle)
 \oe
 \ue
 \ee
@@ -8760,7 +8806,7 @@ or an animal)
 \lt
 \mr
 \bw
-\dt 23/Jan/2014
+\dt 26/Feb/2015
 
 \lx i|zevu|z
 \lc
@@ -8803,10 +8849,10 @@ drive a vehicle.
 \cf
 \ce
 \sd
-\lt
-\mr
+\lt guide employee
+\mr i|ze-vu|z
 \bw
-\dt 23/Jan/2014
+\dt 26/Feb/2015
 
 \lx i-_-i
 \lc i- -i
@@ -9791,6 +9837,9 @@ alternatives
 \ee
 \xv
 \xe
+\lf Comp
+\lv kelno|se
+\le moonlight
 \lf Gen
 \lv denol
 \le celestial body, astronomical object
@@ -9800,7 +9849,7 @@ alternatives
 \lt
 \mr
 \bw
-\dt 27/Dec/2013
+\dt 25/Feb/2015
 
 \lx kele
 \lc
@@ -9895,6 +9944,42 @@ alternatives
 \mr
 \bw
 \dt 18/Dec/2014
+
+\lx kelno|se
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge moonlight
+\re
+\de
+\oe
+\ue
+\ee It is considered a weather
+phenomenon, and for this reason can
+be used with the verb fv:ivdaj.
+\xv
+\xe
+\lf Cpart
+\lv embem
+\le sunshine
+\lf Src
+\lv kel
+\le moon
+\lf Src
+\lv no|se
+\le brightness
+\lf Gen
+\lv bolog
+\le weather
+\cf
+\ce
+\sd
+\lt moon brightness
+\mr kel-no|se
+\bw
+\dt 25/Feb/2015
 
 \lx kelsin
 \lc
@@ -15599,6 +15684,9 @@ that north is on one's left side.
 \lf Comp
 \lv no|sezgo
 \le lightning bolt
+\lf Comp
+\lv kelno|se
+\le moonlight
 \cf
 \ce
 \sd
@@ -15625,7 +15713,7 @@ like red.
 \lt
 \mr
 \bw
-\dt 04/Feb/2014
+\dt 25/Feb/2015
 
 \lx no|sezgo
 \lc
@@ -18403,12 +18491,37 @@ starting point for measuring height.
 \lc
 \hm
 \ph
-\ps vi
-\sn
-\ge reign
-\ge rule
+\ps vt
+\sn 1
+\ge control
+\ge be_in_control_of
+\ge master
 \re
-\de to reign, to rule
+\de to control (sthg), to be in control of
+(sthg), to master (sthg)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Sim
+\lv i|ze
+\le to guide, to lead, to drive
+\lf Nact
+\lv plisnon
+\le master
+\cf
+\ce
+\sd
+\sn 2
+\ge reign
+\ge reign_over
+\ge rule
+\ge rule_over
+\ge govern
+\re
+\de to reign over (sthg or s.o.), to rule over
+(sthg or s.o.), to govern (sthg or s.o.)
 \oe
 \ue
 \ee
@@ -18417,13 +18530,16 @@ starting point for measuring height.
 \lf Nact
 \lv plisif
 \le ruler, lord, lady
+\lf Nact
+\lv plizvu|z
+\le governer
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 05/Feb/2014
+\dt 26/Feb/2015
 
 \lx plisif
 \lc
@@ -18443,14 +18559,64 @@ starting point for measuring height.
 \xe
 \lf Src
 \lv plis
-\le to reign, to rule
+\le to control, to reign, to govern
 \cf
 \ce
 \sd
 \lt one who rules
 \mr plis-sif
 \bw
-\dt 05/Feb/2014
+\dt 26/Feb/2015
+
+\lx plisnon
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge master
+\re
+\de master (of a skill)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv plis
+\le to control, to reign, to govern
+\cf
+\ce
+\sd
+\lt control artist
+\mr plis-non
+\bw
+\dt 26/Feb/2015
+
+\lx plizvu|z
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge governer
+\re
+\de governer (of a territory or organisation)
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv plis
+\le to control, to reign, to govern
+\cf
+\ce
+\sd
+\lt rule employee
+\mr plis-vu|z
+\bw
+\dt 26/Feb/2015
 
 \lx pmav
 \lc
