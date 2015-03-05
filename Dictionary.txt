@@ -8803,10 +8803,26 @@ remote-controlled vehicle)
 \cf
 \ce
 \sd
+\sn 5
+\ge act
+\ge behave
+\re
+\de to act, to behave
+\oe When used in the middle voice.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
 \lt
 \mr
 \bw
-\dt 26/Feb/2015
+\dt 05/Mar/2015
 
 \lx i|zevu|z
 \lc
@@ -15062,7 +15078,7 @@ equality
 \ps vt
 \sn
 \ge do
-\ge act
+\ge act_on
 \ge operate
 \ge accomplish
 \re
@@ -15097,7 +15113,7 @@ equality
 \lt
 \mr
 \bw
-\dt 22/Dec/2014
+\dt 05/Mar/2015
 
 \lx nege
 \lc
@@ -21535,6 +21551,55 @@ fv:agem: 'to have the agreement'.
 \mr
 \bw Finnish
 \dt 11/Feb/2014
+
+\lx susu
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge aloneness
+\ge solitude
+\ge alone
+\ge lone
+\ge solitary
+\ge on_one's_own
+\ge by_oneself
+\re
+\de aloneness, solitude; also as adj. lone,
+alone, solitary, by oneself
+\oe
+\ue
+\ee Used in the instrumental to mean "by
+oneself" or "one one's own".
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge isolation
+\ge isolated
+\re
+\de isolation; also as adj. isolated
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt one one
+\mr su-su
+\bw
+\dt 04/Mar/2015
 
 \lx |saa
 \lc

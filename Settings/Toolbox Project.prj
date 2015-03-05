@@ -76,21 +76,21 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey plis
+\fldPriKey i|ze
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri plis
+\fldPri i|ze
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri plisnon
+\fldPri susu
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 0
+\CaretLine 20
 \CaretLineScroll 0
-\CaretChar 0
+\CaretChar 1
 \+cck 
 \mkrSingleField 1d
 \-cck
@@ -127,8 +127,8 @@
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey be_in_control_of
-\fldSecKey plis
+\fldPriKey act
+\fldSecKey i|ze
 \-rec
 \+keySearch 
 \fldPri dimdutun
