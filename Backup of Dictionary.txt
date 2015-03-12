@@ -8803,10 +8803,26 @@ remote-controlled vehicle)
 \cf
 \ce
 \sd
+\sn 5
+\ge act
+\ge behave
+\re
+\de to act, to behave
+\oe When used in the middle voice.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
 \lt
 \mr
 \bw
-\dt 26/Feb/2015
+\dt 05/Mar/2015
 
 \lx i|zevu|z
 \lc
@@ -18533,13 +18549,16 @@ starting point for measuring height.
 \lf Nact
 \lv plizvu|z
 \le governer
+\lf Comp
+\lv plizunla
+\le territory
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 26/Feb/2015
+\dt 09/Mar/2015
 
 \lx plisif
 \lc
@@ -18592,6 +18611,35 @@ starting point for measuring height.
 \mr plis-non
 \bw
 \dt 26/Feb/2015
+
+\lx plizunla
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge territory
+\re
+\de territory; location that is controlled by a
+fv:plisif.
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv plis
+\le to control, to reign, to govern
+\lf Src
+\lv zunla
+\le place, location
+\cf
+\ce
+\sd
+\lt control place
+\mr plis-zunla
+\bw
+\dt 09/Mar/2015
 
 \lx plizvu|z
 \lc
@@ -26151,9 +26199,9 @@ up'.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Comp
+\lv plizunla
+\le territory
 \cf
 \ce
 \sd
@@ -26195,7 +26243,7 @@ space in general.
 \lt
 \mr
 \bw
-\dt 10/Mar/2014
+\dt 09/Mar/2015
 
 \lx zunlafoto
 \lc

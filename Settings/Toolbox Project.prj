@@ -76,21 +76,21 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey i|ze
+\fldPriKey tel
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri i|ze
+\fldPri mung
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri susu
+\fldPri plizunla
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 20
+\CaretLine 0
 \CaretLineScroll 0
-\CaretChar 1
+\CaretChar 0
 \+cck 
 \mkrSingleField 1d
 \-cck
@@ -121,14 +121,14 @@
 \-brf
 \-brflst
 \+ind 
-\mkrPriKey ge
-\srtPriKey English
-\mkrSecKey lx
+\mkrPriKey lx
+\srtPriKey Moten
+\mkrSecKey ge
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey act
-\fldSecKey i|ze
+\fldPriKey mung
+\fldSecKey be_different
 \-rec
 \+keySearch 
 \fldPri dimdutun
