@@ -14594,6 +14594,10 @@ month.
 \lf Sim
 \lv tel
 \le other, each other, different
+\lf Comp
+\lv telmun(g)
+\le to be weird, to be interesting, to be
+funny
 \cf
 \ce
 \sd
@@ -14622,7 +14626,7 @@ way of saying 'no'.
 \lt
 \mr
 \bw
-\dt 25/Feb/2014
+\dt 15/Mar/2015
 
 \lx mut
 \lc
@@ -16296,9 +16300,12 @@ only.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv |notuk
+\le importance, noteworthiness
+\lf Comp
+\lv |notpuz
+\le unimportance, insignificance
 \cf
 \ce
 \sd
@@ -16323,7 +16330,77 @@ large animal.
 \lt
 \mr
 \bw
-\dt 06/Dec/2014
+\dt 13/Mar/2015
+
+\lx |notpuz
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge unimportance
+\ge insignificance
+\ge unimportant
+\ge insignificant
+\re
+\de unimportance, insignificance; also as
+adj. unimportant, insignificant
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv |notuk
+\le importance, noteworthiness
+\lf Src
+\lv |not
+\le source, origin, cornerstone, head
+\lf Src
+\lv puza
+\le hole, gap, emptiness
+\cf
+\ce
+\sd
+\lt cornerstone-lack
+\mr |not-puza
+\bw
+\dt 13/Mar/2015
+
+\lx |notuk
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge importance
+\ge noteworthiness
+\ge important
+\ge noteworthy
+\re
+\de importance, noteworthiness; also as
+adj. important, noteworthy
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv |notpuz
+\le unimportance, insignificance
+\lf Sim
+\lv |not
+\le source, origin, cornerstone, head
+\lf Src
+\lv duki
+\le fullness, completeness
+\cf
+\ce
+\sd
+\lt cornerstone-fullness
+\mr |not-duki
+\bw
+\dt 13/Mar/2015
 
 \lx |nuba
 \lc
@@ -22337,13 +22414,17 @@ predicatively.
 \lf Sim
 \lv mun(g)
 \le to be different, to be wrong
+\lf Comp
+\lv telmun(g)
+\le to be weird, to be interesting, to be
+funny
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 25/Feb/2014
+\dt 15/Mar/2015
 
 \lx telba
 \lc
@@ -22480,6 +22561,67 @@ abbreviation of 'télévision'.
 \mr telga-denol
 \bw
 \dt 17/Feb/2014
+
+\lx telmung
+\lc telmun(g)
+\hm
+\ph
+\ps vi
+\sn 1
+\ge be_strange
+\ge be_weird
+\ge be_curious
+\re
+\de to be strange, to be weird, to be curious
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge be_interesting
+\re
+\de to be interesting
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 3
+\ge be_amusing
+\ge be_funny
+\re
+\de to be amusing, to be funny
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv tel
+\le other, each other, different
+\lf Src
+\lv mun(g)
+\le to be different, to be wrong
+\cf
+\ce
+\sd
+\lt other different
+\mr tel-mun(g)
+\bw
+\dt 15/Mar/2015
 
 \lx temut
 \lc
