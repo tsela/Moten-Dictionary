@@ -4243,7 +4243,9 @@ animal.
 \de flank, side (of a symmetric body or
 object)
 \oe Only used when an object has a clear
-left-right symmetry.
+left-right symmetry, or at least a clear
+front-back orientation (which naturally
+leads to a left-right orientation as well).
 \ue
 \ee
 \xv
@@ -4251,6 +4253,12 @@ left-right symmetry.
 \lf Cpart
 \lv ma|z
 \le (river)bank, edge
+\lf Spec
+\lv elnos(t)
+\le left side, left part
+\lf Spec
+\lv eldel
+\le right side, right part
 \cf
 \ce
 \sd
@@ -4275,7 +4283,46 @@ standpoint
 \lt
 \mr
 \bw
-\dt 12/Dec/2014
+\dt 21/Apr/2015
+
+\lx eldel
+\lc
+\hm
+\ph
+\ps n
+\sn
+\ge right
+\ge right_side
+\ge right_part
+\ge right_flank
+\re
+\de right (side, part, flank)
+\oe Refers to the right part of a body or
+object with a left-right symmetry or
+front-back orientation.
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv tel
+\le other, each other, different
+\lf Cpart
+\lv elnos(t)
+\le left side, left part
+\lf Sim
+\lv jestel
+\le right hand, right arm, right side, south
+\lf Gen
+\lv elbo
+\le rib, flank, side
+\cf
+\ce
+\sd
+\lt side other
+\mr elbo-tel
+\bw
+\dt 21/Apr/2015
 
 \lx elej
 \lc
@@ -4387,6 +4434,42 @@ was not a violent one.
 \mr elej-|zaj-stul
 \bw
 \dt 12/Feb/2014
+
+\lx elnost
+\lc elnos(t)
+\hm
+\ph
+\ps n
+\sn
+\ge left
+\ge left_side
+\ge left_part
+\ge left_flank
+\re
+\de left (side, part, flank)
+\oe Refers to the left part of a body or
+object with a left-right symmetry or
+front-back orientation.
+\ue
+\ee
+\xv
+\xe
+\lf Src
+\lv nos(t)
+\le left hand, left arm, left side, north
+\lf Cpart
+\lv eldel
+\le right side, right part
+\lf Gen
+\lv elbo
+\le rib, flank, side
+\cf
+\ce
+\sd
+\lt side left
+\mr elbo-nos(t)
+\bw
+\dt 21/Apr/2015
 
 \lx elojma
 \lc
@@ -7106,6 +7189,60 @@ for predicate adjectives.
 \bw
 \dt 12/Feb/2014
 
+\lx gilvo
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge head
+\re
+\de head (of a body)
+\oe One of the many words for 'head' in
+Moten, this one usually refers to the
+head of a fv:sponda, i.e. a small animal.
+\ue
+\ee
+\xv
+\xe
+\lf Cpart
+\lv |not
+\le source, origin, cornerstone, head
+\cf
+\ce
+\sd
+\sn 2
+\ge front
+\ge front_side
+\ge front_part
+\ge fore
+\re
+\de front (part), front (side); also as adj.
+front, fore
+\oe Used to refer to the area in front of a
+fv:sponda. It is also used with many
+inanimate objects, especially low
+objects with a natural front-back
+orientation (like trains, cars and boats),
+as well as with queues.
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv kun(v)
+\le bottom, tail, back, queue
+\lf Cpart
+\lv mo|z
+\le chest, belly, front
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 21/Apr/2015
+
 \lx gi|no
 \lc
 \hm
@@ -9377,14 +9514,16 @@ right hand or arm of a person.
 \ge right_side
 \re
 \de right (side)
-\oe Refers strictly to the direction.
+\oe Refers strictly to the direction or at
+least to the area to the left of someone
+or something.
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Sim
+\lv eldel
+\le right side, right part
 \cf
 \ce
 \sd
@@ -9414,7 +9553,7 @@ that south is on one's right side.
 \lt hand other
 \mr jez-tel
 \bw
-\dt 12/Feb/2014
+\dt 21/Apr/2015
 
 \lx jez
 \lc
@@ -11051,6 +11190,81 @@ shade of meaning.
 \mr kun-stul
 \bw
 \dt 11/Feb/2014
+
+\lx kunv
+\lc kun(v)
+\hm
+\ph
+\ps n
+\sn 1
+\ge bottom
+\ge buttocks
+\ge tail
+\re
+\de bottom, buttocks, tail; the back part of
+a body
+\oe Used with fv:sponda, it refers to the
+buttocks or tail of the animal. It is not
+used with fv:kit.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge back
+\ge back_part
+\ge back_side
+\ge behind
+\ge hind
+\ge rear
+\re
+\de back (part), back (side), behind; also as
+adj. back, hind, rear
+\oe Used to refer to the area behind a
+fv:sponda. It is also used with many
+inanimate objects, especially low
+objects with a natural front-back
+orientation (like trains, cars and boats),
+as well as with queues.
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv gilvo
+\le head, front, fore
+\lf Cpart
+\lv |numi
+\le backside, bottom, back, behind
+\cf
+\ce
+\sd
+\sn 3
+\ge queue
+\ge line
+\re
+\de
+\oe
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 21/Apr/2015
 
 \lx lam
 \lc
@@ -14405,6 +14619,64 @@ inanimate object (like a table).
 \bw
 \dt 17/Nov/2013
 
+\lx mo|z
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge chest
+\ge belly
+\re
+\de chest, belly; the front part of a body
+\oe Used with humans and fv:kit, it refers
+to the front part of the body only,
+including with quadrupeds, in which
+case it refers to the part above the
+front legs. It is not used with fv:sponda.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge front
+\ge front_part
+\ge front_side
+\ge fore
+\re
+\de front (part), front (side); also as adj.
+front, fore
+\oe Used to refer to the area in front of a
+person or fv:kit. It is not used with
+fv:sponda, or with most inanimate
+objects, but it is used with a small
+group of inanimate objects, usually tall
+objects with a natural front-back
+orientation (like buildings).
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv |numi
+\le backside, bottom, back, behind
+\lf Cpart
+\lv gilvo
+\le head, front, fore
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 21/Apr/2015
+
 \lx mu
 \lc
 \hm
@@ -14596,7 +14868,8 @@ month.
 \le other, each other, different
 \lf Comp
 \lv telmun(g)
-\le
+\le to be weird, to be interesting, to be
+funny
 \cf
 \ce
 \sd
@@ -15647,14 +15920,16 @@ hand or arm of a person.
 \ge left_side
 \re
 \de left (side)
-\oe Refers strictly to the direction.
+\oe Refers strictly to the direction, or at
+least to the area to the left of someone
+or something.
 \ue
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Comp
+\lv elnos(t)
+\le left side, left part
 \cf
 \ce
 \sd
@@ -15683,7 +15958,7 @@ that north is on one's left side.
 \lt
 \mr
 \bw
-\dt 17/Nov/2013
+\dt 21/Apr/2015
 
 \lx no|se
 \lc
@@ -16320,16 +16595,16 @@ large animal.
 \ee
 \xv
 \xe
-\lf
-\lv
-\le
+\lf Cpart
+\lv gilvo
+\le head, front, fore
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 13/Mar/2015
+\dt 21/Apr/2015
 
 \lx |notpuz
 \lc
@@ -16427,6 +16702,72 @@ adj. important, noteworthy
 \mr
 \bw
 \dt 05/Feb/2014
+
+\lx |numi
+\lc
+\hm
+\ph
+\ps n
+\sn 1
+\ge backside
+\ge back
+\ge bottom
+\ge buttocks
+\ge tail
+\re
+\de back(side), bottom, buttocks, tail; the
+back part of a body
+\oe Used with humans and fv:kit, it refers
+to the back part of the body only
+(including tail for the bipeds that have
+them), including with quadrupeds, in
+which case it refers to the buttocks or
+tail of the animal. It is not used with
+fv:sponda.
+\ue
+\ee
+\xv
+\xe
+\lf
+\lv
+\le
+\cf
+\ce
+\sd
+\sn 2
+\ge back
+\ge back_part
+\ge back_side
+\ge behind
+\ge hind
+\ge rear
+\re
+\de back (part), back (side), behind; also as
+adj. back, hind, rear
+\oe Used to refer to the area behind a
+person or fv:kit. It is not used with
+fv:sponda, or with most inanimate
+objects, but it is used with a small
+group of inanimate objects, usually tall
+objects with a natural front-back
+orientation (like buildings).
+\ue
+\ee
+\xv
+\xe
+\lf Ant
+\lv mo|z
+\le chest, belly, front
+\lf Cpart
+\lv kun(v)
+\le bottom, tail, back, queue
+\cf
+\ce
+\sd
+\lt
+\mr
+\bw
+\dt 21/Apr/2015
 
 \lx o
 \lc

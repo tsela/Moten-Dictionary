@@ -40,7 +40,7 @@
 \-fntMarkers
 \+rundosMarkers 
 \-rundosMarkers
-\placementMain max -32000 -32000 -1 -1 0 0 768 728
+\placementMain max -1 -1 -1 -1 0 0 768 728
 \+dblst 
 
 \+db C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Dictionary.txt
@@ -76,15 +76,15 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey telmung
+\fldPriKey eldel
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri mung
+\fldPri eldel
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri telmung
+\fldPri eldel
 \MatchWhole
 \match_char p
 \-keyInsert
@@ -127,8 +127,8 @@
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey mung
-\fldSecKey be_different
+\fldPriKey eldel
+\fldSecKey right
 \-rec
 \+keySearch 
 \fldPri dimdutun
