@@ -1,6 +1,6 @@
 \+ShProjectSettings 
 \ver 5.0
-\ProgramVersion 1.5.9 Apr 2011
+\ProgramVersion 1.6.1 Jun 2013 for Linux Wine Windows emulator
 \ProjectPath C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Settings\Toolbox Project.prj
 \LockProject 0
 \AutomaticKeyboardSwitching
@@ -76,11 +76,11 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey eldel
-\fldSecKey
+\fldPriKey lin
+\fldSecKey 2
 \-rec
 \+keySearch 
-\fldPri eldel
+\fldPri lin
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -127,8 +127,8 @@
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey eldel
-\fldSecKey right
+\fldPriKey lin
+\fldSecKey know_by_instinct
 \-rec
 \+keySearch 
 \fldPri dimdutun

@@ -972,7 +972,7 @@
 
 \+expMDF Engllish Moten Gloss Index
 \UTF8
-\copyright Â© Copyright 2013 Christophe Grandsire-Koevoets
+\copyright Â© Copyright 2015 Christophe Grandsire-Koevoets
 \EnglishGlossIndex
 \titleEnglishDiglot Moten â—Š English Dictionary
 \titleEnglishTriglot Selaru — English — Indonesian Dictionary
@@ -1027,7 +1027,7 @@
 
 \+expMDF Moten English Dictionary
 \UTF8
-\copyright Â© Copyright 2013 Christophe Grandsire-Koevoets
+\copyright Â© Copyright 2015 Christophe Grandsire-Koevoets
 \titleEnglishDiglot Moten â—Š English Dictionary
 \titleEnglishTriglot Selaru — English — Indonesian Dictionary
 \titleGlossIndexEE English ï¿½ Moten
@@ -1078,6 +1078,11 @@
 \columnSpacing 0.6
 \-rtfPageSetup
 \-expMDF
+
+\+expXML Moten English Dictionary XML Format
+\UTF8
+\exportedFile C:\Apps\Files\Conlanging\Moten\MotenDict.xml
+\-expXML
 
 \+expMDF Multi-Dictionary Formatter
 \UTF8
@@ -1152,7 +1157,7 @@
 \+expSF Standard Format
 \-expSF
 
-\expDefault Engllish Moten Gloss Index
+\expDefault Moten English Dictionary XML Format
 \-expset
 \PreventNumbering
 \DisableNumbering

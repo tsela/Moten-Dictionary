@@ -11800,9 +11800,9 @@ coloured flames and sparks
 \ce
 \sd
 \lt fly fire
-\mr lin1-at
+\mr lin1-at1
 \bw
-\dt 12/Feb/2014
+\dt 08/May/2015
 
 \lx linatoskan
 \lc
@@ -11831,9 +11831,9 @@ main part of the entertainment
 \ce
 \sd
 \lt fly fire event
-\mr lin1-at-oskan
+\mr lin1-at1-oskan
 \bw
-\dt 12/Feb/2014
+\dt 08/May/2015
 
 \lx lintalu
 \lc
@@ -15508,9 +15508,9 @@ mouth, or hands.
 \ce
 \sd
 \lt for seven days
-\mr nege-siz<d>a-n
+\mr nege1-siz<d>a-n
 \bw
-\dt 11/Feb/2014
+\dt 08/May/2015
 
 \lx negipiz
 \lc
