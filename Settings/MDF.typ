@@ -1157,7 +1157,7 @@
 \+expSF Standard Format
 \-expSF
 
-\expDefault Moten English Dictionary XML Format
+\expDefault Moten English Dictionary
 \-expset
 \PreventNumbering
 \DisableNumbering

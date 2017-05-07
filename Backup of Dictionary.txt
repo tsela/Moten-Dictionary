@@ -1,5 +1,4 @@
 \_sh v3.0  231  MDF 4.0
-\_DateStampHasFourDigitYear
 
 \lx a
 \lc
@@ -2198,9 +2197,9 @@ the object is the cause of it.
 \ph
 \ps vi
 \sn
-\ge sit
+\ge sit_down
 \re
-\de to sit
+\de to sit down
 \oe
 \ue
 \ee
@@ -2211,14 +2210,14 @@ the object is the cause of it.
 \le chair
 \lf Comp
 \lv penlabuta
-\le to sit and wait, to be patient
+\le to sit down and wait, to be patient
 \cf
 \ce
 \sd
 \lt
 \mr
 \bw
-\dt 05/Feb/2014
+\dt 07/Jul/2015
 
 \lx buzi
 \lc
@@ -8072,14 +8071,14 @@ and the actual air we breathe.
 \xe
 \lf Src
 \lv buta
-\le to sit
+\le to sit down
 \cf
 \ce
 \sd
-\lt to sit
+\lt to sit down
 \mr i-buta-i
 \bw
-\dt 10/Jan/2014
+\dt 07/Jul/2015
 
 \lx ibzin
 \lc
@@ -11729,7 +11728,7 @@ innate.
 \lt
 \mr
 \bw
-\dt 05/Feb/2014
+\dt 11/May/2015
 
 \lx linan
 \lc
@@ -11831,9 +11830,9 @@ main part of the entertainment
 \ce
 \sd
 \lt fly fire event
-\mr lin1-at-oskan
+\mr lin1-at1-oskan
 \bw
-\dt 12/Feb/2014
+\dt 08/May/2015
 
 \lx lintalu
 \lc
@@ -18668,9 +18667,9 @@ little/few, not enough
 \ph
 \ps vt
 \sn 1
-\ge sit_and_wait_for
+\ge sit_down_and_wait_for
 \re
-\de to sit and wait for (sthg or s.o.)
+\de to sit down and wait for (sthg or s.o.)
 \oe
 \ue
 \ee
@@ -18696,14 +18695,14 @@ little/few, not enough
 \le to wait for, to expect
 \lf Src
 \lv buta
-\le to sit
+\le to sit down
 \cf
 \ce
 \sd
-\lt wait & sit
+\lt wait & sit down
 \mr penla-buta
 \bw
-\dt 05/Feb/2014
+\dt 07/Jul/2015
 
 \lx penlastul
 \lc

@@ -76,11 +76,11 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey lin
-\fldSecKey 2
+\fldPriKey teoluz
+\fldSecKey
 \-rec
 \+keySearch 
-\fldPri lin
+\fldPri teolsif
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -127,8 +127,8 @@
 \fil Content Words
 \-ind
 \+rec 
-\fldPriKey lin
-\fldSecKey know_by_instinct
+\fldPriKey teolsif
+\fldSecKey friend
 \-rec
 \+keySearch 
 \fldPri dimdutun
