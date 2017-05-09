@@ -1,7 +1,7 @@
 \+ShProjectSettings 
 \ver 5.0
 \ProgramVersion 1.6.2 Jul 2015
-\ProjectPath C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Settings\Toolbox Project.prj
+\ProjectPath C:\Users\Christophe.Grandsire\GitHub\Moten-Dictionary\Settings\Toolbox Project.prj
 \LockProject 0
 \AutomaticKeyboardSwitching
 \+CorpusSet 
@@ -15,19 +15,19 @@
 \ConcordanceMaxCount 1000
 \ConcordanceOutput Concordance.db
 \+Corpus Free translation
-\FilesList C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Texts.txt
+\FilesList C:\Users\Christophe.Grandsire\GitHub\Moten-Dictionary\Texts.txt
 \lng English
 \WordMarkers \ft
 \BookMarker \ref
-\WordIndex C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Freetran.wi
+\WordIndex C:\Users\Christophe.Grandsire\GitHub\Moten-Dictionary\Freetran.wi
 \WordListOutput wordlistft.db
 \-Corpus
 \+Corpus Text
-\FilesList C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Texts.txt
+\FilesList C:\Users\Christophe.Grandsire\GitHub\Moten-Dictionary\Texts.txt
 \lng Moten
 \WordMarkers \tx
 \BookMarker \ref
-\WordIndex C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Text.wi
+\WordIndex C:\Users\Christophe.Grandsire\GitHub\Moten-Dictionary\Text.wi
 \WordListOutput wordlist.db
 \-Corpus
 \-CorpusSet
@@ -43,7 +43,7 @@
 \placementMain max -1 -1 -1 -1 0 0 768 728
 \+dblst 
 
-\+db C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Dictionary.txt
+\+db C:\Users\Christophe.Grandsire\GitHub\Moten-Dictionary\Dictionary.txt
 \+wndlst 
 \+wnd 
 \placement normal -1 -1 0 0 681 0 1362 624

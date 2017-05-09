@@ -919,7 +919,7 @@
 \-mkrsubsetIncluded
 \+drflst 
 \+drf 
-\File C:\Apps\Files\Conlanging\Moten\Moten-Dictionary\Dictionary.txt
+\File C:\Users\Christophe.Grandsire\GitHub\Moten-Dictionary\Dictionary.txt
 \mkr lx
 \-drf
 \-drflst
