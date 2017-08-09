@@ -2200,7 +2200,10 @@ the object is the cause of it.
 \ge sit_down
 \re
 \de to sit down
-\oe
+\oe Refers strictly to the action of sitting
+down. To refer to the state of being
+seated, one can use this verb in the
+perfect aspect.
 \ue
 \ee
 \xv

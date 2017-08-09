@@ -12471,7 +12471,10 @@ noun before fv:|ledan. Examples are:
 fv:adamla fv:|ledan: 'happy
 birthday/anniversary', fv:Imonuj fv:
 |ledan: 'happy new year', and fv:Noel
-fv:|ledan: 'merry Christmas'.
+fv:|ledan: 'merry Christmas'. The
+occasion needn't be happy though, and
+the expression is also used for instance
+in condolences.
 \xv
 \xe
 \lf
@@ -12516,7 +12519,7 @@ someone sneezed.
 \lt (have) the peace(ful)
 \mr |l<e><d>a-n
 \bw
-\dt 16/Dec/2014
+\dt 09/Aug/2017
 
 \lx |lemekel
 \lc
